@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-10-28 00:29:05 (UTC)                      #
+# Last updated: 2024-10-28 02:28:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,7 +10,6 @@
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
 127.0.0.1 241024204809193.dmi.fyml86.com
-127.0.0.1 360down7.miiyun.cn
 127.0.0.1 9800540.ru
 127.0.0.1 abc.sdnt.xyz
 127.0.0.1 abissnet.net
@@ -51,6 +50,7 @@
 127.0.0.1 ciscocdn.com
 127.0.0.1 clavity.me
 127.0.0.1 cmgtrading.eu
+127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 comodozeropoint.com
 127.0.0.1 conn.masjesu.zip
@@ -88,7 +88,6 @@
 127.0.0.1 facturation-paiement.com
 127.0.0.1 fallaeltro.es
 127.0.0.1 fetchdesignprint.co.za
-127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 ftp.timeless-tales.shop
@@ -105,6 +104,7 @@
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hydewood.com
+127.0.0.1 ima.dzgsm.com
 127.0.0.1 imtoken8.cc
 127.0.0.1 in-houselegal.ro
 127.0.0.1 ini.sh-pp.com
@@ -113,7 +113,6 @@
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jeffdahlke.com
-127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jtpdev.co.uk
 127.0.0.1 kambud.biz
@@ -154,7 +153,7 @@
 127.0.0.1 powercx1.wetolink.com
 127.0.0.1 protechasia.com
 127.0.0.1 prudentsoftllc.com
-127.0.0.1 qiniuyunxz.yxflzs.com
+127.0.0.1 quiz.bloomingkids.com
 127.0.0.1 raptwinter.shop
 127.0.0.1 raziritop.org
 127.0.0.1 rd.chuitian.cn
@@ -162,7 +161,6 @@
 127.0.0.1 reifenquick.de
 127.0.0.1 reusable-flex.com
 127.0.0.1 sbelegi.com.br
-127.0.0.1 sc.jishousc.shop
 127.0.0.1 search-gld.com
 127.0.0.1 search-jrd.com
 127.0.0.1 search-slv.com
@@ -177,6 +175,7 @@
 127.0.0.1 silinast.ro
 127.0.0.1 simonastolerciuc.ro
 127.0.0.1 sirault.be
+127.0.0.1 soft.110route.com
 127.0.0.1 softcatalog.ru
 127.0.0.1 soportegira.net
 127.0.0.1 sos.vivi.sg
@@ -185,7 +184,6 @@
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 support.clz.kr
-127.0.0.1 taodianla.com
 127.0.0.1 techniguitare.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -194,7 +192,6 @@
 127.0.0.1 therichscents.com
 127.0.0.1 tianyinsoft.top
 127.0.0.1 totalhorsehealth.com
-127.0.0.1 tqshoes.shop
 127.0.0.1 travelwithmanta.co.za
 127.0.0.1 ttykok.320.io
 127.0.0.1 twizt.net
@@ -232,6 +229,7 @@
 127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.soft.lannaoke.com
 127.0.0.1 www.starcountry.net
+127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.technecare.technecare.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
@@ -242,4 +240,4 @@
 127.0.0.1 yp.hnggzyjy.cn
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 236
+# Number of entries: 234
