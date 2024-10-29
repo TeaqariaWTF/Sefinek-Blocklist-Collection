@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024102801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024102901 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -83155,6 +83155,8 @@ shotcallerpress.com CNAME .
 *.shotcallerpress.com CNAME .
 shoturl.top CNAME .
 *.shoturl.top CNAME .
+should.mask-my.id CNAME .
+*.should.mask-my.id CNAME .
 shoulderiu.com CNAME .
 *.shoulderiu.com CNAME .
 shouldmail.xyz CNAME .
