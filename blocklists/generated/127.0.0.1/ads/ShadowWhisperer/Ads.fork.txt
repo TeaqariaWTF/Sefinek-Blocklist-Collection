@@ -2,7 +2,7 @@
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
 # Domains: 19,881
-# Updated: 11/1/2024  16:09 (4:09 PM CST)
+# Updated: 11/3/2024  14:27 (2:27 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -8105,7 +8105,6 @@
 127.0.0.1 c3medianetwork.com
 127.0.0.1 c3s.bionestraff.pro
 127.0.0.1 c683207.ssl.cf2.rackcdn.com
-127.0.0.1 c6.patreon.com
 127.0.0.1 c8.net.ua
 127.0.0.1 c9w.net
 127.0.0.1 cablato.com
@@ -19201,6 +19200,7 @@
 127.0.0.1 widget.intercom.io
 127.0.0.1 widget.justwatch.com
 127.0.0.1 widget.kompas.com
+127.0.0.1 widgetlogic.org
 127.0.0.1 widget.mitegyek.com
 127.0.0.1 widget.niedziela.pl
 127.0.0.1 widget.packeta.com
