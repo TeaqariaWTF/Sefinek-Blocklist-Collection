@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-04 14:04:06 (UTC)                      #
+# Last updated: 2024-11-04 16:04:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -25,10 +25,13 @@
 0.0.0.0 aoesync.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 ap-0182.cfd
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.hostize.com
 0.0.0.0 apitradingview.com
 0.0.0.0 apslline.com
 0.0.0.0 arcsystem.rodopibg.net
+0.0.0.0 arza.us
+0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 babaszepsegverseny.hu
@@ -64,11 +67,9 @@
 0.0.0.0 crystalpvp.ru
 0.0.0.0 dailyfragrancedeals.com
 0.0.0.0 data.yhydl.com
-0.0.0.0 defgyma.com
 0.0.0.0 detail-booking.com.br
 0.0.0.0 deushack.site
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 diclegrup.org
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
@@ -116,6 +117,7 @@
 0.0.0.0 geocs.mx
 0.0.0.0 goninvoicceme.shop
 0.0.0.0 gosp.davidmolins.com
+0.0.0.0 gosp.xaman.es
 0.0.0.0 hailcocks.ru
 0.0.0.0 hdlclub2.cc
 0.0.0.0 hitman-pro.ru
@@ -123,7 +125,6 @@
 0.0.0.0 hlduplooyplant.co.za
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
-0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
@@ -132,6 +133,7 @@
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jtpdev.co.uk
 0.0.0.0 karer.by
@@ -161,6 +163,7 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 mycocojamboo.com
 0.0.0.0 namthaibinh.net
+0.0.0.0 nbowling.com
 0.0.0.0 newvideo.link
 0.0.0.0 nmtsocial.uno
 0.0.0.0 noithaticon.vn
@@ -182,7 +185,6 @@
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
-0.0.0.0 powercx1.wetolink.com
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 ranchoboscardin.com.br
@@ -208,9 +210,9 @@
 0.0.0.0 sirault.be
 0.0.0.0 skynetx.com.br
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
+0.0.0.0 sosipisos2.site
 0.0.0.0 soyjak.cafe
 0.0.0.0 soyjak.download
 0.0.0.0 spaceframe.mobi.space-frame.co.za
@@ -219,10 +221,9 @@
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sunny-lai.com
-0.0.0.0 support.clz.kr
 0.0.0.0 sw.lifeboxtransfer.com
+0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
-0.0.0.0 tecunonline.com
 0.0.0.0 telegracxm.top
 0.0.0.0 telegracxn.top
 0.0.0.0 telegram-app.vip
@@ -236,6 +237,7 @@
 0.0.0.0 tmhacks22.xyz
 0.0.0.0 tokospoccket.com
 0.0.0.0 trackmyshiptng.site
+0.0.0.0 transfer.adttemp.com.br
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 twizt.net
 0.0.0.0 unicorpbrunei.com
@@ -243,6 +245,7 @@
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 upload.vina-host.com
+0.0.0.0 utorrent-backup-server.top
 0.0.0.0 valseg.com.br
 0.0.0.0 vantrong.id.vn
 0.0.0.0 vinsaca.com
@@ -252,7 +255,6 @@
 0.0.0.0 vptriathloninc.com
 0.0.0.0 wanfreeprogram.shop
 0.0.0.0 wasni.care
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atordeg.com.br
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -298,5 +300,6 @@
 0.0.0.0 zh.seacdndown.com
 0.0.0.0 zh.toknnpocket.pro
 0.0.0.0 zibll.8899006.net
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
-# Number of entries: 293
+# Number of entries: 296
