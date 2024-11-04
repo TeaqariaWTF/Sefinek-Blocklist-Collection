@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-04 19:56:25 (UTC)                      #
+# Last updated: 2024-11-04 21:59:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -25,6 +25,7 @@
 0.0.0.0 aoesync.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 ap-0182.cfd
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.hostize.com
 0.0.0.0 apitradingview.com
 0.0.0.0 apslline.com
@@ -36,14 +37,13 @@
 0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 bahrabeauty.com
 0.0.0.0 becreativemind.com
+0.0.0.0 bestmagazineforanimalsunicum.ru
 0.0.0.0 bitkiselurunsiparis.com
-0.0.0.0 blaconmachine.com
 0.0.0.0 bot.haluodq.cc
 0.0.0.0 bsjsjkskd.org.uk
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 cajgtus.com
 0.0.0.0 canlishowcum.com
-0.0.0.0 cars2024.online
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.abz.lol
@@ -52,6 +52,7 @@
 0.0.0.0 clavity.me
 0.0.0.0 clickette.net
 0.0.0.0 cmgtrading.eu
+0.0.0.0 cnc.carteldesinaloa.ru
 0.0.0.0 cnc.ghtyuio.online
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -84,6 +85,7 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.cdn-serveri6881-ns.shop
+0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
 0.0.0.0 download.wsconnect.org
 0.0.0.0 dukastotranza.click
@@ -104,6 +106,7 @@
 0.0.0.0 fiestagrandefm.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
+0.0.0.0 files.eye-network.ru
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 firstviewautoservice.com
 0.0.0.0 ftp.ywxww.net
@@ -117,7 +120,6 @@
 0.0.0.0 gosp.xaman.es
 0.0.0.0 hailcocks.ru
 0.0.0.0 hdlclub2.cc
-0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hlduplooyplant.co.za
 0.0.0.0 hoteltoscanaplaza.com.co
@@ -162,6 +164,7 @@
 0.0.0.0 newshostingsupdate.com
 0.0.0.0 newvideo.link
 0.0.0.0 nmtsocial.uno
+0.0.0.0 noithaticon.vn
 0.0.0.0 o0s.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 omegaarea.site
@@ -171,7 +174,9 @@
 0.0.0.0 ouauooaoaoeeutr.io
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panel.mrgarabato.com
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
+0.0.0.0 parquelosencinos.cl
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 payhostmsa.shop
 0.0.0.0 pb.agnt.ru
@@ -197,6 +202,7 @@
 0.0.0.0 server.myway-ing.win
 0.0.0.0 server3.eye-network.ru
 0.0.0.0 server4.eye-network.ru
+0.0.0.0 server5.eye-network.ru
 0.0.0.0 shippingalerts.online
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sianikeres.com
@@ -216,7 +222,6 @@
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sunny-lai.com
-0.0.0.0 support.clz.kr
 0.0.0.0 sw.lifeboxtransfer.com
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
@@ -252,7 +257,6 @@
 0.0.0.0 vptriathloninc.com
 0.0.0.0 wanfreeprogram.shop
 0.0.0.0 wasni.care
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
@@ -263,6 +267,7 @@
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hercvlesconcrete.com
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.jd-shop77.com
 0.0.0.0 www.kailabeachhotel.com
 0.0.0.0 www.luxurypropertiesfl.com
@@ -271,7 +276,6 @@
 0.0.0.0 www.neklatek.com
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.newshostingsupdate.com
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.ranchoboscardin.com.br
@@ -287,13 +291,12 @@
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 xkobeimparatu.net
 0.0.0.0 yuqnq.range.cccinvolve.org
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 zh.seacdndown.com
 0.0.0.0 zh.toknnpocket.pro
 0.0.0.0 zibll.8899006.net
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
-# Number of entries: 290
+# Number of entries: 293
