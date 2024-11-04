@@ -1,9 +1,9 @@
-# Version: 202411040007
+# Version: 202411040207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 135351
-# Last modified: 2024-11-04T00:07:21+0000
+! Entries: 135319
+# Last modified: 2024-11-04T02:07:04+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -8645,6 +8645,7 @@
 127.0.0.1 ads-d.viber.com
 127.0.0.1 ads-delivery.b-cdn.net
 127.0.0.1 ads-delivery.gameforge.com
+127.0.0.1 ads-delivery.gunosy.com
 127.0.0.1 ads-delivery.milenarmedia.pt
 127.0.0.1 ads-den-nfl.yinzcam.com
 127.0.0.1 ads-dev.pinterest.com
@@ -15876,7 +15877,6 @@
 127.0.0.1 app.5211game.com
 127.0.0.1 app.agent.yunfancdn.com
 127.0.0.1 app.airtrack.jp
-127.0.0.1 app.amazon-line.com
 127.0.0.1 app.aplus.pptv.com
 127.0.0.1 app.ardalio.com
 127.0.0.1 app.buenosocial.club
@@ -19840,7 +19840,6 @@
 127.0.0.1 bank.charity
 127.0.0.1 bank.si
 127.0.0.1 bank247quocte-westernunion.weebly.com
-127.0.0.1 bankamp8.beget.tech
 127.0.0.1 bankandara.co.id
 127.0.0.1 bankcretriam.flu.cc
 127.0.0.1 banke.info
@@ -19875,7 +19874,6 @@
 127.0.0.1 bankofamerica30.wecom.work
 127.0.0.1 bankofamericacom.vpstrust.com
 127.0.0.1 bankofamericahfd.serveirc.com
-127.0.0.1 bankofamerican.cn
 127.0.0.1 bankofamerjca.com
 127.0.0.1 bankofamerkca.com
 127.0.0.1 bankofamerlca.info
@@ -24395,7 +24393,6 @@
 127.0.0.1 brandiyoung.com
 127.0.0.1 brandl-transporte.at
 127.0.0.1 brandlabs.ai
-127.0.0.1 brandley.fr
 127.0.0.1 brandmed.ru
 127.0.0.1 brandmetrics.com
 127.0.0.1 brandmuscleinstantimpact.112.2o7.net
@@ -26001,7 +25998,6 @@
 127.0.0.1 c5.statcounter.com
 127.0.0.1 c53b96fd6b.d03dbe8a1b.com
 127.0.0.1 c5694c3c56.com
-127.0.0.1 c56e9a74e0.com
 127.0.0.1 c57bd95239.75cbb85265.com
 127.0.0.1 c5cdfd1601.com
 127.0.0.1 c5corvettewheels.com
@@ -32617,7 +32613,6 @@
 127.0.0.1 control.tvinteractive.tv
 127.0.0.1 control2-8dd4d.firebaseapp.com
 127.0.0.1 control2.tvinteractive.tv
-127.0.0.1 controlboxx2013.com
 127.0.0.1 controlcola.com
 127.0.0.1 controle-ticket.fr
 127.0.0.1 controle-transaction.fr
@@ -40792,7 +40787,6 @@
 127.0.0.1 donkey.masteringfinland.com
 127.0.0.1 donkey.the3rd.place
 127.0.0.1 donkstar2.online
-127.0.0.1 donlodape2.click
 127.0.0.1 donlucifergames.com
 127.0.0.1 donmainchech54.web.app
 127.0.0.1 donmainchech665.web.app
@@ -53072,7 +53066,6 @@
 127.0.0.1 gestionprimevid.fr
 127.0.0.1 gestionprimevideo.fr
 127.0.0.1 gestionvidprime.fr
-127.0.0.1 gestopa.top
 127.0.0.1 gesundefette.com
 127.0.0.1 gesunder-mann.com.de
 127.0.0.1 gesundheits-zentrum-bad-waldliesborn.de
@@ -64214,7 +64207,6 @@
 127.0.0.1 istsoft.com.tr
 127.0.0.1 istudio.kz
 127.0.0.1 isuiguk.cn
-127.0.0.1 isuretmanful.com
 127.0.0.1 isvbr.net
 127.0.0.1 isw.yt
 127.0.0.1 isweb.no
@@ -68539,7 +68531,6 @@
 127.0.0.1 ktnwxhjv.xyz
 127.0.0.1 ktoioo.xyz
 127.0.0.1 ktpcsqnij.com
-127.0.0.1 ktqiyjojiya.com
 127.0.0.1 ktrackdata.com
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 ktureukworekto.com
@@ -72987,7 +72978,6 @@
 127.0.0.1 lori-rebecca.us
 127.0.0.1 lorisd.top
 127.0.0.1 lornhub.info
-127.0.0.1 loronghijau.org
 127.0.0.1 lorriratzlaff.com
 127.0.0.1 lorswhowishe.com
 127.0.0.1 lorybnfh.com
@@ -74810,7 +74800,6 @@
 127.0.0.1 maldini.xyz
 127.0.0.1 maleatetannaic.shop
 127.0.0.1 maleedgewebsite.com
-127.0.0.1 malehealthco.com
 127.0.0.1 maleliteral.com
 127.0.0.1 malelocated.com
 127.0.0.1 malerei-roli.at
@@ -76138,7 +76127,6 @@
 127.0.0.1 mdphenligne.fr
 127.0.0.1 mdpparents.112.2o7.net
 127.0.0.1 mdsahkln.xyz
-127.0.0.1 mdsef.xyz
 127.0.0.1 mdsloans.co.za
 127.0.0.1 mdstats.info
 127.0.0.1 mdstaugustine.112.2o7.net
@@ -76718,7 +76706,6 @@
 127.0.0.1 melaninclassics.com
 127.0.0.1 melanintee.com
 127.0.0.1 melanomatreatment.live
-127.0.0.1 melanomaweb.com
 127.0.0.1 melbouqueterie.com
 127.0.0.1 melchen-testet.at
 127.0.0.1 melhoresdasemana.com.br
@@ -76797,7 +76784,6 @@
 127.0.0.1 memoryloader.com
 127.0.0.1 memorymusk.com
 127.0.0.1 memost.ru
-127.0.0.1 memrise.ga
 127.0.0.1 men-finder.life
 127.0.0.1 men-jk.com
 127.0.0.1 menacehabit.com
@@ -85924,7 +85910,6 @@
 127.0.0.1 ojlyfans.com
 127.0.0.1 ojm9nr.shet.eveshamairporttransfers.co.uk
 127.0.0.1 ojmvywz.com
-127.0.0.1 ojngf.xyz
 127.0.0.1 ojoglir.com
 127.0.0.1 ojoodoaptouz.com
 127.0.0.1 ojpem.com
@@ -86165,7 +86150,6 @@
 127.0.0.1 olq18dx1t.com
 127.0.0.1 olt-media.ro
 127.0.0.1 olt-nw.com
-127.0.0.1 oltcneutwheoioo.xyz
 127.0.0.1 oltenia-actualitati.ro
 127.0.0.1 oluchi.ddns.net
 127.0.0.1 olukai-france.fr
@@ -86588,7 +86572,6 @@
 127.0.0.1 online-flirten.de
 127.0.0.1 online-flirttipps.de
 127.0.0.1 online-forex-trading-systems.blogspot.com
-127.0.0.1 online-health.ru
 127.0.0.1 online-hmrc.com
 127.0.0.1 online-liebestest.de
 127.0.0.1 online-medicijn.com
@@ -87658,7 +87641,6 @@
 127.0.0.1 oshoforge.com
 127.0.0.1 oshoo.iptvdeals.com
 127.0.0.1 oshoothoolo.com
-127.0.0.1 oshu.ru
 127.0.0.1 osihi.store
 127.0.0.1 osinoco.com
 127.0.0.1 osir-zoliborz.waw.pl
@@ -88515,7 +88497,6 @@
 127.0.0.1 pa5xjc.m1guelpf.me
 127.0.0.1 pa6ypal.com
 127.0.0.1 pa7i.in
-127.0.0.1 paadasala.com.au
 127.0.0.1 paaginebianche.it
 127.0.0.1 paarsvc.com
 127.0.0.1 paaypal.org
@@ -92297,7 +92278,6 @@
 127.0.0.1 podefr.net
 127.0.0.1 poder.kozow.com
 127.0.0.1 podermaximo.com.br
-127.0.0.1 podescf.top
 127.0.0.1 podmoskovnaya-riviera.ru
 127.0.0.1 podnhub.net
 127.0.0.1 podnhub.org
@@ -96249,7 +96229,6 @@
 127.0.0.1 qcohkm.xyz
 127.0.0.1 qcon.co.za
 127.0.0.1 qcotzalsettiv.com
-127.0.0.1 qcsjmidihe.com
 127.0.0.1 qcsvku.xyz
 127.0.0.1 qctop.com
 127.0.0.1 qctt24h.24h.com.vn
@@ -101893,7 +101872,6 @@
 127.0.0.1 s3-nato.cloud
 127.0.0.1 s3-nsa.cloud
 127.0.0.1 s3-proofpoint.cloud
-127.0.0.1 s3-ucia.cloud
 127.0.0.1 s3.cnzz.com
 127.0.0.1 s3.mobile.val.jp
 127.0.0.1 s3.sitepoint.com
@@ -108596,7 +108574,6 @@
 127.0.0.1 soboro.uk.com
 127.0.0.1 sobot.com
 127.0.0.1 sobrilleverandoridanmark.wordpress.com
-127.0.0.1 socalledscanty.com
 127.0.0.1 socalpeaks.com
 127.0.0.1 socamil-eleclerc.fr
 127.0.0.1 soccerarmor.com
@@ -110936,7 +110913,6 @@
 127.0.0.1 statedrugs.com
 127.0.0.1 statedthoughtslave.com
 127.0.0.1 statefarmz.us
-127.0.0.1 statefinancebank.com
 127.0.0.1 statehistoric.com
 127.0.0.1 statelinear.com
 127.0.0.1 statementsheep.com
@@ -113422,7 +113398,6 @@
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 supportmozilla.org
 127.0.0.1 supportmym.fr
-127.0.0.1 supportnows.cfd
 127.0.0.1 supportorange.fr
 127.0.0.1 supportqalam.com
 127.0.0.1 supportrelayapp.info
@@ -118570,7 +118545,6 @@
 127.0.0.1 topemo.com
 127.0.0.1 topeni-vlcek.cz
 127.0.0.1 topernews.me
-127.0.0.1 topetipeo.cyou
 127.0.0.1 topfastmarketing.com
 127.0.0.1 topfaststartup.com.de
 127.0.0.1 topfbcheats.com
@@ -120945,7 +120919,6 @@
 127.0.0.1 trulychoose.com
 127.0.0.1 trulydevotionceramic.com
 127.0.0.1 trulysuitedcharges.com
-127.0.0.1 trulyunderestimatediscard.com
 127.0.0.1 trumbem.com
 127.0.0.1 trumixes.com
 127.0.0.1 trummomo.com
@@ -121167,7 +121140,6 @@
 127.0.0.1 ttleboywhowascryin.com
 127.0.0.1 ttlm.cc
 127.0.0.1 ttlowe.com
-127.0.0.1 ttlxns.cfd
 127.0.0.1 ttmetrics.jcpenney.com
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttnet.yandex.com.tr
@@ -125615,7 +125587,6 @@
 127.0.0.1 victoriasecret.fr
 127.0.0.1 victoriazenoff.com
 127.0.0.1 victoriousrequest.com
-127.0.0.1 victorts.top
 127.0.0.1 victory.cnn.com
 127.0.0.1 victory.com.pl
 127.0.0.1 victorycuts.com
@@ -128561,7 +128532,6 @@
 127.0.0.1 westdy.com
 127.0.0.1 western-unions24h.weebly.com
 127.0.0.1 westernart.store
-127.0.0.1 westernautoweb.duckdns.org
 127.0.0.1 westernbank.vn
 127.0.0.1 westerneunion.com
 127.0.0.1 westernfbk.com
@@ -131982,7 +131952,6 @@
 127.0.0.1 xn--cabaa-fta.fr
 127.0.0.1 xn--canardenchain-nhb.fr
 127.0.0.1 xn--capsant-hya.fr
-127.0.0.1 xn--carte-vtale-6cb.fr
 127.0.0.1 xn--chatpt-sbc.com
 127.0.0.1 xn--chaussures-mrinos-mtb.fr
 127.0.0.1 xn--cibtp-mditerrane-hqbi.fr
@@ -132972,7 +132941,6 @@
 127.0.0.1 yehangwatch.online
 127.0.0.1 yehcp.com
 127.0.0.1 yehuitudu.cn
-127.0.0.1 yekbux.com
 127.0.0.1 yekdaryek.ir
 127.0.0.1 yekmas.tripod.com
 127.0.0.1 yekna.com
