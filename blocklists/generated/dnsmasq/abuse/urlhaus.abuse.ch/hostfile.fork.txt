@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-04 10:04:20 (UTC)                      #
+# Last updated: 2024-11-04 12:07:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/059879e5-b2e8-4f58-aa46-95f69d92aa34.random.alphalaureate.com/
+server=/1.0x004.top/
 server=/123.ywxww.net/
 server=/1717.1000uc.com/
 server=/2.haory.cn/
@@ -32,6 +33,7 @@ server=/apslline.com/
 server=/arcsystem.rodopibg.net/
 server=/arza.us/
 server=/aulist.com/
+server=/avastpx.com/
 server=/babaszepsegverseny.hu/
 server=/bahrabeauty.com/
 server=/becreativemind.com/
@@ -61,9 +63,9 @@ server=/cosdfdfrefdch.best/
 server=/cot.our.openarmscv.org/
 server=/courtage-psd.com/
 server=/creainovada.xyz/
-server=/crystalpvp.ru/
 server=/dailyfragrancedeals.com/
 server=/data.yhydl.com/
+server=/defgyma.com/
 server=/detail-booking.com.br/
 server=/deushack.site/
 server=/dhnconstrucciones.com.ar/
@@ -104,6 +106,7 @@ server=/fallaeltro.es/
 server=/fetchdesignprint.co.za/
 server=/fiestagrandefm.com/
 server=/file.blackint3.com/
+server=/file.edunet.ac/
 server=/files5.uludagbilisim.com/
 server=/firstviewautoservice.com/
 server=/ftp.alphaglobal.pt/
@@ -169,7 +172,6 @@ server=/omegaarea.site/
 server=/omnicom.fr/
 server=/onemk3.teracomm.mk/
 server=/osecweb.ir/
-server=/osteo9.esalnuvol.com/
 server=/ouauooaoaoeeutr.io/
 server=/palharesinformatica.com.br/
 server=/panel.mrgarabato.com/
@@ -180,7 +182,6 @@ server=/passagetoeastafrica.com/
 server=/payhostmsa.shop/
 server=/pb.agnt.ru/
 server=/perfectperu.com/
-server=/perseverclinic.com/
 server=/pid.fly160.com/
 server=/pns.org.pk/
 server=/powercx1.wetolink.com/
@@ -256,7 +257,6 @@ server=/vonhelmsgrouped.org/
 server=/vptriathloninc.com/
 server=/wanfreeprogram.shop/
 server=/wasni.care/
-server=/www.aqianniao.com/
 server=/www.atordeg.com.br/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
@@ -271,6 +271,7 @@ server=/www.globallaborsupply.com/
 server=/www.hercvlesconcrete.com/
 server=/www.hseda.com/
 server=/www.ingonherbal.com/
+server=/www.jd-shop77.com/
 server=/www.kailabeachhotel.com/
 server=/www.luxurypropertiesfl.com/
 server=/www.manjeetsteelproductions.com/
@@ -293,7 +294,6 @@ server=/wynecare.com/
 server=/xemhang.vn/
 server=/xiangshunjy.com/
 server=/xkobeimparatu.net/
-server=/y.shavsl.com/
 server=/yuqnq.range.cccinvolve.org/
 server=/ywxww.net/
 server=/yzkzixun.com/

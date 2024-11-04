@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 059879e5-b2e8-4f58-aa46-95f69d92aa34.random.alphalaureate.com CNAME .
 *.059879e5-b2e8-4f58-aa46-95f69d92aa34.random.alphalaureate.com CNAME .
+1.0x004.top CNAME .
+*.1.0x004.top CNAME .
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
@@ -53,6 +55,8 @@ arza.us CNAME .
 *.arza.us CNAME .
 aulist.com CNAME .
 *.aulist.com CNAME .
+avastpx.com CNAME .
+*.avastpx.com CNAME .
 babaszepsegverseny.hu CNAME .
 *.babaszepsegverseny.hu CNAME .
 bahrabeauty.com CNAME .
@@ -111,12 +115,12 @@ courtage-psd.com CNAME .
 *.courtage-psd.com CNAME .
 creainovada.xyz CNAME .
 *.creainovada.xyz CNAME .
-crystalpvp.ru CNAME .
-*.crystalpvp.ru CNAME .
 dailyfragrancedeals.com CNAME .
 *.dailyfragrancedeals.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
+defgyma.com CNAME .
+*.defgyma.com CNAME .
 detail-booking.com.br CNAME .
 *.detail-booking.com.br CNAME .
 deushack.site CNAME .
@@ -197,6 +201,8 @@ fiestagrandefm.com CNAME .
 *.fiestagrandefm.com CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
+file.edunet.ac CNAME .
+*.file.edunet.ac CNAME .
 files5.uludagbilisim.com CNAME .
 *.files5.uludagbilisim.com CNAME .
 firstviewautoservice.com CNAME .
@@ -327,8 +333,6 @@ onemk3.teracomm.mk CNAME .
 *.onemk3.teracomm.mk CNAME .
 osecweb.ir CNAME .
 *.osecweb.ir CNAME .
-osteo9.esalnuvol.com CNAME .
-*.osteo9.esalnuvol.com CNAME .
 ouauooaoaoeeutr.io CNAME .
 *.ouauooaoaoeeutr.io CNAME .
 palharesinformatica.com.br CNAME .
@@ -349,8 +353,6 @@ pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 perfectperu.com CNAME .
 *.perfectperu.com CNAME .
-perseverclinic.com CNAME .
-*.perseverclinic.com CNAME .
 pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
 pns.org.pk CNAME .
@@ -501,8 +503,6 @@ wanfreeprogram.shop CNAME .
 *.wanfreeprogram.shop CNAME .
 wasni.care CNAME .
 *.wasni.care CNAME .
-aqianniao.com CNAME .
-*.aqianniao.com CNAME .
 atordeg.com.br CNAME .
 *.atordeg.com.br CNAME .
 beiletoys.com CNAME .
@@ -525,6 +525,8 @@ hercvlesconcrete.com CNAME .
 *.hercvlesconcrete.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
+jd-shop77.com CNAME .
+*.jd-shop77.com CNAME .
 kailabeachhotel.com CNAME .
 *.kailabeachhotel.com CNAME .
 luxurypropertiesfl.com CNAME .
@@ -563,8 +565,6 @@ xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 xkobeimparatu.net CNAME .
 *.xkobeimparatu.net CNAME .
-y.shavsl.com CNAME .
-*.y.shavsl.com CNAME .
 yuqnq.range.cccinvolve.org CNAME .
 *.yuqnq.range.cccinvolve.org CNAME .
 ywxww.net CNAME .
