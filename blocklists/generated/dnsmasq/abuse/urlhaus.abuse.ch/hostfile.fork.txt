@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-05 02:23:09 (UTC)                      #
+# Last updated: 2024-11-05 04:04:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,10 +30,10 @@ server=/arcsystem.rodopibg.net/
 server=/arza.us/
 server=/asianchow.com/
 server=/aulist.com/
+server=/avastop.com/
 server=/avastpx.com/
 server=/babaszepsegverseny.hu/
 server=/bahrabeauty.com/
-server=/bbos.eye-network.ru/
 server=/bestmagazineforanimalsunicum.ru/
 server=/bitkiselurunsiparis.com/
 server=/bot.haluodq.cc/
@@ -51,7 +51,6 @@ server=/cnc.carteldesinaloa.ru/
 server=/cnc.ghtyuio.online/
 server=/coach.028csc.com/
 server=/coadymarine.com/
-server=/coindiscussion.net/
 server=/conn.masjesu.zip/
 server=/crystalpvp.ru/
 server=/dailyfragrancedeals.com/
@@ -70,6 +69,7 @@ server=/dow.andylab.cn/
 server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
+server=/down.qqfarmer.com.cn/
 server=/download.caihong.com/
 server=/download.cdn-serveri6881-ns.shop/
 server=/download.suxiazai.com/
@@ -187,6 +187,8 @@ server=/sirault.be/
 server=/skynetx.com.br/
 server=/smithpropertysolutions.com/
 server=/soft.110route.com/
+server=/softcatalog.ru/
+server=/soportegira.net/
 server=/sos.vivi.sg/
 server=/sosipisos2.site/
 server=/soyjak.download/
@@ -220,6 +222,7 @@ server=/upload.vina-host.com/
 server=/valseg.com.br/
 server=/vold.pcspeedcat.com/
 server=/vonhelmsgrouped.org/
+server=/www.aqianniao.com/
 server=/www.atordeg.com.br/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
@@ -230,6 +233,7 @@ server=/www.cloudf-update.com/
 server=/www.draconian.co.za/
 server=/www.eccheats.store/
 server=/www.globallaborsupply.com/
+server=/www.hercvlesconcrete.com/
 server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.jd-shop77.com/
@@ -260,4 +264,4 @@ server=/zh.seacdndown.com/
 server=/zh.toknnpocket.pro/
 server=/znrq.zifwxq.cn/
 server=/zunigarquitectura.com/
-# Number of entries: 254
+# Number of entries: 258
