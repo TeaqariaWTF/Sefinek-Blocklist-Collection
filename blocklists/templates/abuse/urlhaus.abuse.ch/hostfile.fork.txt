@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-05 16:02:07 (UTC)                      #
+# Last updated: 2024-11-05 18:04:34 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -18,7 +18,6 @@
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 af.peertube.red
 0.0.0.0 aiiaiafrzrueuedur.net
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amoamosss.com
 0.0.0.0 aoesync.com
@@ -33,6 +32,7 @@
 0.0.0.0 asianchow.com
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
+0.0.0.0 avastpx.com
 0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 bahrabeauty.com
 0.0.0.0 bestmagazineforanimalsunicum.ru
@@ -63,7 +63,6 @@
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
-0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
 0.0.0.0 documentreviewone.com
 0.0.0.0 dow.andylab.cn
@@ -109,8 +108,8 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
-0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
+0.0.0.0 infopublic67.online
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 invoiceposs.shop
@@ -139,12 +138,12 @@
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
+0.0.0.0 mundiprep.com
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 nbowling.com
 0.0.0.0 newshostingsupdate.com
 0.0.0.0 newvideo.link
-0.0.0.0 noithaticon.vn
 0.0.0.0 o0s.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 omnicom.fr
@@ -185,15 +184,14 @@
 0.0.0.0 skynetx.com.br
 0.0.0.0 smithpropertysolutions.com
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 sosipisos2.site
 0.0.0.0 soyjak.download
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sqdqsdsq.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
-0.0.0.0 sunny-lai.com
 0.0.0.0 support.clz.kr
 0.0.0.0 sw.lifeboxtransfer.com
 0.0.0.0 tecni-soft.com
@@ -221,9 +219,9 @@
 0.0.0.0 upload.vina-host.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 valseg.com.br
-0.0.0.0 vold.pcspeedcat.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atordeg.com.br
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
@@ -233,6 +231,9 @@
 0.0.0.0 www.eccheats.store
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hercvlesconcrete.com
+0.0.0.0 www.hseda.com
+0.0.0.0 www.infopublic67.online
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.jd-shop77.com
 0.0.0.0 www.kailabeachhotel.com
 0.0.0.0 www.luxurypropertiesfl.com
@@ -265,4 +266,4 @@
 0.0.0.0 zh.toknnpocket.pro
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
-# Number of entries: 259
+# Number of entries: 260
