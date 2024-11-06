@@ -1,9 +1,9 @@
-# Version: 202411061407
+# Version: 202411061607
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 134837
-# Last modified: 2024-11-06T14:07:15+0000
+! Entries: 134790
+# Last modified: 2024-11-06T16:07:02+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -368,7 +368,6 @@
 127.0.0.1 1.11130.com.cn
 127.0.0.1 1.11467.com
 127.0.0.1 1.114central.com
-127.0.0.1 1.17110.com
 127.0.0.1 1.201980.com
 127.0.0.1 1.21shebao.com
 127.0.0.1 1.5000yan.com
@@ -1217,7 +1216,6 @@
 127.0.0.1 1but.fr
 127.0.0.1 1c.42it.ru
 127.0.0.1 1c447fc5b7.com
-127.0.0.1 1c466187fa.30e4a37eb7.com
 127.0.0.1 1c76ff71d3.1ff0de0d52.com
 127.0.0.1 1c7cf19baa.com
 127.0.0.1 1cash.info
@@ -2233,6 +2231,7 @@
 127.0.0.1 30d5shnjq.de
 127.0.0.1 30dominos.com
 127.0.0.1 30ds.com
+127.0.0.1 30e4a37eb7.com
 127.0.0.1 30edu.com.cn
 127.0.0.1 30hccor10.de
 127.0.0.1 30ju.notlong.com
@@ -2628,7 +2627,6 @@
 127.0.0.1 3potify.shop
 127.0.0.1 3proxy.com
 127.0.0.1 3q1lsj.cn
-127.0.0.1 3qdmtr.shop
 127.0.0.1 3qfe1gfa.de
 127.0.0.1 3qp3.com
 127.0.0.1 3qqq.net
@@ -3999,7 +3997,6 @@
 127.0.0.1 6i6cwnoyc0msslk0vovhfnndofuk6bbr.shop2.de
 127.0.0.1 6iyn6bz9.myutilitydomain.com
 127.0.0.1 6j296m8k.de
-127.0.0.1 6jkd8a.shop
 127.0.0.1 6k1fsp.4.fourcrossesinn.com
 127.0.0.1 6katow.pl
 127.0.0.1 6kk2a4t.com
@@ -4426,7 +4423,6 @@
 127.0.0.1 8866.org
 127.0.0.1 8869bc0716.e9522e84dc.com
 127.0.0.1 8878tp.com
-127.0.0.1 887sconline.com
 127.0.0.1 888-lucky.net
 127.0.0.1 888.com
 127.0.0.1 888.izhufu.net
@@ -4618,7 +4614,6 @@
 127.0.0.1 917295-dot-oaao-274308.uc.r.appspot.com
 127.0.0.1 917776a2.ngrok.io
 127.0.0.1 9179ef7ec3.6778056ac3.com
-127.0.0.1 9183ab1456.com
 127.0.0.1 919198.com
 127.0.0.1 919377.com
 127.0.0.1 919yi.com
@@ -5438,7 +5433,6 @@
 127.0.0.1 aabb.faperoni.com
 127.0.0.1 aabclkane.bachelorarchive.com
 127.0.0.1 aabl.ru
-127.0.0.1 aaboutsendmi.top
 127.0.0.1 aabproxydomaintests.top
 127.0.0.1 aabproxytests.top
 127.0.0.1 aabtest.asg-media.com
@@ -6038,7 +6032,6 @@
 127.0.0.1 acaydicjltx.com
 127.0.0.1 acb-trust.com
 127.0.0.1 acb.chamsocthe-uudaikhachhang.online
-127.0.0.1 acb.chamsocthe-uudaitructuyen.com.vn
 127.0.0.1 acbbpadizl.com
 127.0.0.1 acbc68e83c.com
 127.0.0.1 acbp0020171456.page.tl
@@ -6092,7 +6085,6 @@
 127.0.0.1 accesschase.com
 127.0.0.1 accessclark.com
 127.0.0.1 accessclips.com
-127.0.0.1 accesscreditbk.com
 127.0.0.1 accessform.hopto.org
 127.0.0.1 accessgrant.ydns.eu
 127.0.0.1 accessheler.com
@@ -8194,7 +8186,6 @@
 127.0.0.1 adminjuridico.com.de
 127.0.0.1 adminmail.online
 127.0.0.1 adminpanel.000a.biz
-127.0.0.1 adminpc25.linkpc.net
 127.0.0.1 admins.princetonit.com
 127.0.0.1 adminshop.com
 127.0.0.1 adminsimple.com
@@ -17212,7 +17203,6 @@
 127.0.0.1 asferaligatron.com
 127.0.0.1 asfgeaa.lat
 127.0.0.1 asfsdf.ivertiipolska.com.pl
-127.0.0.1 asfybkiy.xyz
 127.0.0.1 asg.animehdl.net
 127.0.0.1 asg.aphex.me
 127.0.0.1 asg.dormtapes.com
@@ -20490,7 +20480,6 @@
 127.0.0.1 bbs-7.jp
 127.0.0.1 bbs.jungleheart.com
 127.0.0.1 bbs.ws
-127.0.0.1 bbs.xy.ccjoy.com
 127.0.0.1 bbsdx.jp
 127.0.0.1 bbsintheworld.quora.com
 127.0.0.1 bbsplus.sbs.co.kr
@@ -23657,7 +23646,6 @@
 127.0.0.1 bolgspot.com
 127.0.0.1 boligkanalen-maestro-new.azurewebsites.net
 127.0.0.1 bolivianguy.linkpc.net
-127.0.0.1 bollinger-design.com
 127.0.0.1 bollyocean.com
 127.0.0.1 bollywoods.co.in
 127.0.0.1 bollywoodsongs.host-ed.me
@@ -30373,7 +30361,6 @@
 127.0.0.1 cliksolution.com
 127.0.0.1 climatedetaindes.com
 127.0.0.1 climbdo.com
-127.0.0.1 climbingrobot.com
 127.0.0.1 climbingsmuggle.com
 127.0.0.1 clin-appslinnes.ddns.net
 127.0.0.1 clindly.com
@@ -31608,7 +31595,6 @@
 127.0.0.1 com-trackkfp.top
 127.0.0.1 com-trackncf.top
 127.0.0.1 com-trackpja.top
-127.0.0.1 com-trackpmg.top
 127.0.0.1 com-trackpps.top
 127.0.0.1 com-trackppu.top
 127.0.0.1 com-trackrhp.top
@@ -31643,7 +31629,6 @@
 127.0.0.1 combeeffort.click
 127.0.0.1 comberry.cn
 127.0.0.1 combia-tellector.com
-127.0.0.1 combination.cyou
 127.0.0.1 combinedexterior.com
 127.0.0.1 combinedresidency.org
 127.0.0.1 combineencouragingutmost.com
@@ -36856,7 +36841,6 @@
 127.0.0.1 dashboard.tinypass.com
 127.0.0.1 dashboard.wheelio-app.com
 127.0.0.1 dashboardartistauthorized.com
-127.0.0.1 dashboardproducts.info
 127.0.0.1 dashedclownstubble.com
 127.0.0.1 dashedheroncapricorn.com
 127.0.0.1 dashenopticians.com
@@ -39372,7 +39356,6 @@
 127.0.0.1 discord.co.za
 127.0.0.1 discord.com.pl
 127.0.0.1 discord.com.ru
-127.0.0.1 discord.com.tw
 127.0.0.1 discord.cool
 127.0.0.1 discord.creditcard
 127.0.0.1 discord.cx
@@ -44356,7 +44339,6 @@
 127.0.0.1 enjoyperfectdates.life
 127.0.0.1 enjrzhkf.com
 127.0.0.1 enkeled005.com
-127.0.0.1 enkennedy.com
 127.0.0.1 enkobud.dp.ua
 127.0.0.1 enlace-cliente.com
 127.0.0.1 enlargementerroronerous.com
@@ -47791,7 +47773,6 @@
 127.0.0.1 febadu.com
 127.0.0.1 febatigr.com
 127.0.0.1 febdd.info
-127.0.0.1 febex-fb-heplex-cere-customer-24x7-on.online
 127.0.0.1 febolisawaaycom.pages.dev
 127.0.0.1 february2018.atspace.cc
 127.0.0.1 februarybogus.com
@@ -59237,7 +59218,6 @@
 127.0.0.1 homebuyerdudes.com
 127.0.0.1 homecashoffer162.pages.dev
 127.0.0.1 homecashoffer861.pages.dev
-127.0.0.1 homecass.com
 127.0.0.1 homecleaningaid.com
 127.0.0.1 homecleaningpro.com
 127.0.0.1 homeclothesjewelry.store
@@ -60376,7 +60356,6 @@
 127.0.0.1 hx1.tubepornbase.com
 127.0.0.1 hxafyq.gow.englishwoodlands.co.uk
 127.0.0.1 hxahv.com
-127.0.0.1 hxbtqwquroke.com
 127.0.0.1 hxcav77.com
 127.0.0.1 hxdsj.yt
 127.0.0.1 hxgccl.cn
@@ -60454,7 +60433,6 @@
 127.0.0.1 hygromycin-b-50mg-ml-solution.com
 127.0.0.1 hyistkechaukrguke.com
 127.0.0.1 hyiw.info
-127.0.0.1 hyjqgpu.top
 127.0.0.1 hyjxtz.com
 127.0.0.1 hykt.gotoip3.com
 127.0.0.1 hyl-zh.lentor.net
@@ -76551,7 +76529,6 @@
 127.0.0.1 mentzo.com
 127.0.0.1 menu.mdrates.com
 127.0.0.1 menu.metu.vn
-127.0.0.1 menu212lklkkllkk.z13.web.core.windows.net
 127.0.0.1 menucore.com
 127.0.0.1 menudua.com
 127.0.0.1 menufreith.sytes.net
@@ -79441,7 +79418,6 @@
 127.0.0.1 motrixi.com
 127.0.0.1 motsardi.net
 127.0.0.1 motsrgidyzoaz.com
-127.0.0.1 mottfarm.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 mouadvilla.zapto.org
 127.0.0.1 mouas.xyz
@@ -81974,7 +81950,6 @@
 127.0.0.1 neinjp9vs.top
 127.0.0.1 neirong.funshion.com
 127.0.0.1 neitherpennylack.com
-127.0.0.1 neix9vt.top
 127.0.0.1 neiz9ht.top
 127.0.0.1 neiz9sr.top
 127.0.0.1 neje.shop
@@ -87739,7 +87714,6 @@
 127.0.0.1 outube.com
 127.0.0.1 outwhirlipedeer.com
 127.0.0.1 outwingullom.com
-127.0.0.1 outwishboody.com
 127.0.0.1 outwitridiculousresume.com
 127.0.0.1 outwoodeuropa.com
 127.0.0.1 outyanmegaom.com
@@ -87754,7 +87728,6 @@
 127.0.0.1 ovaarmor.com
 127.0.0.1 ovaleithermansfield.com
 127.0.0.1 ovcball.com
-127.0.0.1 ovcgsnrwp.com
 127.0.0.1 ovdimin.buzz
 127.0.0.1 ovejqw.xyz
 127.0.0.1 ovenbifaces.cam
@@ -89901,7 +89874,6 @@
 127.0.0.1 pembl0kiran-faceb00k.lkgn.my.id
 127.0.0.1 pemblokiran214.webnode.com
 127.0.0.1 pemblokiran566.webnode.com
-127.0.0.1 pemblokiranfaceb00k.duckdns.org
 127.0.0.1 pemclub.com
 127.0.0.1 pemcorgis.com
 127.0.0.1 pemedical.com
@@ -96546,7 +96518,6 @@
 127.0.0.1 quxaehkor.ru.gg
 127.0.0.1 quxhhrl3ncy4j5cvusni.maherstcottage.com.au
 127.0.0.1 quxsiraqxla.com
-127.0.0.1 quxwpwcwmmx.xyz
 127.0.0.1 quydautuvingroup.com
 127.0.0.1 quydoi-tiente247.weebly.com
 127.0.0.1 quydoichuyenkhoanquocte.weebly.com
@@ -97316,7 +97287,6 @@
 127.0.0.1 rbtint.com
 127.0.0.1 rbtwo.bid
 127.0.0.1 rbubv.com
-127.0.0.1 rbuirpyptplp.com
 127.0.0.1 rbuxfree.com
 127.0.0.1 rbxdream.com
 127.0.0.1 rbxfree.com
@@ -98287,7 +98257,6 @@
 127.0.0.1 reindeer.iainbroome.com
 127.0.0.1 reindeer.pablomaceda.com
 127.0.0.1 reiner-schmidtke.de
-127.0.0.1 reinfomarbke.site
 127.0.0.1 reingod.com
 127.0.0.1 reink2.top
 127.0.0.1 reinoudvanrooij.nl
@@ -108905,7 +108874,6 @@
 127.0.0.1 soyincite.com
 127.0.0.1 soyjak.cafe
 127.0.0.1 soyjak.download
-127.0.0.1 soyjlnfatgxpfd.com
 127.0.0.1 soytdpb.com
 127.0.0.1 soyte.cc
 127.0.0.1 sozdzl.cn
@@ -110206,7 +110174,6 @@
 127.0.0.1 stanley-france.fr
 127.0.0.1 stanleyfrance.fr
 127.0.0.1 stanleypark125.ca
-127.0.0.1 stansoam.com
 127.0.0.1 stansteadsmanagement.com
 127.0.0.1 stantoniroyal.com
 127.0.0.1 stapespotherb.com
@@ -112964,7 +112931,6 @@
 127.0.0.1 supportcoinbase.fr
 127.0.0.1 supportcompte.fr
 127.0.0.1 supportcreatorportal.com
-127.0.0.1 supportedbushesimpenetrable.com
 127.0.0.1 supporterinsulation.com
 127.0.0.1 supporters.redbankgreen.com
 127.0.0.1 supportfe.com
@@ -113782,7 +113748,6 @@
 127.0.0.1 szdamuzhi.com
 127.0.0.1 szddbxyumfcf.net
 127.0.0.1 szdft.com
-127.0.0.1 szdxw.cn
 127.0.0.1 szfaq.com
 127.0.0.1 szflw.com
 127.0.0.1 szfmr.cn
@@ -115675,7 +115640,6 @@
 127.0.0.1 tesla-starship.org
 127.0.0.1 tesla-store.fr
 127.0.0.1 tesla.event-finance.info
-127.0.0.1 tesla2025.net
 127.0.0.1 teslaamg.obs.cn-east-3.myhuaweicloud.com
 127.0.0.1 teslabatterie.fr
 127.0.0.1 teslacore.io
@@ -116363,7 +116327,6 @@
 127.0.0.1 thepainfreeformula.com
 127.0.0.1 thepatrones.blob.core.windows.net
 127.0.0.1 thepennypocket.com
-127.0.0.1 thepeom.com
 127.0.0.1 thepeppersinc.de
 127.0.0.1 theperfectcopy.com
 127.0.0.1 theperfectkitandcompany.com
@@ -116749,7 +116712,6 @@
 127.0.0.1 thresholdunusual.com
 127.0.0.1 threwdownth.xyz
 127.0.0.1 threwtestimonygrieve.com
-127.0.0.1 threxv3pn.top
 127.0.0.1 thriftytotsbabyshop.com
 127.0.0.1 thrilledrentbull.com
 127.0.0.1 thrilledroundaboutreconstruct.com
@@ -123362,13 +123324,11 @@
 127.0.0.1 usps-vips.top
 127.0.0.1 usps-web.com
 127.0.0.1 usps.bid
-127.0.0.1 usps.com-trackdfz.top
 127.0.0.1 usps.com-trackehz.top
 127.0.0.1 usps.com-trackgym.top
 127.0.0.1 usps.com-trackmeh.top
 127.0.0.1 usps.com-trackpjs.top
 127.0.0.1 usps.com-trackrkd.top
-127.0.0.1 usps.com-tracksyt.top
 127.0.0.1 usps.com-tracktpm.top
 127.0.0.1 usps.com-trackzrs.top
 127.0.0.1 usps.upsupost.com
@@ -123407,7 +123367,6 @@
 127.0.0.1 uspscash.one
 127.0.0.1 uspscash.top
 127.0.0.1 uspscheckshipusup.com
-127.0.0.1 uspscmi.top
 127.0.0.1 uspscmu.top
 127.0.0.1 uspscom.buzz
 127.0.0.1 uspscourier.life
@@ -123859,7 +123818,6 @@
 127.0.0.1 uymahuxv.xyz
 127.0.0.1 uymkdz9s.com
 127.0.0.1 uyn0icgx1kv.life
-127.0.0.1 uynhupsmini.com
 127.0.0.1 uyohyy.xyz
 127.0.0.1 uyoutube.com
 127.0.0.1 uyrkd.xyz
@@ -123880,7 +123838,6 @@
 127.0.0.1 uzhavu.in
 127.0.0.1 uznai-pravdu-ru.1gb.ru
 127.0.0.1 uznizrhd.xyz
-127.0.0.1 uzoma.ru
 127.0.0.1 uzpmrbek.com
 127.0.0.1 uzrxoxd.xyz
 127.0.0.1 uzxkuwalnjp.com
@@ -125640,7 +125597,6 @@
 127.0.0.1 vipluxurycar.com
 127.0.0.1 vipnuevoscarrosok.live
 127.0.0.1 vipoutletsales.shop
-127.0.0.1 vippornsg.mmho.my.id
 127.0.0.1 vipprojects.cn
 127.0.0.1 vipru.com
 127.0.0.1 vipserver.com.br
@@ -129330,7 +129286,6 @@
 127.0.0.1 wkrd.tingyun.com
 127.0.0.1 wksrx.cn
 127.0.0.1 wkvpvglcjsagi.xyz
-127.0.0.1 wkwqljwykoamr.top
 127.0.0.1 wkxanke.com
 127.0.0.1 wkybwa.xyz
 127.0.0.1 wl-analytics.tsp.li
@@ -130022,7 +129977,6 @@
 127.0.0.1 wsds.cn
 127.0.0.1 wsdse.top
 127.0.0.1 wsdshipping.com
-127.0.0.1 wsdss.top
 127.0.0.1 wseal.de
 127.0.0.1 wsetransport.com
 127.0.0.1 wsgblw.com
@@ -133648,7 +133602,6 @@
 127.0.0.1 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 127.0.0.1 z8ndy7.nt.nativetrees.co.uk
 127.0.0.1 z9.cnzz.com
-127.0.0.1 z957.com
 127.0.0.1 z99fg4.gow.englishwoodlands.co.uk
 127.0.0.1 z9iq6vt.com
 127.0.0.1 z9v6bz.hbg.hebdenbridgedental.co.uk
