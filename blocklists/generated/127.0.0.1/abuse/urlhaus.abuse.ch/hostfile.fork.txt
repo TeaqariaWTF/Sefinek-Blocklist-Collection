@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-07 00:23:12 (UTC)                      #
+# Last updated: 2024-11-07 02:23:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 7zip10-2024.top
 127.0.0.1 9800540.ru
 127.0.0.1 aarzoomarine.com
 127.0.0.1 abissnet.net
@@ -26,9 +27,9 @@
 127.0.0.1 ankaraspotesya.com.tr
 127.0.0.1 anonsharing.com
 127.0.0.1 aoesync.com
-127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
 127.0.0.1 apslline.com
+127.0.0.1 arcsystem.rodopibg.net
 127.0.0.1 arza.us
 127.0.0.1 asdoijzxlncxzc.icu
 127.0.0.1 asianchow.com
@@ -62,11 +63,10 @@
 127.0.0.1 data.yhydl.com
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deco-properties.com
-127.0.0.1 defgyma.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
-127.0.0.1 dl.natgo.cn
+127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dnvk1.info
@@ -135,7 +135,6 @@
 127.0.0.1 kendychop.shop
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
-127.0.0.1 linkvilleplayers.org
 127.0.0.1 livetrack.in
 127.0.0.1 lobfile.com
 127.0.0.1 loeghaiofiehfihf.to
@@ -143,12 +142,14 @@
 127.0.0.1 maan2u.com
 127.0.0.1 mbsngradnja.com
 127.0.0.1 meeweb.com
+127.0.0.1 microsecurityupdate.com
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 moviecentral-petparade.com
 127.0.0.1 mundiprep.com
 127.0.0.1 municipiodomaio.cv
 127.0.0.1 mxbook17.cfd
+127.0.0.1 namthaibinh.net
 127.0.0.1 newshostingsupdate.com
 127.0.0.1 newvideo.link
 127.0.0.1 noithaticon.vn
@@ -158,19 +159,16 @@
 127.0.0.1 onemk3.teracomm.mk
 127.0.0.1 originaldll.com
 127.0.0.1 osecweb.ir
-127.0.0.1 ouauooaoaoeeutr.io
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parquelosencinos.cl
-127.0.0.1 passagetoeastafrica.com
 127.0.0.1 payhostmsa.shop
 127.0.0.1 pb.agnt.ru
 127.0.0.1 perfectimage40.com
 127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pns.org.pk
-127.0.0.1 powercx1.wetolink.com
 127.0.0.1 protechasia.com
 127.0.0.1 pus.rollerswpush.eu
 127.0.0.1 ranchoboscardin.com.br
@@ -186,10 +184,8 @@
 127.0.0.1 secure.cloudtechnologiesusa.com
 127.0.0.1 selfrep.carteldesinaloa.ru
 127.0.0.1 ser.nrovn.xyz
-127.0.0.1 sfa.com.ar
 127.0.0.1 shfgf.strategies.mvpstrat.com
 127.0.0.1 shqdown.ggzuhao.com
-127.0.0.1 silinast.ro
 127.0.0.1 sirault.be
 127.0.0.1 skynetx.com.br
 127.0.0.1 smithpropertysolutions.com
@@ -199,32 +195,31 @@
 127.0.0.1 sos.vivi.sg
 127.0.0.1 sosipisos.cc
 127.0.0.1 soyjak.download
-127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sqdqsdsq.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 sunny-lai.com
-127.0.0.1 support.clz.kr
 127.0.0.1 sw.lifeboxtransfer.com
 127.0.0.1 taodianla.com
 127.0.0.1 tech-tribune.online
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
-127.0.0.1 telegramandroid.org
+127.0.0.1 telegram-app.vip
 127.0.0.1 telegramcn.co
+127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 thaus.top
 127.0.0.1 thegibson.co.za
 127.0.0.1 tianyinsoft.top
-127.0.0.1 tokospoccket.com
 127.0.0.1 transfer.adttemp.com.br
 127.0.0.1 travelwithmanta.co.za
 127.0.0.1 twizt.net
 127.0.0.1 unicorpbrunei.com
-127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
 127.0.0.1 upload.vina-host.com
+127.0.0.1 utorrent-backup-server.top
 127.0.0.1 valseg.com.br
+127.0.0.1 vold.pcspeedcat.com
 127.0.0.1 winyardbuilding.nz
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.atordeg.com.br
@@ -249,15 +244,19 @@
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.newshostingsupdate.com
 127.0.0.1 www.ojang.pe.kr
+127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.ranchoboscardin.com.br
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.saf-oil.ru
+127.0.0.1 www.soft.lannaoke.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
+127.0.0.1 www.ysbaojia.com
+127.0.0.1 wynecare.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 xkobeimparatu.net
 127.0.0.1 xls.energymaxgrp.eu
@@ -265,4 +264,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zunigarquitectura.com
-# Number of entries: 259
+# Number of entries: 258
