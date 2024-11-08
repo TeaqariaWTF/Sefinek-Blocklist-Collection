@@ -1,9 +1,9 @@
-# Version: 202411080106
+# Version: 202411080306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 136430
-# Last modified: 2024-11-08T01:06:29+0000
+! Entries: 136429
+# Last modified: 2024-11-08T03:06:28+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -89558,7 +89558,6 @@
 127.0.0.1 paitoucaum.com
 127.0.0.1 paiwena.xyz
 127.0.0.1 paiwhisep.com
-127.0.0.1 pajamas-stoic-failing.shop
 127.0.0.1 pajamasgnat.com
 127.0.0.1 pajamasguests.com
 127.0.0.1 pajamaslovers.com
