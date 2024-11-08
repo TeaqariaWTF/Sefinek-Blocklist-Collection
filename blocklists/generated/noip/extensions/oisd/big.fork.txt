@@ -1,9 +1,9 @@
-# Version: 202411081006
+# Version: 202411081306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: <domain>
-! Entries: 136637
-# Last modified: 2024-11-08T10:06:38+0000
+! Entries: 136635
+# Last modified: 2024-11-08T13:06:47+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -106224,7 +106224,6 @@ servientregaacol.cfd
 servientregaacol.help
 servientregaacol.sbs
 servientregac.ink
-servientregaco.help
 servientregacolo.lol
 servientregacos.help
 servientregas-as.top
@@ -106246,7 +106245,6 @@ servientregaxco.top
 servientregco.bond
 servientregco.sbs
 servientregco.top
-servientregcol.bond
 servientregcol.lol
 servientrege.top
 servientreglco.bond
