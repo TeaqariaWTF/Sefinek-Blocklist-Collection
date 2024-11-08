@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,666
-# Updated: 11/8/2024  12:21 (12:21 PM CST)
+# Domains: 95,669
+# Updated: 11/8/2024  15:04 (3:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -7853,6 +7853,7 @@
 0.0.0.0 analytics.infra.laprimaire.org
 0.0.0.0 analytics.infuse.ch
 0.0.0.0 analytics-ingestion.production-public.tubi.io
+0.0.0.0 analytics-ingestion-production.tubitv.com
 0.0.0.0 analytics.ingewikkeld.net
 0.0.0.0 analytics.inggvirtuals.com
 0.0.0.0 analytics.ingos.com
@@ -53552,6 +53553,7 @@
 0.0.0.0 ourlnk.com
 0.0.0.0 our.transparency.org
 0.0.0.0 ou.shutterfly.com
+0.0.0.0 outcomes.net
 0.0.0.0 outfunnel.com
 0.0.0.0 outgoinggiraffe.com
 0.0.0.0 outgress.com
@@ -54485,7 +54487,6 @@
 0.0.0.0 pages.smartzip.com
 0.0.0.0 pages.spillman.com
 0.0.0.0 pages.ssi-schaefer.com
-0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pages.stratpharma.com
 0.0.0.0 pagestats.lct.software
 0.0.0.0 pagestats.win
@@ -82393,7 +82394,6 @@
 0.0.0.0 stats.raven-web.eu
 0.0.0.0 stats.rayennefrost.de
 0.0.0.0 stats.ray-services.com
-0.0.0.0 stats.rbl.ms
 0.0.0.0 stats.rbs.io
 0.0.0.0 stats.rcinet.ca
 0.0.0.0 stats.rddz-tools.com
@@ -85793,7 +85793,6 @@
 0.0.0.0 tag.cribnotes.jp
 0.0.0.0 tagdata.com
 0.0.0.0 tagdelivery.mayoclinic.org
-0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tagetik.com
@@ -86684,6 +86683,7 @@
 0.0.0.0 theleadengine.co.uk
 0.0.0.0 thelead.tech
 0.0.0.0 themarketingstir.stirista.com
+0.0.0.0 themobian.com
 0.0.0.0 the-modeling-agency.com
 0.0.0.0 themodellers.com
 0.0.0.0 theoceannetwork.inttra.com
@@ -89678,6 +89678,7 @@
 0.0.0.0 userreport.com
 0.0.0.0 user.rgj.com
 0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 users.maxcluster.net
 0.0.0.0 usersonlinecounter.com
 0.0.0.0 userstatics.com
@@ -90996,6 +90997,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 wiz.sncf-connect.com
 0.0.0.0 wjq.ma.tarnkappe.info
+0.0.0.0 wknd.ai
 0.0.0.0 wkp20trk.com
 0.0.0.0 wkxppshj-qx.global.ssl.fastly.net
 0.0.0.0 wl-analytics.tsp.li
@@ -91135,6 +91137,7 @@
 0.0.0.0 wtustats.avg.com
 0.0.0.0 wu38ltrk.com
 0.0.0.0 wundercounter.com
+0.0.0.0 wunderkind.co
 0.0.0.0 wup-16c9d93d.halifax-online.co.uk
 0.0.0.0 wup-16c9d93d.mbna.co.uk
 0.0.0.0 wup-analytics.anz.com

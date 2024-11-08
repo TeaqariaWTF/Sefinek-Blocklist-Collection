@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,666
-# Updated: 11/8/2024  12:21 (12:21 PM CST)
+# Domains: 95,669
+# Updated: 11/8/2024  15:04 (3:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -7853,6 +7853,7 @@
 127.0.0.1 analytics.infra.laprimaire.org
 127.0.0.1 analytics.infuse.ch
 127.0.0.1 analytics-ingestion.production-public.tubi.io
+127.0.0.1 analytics-ingestion-production.tubitv.com
 127.0.0.1 analytics.ingewikkeld.net
 127.0.0.1 analytics.inggvirtuals.com
 127.0.0.1 analytics.ingos.com
@@ -53552,6 +53553,7 @@
 127.0.0.1 ourlnk.com
 127.0.0.1 our.transparency.org
 127.0.0.1 ou.shutterfly.com
+127.0.0.1 outcomes.net
 127.0.0.1 outfunnel.com
 127.0.0.1 outgoinggiraffe.com
 127.0.0.1 outgress.com
@@ -54485,7 +54487,6 @@
 127.0.0.1 pages.smartzip.com
 127.0.0.1 pages.spillman.com
 127.0.0.1 pages.ssi-schaefer.com
-127.0.0.1 pages-stats.rbl.ms
 127.0.0.1 pages.stratpharma.com
 127.0.0.1 pagestats.lct.software
 127.0.0.1 pagestats.win
@@ -82393,7 +82394,6 @@
 127.0.0.1 stats.raven-web.eu
 127.0.0.1 stats.rayennefrost.de
 127.0.0.1 stats.ray-services.com
-127.0.0.1 stats.rbl.ms
 127.0.0.1 stats.rbs.io
 127.0.0.1 stats.rcinet.ca
 127.0.0.1 stats.rddz-tools.com
@@ -85793,7 +85793,6 @@
 127.0.0.1 tag.cribnotes.jp
 127.0.0.1 tagdata.com
 127.0.0.1 tagdelivery.mayoclinic.org
-127.0.0.1 tag.digops.sincro.io
 127.0.0.1 tag.durationmedia.net
 127.0.0.1 tag.elevaate.io
 127.0.0.1 tagetik.com
@@ -86684,6 +86683,7 @@
 127.0.0.1 theleadengine.co.uk
 127.0.0.1 thelead.tech
 127.0.0.1 themarketingstir.stirista.com
+127.0.0.1 themobian.com
 127.0.0.1 the-modeling-agency.com
 127.0.0.1 themodellers.com
 127.0.0.1 theoceannetwork.inttra.com
@@ -89678,6 +89678,7 @@
 127.0.0.1 userreport.com
 127.0.0.1 user.rgj.com
 127.0.0.1 usersegment.wpdigital.net
+127.0.0.1 user-signals.production-public.tubi.io
 127.0.0.1 users.maxcluster.net
 127.0.0.1 usersonlinecounter.com
 127.0.0.1 userstatics.com
@@ -90996,6 +90997,7 @@
 127.0.0.1 wizaly.com
 127.0.0.1 wiz.sncf-connect.com
 127.0.0.1 wjq.ma.tarnkappe.info
+127.0.0.1 wknd.ai
 127.0.0.1 wkp20trk.com
 127.0.0.1 wkxppshj-qx.global.ssl.fastly.net
 127.0.0.1 wl-analytics.tsp.li
@@ -91135,6 +91137,7 @@
 127.0.0.1 wtustats.avg.com
 127.0.0.1 wu38ltrk.com
 127.0.0.1 wundercounter.com
+127.0.0.1 wunderkind.co
 127.0.0.1 wup-16c9d93d.halifax-online.co.uk
 127.0.0.1 wup-16c9d93d.mbna.co.uk
 127.0.0.1 wup-analytics.anz.com
