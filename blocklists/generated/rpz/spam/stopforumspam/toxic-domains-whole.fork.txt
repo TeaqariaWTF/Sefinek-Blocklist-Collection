@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024110701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024110801 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -19131,6 +19131,8 @@ cantumoda.com CNAME .
 *.cantumoda.com CNAME .
 canuitus.com CNAME .
 *.canuitus.com CNAME .
+canvasaffiliate.com CNAME .
+*.canvasaffiliate.com CNAME .
 canvasarttalk.com CNAME .
 *.canvasarttalk.com CNAME .
 canvasium.com CNAME .
@@ -25405,6 +25407,8 @@ customer.openflip.click CNAME .
 *.customer.openflip.click CNAME .
 customer.travelly.click CNAME .
 *.customer.travelly.click CNAME .
+customer.trekhq.click CNAME .
+*.customer.trekhq.click CNAME .
 customer.vacly.click CNAME .
 *.customer.vacly.click CNAME .
 customercare.hikehub.click CNAME .
