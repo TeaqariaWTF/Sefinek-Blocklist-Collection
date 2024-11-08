@@ -1,9 +1,9 @@
-# Version: 202411081306
+# Version: 202411081606
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 136635
-# Last modified: 2024-11-08T13:06:47+0000
+! Entries: 136633
+# Last modified: 2024-11-08T16:06:52+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -46412,7 +46412,6 @@
 127.0.0.1 evrir.top
 127.0.0.1 evris.shop
 127.0.0.1 evrisparcels.top
-127.0.0.1 evrisrt.shop
 127.0.0.1 evrisuk.icu
 127.0.0.1 evrisuk.shop
 127.0.0.1 evritcb.top
@@ -83805,7 +83804,6 @@
 127.0.0.1 news.nevuer.com
 127.0.0.1 news.push.126.net
 127.0.0.1 news.qcyz.cn
-127.0.0.1 news.quantumcodelab.xyz
 127.0.0.1 news.solitut.online
 127.0.0.1 news.soptv.ws
 127.0.0.1 news.truth.delivery

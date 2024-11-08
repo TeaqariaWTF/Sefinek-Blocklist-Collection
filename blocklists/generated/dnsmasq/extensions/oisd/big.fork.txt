@@ -1,9 +1,9 @@
-# Version: 202411081306
+# Version: 202411081606
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 136635
-# Last modified: 2024-11-08T13:06:47+0000
+! Entries: 136633
+# Last modified: 2024-11-08T16:06:52+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -46412,7 +46412,6 @@ server=/evriq.top/
 server=/evrir.top/
 server=/evris.shop/
 server=/evrisparcels.top/
-server=/evrisrt.shop/
 server=/evrisuk.icu/
 server=/evrisuk.shop/
 server=/evritcb.top/
@@ -83805,7 +83804,6 @@ server=/news.l.qq.com/
 server=/news.nevuer.com/
 server=/news.push.126.net/
 server=/news.qcyz.cn/
-server=/news.quantumcodelab.xyz/
 server=/news.solitut.online/
 server=/news.soptv.ws/
 server=/news.truth.delivery/
