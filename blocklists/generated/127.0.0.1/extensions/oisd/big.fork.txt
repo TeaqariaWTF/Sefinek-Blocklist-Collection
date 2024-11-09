@@ -1,9 +1,9 @@
-# Version: 202411091006
+# Version: 202411091206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137614
-# Last modified: 2024-11-09T10:06:56+0000
+! Entries: 137611
+# Last modified: 2024-11-09T12:06:57+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2749,7 +2749,6 @@
 127.0.0.1 418e158b80bc0381719c-c51e63b7e27054c59548bc9120302775.r53.cf2.rackcdn.com
 127.0.0.1 41b5062d22.com
 127.0.0.1 41eak.life
-127.0.0.1 41grk.icu
 127.0.0.1 42.sub-75-197-124.myvzw.com
 127.0.0.1 42.sub-75-203-111.myvzw.com
 127.0.0.1 420dailyhighclub.com
@@ -27649,7 +27648,6 @@
 127.0.0.1 cbngovnig.com
 127.0.0.1 cbngroup.duckdns.org
 127.0.0.1 cbpslot.com
-127.0.0.1 cbro.win
 127.0.0.1 cbs.112.2o7.net
 127.0.0.1 cbsadsales-a.akamaihd.net
 127.0.0.1 cbscom.112.2o7.net
@@ -56319,7 +56317,6 @@
 127.0.0.1 gov.tgngr.sbs
 127.0.0.1 gov.tgr.nu
 127.0.0.1 gov.thanpcgr.sbs
-127.0.0.1 gov.theawarenessngr.com
 127.0.0.1 gov.themjqwbgr.sbs
 127.0.0.1 gov.tholosgr.com
 127.0.0.1 gov.tigkgr.com

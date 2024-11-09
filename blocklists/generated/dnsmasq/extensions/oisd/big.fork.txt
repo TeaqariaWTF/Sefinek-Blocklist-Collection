@@ -1,9 +1,9 @@
-# Version: 202411091006
+# Version: 202411091206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 137614
-# Last modified: 2024-11-09T10:06:56+0000
+! Entries: 137611
+# Last modified: 2024-11-09T12:06:57+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2749,7 +2749,6 @@ server=/4164d5b6eb.com/
 server=/418e158b80bc0381719c-c51e63b7e27054c59548bc9120302775.r53.cf2.rackcdn.com/
 server=/41b5062d22.com/
 server=/41eak.life/
-server=/41grk.icu/
 server=/42.sub-75-197-124.myvzw.com/
 server=/42.sub-75-203-111.myvzw.com/
 server=/420dailyhighclub.com/
@@ -27649,7 +27648,6 @@ server=/cbn.ru/
 server=/cbngovnig.com/
 server=/cbngroup.duckdns.org/
 server=/cbpslot.com/
-server=/cbro.win/
 server=/cbs.112.2o7.net/
 server=/cbsadsales-a.akamaihd.net/
 server=/cbscom.112.2o7.net/
@@ -56319,7 +56317,6 @@ server=/gov.tfngr.buzz/
 server=/gov.tgngr.sbs/
 server=/gov.tgr.nu/
 server=/gov.thanpcgr.sbs/
-server=/gov.theawarenessngr.com/
 server=/gov.themjqwbgr.sbs/
 server=/gov.tholosgr.com/
 server=/gov.tigkgr.com/
