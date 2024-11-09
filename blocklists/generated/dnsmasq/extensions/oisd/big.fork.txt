@@ -1,9 +1,9 @@
-# Version: 202411090406
+# Version: 202411090506
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 136794
-# Last modified: 2024-11-09T04:06:24+0000
+! Entries: 136791
+# Last modified: 2024-11-09T05:06:44+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -34826,7 +34826,6 @@ server=/crypton.site/
 server=/cryptonewsdom.care/
 server=/cryptonoter.com/
 server=/cryptop.store/
-server=/cryptoposta.christmas/
 server=/cryptopro-download.one/
 server=/cryptopro.live/
 server=/cryptoreserve.space/
@@ -55423,7 +55422,6 @@ server=/goodvibesmatterforus.com/
 server=/goodydaddy.com/
 server=/goodyear.122.2o7.net/
 server=/goodyhitherto.com/
-server=/goodymuxzjch.shop/
 server=/goodyparticl.icu/
 server=/gooele.org/
 server=/goofle.fr/
@@ -96264,7 +96262,6 @@ server=/ptts-govs-trs.top/
 server=/ptts.shop/
 server=/pttsgov-tr.top/
 server=/pttsgovtr.top/
-server=/ptttgovt.icu/
 server=/ptufihie.net/
 server=/ptugnins.net/
 server=/ptugnoaw.net/

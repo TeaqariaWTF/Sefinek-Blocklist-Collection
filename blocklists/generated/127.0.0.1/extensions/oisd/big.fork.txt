@@ -1,9 +1,9 @@
-# Version: 202411090406
+# Version: 202411090506
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 136794
-# Last modified: 2024-11-09T04:06:24+0000
+! Entries: 136791
+# Last modified: 2024-11-09T05:06:44+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -34826,7 +34826,6 @@
 127.0.0.1 cryptonewsdom.care
 127.0.0.1 cryptonoter.com
 127.0.0.1 cryptop.store
-127.0.0.1 cryptoposta.christmas
 127.0.0.1 cryptopro-download.one
 127.0.0.1 cryptopro.live
 127.0.0.1 cryptoreserve.space
@@ -55423,7 +55422,6 @@
 127.0.0.1 goodydaddy.com
 127.0.0.1 goodyear.122.2o7.net
 127.0.0.1 goodyhitherto.com
-127.0.0.1 goodymuxzjch.shop
 127.0.0.1 goodyparticl.icu
 127.0.0.1 gooele.org
 127.0.0.1 goofle.fr
@@ -96264,7 +96262,6 @@
 127.0.0.1 ptts.shop
 127.0.0.1 pttsgov-tr.top
 127.0.0.1 pttsgovtr.top
-127.0.0.1 ptttgovt.icu
 127.0.0.1 ptufihie.net
 127.0.0.1 ptugnins.net
 127.0.0.1 ptugnoaw.net

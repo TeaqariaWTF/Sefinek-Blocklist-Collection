@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 93,036
-# Updated: 11/8/2024  22:11 (10:11 PM CST)
+# Updated: 11/8/2024  23:11 (11:11 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -14082,6 +14082,7 @@
 0.0.0.0 backstory.ebay.at
 0.0.0.0 backstory.ebay.ca
 0.0.0.0 backstory.ebay.com
+0.0.0.0 backstory.ebay.com.hk
 0.0.0.0 backstory.ebay.co.uk
 0.0.0.0 backstory.ebay.de
 0.0.0.0 backstory.ebay.fr
@@ -16054,41 +16055,21 @@
 0.0.0.0 clevnet.patronpoint.com
 0.0.0.0 cl.growwwing.jp
 0.0.0.0 clic2buy.com
-0.0.0.0 click1.canadianvisaexpert.net
 0.0.0.0 click1.clickrouter.com
-0.0.0.0 click1.e.conservativetribune.com
-0.0.0.0 click1.e.iheart.com
-0.0.0.0 click1.email.carnegiecomm.com
-0.0.0.0 click1.email.dwell.com
-0.0.0.0 click1.email.fastcompany.com
-0.0.0.0 click1.email.galvanized.com
-0.0.0.0 click1.email.riskandinsurance.com
 0.0.0.0 click1.email.thegolfchannel.com
 0.0.0.0 click1.email.thehill.com
-0.0.0.0 click1.e.thechive.com
-0.0.0.0 click1.e.westernjournalism.com
 0.0.0.0 click1.fleetcardbenefits.com
 0.0.0.0 click1.hsbc.com.mx
-0.0.0.0 click1.ilovemyfreedom-email.org
 0.0.0.0 click1.mail1.vente-exclusive.com
 0.0.0.0 click1.mail.apartmenttherapy.com
-0.0.0.0 click1.mail.astrocenter.com
-0.0.0.0 click1.mail.astrology.com
 0.0.0.0 click1.mail.beliefnet.com
-0.0.0.0 click1.mail.biblica.com
-0.0.0.0 click1.mail.horoscope.com
 0.0.0.0 click1.mail.patheos.com
-0.0.0.0 click1.mail.wnd.com
-0.0.0.0 click1.members.privatecolleges.com
-0.0.0.0 click1.members.vault.com
 0.0.0.0 click1.mercadolibre.com.co
 0.0.0.0 click1.mercadolibre.com.mx
 0.0.0.0 click1.mercadolivre.com.br
 0.0.0.0 click1.net
 0.0.0.0 click1.news.thehill.com
-0.0.0.0 click1.notify.meetmemail.com
 0.0.0.0 click1.soufun.com
-0.0.0.0 click1.wellandgoodmail.com
 0.0.0.0 click2.agorafinancial.com
 0.0.0.0 click2buy.com
 0.0.0.0 click2cart.com
@@ -17699,7 +17680,6 @@
 0.0.0.0 coscale.com
 0.0.0.0 cosme.caseepo.jp
 0.0.0.0 cosmosjackson.com
-0.0.0.0 cosori.myshopify.com
 0.0.0.0 costconsulting.wtpartnership.com.au
 0.0.0.0 costrategix.com
 0.0.0.0 costumeexpressemail.com
@@ -23368,6 +23348,7 @@
 0.0.0.0 flytxt.com
 0.0.0.0 fma.fellow-s.co.jp
 0.0.0.0 fm.cnbc.com
+0.0.0.0 fmip.fe2.apple-dns.net
 0.0.0.0 fmip.me.com
 0.0.0.0 fmnoa.rarecarat.com
 0.0.0.0 fms-dev.citysavings.net.ph
@@ -29555,6 +29536,7 @@
 0.0.0.0 initjs.rfk.magidglove.com
 0.0.0.0 initjs.rfk.petco.com
 0.0.0.0 initjs.rfk.zennioptical.com
+0.0.0.0 ink1001.com
 0.0.0.0 ink.hudsonyardsnewyork.com
 0.0.0.0 inlayinsights.com
 0.0.0.0 inloggen.evivanlanschot.nl
@@ -59666,6 +59648,7 @@
 0.0.0.0 pixel.anngiavila.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.aoticadodinheiro.com.br
+0.0.0.0 pixel-api-production.up.railway.app
 0.0.0.0 pixel-api.socialhead.io
 0.0.0.0 pixel.apitherapy.co
 0.0.0.0 pixel.apponlineacademy.com
@@ -61988,10 +61971,13 @@
 0.0.0.0 plausible.allien.work
 0.0.0.0 plausible.ams.to
 0.0.0.0 plausible-analysis.cstcloud.cn
+0.0.0.0 plausible-analytics-ce-production-ba4d.up.railway.app
 0.0.0.0 plausible-analytics.erisa.uk
 0.0.0.0 plausibleanalytics.eurofins.com
 0.0.0.0 plausible-analytics.linuxbox.ninja
 0.0.0.0 plausible-analytics.matadornetwork.com
+0.0.0.0 plausible-analytics-production-4a0d.up.railway.app
+0.0.0.0 plausible-analytics-production-6a24.up.railway.app
 0.0.0.0 plausible.anicetnougaret.fr
 0.0.0.0 plausible.anywherearc.com
 0.0.0.0 plausible-app.caprover.laszlokiss.dev
@@ -62694,6 +62680,7 @@
 0.0.0.0 p.pingup.de
 0.0.0.0 ppl9ktrk.com
 0.0.0.0 p.precisionlender.com
+0.0.0.0 pp-stats.up.railway.app
 0.0.0.0 p.pulse.buyatoyota.com
 0.0.0.0 p.pulse.toyota.com
 0.0.0.0 p.qiao.baidu.com
@@ -64404,6 +64391,7 @@
 0.0.0.0 r.mail.gaeco.fr
 0.0.0.0 r.mailhost.canadianappliancesource.ca
 0.0.0.0 r.mail.hurrevac.com
+0.0.0.0 r.mailin.fr
 0.0.0.0 r.mailing01.estrategiasdeinversion.com
 0.0.0.0 r.mailing3.agirpourlenvironnement.org
 0.0.0.0 r.mailing.anafarmex.com.mx
@@ -71618,6 +71606,7 @@
 0.0.0.0 sowa.carhartt.com
 0.0.0.0 sowlettuce.com
 0.0.0.0 sp1.baidu.com
+0.0.0.0 sp1-brevo.net
 0.0.0.0 sp2.baidu.com
 0.0.0.0 spacesolution.wakasugi-bldg.jp
 0.0.0.0 spadelocket.com
@@ -86175,6 +86164,7 @@
 0.0.0.0 trisul.org
 0.0.0.0 tritebadge.com
 0.0.0.0 tritethunder.com
+0.0.0.0 triton-analytics.up.railway.app
 0.0.0.0 t.rituxan.com
 0.0.0.0 trk.abcdpdf.com
 0.0.0.0 trk.adtera.com
@@ -86719,6 +86709,7 @@
 0.0.0.0 ultptrk.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 umami.01o.de
+0.0.0.0 umami-a7759d-production.up.railway.app
 0.0.0.0 umami.achimkraemer.com
 0.0.0.0 umami.agilitynerd.com
 0.0.0.0 umami.aigenerations.net
@@ -86805,9 +86796,18 @@
 0.0.0.0 umami.placha.pl
 0.0.0.0 umami.post.tablecheck.com
 0.0.0.0 umami.presswizards.com
+0.0.0.0 umami-production-0fd2.up.railway.app
+0.0.0.0 umami-production-2454.up.railway.app
+0.0.0.0 umami-production-3172.up.railway.app
+0.0.0.0 umami-production-3192.up.railway.app
 0.0.0.0 umami-production-3df5.up.railway.app
 0.0.0.0 umami-production-5fff.up.railway.app
 0.0.0.0 umami-production-6c7e.up.railway.app
+0.0.0.0 umami-production-708e.up.railway.app
+0.0.0.0 umami-production-7mid.up.railway.app
+0.0.0.0 umami-production-8fe7.up.railway.app
+0.0.0.0 umami-production-c47a.up.railway.app
+0.0.0.0 umami-production-c795.up.railway.app
 0.0.0.0 umami-prod.up.railway.app
 0.0.0.0 umami.psaux.io
 0.0.0.0 umami.pyry.me
