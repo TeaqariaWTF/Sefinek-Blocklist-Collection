@@ -1,9 +1,9 @@
-# Version: 202411090106
+# Version: 202411090206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 136799
-# Last modified: 2024-11-09T01:06:33+0000
+! Entries: 136798
+# Last modified: 2024-11-09T02:06:32+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -106344,7 +106344,6 @@
 127.0.0.1 servientreglco.lol
 127.0.0.1 servientreglco.top
 127.0.0.1 servientregwco.lol
-127.0.0.1 servientregzcol.lol
 127.0.0.1 servietrega-1nk.top
 127.0.0.1 servietrega-cob.top
 127.0.0.1 servietrega-con.top

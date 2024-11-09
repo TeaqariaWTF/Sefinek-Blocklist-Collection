@@ -1,9 +1,9 @@
-# Version: 202411090106
+# Version: 202411090206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 136799
-# Last modified: 2024-11-09T01:06:33+0000
+! Entries: 136798
+# Last modified: 2024-11-09T02:06:32+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -106344,7 +106344,6 @@
 0.0.0.0 servientreglco.lol
 0.0.0.0 servientreglco.top
 0.0.0.0 servientregwco.lol
-0.0.0.0 servientregzcol.lol
 0.0.0.0 servietrega-1nk.top
 0.0.0.0 servietrega-cob.top
 0.0.0.0 servietrega-con.top
