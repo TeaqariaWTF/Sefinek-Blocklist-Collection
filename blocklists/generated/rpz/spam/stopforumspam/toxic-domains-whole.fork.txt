@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024110801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024110901 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -17625,6 +17625,8 @@ btuyx.website CNAME .
 *.btuyx.website CNAME .
 btv8uy.info CNAME .
 *.btv8uy.info CNAME .
+btw.onlmktng.life CNAME .
+*.btw.onlmktng.life CNAME .
 btyfgjdkn.space CNAME .
 *.btyfgjdkn.space CNAME .
 btymjetr45.host CNAME .
@@ -55381,6 +55383,8 @@ letsmail9.com CNAME .
 *.letsmail9.com CNAME .
 letstalk.cruisehq.click CNAME .
 *.letstalk.cruisehq.click CNAME .
+letstalk.friskapp.click CNAME .
+*.letstalk.friskapp.click CNAME .
 letstalk.makeablunder.click CNAME .
 *.letstalk.makeablunder.click CNAME .
 letstalk.scamperly.click CNAME .
@@ -63327,6 +63331,8 @@ mones.online CNAME .
 *.mones.online CNAME .
 money-vopros.ru CNAME .
 *.money-vopros.ru CNAME .
+money-x.skin CNAME .
+*.money-x.skin CNAME .
 money4ugdi.ws CNAME .
 *.money4ugdi.ws CNAME .
 moneynowlife.com CNAME .
