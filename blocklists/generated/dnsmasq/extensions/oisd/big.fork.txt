@@ -1,9 +1,9 @@
-# Version: 202411091206
+# Version: 202411091406
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 137611
-# Last modified: 2024-11-09T12:06:57+0000
+! Entries: 137604
+# Last modified: 2024-11-09T14:06:56+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -55508,7 +55508,6 @@ server=/google1.vip/
 server=/google2.fr/
 server=/google20.net/
 server=/google4.top/
-server=/google7.vip/
 server=/google9.xyz/
 server=/googlea.top/
 server=/googleactualites.fr/
@@ -56063,7 +56062,6 @@ server=/gov.hennebiquepolutsalgr.xyz/
 server=/gov.hentaipix.ru/
 server=/gov.hgifgr.info/
 server=/gov.hhkegr.info/
-server=/gov.hlbroxlgr.space/
 server=/gov.hmrc.uktaxrefund.uk/
 server=/gov.hnigr.buzz/
 server=/gov.hnslgr.com/
@@ -56094,7 +56092,6 @@ server=/gov.jdnsgr.com/
 server=/gov.jgr.nu/
 server=/gov.jh5uzuagr.com/
 server=/gov.jiewngr.com/
-server=/gov.jifi847gr.com/
 server=/gov.jkhgr.info/
 server=/gov.jmigr.site/
 server=/gov.jollyrgr.net/
@@ -56311,7 +56308,6 @@ server=/gov.tecgr.sbs/
 server=/gov.technosolutionsgr.com/
 server=/gov.techtutorialsgr.com/
 server=/gov.tecnogr.com/
-server=/gov.telecomcfpgr.com/
 server=/gov.text-messaging-services-ox-gr.click/
 server=/gov.tfngr.buzz/
 server=/gov.tgngr.sbs/
@@ -56378,7 +56374,6 @@ server=/gov.wyprmugr.xyz/
 server=/gov.x-changr.net/
 server=/gov.x6g-cloud-storage-kgr.lat/
 server=/gov.xbcuvgr.shop/
-server=/gov.xconsultgr.store/
 server=/gov.xdgr.site/
 server=/gov.xgzqkicigxnengr.bond/
 server=/gov.xh25gr.top/
@@ -72102,7 +72097,6 @@ server=/lianmeng.360.cn/
 server=/lianoidvoice.htmlpasta.com/
 server=/liantrip.com/
 server=/lianwangtech.com/
-server=/liaonl.top/
 server=/liaoptse.net/
 server=/liarcram.com/
 server=/liarsbar.karoo.net/
@@ -96835,7 +96829,6 @@ server=/ptdhl-tracking.com/
 server=/ptdofj.xyz/
 server=/ptdrw.com/
 server=/pte-certificate.com/
-server=/pte-goe-tre.xyz/
 server=/pteandieltsguidance.com/
 server=/ptecenters.com/
 server=/ptecmuny.com/
