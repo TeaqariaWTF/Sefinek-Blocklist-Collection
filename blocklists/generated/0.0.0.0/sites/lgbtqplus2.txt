@@ -11,14 +11,14 @@
 # Title: Blocks most LGBTQ+ websites, including those that promote or oppose LGBTQ+ content
 # Description: Active, inactive, and parked domains. Some of them may also share pornographic content.
 # Expires: 1 day
-# Count: 112153
+# Count: 112154
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 0.0.0.0 before each domain
-# Version: 1730801561639
-# Last update: November 5, 2024 at 10:12 AM UTC | 2024-11-05T10:12:41.639+00:00
+# Version: 1731147826507
+# Last update: November 9, 2024 at 10:23 AM UTC | 2024-11-09T10:23:46.507+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -112181,3 +112181,4 @@
 0.0.0.0 gayradio.se
 0.0.0.0 gayradion.se
 0.0.0.0 ampride.ee
+0.0.0.0 queersoftheworld.se
