@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+1717.1000uc.com CNAME .
+*.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
 *.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
@@ -67,6 +69,8 @@ aosafrica.co.za CNAME .
 *.aosafrica.co.za CNAME .
 api.52kkg.com CNAME .
 *.api.52kkg.com CNAME .
+arcsystem.rodopibg.net CNAME .
+*.arcsystem.rodopibg.net CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
 asdoijzxlncxzc.icu CNAME .
@@ -107,6 +111,8 @@ ciscocdn.com CNAME .
 *.ciscocdn.com CNAME .
 clavity.me CNAME .
 *.clavity.me CNAME .
+cmgtrading.eu CNAME .
+*.cmgtrading.eu CNAME .
 cnc.carteldesinaloa.ru CNAME .
 *.cnc.carteldesinaloa.ru CNAME .
 coach.028csc.com CNAME .
@@ -129,6 +135,8 @@ data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
 deauduafzgezzfgm.top CNAME .
 *.deauduafzgezzfgm.top CNAME .
+defgyma.com CNAME .
+*.defgyma.com CNAME .
 dfvdfvfddf.is-a-anarchist.com CNAME .
 *.dfvdfvfddf.is-a-anarchist.com CNAME .
 dgdfb.groks-this.info CNAME .
@@ -161,8 +169,8 @@ down.pcclear.com CNAME .
 *.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
-download.innovare.no CNAME .
-*.download.innovare.no CNAME .
+download.caihong.com CNAME .
+*.download.caihong.com CNAME .
 download.suxiazai.com CNAME .
 *.download.suxiazai.com CNAME .
 downsexv.com CNAME .
@@ -293,14 +301,10 @@ jtpdev.co.uk CNAME .
 *.jtpdev.co.uk CNAME .
 jujuju.from-pa.com CNAME .
 *.jujuju.from-pa.com CNAME .
-karer.by CNAME .
-*.karer.by CNAME .
 karoonpc.com CNAME .
 *.karoonpc.com CNAME .
 kjjghhjgf.is-uberleet.com CNAME .
 *.kjjghhjgf.is-uberleet.com CNAME .
-library.arihantmbainstitute.ac.in CNAME .
-*.library.arihantmbainstitute.ac.in CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
 linkvilleplayers.org CNAME .
@@ -327,6 +331,10 @@ mundiprep.com CNAME .
 *.mundiprep.com CNAME .
 municipiodomaio.cv CNAME .
 *.municipiodomaio.cv CNAME .
+namthaibinh.net CNAME .
+*.namthaibinh.net CNAME .
+net.tiktoka.cc CNAME .
+*.net.tiktoka.cc CNAME .
 newshostingsupdate.com CNAME .
 *.newshostingsupdate.com CNAME .
 newvideo.link CNAME .
@@ -361,14 +369,14 @@ pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
+powercx1.wetolink.com CNAME .
+*.powercx1.wetolink.com CNAME .
 pqahzam.ink CNAME .
 *.pqahzam.ink CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
 pus.rollerswpush.eu CNAME .
 *.pus.rollerswpush.eu CNAME .
-qiniuyunxz.yxflzs.com CNAME .
-*.qiniuyunxz.yxflzs.com CNAME .
 ranchoboscardin.com.br CNAME .
 *.ranchoboscardin.com.br CNAME .
 rd.chuitian.cn CNAME .
@@ -409,8 +417,6 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
-softcatalog.ru CNAME .
-*.softcatalog.ru CNAME .
 soportegira.net CNAME .
 *.soportegira.net CNAME .
 sos.vivi.sg CNAME .
@@ -443,6 +449,8 @@ tecunonline.com CNAME .
 *.tecunonline.com CNAME .
 tehytdf.sellsyourhome.org CNAME .
 *.tehytdf.sellsyourhome.org CNAME .
+telegram-app.vip CNAME .
+*.telegram-app.vip CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
@@ -475,8 +483,8 @@ ujujuju.merseine.org CNAME .
 *.ujujuju.merseine.org CNAME .
 unicorpbrunei.com CNAME .
 *.unicorpbrunei.com CNAME .
-update.cg100iii.com CNAME .
-*.update.cg100iii.com CNAME .
+up.maolaoban.top CNAME .
+*.up.maolaoban.top CNAME .
 update.vlnguba.com CNAME .
 *.update.vlnguba.com CNAME .
 upload.vina-host.com CNAME .
@@ -499,8 +507,6 @@ wrwwewfe.merseine.org CNAME .
 *.wrwwewfe.merseine.org CNAME .
 aqianniao.com CNAME .
 *.aqianniao.com CNAME .
-atordeg.com.br CNAME .
-*.atordeg.com.br CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
 blackhattoolz.com CNAME .
@@ -513,12 +519,12 @@ cloudf-update.com CNAME .
 *.cloudf-update.com CNAME .
 draconian.co.za CNAME .
 *.draconian.co.za CNAME .
+eccheats.store CNAME .
+*.eccheats.store CNAME .
 globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 hercvlesconcrete.com CNAME .
 *.hercvlesconcrete.com CNAME .
-ingonherbal.com CNAME .
-*.ingonherbal.com CNAME .
 jd-shop77.com CNAME .
 *.jd-shop77.com CNAME .
 kailabeachhotel.com CNAME .
@@ -563,13 +569,7 @@ yulgangweb.top CNAME .
 *.yulgangweb.top CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
-yzkzixun.com CNAME .
-*.yzkzixun.com CNAME .
-z.shavsl.com CNAME .
-*.z.shavsl.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
-zunigarquitectura.com CNAME .
-*.zunigarquitectura.com CNAME .
 zvczcz.saves-the-whales.com CNAME .
 *.zvczcz.saves-the-whales.com CNAME .
