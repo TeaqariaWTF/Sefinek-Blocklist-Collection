@@ -1,9 +1,9 @@
-# Version: 202411091406
+# Version: 202411091454
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 137604
-# Last modified: 2024-11-09T14:06:56+0000
+! Entries: 137600
+# Last modified: 2024-11-09T14:54:30+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -19572,7 +19572,6 @@ server=/babygift-abbe.wp1.site/
 server=/babyispractical.com/
 server=/babylyst.com/
 server=/babymusicsitetr.mymom.info/
-server=/babyneeds.ro/
 server=/babyniceshark.com/
 server=/babyprintf.2288.org/
 server=/babyshop-outlet.fr/
@@ -62319,7 +62318,6 @@ server=/iconicai.co/
 server=/iconiccorpinc.com/
 server=/iconmedical.biz/
 server=/iconnigeria.com/
-server=/iconpalestre.it/
 server=/iconsiglidellanonna.com/
 server=/iconstaff.top/
 server=/icontent.us/
@@ -73156,7 +73154,6 @@ server=/lm1.tuliu.com/
 server=/lm1.wkpcw.cn/
 server=/lm779.com/
 server=/lmbsy.qq.com/
-server=/lmc.cz/
 server=/lmepbq.com/
 server=/lmfaololxdlmfaolmfao.xyz/
 server=/lmfdaoefn.com/
@@ -81607,7 +81604,6 @@ server=/msg-em.hismarttv.com/
 server=/msg-intl.qy.net/
 server=/msg-na.hismarttv.com/
 server=/msg.client.xunlei.com/
-server=/msg.douyu.com/
 server=/msg.iqiyi.com/
 server=/msg.metamessen.net/
 server=/msg.mobile.kugou.com/
