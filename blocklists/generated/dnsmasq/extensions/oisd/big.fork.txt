@@ -1,9 +1,9 @@
-# Version: 202411090506
+# Version: 202411090806
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 136791
-# Last modified: 2024-11-09T05:06:44+0000
+! Entries: 136790
+# Last modified: 2024-11-09T08:06:54+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -122771,7 +122771,6 @@ server=/tventjp20vt.top/
 server=/tveta.naver.net/
 server=/tvetamovie.pstatic.net/
 server=/tvextrade.pro/
-server=/tvfcse.xyz/
 server=/tvfeel.cc/
 server=/tvforumbd.com/
 server=/tvgdirect.com/
