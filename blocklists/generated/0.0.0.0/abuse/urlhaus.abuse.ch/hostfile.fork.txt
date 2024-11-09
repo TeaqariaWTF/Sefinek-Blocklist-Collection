@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-09 02:42:07 (UTC)                      #
+# Last updated: 2024-11-09 04:24:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,12 +27,12 @@
 0.0.0.0 aaaee.space-to-rent.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
+0.0.0.0 adf6.adf6.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 af.peertube.red
 0.0.0.0 agenal.ajayusoft.com
 0.0.0.0 aiiaiafrzrueuedur.net
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amoamosss.com
 0.0.0.0 ankaraspotesya.com.tr
@@ -42,8 +42,6 @@
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 asdoijzxlncxzc.icu
 0.0.0.0 asianchow.com
-0.0.0.0 aulist.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 azczxs.from-nd.com
 0.0.0.0 bahrabeauty.com
@@ -72,6 +70,7 @@
 0.0.0.0 dfvdfvfddf.is-a-anarchist.com
 0.0.0.0 dgdfb.groks-this.info
 0.0.0.0 diclegrup.org
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
@@ -80,7 +79,6 @@
 0.0.0.0 doutshared.octabracessorioscom.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -108,6 +106,7 @@
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
+0.0.0.0 firstviewautoservice.com
 0.0.0.0 fish.hackbiji.cc
 0.0.0.0 fotoplaza-sciencehive.shop
 0.0.0.0 ftp.ywxww.net
@@ -161,8 +160,10 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 maan2u.com
 0.0.0.0 mail.drdanfe.com
+0.0.0.0 mbsngradnja.com
 0.0.0.0 meeweb.com
 0.0.0.0 microsoft-auth-network.cc
+0.0.0.0 mundiprep.com
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 newshostingsupdate.com
@@ -223,7 +224,6 @@
 0.0.0.0 tecunonline.com
 0.0.0.0 tehytdf.sellsyourhome.org
 0.0.0.0 telegram-app.vip
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.downsexv.com
@@ -259,10 +259,10 @@
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clavity.me
 0.0.0.0 www.cloudf-update.com
-0.0.0.0 www.draconian.co.za
 0.0.0.0 www.drdanfe.com
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hercvlesconcrete.com
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.jd-shop77.com
 0.0.0.0 www.kailabeachhotel.com
@@ -280,11 +280,9 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.soft.lannaoke.com
 0.0.0.0 www.starcountry.net
-0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
-0.0.0.0 wynecare.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xkobeimparatu.net
 0.0.0.0 xpvrk.strategies.mvpstrat.com
@@ -295,4 +293,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
 0.0.0.0 zvczcz.saves-the-whales.com
-# Number of entries: 289
+# Number of entries: 287

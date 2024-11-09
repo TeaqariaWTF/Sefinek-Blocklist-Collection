@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-09 02:42:07 (UTC)                      #
+# Last updated: 2024-11-09 04:24:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,12 +27,12 @@ server=/aaaee.is-slick.com/
 server=/aaaee.space-to-rent.com/
 server=/aarzoomarine.com/
 server=/abissnet.net/
+server=/adf6.adf6.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
 server=/af.peertube.red/
 server=/agenal.ajayusoft.com/
 server=/aiiaiafrzrueuedur.net/
-server=/airhobi.com/
 server=/alien-training.com/
 server=/amoamosss.com/
 server=/ankaraspotesya.com.tr/
@@ -42,8 +42,6 @@ server=/api.52kkg.com/
 server=/arcsystem.rodopibg.net/
 server=/asdoijzxlncxzc.icu/
 server=/asianchow.com/
-server=/aulist.com/
-server=/avastop.com/
 server=/avastpx.com/
 server=/azczxs.from-nd.com/
 server=/bahrabeauty.com/
@@ -72,6 +70,7 @@ server=/defgyma.com/
 server=/dfvdfvfddf.is-a-anarchist.com/
 server=/dgdfb.groks-this.info/
 server=/diclegrup.org/
+server=/disk.accord1key.cn/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
@@ -80,7 +79,6 @@ server=/dnvk1.info/
 server=/doutshared.octabracessorioscom.com/
 server=/dow.andylab.cn/
 server=/down.fwqlt.com/
-server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
 server=/download.caihong.com/
@@ -108,6 +106,7 @@ server=/fiestagrandefm.com/
 server=/file.blackint3.com/
 server=/file.edunet.ac/
 server=/files5.uludagbilisim.com/
+server=/firstviewautoservice.com/
 server=/fish.hackbiji.cc/
 server=/fotoplaza-sciencehive.shop/
 server=/ftp.ywxww.net/
@@ -161,8 +160,10 @@ server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
 server=/maan2u.com/
 server=/mail.drdanfe.com/
+server=/mbsngradnja.com/
 server=/meeweb.com/
 server=/microsoft-auth-network.cc/
+server=/mundiprep.com/
 server=/municipiodomaio.cv/
 server=/namthaibinh.net/
 server=/newshostingsupdate.com/
@@ -223,7 +224,6 @@ server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/tehytdf.sellsyourhome.org/
 server=/telegram-app.vip/
-server=/telegramcn.co/
 server=/temirtau-adm.ru/
 server=/tengfeidn.com/
 server=/test.downsexv.com/
@@ -259,10 +259,10 @@ server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clavity.me/
 server=/www.cloudf-update.com/
-server=/www.draconian.co.za/
 server=/www.drdanfe.com/
 server=/www.globallaborsupply.com/
 server=/www.hercvlesconcrete.com/
+server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.jd-shop77.com/
 server=/www.kailabeachhotel.com/
@@ -280,11 +280,9 @@ server=/www.rphingenieria.com/
 server=/www.saf-oil.ru/
 server=/www.soft.lannaoke.com/
 server=/www.starcountry.net/
-server=/www.sumiyuki.co.jp/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
-server=/wynecare.com/
 server=/xiangshunjy.com/
 server=/xkobeimparatu.net/
 server=/xpvrk.strategies.mvpstrat.com/
@@ -295,4 +293,4 @@ server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
 server=/zunigarquitectura.com/
 server=/zvczcz.saves-the-whales.com/
-# Number of entries: 289
+# Number of entries: 287
