@@ -1,9 +1,9 @@
-# Version: 202411100006
+# Version: 202411100206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 137656
-# Last modified: 2024-11-10T00:06:46+0000
+! Entries: 137653
+# Last modified: 2024-11-10T02:06:37+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -5498,12 +5498,10 @@ server=/aa9z.cn/
 server=/aaa.bisnode.si/
 server=/aaa.zxglpj.cn/
 server=/aaaaaco.com/
-server=/aaaee.dyndns.info/
 server=/aaaee.from-me.org/
 server=/aaaee.from-nv.com/
 server=/aaaee.from-pa.com/
 server=/aaaee.from-wa.com/
-server=/aaaee.homeunix.org/
 server=/aaaee.is-slick.com/
 server=/aaaesme.cn/
 server=/aaalian.com/
@@ -80604,7 +80602,6 @@ server=/mol17.biz/
 server=/molbeme.top/
 server=/moldem.net/
 server=/moldgbc.org/
-server=/moldova-mediu.md/
 server=/moldova-social.md/
 server=/moldser.com/
 server=/mole-emploi.fr/

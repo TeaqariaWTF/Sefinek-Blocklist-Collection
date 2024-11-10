@@ -1,9 +1,9 @@
-# Version: 202411100006
+# Version: 202411100206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137656
-# Last modified: 2024-11-10T00:06:46+0000
+! Entries: 137653
+# Last modified: 2024-11-10T02:06:37+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -5498,12 +5498,10 @@
 127.0.0.1 aaa.bisnode.si
 127.0.0.1 aaa.zxglpj.cn
 127.0.0.1 aaaaaco.com
-127.0.0.1 aaaee.dyndns.info
 127.0.0.1 aaaee.from-me.org
 127.0.0.1 aaaee.from-nv.com
 127.0.0.1 aaaee.from-pa.com
 127.0.0.1 aaaee.from-wa.com
-127.0.0.1 aaaee.homeunix.org
 127.0.0.1 aaaee.is-slick.com
 127.0.0.1 aaaesme.cn
 127.0.0.1 aaalian.com
@@ -80604,7 +80602,6 @@
 127.0.0.1 molbeme.top
 127.0.0.1 moldem.net
 127.0.0.1 moldgbc.org
-127.0.0.1 moldova-mediu.md
 127.0.0.1 moldova-social.md
 127.0.0.1 moldser.com
 127.0.0.1 mole-emploi.fr
