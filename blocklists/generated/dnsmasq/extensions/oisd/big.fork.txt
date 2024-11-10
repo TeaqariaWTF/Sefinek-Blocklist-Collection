@@ -1,9 +1,9 @@
-# Version: 202411092207
+# Version: 202411100006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 137658
-# Last modified: 2024-11-09T22:07:51+0000
+! Entries: 137656
+# Last modified: 2024-11-10T00:06:46+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -37693,7 +37693,6 @@ server=/dblpap3.top/
 server=/dbltest.top/
 server=/dbltest6.top/
 server=/dbltest8.top/
-server=/dblxz.lol/
 server=/dbmcmhh.cn/
 server=/dbmobile-phototan.de/
 server=/dbnxlpbtoqec.com/
@@ -56107,7 +56106,6 @@ server=/gov.htgr.buzz/
 server=/gov.htygr.buzz/
 server=/gov.htyygr.com/
 server=/gov.huashengr.com/
-server=/gov.huayigr.com/
 server=/gov.husgr.sbs/
 server=/gov.hvgr.lat/
 server=/gov.hydgr.buzz/

@@ -1,9 +1,9 @@
-# Version: 202411092207
+# Version: 202411100006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137658
-# Last modified: 2024-11-09T22:07:51+0000
+! Entries: 137656
+# Last modified: 2024-11-10T00:06:46+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -37693,7 +37693,6 @@
 127.0.0.1 dbltest.top
 127.0.0.1 dbltest6.top
 127.0.0.1 dbltest8.top
-127.0.0.1 dblxz.lol
 127.0.0.1 dbmcmhh.cn
 127.0.0.1 dbmobile-phototan.de
 127.0.0.1 dbnxlpbtoqec.com
@@ -56107,7 +56106,6 @@
 127.0.0.1 gov.htygr.buzz
 127.0.0.1 gov.htyygr.com
 127.0.0.1 gov.huashengr.com
-127.0.0.1 gov.huayigr.com
 127.0.0.1 gov.husgr.sbs
 127.0.0.1 gov.hvgr.lat
 127.0.0.1 gov.hydgr.buzz
