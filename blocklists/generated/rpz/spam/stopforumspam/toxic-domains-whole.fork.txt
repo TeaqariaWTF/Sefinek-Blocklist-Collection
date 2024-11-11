@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111001 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111101 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -98465,6 +98465,8 @@ walter01.ru CNAME .
 *.walter01.ru CNAME .
 wamdabiz.com CNAME .
 *.wamdabiz.com CNAME .
+wamerangkul.com CNAME .
+*.wamerangkul.com CNAME .
 wanadoux.fr CNAME .
 *.wanadoux.fr CNAME .
 wanamore.com CNAME .
