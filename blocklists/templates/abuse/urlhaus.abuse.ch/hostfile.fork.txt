@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-11 02:49:12 (UTC)                      #
+# Last updated: 2024-11-11 04:23:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,6 +14,7 @@
 0.0.0.0 9800540.ru
 0.0.0.0 aaaee.from-wa.com
 0.0.0.0 aarzoomarine.com
+0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 adp-auth.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -29,6 +30,8 @@
 0.0.0.0 api.52kkg.com
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
+0.0.0.0 asianchow.com
+0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 azczxs.from-nd.com
@@ -59,10 +62,10 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 dfvdfvfddf.is-a-anarchist.com
+0.0.0.0 dgdfb.groks-this.info
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -78,6 +81,7 @@
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 drdanfe.com
+0.0.0.0 drumbalsruffows.com
 0.0.0.0 dyg34.cn
 0.0.0.0 egg.est-mon-blogueur.com
 0.0.0.0 egg.from-nj.com
@@ -105,23 +109,22 @@
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gdfgdfdv.groks-this.info
 0.0.0.0 gdhbbdv.is-a-blogger.com
-0.0.0.0 gdhbbdv.is-a-bruinsfan.org
 0.0.0.0 gdhbbdv.is-a-student.com
 0.0.0.0 gdhbbdv.is-into-games.com
-0.0.0.0 gdhbbdv.is-very-sweet.org
 0.0.0.0 gdhbbdv.sellsyourhome.org
 0.0.0.0 ggg.is-a-painter.com
 0.0.0.0 gig.energymaxgrp.eu
+0.0.0.0 girlsgifs.com
 0.0.0.0 gitae.strategies.mvpstrat.com
 0.0.0.0 guitrar.drumbalsruffows.com
 0.0.0.0 hailcocks.ru
 0.0.0.0 hitman-pro.ru
+0.0.0.0 hitstation.nl
 0.0.0.0 hjmhjm.is-a-landscaper.com
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 hthth.is-a-knight.org
-0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hyhyhy.is-a-therapist.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
@@ -150,7 +153,6 @@
 0.0.0.0 meeweb.com
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 mncrafter.ru
 0.0.0.0 mundiprep.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 newshostingsupdate.com
@@ -182,6 +184,7 @@
 0.0.0.0 rulj.strategies.mvpstrat.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sbelegi.com.br
+0.0.0.0 sccsdcsdcv.is-a-democrat.com
 0.0.0.0 sccsdcsdcv.is-an-actress.com
 0.0.0.0 scsfscscs.is-a-chef.net
 0.0.0.0 scsfscscs.is-an-actress.com
@@ -192,8 +195,10 @@
 0.0.0.0 sfa.com.ar
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
+0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
+0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
 0.0.0.0 spaceframe.mobi.space-frame.co.za
@@ -208,7 +213,7 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 tehytdf.sellsyourhome.org
-0.0.0.0 telegram-app.vip
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
@@ -230,11 +235,11 @@
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 valseg.com.br
 0.0.0.0 websutility.in
+0.0.0.0 wewef.from-sc.com
 0.0.0.0 winyardbuilding.nz
 0.0.0.0 wpj.offer.rpacxtaxappeal.com
 0.0.0.0 wrwwewfe.from-wi.com
 0.0.0.0 wrwwewfe.is-a-blogger.com
-0.0.0.0 wrwwewfe.merseine.org
 0.0.0.0 www.allestimentilopera.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atordeg.com.br
@@ -255,7 +260,6 @@
 0.0.0.0 www.kailabeachhotel.com
 0.0.0.0 www.luxurypropertiesfl.com
 0.0.0.0 www.manjeetsteelproductions.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.newshostingsupdate.com
 0.0.0.0 www.notmalicious.services
@@ -277,11 +281,10 @@
 0.0.0.0 xlayerlabs.com
 0.0.0.0 yazanr.net
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 zh.seacdndown.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
 0.0.0.0 zvczcz.saves-the-whales.com
 0.0.0.0 zyf.strategies.mvpstrat.com
-# Number of entries: 278
+# Number of entries: 281
