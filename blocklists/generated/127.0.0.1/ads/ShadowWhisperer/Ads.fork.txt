@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,862
-# Updated: 11/11/2024  19:04 (7:04 PM CST)
+# Domains: 19,865
+# Updated: 11/12/2024  10:25 (10:25 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4859,6 +4859,7 @@
 127.0.0.1 ads.rotulistas.com
 127.0.0.1 ads.rpg.net
 127.0.0.1 adsrt.live
+127.0.0.1 ads.rtvonline.com
 127.0.0.1 ads.rusmedserv.com
 127.0.0.1 ads.russellstreetreport.com
 127.0.0.1 ads.russmedia.com
@@ -6318,6 +6319,7 @@
 127.0.0.1 air.adliners.de
 127.0.0.1 air-ads.net
 127.0.0.1 airddesigns.com
+127.0.0.1 airfind.com
 127.0.0.1 airnowmedia.com
 127.0.0.1 airpush.com
 127.0.0.1 airship.com
@@ -15442,6 +15444,7 @@
 127.0.0.1 r2b2.cz
 127.0.0.1 r2b2.io
 127.0.0.1 r2gdigital.com
+127.0.0.1 r.2merkato.com
 127.0.0.1 r3engage.com
 127.0.0.1 r3engage-live.global.ssl.fastly.net
 127.0.0.1 r3-live-assets.s3.eu-west-1.amazonaws.com
