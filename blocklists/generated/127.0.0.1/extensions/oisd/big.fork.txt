@@ -1,9 +1,9 @@
-# Version: 202411131006
+# Version: 202411131207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137998
-# Last modified: 2024-11-13T10:06:52+0000
+! Entries: 137988
+# Last modified: 2024-11-13T12:07:05+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2169,8 +2169,6 @@
 127.0.0.1 2smarttracker.com
 127.0.0.1 2spdo6g9h.de
 127.0.0.1 2squared.com
-127.0.0.1 2t3.alpin.de
-127.0.0.1 2t3.kicker.de
 127.0.0.1 2t4f7g9a.de
 127.0.0.1 2t64z2.shet.eveshamairporttransfers.co.uk
 127.0.0.1 2ta5l5rc0.de
@@ -7258,7 +7256,6 @@
 127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technews-iran.com
 127.0.0.1 ad.tencentmusic.com
-127.0.0.1 ad.terra.com
 127.0.0.1 ad.terra.com.mx
 127.0.0.1 ad.terra.doubleclick.net
 127.0.0.1 ad.test.ximalaya.com
@@ -8826,6 +8823,7 @@
 127.0.0.1 ads.adfork.kr
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adhall.com
+127.0.0.1 ads.adinmotech.com
 127.0.0.1 ads.admaru.com
 127.0.0.1 ads.admatrix.vn
 127.0.0.1 ads.administrator.de
@@ -14488,6 +14486,7 @@
 127.0.0.1 analytics.midwesternmac.com
 127.0.0.1 analytics.mindjolt.com
 127.0.0.1 analytics.mlstatic.com
+127.0.0.1 analytics.mobiedu.vn
 127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.mobilegamestats.com
@@ -29928,6 +29927,7 @@
 127.0.0.1 chuongtrinhgionghatvietnamnhi2021.weebly.com
 127.0.0.1 chuopayzo.blogspot.com
 127.0.0.1 chupacabraestavivo.duckdns.org
+127.0.0.1 chupl.icu
 127.0.0.1 chuptuwais.com
 127.0.0.1 church-insight.gl.at.ply.gg
 127.0.0.1 churchalexis.com
@@ -35550,6 +35550,7 @@
 127.0.0.1 cwconsultores.cnt.br
 127.0.0.1 cwdata.itsearch.co.kr
 127.0.0.1 cweb.ws
+127.0.0.1 cweisif.top
 127.0.0.1 cwhrealestate.com
 127.0.0.1 cwhsmgs1.cn
 127.0.0.1 cwnetworkmparticle.112.2o7.net
@@ -43926,7 +43927,6 @@
 127.0.0.1 eephoawaum.com
 127.0.0.1 eeps.me
 127.0.0.1 eepsoumt.com
-127.0.0.1 eepsukso.com
 127.0.0.1 eeptoabs.com
 127.0.0.1 eeptushe.xyz
 127.0.0.1 eepubblica.it
@@ -44421,7 +44421,6 @@
 127.0.0.1 elinvarpayola.com
 127.0.0.1 elisadalbosco.com
 127.0.0.1 elisans.novayonetim.com
-127.0.0.1 eliscord.com
 127.0.0.1 elisehagedoorn.com
 127.0.0.1 elisehassoun.com
 127.0.0.1 eliss-vas.com
@@ -48005,7 +48004,6 @@
 127.0.0.1 fancyactivity.com
 127.0.0.1 fancyapi.com
 127.0.0.1 fancyclo.shop
-127.0.0.1 fancycredithome.com
 127.0.0.1 fancydoctrinepermanently.com
 127.0.0.1 fancydune.com
 127.0.0.1 fancygrove.com
@@ -52452,7 +52450,6 @@
 127.0.0.1 g4s.nfss.my.id
 127.0.0.1 g4u22g.blogspot.com
 127.0.0.1 g4va.kdcad.com
-127.0.0.1 g5fzq2l.com
 127.0.0.1 g5rkmcc9f.com
 127.0.0.1 g6-gonight.org
 127.0.0.1 g6fitness.com
@@ -53152,7 +53149,6 @@
 127.0.0.1 gayal.maxmasnick.com
 127.0.0.1 gayal.stockshouse.co
 127.0.0.1 gayeah.cn
-127.0.0.1 gaymormon.com
 127.0.0.1 gaysgodating.com
 127.0.0.1 gaystryst.com
 127.0.0.1 gaytwddahpave.com
@@ -56433,7 +56429,6 @@
 127.0.0.1 gov.odxhzvlbngr.homes
 127.0.0.1 gov.ofngr.biz
 127.0.0.1 gov.ohtrgr.sbs
-127.0.0.1 gov.okpgr.buzz
 127.0.0.1 gov.olegr.sbs
 127.0.0.1 gov.olocxigr.shop
 127.0.0.1 gov.omyvgr.info
@@ -59245,7 +59240,6 @@
 127.0.0.1 hawow.com
 127.0.0.1 hawsuffer.com
 127.0.0.1 haxbyq.com
-127.0.0.1 haxqxd.xyz
 127.0.0.1 haxsite.com
 127.0.0.1 haxsoft.com
 127.0.0.1 hayahost.com
@@ -62099,7 +62093,6 @@
 127.0.0.1 hwpvbdj.xyz
 127.0.0.1 hwqloan.com
 127.0.0.1 hwrk.yt
-127.0.0.1 hwuogmusthxfpk.xyz
 127.0.0.1 hwvwxerw.xyz
 127.0.0.1 hwwop.fr
 127.0.0.1 hwydapkmi.com
@@ -84100,7 +84093,6 @@
 127.0.0.1 neiltest20171002gace.com
 127.0.0.1 neimanmaccuuss.com
 127.0.0.1 neinfpsl.com
-127.0.0.1 neinja9ht.top
 127.0.0.1 neinja9sb.top
 127.0.0.1 neinjo9vt.top
 127.0.0.1 neirong.funshion.com
@@ -84153,7 +84145,6 @@
 127.0.0.1 neonsister.com
 127.0.0.1 neonvendor.com
 127.0.0.1 neored.ai
-127.0.0.1 neornad.cn
 127.0.0.1 neosor.com
 127.0.0.1 neotekstudios.com
 127.0.0.1 neotizer.com
@@ -98096,6 +98087,7 @@
 127.0.0.1 pxu1ajsdhqr.life
 127.0.0.1 pxxnejx.xyz
 127.0.0.1 pxyepmwex.com
+127.0.0.1 pxyjqea.icu
 127.0.0.1 pxzrlf.xyz
 127.0.0.1 pyk.in-neo.cn
 127.0.0.1 pyknit.com
@@ -111106,7 +111098,6 @@
 127.0.0.1 soleina.fr
 127.0.0.1 solelyfun.com
 127.0.0.1 solelyfurniture.com
-127.0.0.1 solemnpreheal.com
 127.0.0.1 solemnvine.com
 127.0.0.1 solenise.com
 127.0.0.1 solethreat.com
@@ -122327,7 +122318,6 @@
 127.0.0.1 trackylw.info
 127.0.0.1 trackylx.info
 127.0.0.1 trackylz.info
-127.0.0.1 trackyr.info
 127.0.0.1 trackyv.info
 127.0.0.1 trackzapper.com
 127.0.0.1 traconf.net
@@ -125932,6 +125922,7 @@
 127.0.0.1 us.js2.yimg.com
 127.0.0.1 us.l.qq.com
 127.0.0.1 us.lgsmartad.com
+127.0.0.1 us.mplis.gov.vn
 127.0.0.1 us06webzoomus.pro
 127.0.0.1 us2-eat-a-w-s.blogspot.com
 127.0.0.1 us3h.com
@@ -127640,7 +127631,6 @@
 127.0.0.1 veranstaltungen-regional.de
 127.0.0.1 veranstaltungen.lenggries.de
 127.0.0.1 verbaucher-highlights.de
-127.0.0.1 verbcardinal.com
 127.0.0.1 verbenaschaussons.fr
 127.0.0.1 verboliatsiaeeees.com
 127.0.0.1 verbraucher-flugrechte.com
@@ -128396,7 +128386,6 @@
 127.0.0.1 viiiaypg.com
 127.0.0.1 viiigbxo.com
 127.0.0.1 viiigle.com
-127.0.0.1 viiinfo.com
 127.0.0.1 viiioktg.com
 127.0.0.1 viiith.com
 127.0.0.1 viiithia.com
@@ -133518,6 +133507,7 @@
 127.0.0.1 wwwwwwwwwtickets-faceb0ok.emochila.com
 127.0.0.1 wwwwwwwwwtixck3ers-facebo0k.emochila.com
 127.0.0.1 wwwwwwwwwtuixcketgse-facebo0k.emochila.com
+127.0.0.1 wwwwzeraqvrej.top
 127.0.0.1 wwwyoutube.com
 127.0.0.1 wwwzapas.cn
 127.0.0.1 wx.sendastrer.com
@@ -133873,7 +133863,6 @@
 127.0.0.1 xemhang.vn
 127.0.0.1 xena.ad
 127.0.0.1 xenjswd.cn
-127.0.0.1 xenodochial-liskov.34-125-197-109.plesk.page
 127.0.0.1 xenomc.com
 127.0.0.1 xenosmussal.com
 127.0.0.1 xenylclio.com
@@ -135271,6 +135260,7 @@
 127.0.0.1 y.sphinxtube.com
 127.0.0.1 y000.wyff4.com
 127.0.0.1 y06ney2v.xyz
+127.0.0.1 y0mwy.icu
 127.0.0.1 y0utube.xyz
 127.0.0.1 y0zvqpi42no.life
 127.0.0.1 y1.junshitt.com

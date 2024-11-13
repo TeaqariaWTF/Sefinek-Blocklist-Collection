@@ -1,9 +1,9 @@
-# Version: 202411131006
+# Version: 202411131207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 137998
-# Last modified: 2024-11-13T10:06:52+0000
+! Entries: 137988
+# Last modified: 2024-11-13T12:07:05+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2169,8 +2169,6 @@
 0.0.0.0 2smarttracker.com
 0.0.0.0 2spdo6g9h.de
 0.0.0.0 2squared.com
-0.0.0.0 2t3.alpin.de
-0.0.0.0 2t3.kicker.de
 0.0.0.0 2t4f7g9a.de
 0.0.0.0 2t64z2.shet.eveshamairporttransfers.co.uk
 0.0.0.0 2ta5l5rc0.de
@@ -7258,7 +7256,6 @@
 0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technews-iran.com
 0.0.0.0 ad.tencentmusic.com
-0.0.0.0 ad.terra.com
 0.0.0.0 ad.terra.com.mx
 0.0.0.0 ad.terra.doubleclick.net
 0.0.0.0 ad.test.ximalaya.com
@@ -8826,6 +8823,7 @@
 0.0.0.0 ads.adfork.kr
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.adhall.com
+0.0.0.0 ads.adinmotech.com
 0.0.0.0 ads.admaru.com
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 ads.administrator.de
@@ -14488,6 +14486,7 @@
 0.0.0.0 analytics.midwesternmac.com
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.mlstatic.com
+0.0.0.0 analytics.mobiedu.vn
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobilegamestats.com
@@ -29928,6 +29927,7 @@
 0.0.0.0 chuongtrinhgionghatvietnamnhi2021.weebly.com
 0.0.0.0 chuopayzo.blogspot.com
 0.0.0.0 chupacabraestavivo.duckdns.org
+0.0.0.0 chupl.icu
 0.0.0.0 chuptuwais.com
 0.0.0.0 church-insight.gl.at.ply.gg
 0.0.0.0 churchalexis.com
@@ -35550,6 +35550,7 @@
 0.0.0.0 cwconsultores.cnt.br
 0.0.0.0 cwdata.itsearch.co.kr
 0.0.0.0 cweb.ws
+0.0.0.0 cweisif.top
 0.0.0.0 cwhrealestate.com
 0.0.0.0 cwhsmgs1.cn
 0.0.0.0 cwnetworkmparticle.112.2o7.net
@@ -43926,7 +43927,6 @@
 0.0.0.0 eephoawaum.com
 0.0.0.0 eeps.me
 0.0.0.0 eepsoumt.com
-0.0.0.0 eepsukso.com
 0.0.0.0 eeptoabs.com
 0.0.0.0 eeptushe.xyz
 0.0.0.0 eepubblica.it
@@ -44421,7 +44421,6 @@
 0.0.0.0 elinvarpayola.com
 0.0.0.0 elisadalbosco.com
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 eliscord.com
 0.0.0.0 elisehagedoorn.com
 0.0.0.0 elisehassoun.com
 0.0.0.0 eliss-vas.com
@@ -48005,7 +48004,6 @@
 0.0.0.0 fancyactivity.com
 0.0.0.0 fancyapi.com
 0.0.0.0 fancyclo.shop
-0.0.0.0 fancycredithome.com
 0.0.0.0 fancydoctrinepermanently.com
 0.0.0.0 fancydune.com
 0.0.0.0 fancygrove.com
@@ -52452,7 +52450,6 @@
 0.0.0.0 g4s.nfss.my.id
 0.0.0.0 g4u22g.blogspot.com
 0.0.0.0 g4va.kdcad.com
-0.0.0.0 g5fzq2l.com
 0.0.0.0 g5rkmcc9f.com
 0.0.0.0 g6-gonight.org
 0.0.0.0 g6fitness.com
@@ -53152,7 +53149,6 @@
 0.0.0.0 gayal.maxmasnick.com
 0.0.0.0 gayal.stockshouse.co
 0.0.0.0 gayeah.cn
-0.0.0.0 gaymormon.com
 0.0.0.0 gaysgodating.com
 0.0.0.0 gaystryst.com
 0.0.0.0 gaytwddahpave.com
@@ -56433,7 +56429,6 @@
 0.0.0.0 gov.odxhzvlbngr.homes
 0.0.0.0 gov.ofngr.biz
 0.0.0.0 gov.ohtrgr.sbs
-0.0.0.0 gov.okpgr.buzz
 0.0.0.0 gov.olegr.sbs
 0.0.0.0 gov.olocxigr.shop
 0.0.0.0 gov.omyvgr.info
@@ -59245,7 +59240,6 @@
 0.0.0.0 hawow.com
 0.0.0.0 hawsuffer.com
 0.0.0.0 haxbyq.com
-0.0.0.0 haxqxd.xyz
 0.0.0.0 haxsite.com
 0.0.0.0 haxsoft.com
 0.0.0.0 hayahost.com
@@ -62099,7 +62093,6 @@
 0.0.0.0 hwpvbdj.xyz
 0.0.0.0 hwqloan.com
 0.0.0.0 hwrk.yt
-0.0.0.0 hwuogmusthxfpk.xyz
 0.0.0.0 hwvwxerw.xyz
 0.0.0.0 hwwop.fr
 0.0.0.0 hwydapkmi.com
@@ -84100,7 +84093,6 @@
 0.0.0.0 neiltest20171002gace.com
 0.0.0.0 neimanmaccuuss.com
 0.0.0.0 neinfpsl.com
-0.0.0.0 neinja9ht.top
 0.0.0.0 neinja9sb.top
 0.0.0.0 neinjo9vt.top
 0.0.0.0 neirong.funshion.com
@@ -84153,7 +84145,6 @@
 0.0.0.0 neonsister.com
 0.0.0.0 neonvendor.com
 0.0.0.0 neored.ai
-0.0.0.0 neornad.cn
 0.0.0.0 neosor.com
 0.0.0.0 neotekstudios.com
 0.0.0.0 neotizer.com
@@ -98096,6 +98087,7 @@
 0.0.0.0 pxu1ajsdhqr.life
 0.0.0.0 pxxnejx.xyz
 0.0.0.0 pxyepmwex.com
+0.0.0.0 pxyjqea.icu
 0.0.0.0 pxzrlf.xyz
 0.0.0.0 pyk.in-neo.cn
 0.0.0.0 pyknit.com
@@ -111106,7 +111098,6 @@
 0.0.0.0 soleina.fr
 0.0.0.0 solelyfun.com
 0.0.0.0 solelyfurniture.com
-0.0.0.0 solemnpreheal.com
 0.0.0.0 solemnvine.com
 0.0.0.0 solenise.com
 0.0.0.0 solethreat.com
@@ -122327,7 +122318,6 @@
 0.0.0.0 trackylw.info
 0.0.0.0 trackylx.info
 0.0.0.0 trackylz.info
-0.0.0.0 trackyr.info
 0.0.0.0 trackyv.info
 0.0.0.0 trackzapper.com
 0.0.0.0 traconf.net
@@ -125932,6 +125922,7 @@
 0.0.0.0 us.js2.yimg.com
 0.0.0.0 us.l.qq.com
 0.0.0.0 us.lgsmartad.com
+0.0.0.0 us.mplis.gov.vn
 0.0.0.0 us06webzoomus.pro
 0.0.0.0 us2-eat-a-w-s.blogspot.com
 0.0.0.0 us3h.com
@@ -127640,7 +127631,6 @@
 0.0.0.0 veranstaltungen-regional.de
 0.0.0.0 veranstaltungen.lenggries.de
 0.0.0.0 verbaucher-highlights.de
-0.0.0.0 verbcardinal.com
 0.0.0.0 verbenaschaussons.fr
 0.0.0.0 verboliatsiaeeees.com
 0.0.0.0 verbraucher-flugrechte.com
@@ -128396,7 +128386,6 @@
 0.0.0.0 viiiaypg.com
 0.0.0.0 viiigbxo.com
 0.0.0.0 viiigle.com
-0.0.0.0 viiinfo.com
 0.0.0.0 viiioktg.com
 0.0.0.0 viiith.com
 0.0.0.0 viiithia.com
@@ -133518,6 +133507,7 @@
 0.0.0.0 wwwwwwwwwtickets-faceb0ok.emochila.com
 0.0.0.0 wwwwwwwwwtixck3ers-facebo0k.emochila.com
 0.0.0.0 wwwwwwwwwtuixcketgse-facebo0k.emochila.com
+0.0.0.0 wwwwzeraqvrej.top
 0.0.0.0 wwwyoutube.com
 0.0.0.0 wwwzapas.cn
 0.0.0.0 wx.sendastrer.com
@@ -133873,7 +133863,6 @@
 0.0.0.0 xemhang.vn
 0.0.0.0 xena.ad
 0.0.0.0 xenjswd.cn
-0.0.0.0 xenodochial-liskov.34-125-197-109.plesk.page
 0.0.0.0 xenomc.com
 0.0.0.0 xenosmussal.com
 0.0.0.0 xenylclio.com
@@ -135271,6 +135260,7 @@
 0.0.0.0 y.sphinxtube.com
 0.0.0.0 y000.wyff4.com
 0.0.0.0 y06ney2v.xyz
+0.0.0.0 y0mwy.icu
 0.0.0.0 y0utube.xyz
 0.0.0.0 y0zvqpi42no.life
 0.0.0.0 y1.junshitt.com
