@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,275
-# Updated: 11/13/2024  22:37 (10:37 PM CST)
+# Domains: 20,334
+# Updated: 11/14/2024  15:40 (3:40 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1071,6 +1071,7 @@
 0.0.0.0 ad.activesolutions.cz
 0.0.0.0 adact.me
 0.0.0.0 adacus.com
+0.0.0.0 ad-adapex.io
 0.0.0.0 adad.com.au
 0.0.0.0 adadda.group
 0.0.0.0 ad.adesk.com
@@ -1954,7 +1955,10 @@
 0.0.0.0 adlooker.com
 0.0.0.0 adlook.me
 0.0.0.0 adlook.net
+0.0.0.0 adloop.centerparcs.fr
+0.0.0.0 adloop.centerparcs.nl
 0.0.0.0 adloop.co
+0.0.0.0 adloop.pierreetvacances.com
 0.0.0.0 adloox.com
 0.0.0.0 ad.lottorich.co.kr
 0.0.0.0 adltrk.com
@@ -2384,6 +2388,7 @@
 0.0.0.0 adprime.com
 0.0.0.0 adprimehealth.com
 0.0.0.0 adprimemedia.com
+0.0.0.0 adprimus.com
 0.0.0.0 adpro.com.ua
 0.0.0.0 ad-production-stage.com
 0.0.0.0 ad.profesia.sk
@@ -2492,10 +2497,14 @@
 0.0.0.0 ads.0xbt.net
 0.0.0.0 ads.102.am0n.com
 0.0.0.0 ads11.panoramaaudiovisual.com
+0.0.0.0 ads12.adtelli.com
 0.0.0.0 ads.14news.com.br
 0.0.0.0 ads.1551.lt
+0.0.0.0 ads17.divan.tv
 0.0.0.0 ads180.com
+0.0.0.0 ads18.divan.tv
 0.0.0.0 ads.1997media.com
+0.0.0.0 ads19.divan.tv
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads.1a-infosysteme.de
 0.0.0.0 ads1.damrei.digital
@@ -2557,6 +2566,7 @@
 0.0.0.0 ads3.fingersoft.net
 0.0.0.0 ads3.koreatesol.org
 0.0.0.0 ads3.webdrive.no
+0.0.0.0 ads49.platform.octogonehb.com
 0.0.0.0 ads4bits.net
 0.0.0.0 ads4.northamericatalk.com
 0.0.0.0 ads4pics.com
@@ -2893,6 +2903,7 @@
 0.0.0.0 ads.circuitsonline.net
 0.0.0.0 ads.cisde.net
 0.0.0.0 ads.citymapper.com
+0.0.0.0 ads.citytv.com.co
 0.0.0.0 ads.ck101.com
 0.0.0.0 ads.ckcdn.com
 0.0.0.0 ads.clasificadox.com
@@ -2993,6 +3004,7 @@
 0.0.0.0 ads.dhakatimes24.com
 0.0.0.0 ads.dialmyapp.com
 0.0.0.0 ads.diaperpin.me
+0.0.0.0 ads.diarioadn.co
 0.0.0.0 ads.diariocritico.com
 0.0.0.0 ads.diariodehuelva.es
 0.0.0.0 ads.diarisom.cat
@@ -3073,6 +3085,7 @@
 0.0.0.0 ads.elo.io
 0.0.0.0 ads.elpasoheraldpost.com
 0.0.0.0 ads.eltiempo.co
+0.0.0.0 ads.eltiempo.com
 0.0.0.0 ads.embalagemmarca.com.br
 0.0.0.0 adsemble.com
 0.0.0.0 ads.emdee.ca
@@ -3137,6 +3150,7 @@
 0.0.0.0 adserve.ph
 0.0.0.0 adserver01.de
 0.0.0.0 adserver01.verio.com
+0.0.0.0 adserver02.vertismedia.co.uk
 0.0.0.0 adserver.0--x--0.com
 0.0.0.0 adserver.10km.de
 0.0.0.0 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
@@ -3414,6 +3428,7 @@
 0.0.0.0 adserver.industryarena.com
 0.0.0.0 adserver.info7.mx
 0.0.0.0 adserver.infoabi.ee
+0.0.0.0 adserver.infotorg.se
 0.0.0.0 adserver.insidertravelreport.com
 0.0.0.0 adserver.insol.org
 0.0.0.0 adserver.instructo.nl
@@ -3601,6 +3616,7 @@
 0.0.0.0 adserver.roimedianetwork.com
 0.0.0.0 adserver.rotabene.de
 0.0.0.0 adserver.rsmediaserver.com
+0.0.0.0 adserver.rtvutrechtreclame.nl
 0.0.0.0 adserver.saldo.hu
 0.0.0.0 adserver.sapiens.cat
 0.0.0.0 adserver.sapienspublicacions.com
@@ -4100,6 +4116,7 @@
 0.0.0.0 ads.funkkombiwest.de
 0.0.0.0 adsfunnels.com
 0.0.0.0 ads.fusionnetwork.net
+0.0.0.0 ads.futbolred.com
 0.0.0.0 ads.f-wf.de
 0.0.0.0 ads.gadgetsquad.id
 0.0.0.0 adsgaga.com
@@ -4411,6 +4428,7 @@
 0.0.0.0 ads.lerepertoire.co.il
 0.0.0.0 ads.les4h.fr
 0.0.0.0 ads.lesznolokalnie.pl
+0.0.0.0 ads.lexpress.fr
 0.0.0.0 ads.libertas.mk
 0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.librebor.me
@@ -4522,6 +4540,7 @@
 0.0.0.0 ads.meineregiononline.de
 0.0.0.0 ads.meinteresa.com
 0.0.0.0 adsmelody.com
+0.0.0.0 ads.menamobile.net
 0.0.0.0 ads.meni.com
 0.0.0.0 ads.merakmedia.es
 0.0.0.0 ads.meridianbet.ba
@@ -5108,6 +5127,7 @@
 0.0.0.0 adstarsmedia.co.id
 0.0.0.0 adstartr.com
 0.0.0.0 adstatic.com
+0.0.0.0 adstatic.kozoom.com
 0.0.0.0 adstats.live
 0.0.0.0 ads.tattooawards.com
 0.0.0.0 ad-stax.com
@@ -5478,6 +5498,7 @@
 0.0.0.0 adtaxi.com
 0.0.0.0 adtaxinetworks.com
 0.0.0.0 adtcdn.com
+0.0.0.0 adtcontent.com
 0.0.0.0 ad.tdk.com.edgekey.net
 0.0.0.0 adtdp.com
 0.0.0.0 adtech.abs-cbn.com
@@ -5584,6 +5605,7 @@
 0.0.0.0 ad.tunbox.com
 0.0.0.0 adtuo.com
 0.0.0.0 ad.turn.com.akadns.net
+0.0.0.0 ad.tvazteca.com
 0.0.0.0 adtwirl.com
 0.0.0.0 adtycoons.com
 0.0.0.0 adtype.com
@@ -6065,6 +6087,7 @@
 0.0.0.0 adxmi.com
 0.0.0.0 ad.xmmnsl.com
 0.0.0.0 adxnexus.com
+0.0.0.0 adxoclick.com
 0.0.0.0 adxoo.com
 0.0.0.0 adx.opera.com
 0.0.0.0 ad.xopom.com
@@ -6696,6 +6719,7 @@
 0.0.0.0 api.hvapi.com
 0.0.0.0 api.kekw.website
 0.0.0.0 api.kekw.world
+0.0.0.0 api.metrike.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.ngamgaixinh.art
 0.0.0.0 api-notification-service.inpixio.com
@@ -6949,6 +6973,7 @@
 0.0.0.0 assets.capterra.com
 0.0.0.0 assets.gunwarranty.com
 0.0.0.0 assets.jumpstartmediavault.com
+0.0.0.0 assets.lintigroup.se
 0.0.0.0 assets.newsmaxwidget.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.repair.org
@@ -6993,6 +7018,7 @@
 0.0.0.0 atozadvertising.com
 0.0.0.0 ats.otto.de
 0.0.0.0 attendthinktank.com
+0.0.0.0 atunwadigital.com
 0.0.0.0 atuoep.com
 0.0.0.0 auctionhook.net
 0.0.0.0 auctionnudge.com
@@ -7038,6 +7064,7 @@
 0.0.0.0 autopush.prod.mozaws.net
 0.0.0.0 autoroll.biz
 0.0.0.0 autoroll.info
+0.0.0.0 aux-log.bidmatic.io
 0.0.0.0 auxmoney-partnerprogramm.de
 0.0.0.0 av5.mofoshd.org
 0.0.0.0 avada.io
@@ -7552,6 +7579,7 @@
 0.0.0.0 bidderads.com
 0.0.0.0 biddercore.io
 0.0.0.0 bidder.dev
+0.0.0.0 bidder.gamx.io
 0.0.0.0 bidder-imp.novabeyond.com
 0.0.0.0 bidderstack.com
 0.0.0.0 biddertmz.com
@@ -9462,6 +9490,7 @@
 0.0.0.0 dbcpu9gznkryx.cloudfront.net
 0.0.0.0 dbejeqv8nk3po.cloudfront.net
 0.0.0.0 dbidatatech.com
+0.0.0.0 d.bidmatic.io
 0.0.0.0 dblks.net
 0.0.0.0 dbm-media.com
 0.0.0.0 dbt.dopascalls.1und1.de
@@ -9901,6 +9930,12 @@
 0.0.0.0 dsfffmb.mobi
 0.0.0.0 dsiofhdoj.com
 0.0.0.0 dsnrtg.com
+0.0.0.0 dsp2.clicknetic.media
+0.0.0.0 dsp2.globaldigital.com.ua
+0.0.0.0 dsp2.platform-hetcash.com
+0.0.0.0 dsp35.platform-hetcash.com
+0.0.0.0 dsp3.globaldigital.com.ua
+0.0.0.0 dsp3.platform-hetcash.com
 0.0.0.0 dsp5stero.com
 0.0.0.0 dspunion.com
 0.0.0.0 dt71.net
@@ -10941,7 +10976,10 @@
 0.0.0.0 ggwcash.com
 0.0.0.0 gh3hswoo.sdbrrrr.lat
 0.0.0.0 ghanchimedia.com
+0.0.0.0 ghb.app.copper6.com
+0.0.0.0 ghb.bidmatic.io
 0.0.0.0 ghbps.com
+0.0.0.0 ghb.yieldlift.io
 0.0.0.0 ghcvpd.com
 0.0.0.0 ghgh.online
 0.0.0.0 ghostcash.com
@@ -11257,6 +11295,7 @@
 0.0.0.0 gustocooking.com
 0.0.0.0 gutgdw.com
 0.0.0.0 gu-xi-poo.space
+0.0.0.0 gx-bid.com
 0.0.0.0 gxcwa5.com
 0.0.0.0 gyanwave.com
 0.0.0.0 gyfwz.com
@@ -11316,6 +11355,7 @@
 0.0.0.0 hazicu.hothomefuck.com
 0.0.0.0 hazmatworkshop.com
 0.0.0.0 hb.20m.es
+0.0.0.0 hb.ads.sellwild.com
 0.0.0.0 hbfqcy.com
 0.0.0.0 h-bid.com
 0.0.0.0 hb.lifecycle.norton.com
@@ -12401,6 +12441,7 @@
 0.0.0.0 ksand.com
 0.0.0.0 kseries.in
 0.0.0.0 kspotson.de
+0.0.0.0 ksync.bidmatic.io
 0.0.0.0 kta.etherscan.com
 0.0.0.0 ktkjmp.com
 0.0.0.0 kubient.com
@@ -13434,6 +13475,7 @@
 0.0.0.0 moda-cdp-message-prd-7jirubb0.uc.gateway.dev
 0.0.0.0 modal-widget.services.dealerspike.net
 0.0.0.0 modbs.pressflex.net
+0.0.0.0 modoro360.com
 0.0.0.0 modulous.huffpost.com
 0.0.0.0 moe.video
 0.0.0.0 moevideo.com
@@ -14431,6 +14473,7 @@
 0.0.0.0 optoutadvertising.com
 0.0.0.0 opuscom.ca
 0.0.0.0 opus.com.pk
+0.0.0.0 opx.webtool.net
 0.0.0.0 oqamicab.xyz
 0.0.0.0 oralfish.com
 0.0.0.0 oranemedia.com
@@ -14768,6 +14811,7 @@
 0.0.0.0 pfsrvs.com
 0.0.0.0 pftfk.com
 0.0.0.0 p.ftwpcn.com
+0.0.0.0 pgammedia.com
 0.0.0.0 p.gecl.xyz
 0.0.0.0 p.gelhp.com
 0.0.0.0 p.genfpm.com
@@ -14899,7 +14943,6 @@
 0.0.0.0 player.isocrates.com
 0.0.0.0 player.reklamvidi.net
 0.0.0.0 playersagency.ru
-0.0.0.0 player.stoic-media.com
 0.0.0.0 playeven.in
 0.0.0.0 playfulriver.com
 0.0.0.0 playground.xyz
@@ -15149,6 +15192,7 @@
 0.0.0.0 premiumads.com.br
 0.0.0.0 premiumbesucher.de
 0.0.0.0 premiumcash.com
+0.0.0.0 premiumimpression.com
 0.0.0.0 pre.myfuck.club
 0.0.0.0 preonesetro.com
 0.0.0.0 presage.io
@@ -15617,10 +15661,16 @@
 0.0.0.0 putbid.net
 0.0.0.0 putrid-experience.pro
 0.0.0.0 puuzan.com
+0.0.0.0 pv.aramisauto.com
+0.0.0.0 pv.claudiepierlot.com
 0.0.0.0 p.verwh.com
 0.0.0.0 pvf680.top
 0.0.0.0 p.viowrel.com
+0.0.0.0 pv.izy.com
+0.0.0.0 pv.maje.com
 0.0.0.0 pvnsolutions.com
+0.0.0.0 pv.sandro-paris.com
+0.0.0.0 pv.thalys.com
 0.0.0.0 pvuuvp.online
 0.0.0.0 pwa-media.org
 0.0.0.0 pwapi.washingtonpost.com
@@ -16244,7 +16294,6 @@
 0.0.0.0 rollads.live
 0.0.0.0 rollerads.com
 0.0.0.0 rollmeout.xyz
-0.0.0.0 rollserver.xyz
 0.0.0.0 romance-net.com
 0.0.0.0 rooksadvertising.com
 0.0.0.0 rooksagency.com
@@ -16614,6 +16663,7 @@
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbinternet.com
 0.0.0.0 rtbiq.com
+0.0.0.0 rtb.junnya.com
 0.0.0.0 rtbmarket.com
 0.0.0.0 rtbmarkt.de
 0.0.0.0 rtbpanda.com
@@ -16624,6 +16674,7 @@
 0.0.0.0 rtbsuperhub.com
 0.0.0.0 rtbsystem.com
 0.0.0.0 rtbtraf.com
+0.0.0.0 rtb.yogiballs.com
 0.0.0.0 rtg-adroute.focas.jp
 0.0.0.0 rtk.io
 0.0.0.0 rtmark.net
@@ -17096,6 +17147,7 @@
 0.0.0.0 servedby.pinktriangle.ca
 0.0.0.0 servedby.polity.org.za
 0.0.0.0 servedby.portwest.com
+0.0.0.0 servedby.quirks.com
 0.0.0.0 servedby.schrotundkorn.de
 0.0.0.0 servedby.smartframe.io
 0.0.0.0 servedby.tahoe.com
@@ -17111,7 +17163,6 @@
 0.0.0.0 servetraff.com
 0.0.0.0 serve.vitzo.com
 0.0.0.0 servg1.net
-0.0.0.0 servg.adprimus.com
 0.0.0.0 servg.opamarketplace.com
 0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 service.alitrip.com
@@ -17127,14 +17178,11 @@
 0.0.0.0 servlab.net
 0.0.0.0 servproc.de
 0.0.0.0 servs.soldbyphonder.com
-0.0.0.0 servs.unrulyvideo.com
 0.0.0.0 servt.reklamvidi.net
 0.0.0.0 servt.sbrands-prg.com
-0.0.0.0 serv.unrulyvideo.com
 0.0.0.0 servx.lunavideos.com
 0.0.0.0 servx.sbrands-prg.com
 0.0.0.0 servx.take1vast.com
-0.0.0.0 servx.unrulyvideo.com
 0.0.0.0 servx.urekamedia.co
 0.0.0.0 servx.zmdvideo.com
 0.0.0.0 sesamepr.inkclub.com
@@ -17160,6 +17208,8 @@
 0.0.0.0 s.flocdn.com
 0.0.0.0 sfwe.tjaard11.xyz
 0.0.0.0 sgdmobile.com
+0.0.0.0 sghb.bidmatic.io
+0.0.0.0 sghb.yieldlift.io
 0.0.0.0 sghmho.com
 0.0.0.0 sgimage.netmarble.com
 0.0.0.0 sgirqr.com
@@ -17387,6 +17437,9 @@
 0.0.0.0 smartfeedads.com
 0.0.0.0 smart.gflesch.com
 0.0.0.0 smart.globaltranz.com
+0.0.0.0 smart.idealista.com
+0.0.0.0 smart.idealista.it
+0.0.0.0 smart.idealista.pt
 0.0.0.0 smartly.io
 0.0.0.0 smart.myccmortgage.com
 0.0.0.0 smartnews-ads.com
@@ -17817,6 +17870,7 @@
 0.0.0.0 stipat.com
 0.0.0.0 stirstuff.com
 0.0.0.0 stoaphalti.com
+0.0.0.0 stoic-media.com
 0.0.0.0 stonechin.com
 0.0.0.0 storader.com
 0.0.0.0 store4porn.com
@@ -17967,8 +18021,15 @@
 0.0.0.0 symplr.de
 0.0.0.0 synacor.com
 0.0.0.0 sync2ad.com
+0.0.0.0 sync.app.copper6.com
+0.0.0.0 sync.bidmatic.io
+0.0.0.0 sync.etalonco.com
+0.0.0.0 sync.etalonconsulting.com
 0.0.0.0 synchromesh.com.au
+0.0.0.0 sync.partyetalon.com
+0.0.0.0 sync.sumetalon.com
 0.0.0.0 sync.teads.tv.edgekey.net
+0.0.0.0 sync.theetalon.com
 0.0.0.0 sync.tv
 0.0.0.0 sync-unosync-com.geodns.me
 0.0.0.0 syndicatedsearch.goog
@@ -18183,10 +18244,7 @@
 0.0.0.0 tfcash.com
 0.0.0.0 t.frtyk.com
 0.0.0.0 tfxnl.pro
-0.0.0.0 tg1.atunwadigital.com
-0.0.0.0 tg1.modoro360.com
 0.0.0.0 tg1.playstream.media
-0.0.0.0 tg1.unrulyvideo.com
 0.0.0.0 tgaqxo.com
 0.0.0.0 tgknt.com
 0.0.0.0 tgpteam.com
@@ -18866,6 +18924,7 @@
 0.0.0.0 unrulymedia.fr
 0.0.0.0 unrulymorning.pro
 0.0.0.0 unruly.systems
+0.0.0.0 unrulyvideo.com
 0.0.0.0 unselfishfun.pro
 0.0.0.0 untriedcause.pro
 0.0.0.0 untriednegative.com
