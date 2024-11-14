@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-14 01:34:13 (UTC)                      #
+# Last updated: 2024-11-14 02:44:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,8 +11,6 @@
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
-0.0.0.0 aaaee.from-wa.com
-0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 adp-auth.com
@@ -27,8 +25,6 @@
 0.0.0.0 armanayegh.com
 0.0.0.0 asianchow.com
 0.0.0.0 aulist.com
-0.0.0.0 avastop.com
-0.0.0.0 avastpx.com
 0.0.0.0 avc.events.socalpocis.org
 0.0.0.0 azczxs.from-nd.com
 0.0.0.0 bestmagazineforanimalsunicum.ru
@@ -55,6 +51,7 @@
 0.0.0.0 dfvdfvfddf.is-a-anarchist.com
 0.0.0.0 dgdfb.groks-this.info
 0.0.0.0 dhnconstrucciones.com.ar
+0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
@@ -141,7 +138,6 @@
 0.0.0.0 kykgenot.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 maan2u.com
@@ -149,6 +145,7 @@
 0.0.0.0 mbsngradnja.com
 0.0.0.0 meeweb.com
 0.0.0.0 mertvinc.com.tr
+0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 mkotl.strategies.mvpstrat.com
 0.0.0.0 mundiprep.com
@@ -199,7 +196,6 @@
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
-0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
 0.0.0.0 spaceframe.mobi.space-frame.co.za
@@ -227,7 +223,6 @@
 0.0.0.0 tzc.events.socalpocis.org
 0.0.0.0 ujuju.from-md.com
 0.0.0.0 ujujuju.from-pa.com
-0.0.0.0 ujujuju.is-a-anarchist.com
 0.0.0.0 ujujuju.is-a-painter.com
 0.0.0.0 ujujuju.is-a-republican.com
 0.0.0.0 ujujuju.is-uberleet.com
@@ -250,6 +245,7 @@
 0.0.0.0 wrwwewfe.merseine.org
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atordeg.com.br
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
@@ -274,7 +270,6 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
-0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
@@ -290,4 +285,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
 0.0.0.0 zvczcz.saves-the-whales.com
-# Number of entries: 284
+# Number of entries: 279
