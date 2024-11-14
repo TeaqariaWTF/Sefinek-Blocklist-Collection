@@ -1,8 +1,8 @@
 !
 !    File: Ads
 !    Info: Advertisements, Banners, Widgets & Push Notifications
-! Domains: 20,250
-! Updated: 11/13/2024  11:10 (11:10 AM CST)
+! Domains: 20,281
+! Updated: 11/13/2024  21:42 (9:42 PM CST)
 !
 !     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 !     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -732,6 +732,7 @@
 ||a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com^
 ||a9.ca^
 ||a9.com^
+||a.9game.cn^
 ||a9g.io^
 ||aa.1gr.cz^
 ||aa665599aa.com^
@@ -6514,6 +6515,7 @@
 ||alphamob.pl^
 ||alphonso.tv^
 ||alrayyaninternational.com^
+||alsc-config.ele.me^
 ||alspearowa.com^
 ||altbeacon.org^
 ||alternativeadverts.com^
@@ -6684,6 +6686,7 @@
 ||api-ad-bidding-us.4wps.net^
 ||api-adservices.apple.com^
 ||apiads.gg.pl^
+||api.alibaba-inc.com^
 ||api.animeshqip.icu^
 ||api.condenast.io^
 ||api.directus.libertycdn.com^
@@ -7393,6 +7396,7 @@
 ||b.big7.com^
 ||bbmedia.cz^
 ||bbn.img.com.ua^
+||bbs.9game.cn^
 ||bbstatic.ign.com^
 ||bbvb.online^
 ||bcansw.com.au^
@@ -8101,6 +8105,7 @@
 ||cafl.com^
 ||cafmjvh7.ru^
 ||cairalei.com^
+||caishen.alibaba-inc.com^
 ||calexito.com^
 ||callahan.agency^
 ||callalelel.info^
@@ -9433,6 +9438,7 @@
 ||dashboard.evolveplatform.net^
 ||dashtwo.com^
 ||daswercd.filasofighit.com^
+||data-api-zb.dayu.com^
 ||datablocks.net^
 ||data-cash.net^
 ||data-cash.network^
@@ -9517,6 +9523,7 @@
 ||deepfriedads.com^
 ||deepfried.com^
 ||deepseaadvertising.com^
+||def.alibaba-inc.com^
 ||defaultapeclix.com^
 ||defensevest.com^
 ||defensiveevidence.pro^
@@ -10432,9 +10439,11 @@
 ||faunaads.com^
 ||fave.co^
 ||favouritecash.com^
+||faxian.etao.com^
 ||fbappi.co^
 ||fbcctf.com^
 ||fbofferads.com^
+||fc.ele.me^
 ||fcm.googleapis.com^
 ||fcmtoken.googleapis.com^
 ||fcm-xmpp.googleapis.com^
@@ -10743,6 +10752,8 @@
 ||fuseideas.com^
 ||fuseplatform.net^
 ||fusionads.net^
+||fusion.alibaba-inc.com^
+||fusion-demo.alibaba-inc.com^
 ||fusionos.ai^
 ||fussy-highway.pro^
 ||futureads.com^
@@ -10835,6 +10846,7 @@
 ||gbscript.com^
 ||gbupl.com^
 ||gbwwh.co.il^
+||gcase.homestyler.com^
 ||gcdn.2mdn.net^
 ||gcjs.genmonet.com^
 ||gcmadvertising.com^
@@ -10980,6 +10992,7 @@
 ||globaladspace.com^
 ||globaladsrv.com^
 ||globaladvertising.io^
+||global-api.homestyler.com^
 ||global.com^
 ||globaldigitaladagency.com^
 ||globalldsl.com^
@@ -11232,6 +11245,7 @@
 ||gstaticadssl.l.google.com^
 ||gswtol.com^
 ||gtlpaj.com^
+||gtvads.com^
 ||guacamoleadvertising.com^
 ||guanggaotu2.oss-cn-beijing.aliyuncs.com^
 ||guarantee-cdn.com^
@@ -11241,6 +11255,7 @@
 ||guildalpha.com^
 ||guile.jp^
 ||gumgum.com^
+||guoguouser.cainiao.com^
 ||gurl.eu.org^
 ||guruleads.ru^
 ||gustocooking.com^
@@ -11376,6 +11391,7 @@
 ||highstreetad.com^
 ||hightles.com^
 ||hightower.video^
+||highway-tb.ele.me^
 ||hihgin.com^
 ||hilltopads.com^
 ||hilltopads.net^
@@ -11456,6 +11472,7 @@
 ||hostpush.info^
 ||hotadposter.com^
 ||hot-banner.de^
+||hotel.alitrip.com^
 ||hotelmilad.com^
 ||hothotyoga.net^
 ||hot-mob.co.jp^
@@ -11542,6 +11559,7 @@
 ||i2w.io^
 ||i3lanat.alfajertv.com^
 ||i3lanate.com^
+||i.9game.cn^
 ||iabargentina.com.ar^
 ||iab.com^
 ||iabeurope.eu^
@@ -11679,6 +11697,7 @@
 ||imgbum.net^
 ||imgbum.ru^
 ||imgclasificados.emol.com^
+||imgcook.alibaba-inc.com^
 ||img.go2s.co^
 ||img.gokucdn.com^
 ||imglnke.com^
@@ -11934,6 +11953,8 @@
 ||ip219083135.ahcdn.com^
 ||ip266637217.ahcdn.com^
 ||ip284921632.ahcdn.com^
+||ipassport.ele.me^
+||ipassport.homestyler.com^
 ||ip-casual.com^
 ||ipgmediabrands.com^
 ||ipiech.com^
@@ -12335,6 +12356,7 @@
 ||kliks.nl^
 ||kliqz.com^
 ||kloutbuzz.com^
+||kmall.kaola.com^
 ||knit.audio^
 ||knkqjmjyxzev.info^
 ||knorex.com^
@@ -12586,6 +12608,7 @@
 ||lighthousecreatives.com^
 ||lightningcast.net^
 ||likablefix.pro^
+||like.etao.com^
 ||likenotify.com^
 ||limelightmedia.ng^
 ||limpingfish.pro^
@@ -13560,9 +13583,11 @@
 ||mtd-cpm.com^
 ||mtfmi.com^
 ||mthsense.com^
+||mtl4.alibaba-inc.com^
 ||mtlbigger.com^
 ||mtm.mystrify.com^
 ||mtools-article-search.dickssportinggoods.com^
+||mtop.koubei.com^
 ||mtpc.se^
 ||mtreexxx.net^
 ||mtusrede.de^
@@ -13686,6 +13711,7 @@
 ||n5725.com^
 ||n9s74npl.de^
 ||na0z0thlap.com^
+||na61-rmbsync-upaas.quark.cn^
 ||nababrew.com^
 ||nabs.org.uk^
 ||nacdigital.net^
@@ -14618,6 +14644,7 @@
 ||p.asdfix.com^
 ||p.asopn.com^
 ||pas.private4.com^
+||pass.alitrip.com^
 ||passendo.com^
 ||patgsrv.com^
 ||pathroutes.com^
@@ -14854,6 +14881,7 @@
 ||pkoqeg.com^
 ||pkqeg5z3xffs.info^
 ||pkracv.com^
+||place.alitrip.com^
 ||placelocal.com^
 ||plaintivedance.pro^
 ||planet49.com^
@@ -15896,7 +15924,6 @@
 ||recreativ.ru^
 ||recruitics.com^
 ||recruiting-ads.de^
-||recruitology.com^
 ||rectanglebd.com^
 ||red1r.com^
 ||redbutton-adproxy-lb-prod.redbutton.de^
@@ -17092,6 +17119,7 @@
 ||servg.adprimus.com^
 ||servg.opamarketplace.com^
 ||service-ad-image-ga.prd.pluto.tv^
+||service.alitrip.com^
 ||service.bv-aff-trx.com^
 ||service-cookie-sync.clusters.pluto.tv^
 ||servicedirect.com^
@@ -17115,6 +17143,7 @@
 ||servx.urekamedia.co^
 ||servx.zmdvideo.com^
 ||sesamepr.inkclub.com^
+||s.etao.com^
 ||setuadvertising.com^
 ||setupad.com^
 ||setupad-com.videoplayerhub.com^
@@ -17273,7 +17302,9 @@
 ||sjsmartcontent.org^
 ||skakpush.icu^
 ||skalden-media.de^
+||sk.alibaba-inc.com^
 ||skassets.com^
+||skcrtxr.com^
 ||skeetads.com^
 ||sketches.ae^
 ||skimlinks.com^
@@ -18451,8 +18482,6 @@
 ||tradelab.fr^
 ||tradeleads.su^
 ||trader.garant.ru^
-||tradetracker.net^
-||tradetracker.nl^
 ||trading-ad.net^
 ||tradingworks.com^
 ||tradplusad.com^
@@ -18529,7 +18558,6 @@
 ||travelaudience.com^
 ||traveler.contentondemand.es^
 ||travelpad.com^
-||travelpayouts.com^
 ||travesti.com^
 ||traxex.gannettdigital.com^
 ||trboadvance.com^
@@ -18760,6 +18788,7 @@
 ||ubiquity.ai^
 ||ublrfs.com^
 ||ucast.xyz^
+||ucc.umeng.com.gds.alibabadns.com^
 ||uciservice.com^
 ||uckaht.com^
 ||udaanmedia.com^
@@ -18805,6 +18834,7 @@
 ||undere.com^
 ||undertone.com^
 ||unelekidan.com^
+||unet.quark.cn^
 ||unfit-step.pro^
 ||unfoldmart.com^
 ||ungads.com^
@@ -18969,6 +18999,7 @@
 ||valuepotion.com^
 ||valuepotion.io^
 ||vamsoupowoa.com^
+||vanguard.aligames.com^
 ||vanishmemory.com^
 ||vanm.io^
 ||vast.holmesmind.com^
