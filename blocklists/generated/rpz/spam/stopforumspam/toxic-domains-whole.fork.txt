@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111401 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -32079,6 +32079,8 @@ email.apollo-training.de CNAME .
 *.email.apollo-training.de CNAME .
 email.com.co CNAME .
 *.email.com.co CNAME .
+email.gplupx.com CNAME .
+*.email.gplupx.com CNAME .
 email.imailfree.cc CNAME .
 *.email.imailfree.cc CNAME .
 email.mbd.one CNAME .
@@ -35463,6 +35465,8 @@ feerock.com CNAME .
 *.feerock.com CNAME .
 feesearac.ml CNAME .
 *.feesearac.ml CNAME .
+feesites.com CNAME .
+*.feesites.com CNAME .
 feetiture.site CNAME .
 *.feetiture.site CNAME .
 feetwel.shop CNAME .
@@ -41229,6 +41233,8 @@ goeho.com CNAME .
 *.goeho.com CNAME .
 goerieblog.com CNAME .
 *.goerieblog.com CNAME .
+goeschman.com CNAME .
+*.goeschman.com CNAME .
 goessayhelp.com CNAME .
 *.goessayhelp.com CNAME .
 goewey.cheapgreenteabags.com CNAME .
@@ -64491,6 +64497,8 @@ mustekautomation.com CNAME .
 *.mustekautomation.com CNAME .
 mustillie.site CNAME .
 *.mustillie.site CNAME .
+mustseeme.com CNAME .
+*.mustseeme.com CNAME .
 musttttaff.cloud CNAME .
 *.musttttaff.cloud CNAME .
 mutewashing.site CNAME .
@@ -86373,6 +86381,8 @@ springboard.co.in CNAME .
 *.springboard.co.in CNAME .
 springdalenewsdaily.com CNAME .
 *.springdalenewsdaily.com CNAME .
+springfieldmail.com CNAME .
+*.springfieldmail.com CNAME .
 springswindowfashion.com CNAME .
 *.springswindowfashion.com CNAME .
 sprinklerareus.com CNAME .
@@ -100787,6 +100797,8 @@ wristband.sfxmailbox.com CNAME .
 *.wristband.sfxmailbox.com CNAME .
 write-me.xyz CNAME .
 *.write-me.xyz CNAME .
+write.cruiselabs.click CNAME .
+*.write.cruiselabs.click CNAME .
 write.festivalday.click CNAME .
 *.write.festivalday.click CNAME .
 write.opengambol.click CNAME .

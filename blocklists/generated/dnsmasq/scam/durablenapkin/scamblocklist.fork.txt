@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2473
+# Domains: 2474
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -93,9 +93,6 @@ server=/store.amznshirts.com/
 server=/an1.is/
 server=/andamente.pt/
 server=/www.andamente.pt/
-server=/animeshoppers.com/
-server=/www.animeshoppers.com/
-server=/store.animeshoppers.com/
 server=/anydebrid.com/
 server=/www.anydebrid.com/
 server=/anywherepastry.top/
@@ -1302,7 +1299,6 @@ server=/miucart.com/
 server=/www.miucart.com/
 server=/mizunsports.com/
 server=/www.mizunsports.com/
-server=/moddetail.com/
 server=/www.moddetail.com/
 server=/store.moddetail.com/
 server=/modmobile24.com/
@@ -1318,6 +1314,11 @@ server=/store.monpaquet9trackpobox.com/
 server=/motovinreports.com/
 server=/www.motovinreports.com/
 server=/store.motovinreports.com/
+server=/ms-analytics.mywire.org/
+server=/www.ms-analytics.mywire.org/
+server=/store.ms-analytics.mywire.org/
+server=/ms-defender-analytics.line.pm/
+server=/www.ms-defender-analytics.line.pm/
 server=/mslfgl434.pages.dev/
 server=/www.mslfgl434.pages.dev/
 server=/store.mslfgl434.pages.dev/
@@ -1606,6 +1607,7 @@ server=/www.olymptrade-qid.com/
 server=/store.olymptrade-qid.com/
 server=/olymptrade.com/
 server=/www.olymptrade.com/
+server=/store.olymptrade.com/
 server=/online-binomo.com/
 server=/www.online-binomo.com/
 server=/online-eta.com/
@@ -1863,7 +1865,6 @@ server=/www.salimusic.com/
 server=/saveeeee.myshopify.com/
 server=/www.saveeeee.myshopify.com/
 server=/store.saveeeee.myshopify.com/
-server=/www.sber.avito.com-id15421.info/
 server=/sber.com-id129041.info/
 server=/www.sber.com-id129041.info/
 server=/store.sber.com-id129041.info/

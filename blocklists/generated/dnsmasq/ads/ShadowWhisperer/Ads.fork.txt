@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,384
-# Updated: 11/14/2024  20:37 (8:37 PM CST)
+# Domains: 20,397
+# Updated: 11/15/2024  00:23 (12:23 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -8446,6 +8446,19 @@ server=/ci-marketing.de/
 server=/cinemahd.top/
 server=/circulars.foodcity.com/
 server=/circulars.lewisdrug.com/
+server=/circulation.bd.nl/
+server=/circulation.degelderlander.nl/
+server=/circulation.demorgen.be/
+server=/circulation.destentor.nl/
+server=/circulation.flair.nl/
+server=/circulation.hln.be/
+server=/circulation.humo.be/
+server=/circulation.libelle.nl/
+server=/circulation.parool.nl/
+server=/circulation.story.nl/
+server=/circulation.trouw.nl/
+server=/circulation.tubantia.nl/
+server=/circulation.volkskrant.nl/
 server=/citi.bridgetrack.com.edgesuite.net/
 server=/citrusad.com/
 server=/cityadsclick.com/

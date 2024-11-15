@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,126
-# Updated: 11/14/2024  20:37 (8:37 PM CST)
+# Domains: 95,125
+# Updated: 11/14/2024  23:06 (11:06 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -65995,7 +65995,6 @@ server=/r.nws.antiq.com/
 server=/ro20trk.com/
 server=/roadmap.junipergarden.co/
 server=/roadmap.loopypro.com/
-server=/roadmap.ortto.com/
 server=/roadmap.party.finance/
 server=/roadmap.perawallet.app/
 server=/roadmap.secfix.com/

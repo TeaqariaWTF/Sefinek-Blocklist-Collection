@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111401 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
   NS  localhost.
 1000fapvids.online CNAME .
 *.1000fapvids.online CNAME .
@@ -113,10 +113,6 @@ an1.is CNAME .
 *.an1.is CNAME .
 andamente.pt CNAME .
 *.andamente.pt CNAME .
-animeshoppers.com CNAME .
-*.animeshoppers.com CNAME .
-store.animeshoppers.com CNAME .
-*.store.animeshoppers.com CNAME .
 anydebrid.com CNAME .
 *.anydebrid.com CNAME .
 anywherepastry.top CNAME .
@@ -1591,6 +1587,12 @@ motovinreports.com CNAME .
 *.motovinreports.com CNAME .
 store.motovinreports.com CNAME .
 *.store.motovinreports.com CNAME .
+ms-analytics.mywire.org CNAME .
+*.ms-analytics.mywire.org CNAME .
+store.ms-analytics.mywire.org CNAME .
+*.store.ms-analytics.mywire.org CNAME .
+ms-defender-analytics.line.pm CNAME .
+*.ms-defender-analytics.line.pm CNAME .
 mslfgl434.pages.dev CNAME .
 *.mslfgl434.pages.dev CNAME .
 store.mslfgl434.pages.dev CNAME .
@@ -1949,6 +1951,8 @@ store.olymptrade-qid.com CNAME .
 *.store.olymptrade-qid.com CNAME .
 olymptrade.com CNAME .
 *.olymptrade.com CNAME .
+store.olymptrade.com CNAME .
+*.store.olymptrade.com CNAME .
 online-binomo.com CNAME .
 *.online-binomo.com CNAME .
 online-eta.com CNAME .
@@ -2257,8 +2261,6 @@ saveeeee.myshopify.com CNAME .
 *.saveeeee.myshopify.com CNAME .
 store.saveeeee.myshopify.com CNAME .
 *.store.saveeeee.myshopify.com CNAME .
-sber.avito.com-id15421.info CNAME .
-*.sber.avito.com-id15421.info CNAME .
 sber.com-id129041.info CNAME .
 *.sber.com-id129041.info CNAME .
 store.sber.com-id129041.info CNAME .
