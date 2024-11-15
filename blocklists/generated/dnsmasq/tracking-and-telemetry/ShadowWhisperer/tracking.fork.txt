@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,118
-# Updated: 11/14/2024  16:26 (4:26 PM CST)
+# Domains: 95,126
+# Updated: 11/14/2024  20:37 (8:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13487,6 +13487,7 @@ server=/apm.fourseasons.com/
 server=/apm-mobile.qa.walmart.com/
 server=/apm.okd.liberty.edu/
 server=/apm-proxy.app.elstc.co/
+server=/apms5.com/
 server=/apnanalytics.com/
 server=/apolloprogram.io/
 server=/a.pork.org/
@@ -14110,6 +14111,7 @@ server=/automizely-analytics.com/
 server=/automotive.horiba.com/
 server=/autonavi.com/
 server=/autonomous-analytics-qffztaoryq-uc.a.run.app/
+server=/autopilothq.com/
 server=/autoretain.com/
 server=/autosales-chukosya.shinmaywa.co.jp/
 server=/auto-shanghai.magnetimarelli.com/
@@ -25473,6 +25475,8 @@ server=/get.todoist.io/
 server=/get.togethertv.com/
 server=/get.travelnest.com/
 server=/get.udtrucks.com/
+server=/getui.cn/
+server=/getui.com/
 server=/get.untangle.com/
 server=/get.updater.com/
 server=/get.whip-around.com/
@@ -32191,6 +32195,7 @@ server=/lf1.mail.ru/
 server=/lfanalytics.io/
 server=/lfeeder.com/
 server=/lf-live.com/
+server=/lg3.media.net/
 server=/lg-beacons.xumo.com/
 server=/lg-india.com/
 server=/lg-lite-beacons.xumo.com/
@@ -53488,6 +53493,7 @@ server=/o.rosettastone.es/
 server=/orpheopolisetmoi.orpheopolis.fr/
 server=/ortecadscience.com/
 server=/ortechnologies.net/
+server=/ortto.com/
 server=/ort.wellsfargo.com/
 server=/os270ojwwxtg.gameflow.tv/
 server=/osano.com/
@@ -64424,6 +64430,7 @@ server=/qa-events-schema.viacom.tech/
 server=/qaili.kennyflowers.com/
 server=/qandel.io/
 server=/qapla.it/
+server=/qa.quicklixads.com/
 server=/qa.ubuntu.com/
 server=/q.averatekcorp.com/
 server=/qccskbbjzk.theoddco.co.uk/
@@ -87771,6 +87778,7 @@ server=/trackuity.com/
 server=/trackuity.supplies/
 server=/track.ultimate-guitar.com/
 server=/track.unidata.ai/
+server=/track.uniquebumblebee.com/
 server=/track.unkonito.com/
 server=/trackup99.com/
 server=/track.urbanbound.com/

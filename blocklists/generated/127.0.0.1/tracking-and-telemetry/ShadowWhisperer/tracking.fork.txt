@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,118
-# Updated: 11/14/2024  16:26 (4:26 PM CST)
+# Domains: 95,126
+# Updated: 11/14/2024  20:37 (8:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13487,6 +13487,7 @@
 127.0.0.1 apm-mobile.qa.walmart.com
 127.0.0.1 apm.okd.liberty.edu
 127.0.0.1 apm-proxy.app.elstc.co
+127.0.0.1 apms5.com
 127.0.0.1 apnanalytics.com
 127.0.0.1 apolloprogram.io
 127.0.0.1 a.pork.org
@@ -14110,6 +14111,7 @@
 127.0.0.1 automotive.horiba.com
 127.0.0.1 autonavi.com
 127.0.0.1 autonomous-analytics-qffztaoryq-uc.a.run.app
+127.0.0.1 autopilothq.com
 127.0.0.1 autoretain.com
 127.0.0.1 autosales-chukosya.shinmaywa.co.jp
 127.0.0.1 auto-shanghai.magnetimarelli.com
@@ -25473,6 +25475,8 @@
 127.0.0.1 get.togethertv.com
 127.0.0.1 get.travelnest.com
 127.0.0.1 get.udtrucks.com
+127.0.0.1 getui.cn
+127.0.0.1 getui.com
 127.0.0.1 get.untangle.com
 127.0.0.1 get.updater.com
 127.0.0.1 get.whip-around.com
@@ -32191,6 +32195,7 @@
 127.0.0.1 lfanalytics.io
 127.0.0.1 lfeeder.com
 127.0.0.1 lf-live.com
+127.0.0.1 lg3.media.net
 127.0.0.1 lg-beacons.xumo.com
 127.0.0.1 lg-india.com
 127.0.0.1 lg-lite-beacons.xumo.com
@@ -53488,6 +53493,7 @@
 127.0.0.1 orpheopolisetmoi.orpheopolis.fr
 127.0.0.1 ortecadscience.com
 127.0.0.1 ortechnologies.net
+127.0.0.1 ortto.com
 127.0.0.1 ort.wellsfargo.com
 127.0.0.1 os270ojwwxtg.gameflow.tv
 127.0.0.1 osano.com
@@ -64424,6 +64430,7 @@
 127.0.0.1 qaili.kennyflowers.com
 127.0.0.1 qandel.io
 127.0.0.1 qapla.it
+127.0.0.1 qa.quicklixads.com
 127.0.0.1 qa.ubuntu.com
 127.0.0.1 q.averatekcorp.com
 127.0.0.1 qccskbbjzk.theoddco.co.uk
@@ -87771,6 +87778,7 @@
 127.0.0.1 trackuity.supplies
 127.0.0.1 track.ultimate-guitar.com
 127.0.0.1 track.unidata.ai
+127.0.0.1 track.uniquebumblebee.com
 127.0.0.1 track.unkonito.com
 127.0.0.1 trackup99.com
 127.0.0.1 track.urbanbound.com
