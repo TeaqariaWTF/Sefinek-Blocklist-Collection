@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111401 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
   NS  localhost.
 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
 *.0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
@@ -2541,6 +2541,8 @@ adcaffeine.io CNAME .
 *.adcaffeine.io CNAME .
 ad.caijing.com.cn CNAME .
 *.ad.caijing.com.cn CNAME .
+ad.cainiao.com CNAME .
+*.ad.cainiao.com CNAME .
 adcains.com CNAME .
 *.adcains.com CNAME .
 adcaixa.com CNAME .
@@ -16617,6 +16619,10 @@ cdnpv.com CNAME .
 *.cdnpv.com CNAME .
 cdn.sdtraff.com CNAME .
 *.cdn.sdtraff.com CNAME .
+cdn.sentinelbi.com CNAME .
+*.cdn.sentinelbi.com CNAME .
+cdn.sentinelp.com CNAME .
+*.cdn.sentinelp.com CNAME .
 cdn-server.cc CNAME .
 *.cdn-server.cc CNAME .
 cdn-server.info CNAME .
@@ -36039,6 +36045,8 @@ sync.etalonconsulting.com CNAME .
 *.sync.etalonconsulting.com CNAME .
 synchromesh.com.au CNAME .
 *.synchromesh.com.au CNAME .
+sync.ortb.152media.info CNAME .
+*.sync.ortb.152media.info CNAME .
 sync.partyetalon.com CNAME .
 *.sync.partyetalon.com CNAME .
 sync.sumetalon.com CNAME .

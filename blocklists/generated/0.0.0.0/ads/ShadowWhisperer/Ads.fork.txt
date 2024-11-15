@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,334
-# Updated: 11/14/2024  15:40 (3:40 PM CST)
+# Domains: 20,338
+# Updated: 11/14/2024  16:44 (4:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1277,6 +1277,7 @@
 0.0.0.0 adcaffeine.com
 0.0.0.0 adcaffeine.io
 0.0.0.0 ad.caijing.com.cn
+0.0.0.0 ad.cainiao.com
 0.0.0.0 adcains.com
 0.0.0.0 adcaixa.com
 0.0.0.0 ad.cala-web.org
@@ -8315,6 +8316,8 @@
 0.0.0.0 cdn-promote.weebly.com
 0.0.0.0 cdnpv.com
 0.0.0.0 cdn.sdtraff.com
+0.0.0.0 cdn.sentinelbi.com
+0.0.0.0 cdn.sentinelp.com
 0.0.0.0 cdn-server.cc
 0.0.0.0 cdn-server.info
 0.0.0.0 cdn-server.top
@@ -18026,6 +18029,7 @@
 0.0.0.0 sync.etalonco.com
 0.0.0.0 sync.etalonconsulting.com
 0.0.0.0 synchromesh.com.au
+0.0.0.0 sync.ortb.152media.info
 0.0.0.0 sync.partyetalon.com
 0.0.0.0 sync.sumetalon.com
 0.0.0.0 sync.teads.tv.edgekey.net

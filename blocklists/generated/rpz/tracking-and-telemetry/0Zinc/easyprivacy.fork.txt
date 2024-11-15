@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111401 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -217,6 +217,8 @@ egoi.site CNAME .
 *.egoi.site CNAME .
 emailsnow.info CNAME .
 *.emailsnow.info CNAME .
+entail-insights.com CNAME .
+*.entail-insights.com CNAME .
 enterombacerick.com CNAME .
 *.enterombacerick.com CNAME .
 enthusiastgaming.net CNAME .

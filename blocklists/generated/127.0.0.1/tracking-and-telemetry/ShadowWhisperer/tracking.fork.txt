@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,088
-# Updated: 11/14/2024  14:38 (2:38 PM CST)
+# Domains: 95,118
+# Updated: 11/14/2024  16:26 (4:26 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13465,6 +13465,7 @@
 127.0.0.1 api-track.hygraph.com
 127.0.0.1 api-track.linke.ai
 127.0.0.1 api-triangle.canadiantire.ca
+127.0.0.1 api-us.addx.live
 127.0.0.1 api.us-east-1.aiv-delivery.net
 127.0.0.1 api.v1.threatmetrix.space.ge
 127.0.0.1 api-v3.tinypass.com
@@ -14402,6 +14403,7 @@
 127.0.0.1 backstory.ebay.at
 127.0.0.1 backstory.ebay.ca
 127.0.0.1 backstory.ebay.com
+127.0.0.1 backstory.ebay.com.au
 127.0.0.1 backstory.ebay.com.hk
 127.0.0.1 backstory.ebay.co.uk
 127.0.0.1 backstory.ebay.de
@@ -17302,6 +17304,7 @@
 127.0.0.1 confesschairs.com
 127.0.0.1 confiant.com
 127.0.0.1 confiant-integrations.net
+127.0.0.1 config2.cheatmyvegas.com
 127.0.0.1 config.claspws.tv
 127.0.0.1 config.edge.skype.com
 127.0.0.1 config.edge.skype.com.trafficmanager.net
@@ -18672,6 +18675,7 @@
 127.0.0.1 crow.themarbleking.com
 127.0.0.1 crow.voracious.dev
 127.0.0.1 crrnt.app
+127.0.0.1 crs.cr.adobe.com
 127.0.0.1 crsspxl.com
 127.0.0.1 crumbs.robinhood.com
 127.0.0.1 c.ru.msn.com
@@ -21600,6 +21604,7 @@
 127.0.0.1 deviceatlas.com
 127.0.0.1 devicebind.ebay.com
 127.0.0.1 devicecontent.icuracao.com
+127.0.0.1 devicefingerprint.pay.checkout.worldline-solutions.com
 127.0.0.1 deviceid.ff.avast.com
 127.0.0.1 device.invoice2go.com
 127.0.0.1 device.messa.org
@@ -21636,11 +21641,13 @@
 127.0.0.1 df.greenmangaming.com
 127.0.0.1 dfm7wh2x5l4za.cloudfront.net
 127.0.0.1 dfme.kleinanzeigen.de
+127.0.0.1 dfpconsumer.intel.com
 127.0.0.1 dfp.mcdonalds.fr
 127.0.0.1 dfp.myshopline.com
 127.0.0.1 dfp.s-budget-mobile.at
 127.0.0.1 dfp.telering.at
 127.0.0.1 dfp.t-mobile.at
+127.0.0.1 dfp.uionline.detma.org
 127.0.0.1 df-srv.de
 127.0.0.1 df.thumbtack.com
 127.0.0.1 dfw.bakerbrothersplumbing.com
@@ -24702,6 +24709,8 @@
 127.0.0.1 fp.sun-sentinel.com
 127.0.0.1 fpt2.microsoft.com
 127.0.0.1 fpt.absa.co.za
+127.0.0.1 fpt.bumper.com
+127.0.0.1 fpt.bushnell.com
 127.0.0.1 fpt.dfp.microsoft.com
 127.0.0.1 fp.themorningsun.com
 127.0.0.1 fp.thenewsherald.com
@@ -24714,6 +24723,11 @@
 127.0.0.1 fp.times-standard.com
 127.0.0.1 fptls3.com
 127.0.0.1 fptls.com
+127.0.0.1 fpt.neighborwho.com
+127.0.0.1 fpt.numberguru.com
+127.0.0.1 fpt.ownerly.com
+127.0.0.1 fpt.peoplelooker.com
+127.0.0.1 fpt.remington.com
 127.0.0.1 fp.trentonian.com
 127.0.0.1 fp.troyrecord.com
 127.0.0.1 fp.twincities.com
@@ -24874,6 +24888,7 @@
 127.0.0.1 furnishings.bellacor.com
 127.0.0.1 furryfork.com
 127.0.0.1 furryhorses.com
+127.0.0.1 f.us.coca-cola.com
 127.0.0.1 fuse.davos.ch
 127.0.0.1 fusedeck.net
 127.0.0.1 fuse.emilfrey.ch
@@ -26988,6 +27003,7 @@
 127.0.0.1 identity2.citidirect.com
 127.0.0.1 identity3.citidirect.com
 127.0.0.1 identity.ads.roku.com
+127.0.0.1 identity.cheatmyvegas.com
 127.0.0.1 identity.nel.measure.office.net
 127.0.0.1 identity.netlify.com
 127.0.0.1 identity.prod.platform.ext.mobilityware.com
@@ -31066,6 +31082,7 @@
 127.0.0.1 ip-api.streamingucms.com
 127.0.0.1 ip.apps.cntv.cn
 127.0.0.1 ip-a.pw
+127.0.0.1 i.paypal.com
 127.0.0.1 ip.bablosoft.com
 127.0.0.1 ipbase.com
 127.0.0.1 ip.bjango.com
@@ -32259,6 +32276,7 @@
 127.0.0.1 lightning.cartoonnetwork.se
 127.0.0.1 lightning.cnn.com
 127.0.0.1 lightning.hbomax.com
+127.0.0.1 lightning.ncaa.com
 127.0.0.1 lightning.tcm.com
 127.0.0.1 lightning.warnermediacdn.com
 127.0.0.1 lightning.warnertv.de
@@ -40770,6 +40788,7 @@
 127.0.0.1 mit.researchlog.dbresearch.com
 127.0.0.1 mit.researchlog.dbresearch.de
 127.0.0.1 mittencattle.com
+127.0.0.1 mi.ulta.com
 127.0.0.1 mivo-ts.mitarbeitervorteile.de
 127.0.0.1 mix-app.holocron.it
 127.0.0.1 mixedreading.com
@@ -51817,6 +51836,7 @@
 127.0.0.1 mp.able-group.de
 127.0.0.1 mparticle.com
 127.0.0.1 mparticle.map.fastly.net
+127.0.0.1 mparticle.weather.com
 127.0.0.1 m-pathy.com
 127.0.0.1 mp-c.info
 127.0.0.1 mpctrak.com
@@ -52217,6 +52237,7 @@
 127.0.0.1 nathanroberton.com
 127.0.0.1 nationallistservices.com
 127.0.0.1 native.ai
+127.0.0.1 nativesdks.cheatmyvegas.com
 127.0.0.1 native-track.com
 127.0.0.1 natsp.xing.com
 127.0.0.1 nats.xing.com
@@ -67827,6 +67848,7 @@
 127.0.0.1 secure.raab3frog.com
 127.0.0.1 secure.rals4alum.com
 127.0.0.1 secure.rate2self.com
+127.0.0.1 secure.rate8deny.com
 127.0.0.1 secure.realwomenofphiladelphia.ca
 127.0.0.1 secure.realwomenofphiladelphia.com
 127.0.0.1 secure.rear9axis.com
@@ -73708,6 +73730,7 @@
 127.0.0.1 srvsynd.com
 127.0.0.1 srvtrck.com
 127.0.0.1 srv.uk.ebayrtm.com
+127.0.0.1 srx.main.ebayrtm.com
 127.0.0.1 ssa.animalplanet.com
 127.0.0.1 ssa.asianfoodnetwork.com
 127.0.0.1 s.sachem.ca
@@ -84922,6 +84945,7 @@
 127.0.0.1 synthesizespoon.com
 127.0.0.1 s.yorkregion.com
 127.0.0.1 s.youtube.com
+127.0.0.1 s.youtubeeducation.com
 127.0.0.1 sypexgeo.net
 127.0.0.1 sysearch-app2.squareyards.com
 127.0.0.1 sysstat.tildacdn.com
@@ -85546,7 +85570,10 @@
 127.0.0.1 td.bicycling.com
 127.0.0.1 tdbtf.ta3swim.com
 127.0.0.1 tdbtrk.com
+127.0.0.1 td.caranddriver.com
 127.0.0.1 td.cosmopolitan.com
+127.0.0.1 td.countryliving.com
+127.0.0.1 td.delish.com
 127.0.0.1 t.decider.com
 127.0.0.1 t.deem.com
 127.0.0.1 td.elle.com
@@ -85577,6 +85604,7 @@
 127.0.0.1 td.roadandtrack.com
 127.0.0.1 td.runnersworld.com
 127.0.0.1 td.seventeen.com
+127.0.0.1 td.thepioneerwoman.com
 127.0.0.1 td.townandcountrymag.com
 127.0.0.1 td.veranda.com
 127.0.0.1 td.womansday.com
@@ -86246,6 +86274,7 @@
 127.0.0.1 tla.traderlink.com
 127.0.0.1 t.lebara.ch
 127.0.0.1 t.lenovo.com
+127.0.0.1 tl.foxbusiness.com
 127.0.0.1 tl.foxnews.com
 127.0.0.1 t.liberty.com.au
 127.0.0.1 tlnk.io
@@ -88381,6 +88410,7 @@
 127.0.0.1 t.valcyte.com
 127.0.0.1 tv-api.blivenyc.com
 127.0.0.1 t.varonis.com
+127.0.0.1 t.vibe.co
 127.0.0.1 tvisioninsights.co.jp
 127.0.0.1 tvisioninsights.com
 127.0.0.1 t.visx.net
