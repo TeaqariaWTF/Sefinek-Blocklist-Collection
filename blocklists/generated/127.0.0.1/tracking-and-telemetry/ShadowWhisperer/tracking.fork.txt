@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,125
-# Updated: 11/14/2024  23:06 (11:06 PM CST)
+# Domains: 95,173
+# Updated: 11/15/2024  14:46 (2:46 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1767,6 +1767,7 @@
 127.0.0.1 a8.vinew.jp
 127.0.0.1 a8.virus-gekitai.com
 127.0.0.1 a8.volstar.jp
+127.0.0.1 a8.vtuber.sexy
 127.0.0.1 a8wakiga.ike-sunshine.co.jp
 127.0.0.1 a8.watero.pet
 127.0.0.1 a8.waterstand.jp
@@ -21667,6 +21668,7 @@
 127.0.0.1 d.hello.plowandhearth.com
 127.0.0.1 dhqbrvplips7x.cloudfront.net
 127.0.0.1 di0trk.com
+127.0.0.1 di2.zooplus.es
 127.0.0.1 diagmon-policy.samsungdm.com
 127.0.0.1 diagmon-serviceapi.samsungdm.com
 127.0.0.1 diagnostics.office.com
@@ -21783,6 +21785,27 @@
 127.0.0.1 dii1.zoohit.cz
 127.0.0.1 dii1.zoohit.si
 127.0.0.1 dii1.zoohit.sk
+127.0.0.1 dii1.zooplus.at
+127.0.0.1 dii1.zooplus.be
+127.0.0.1 dii1.zooplus.bg
+127.0.0.1 dii1.zooplus.ch
+127.0.0.1 dii1.zooplus.com
+127.0.0.1 dii1.zooplus.co.uk
+127.0.0.1 dii1.zooplus.de
+127.0.0.1 dii1.zooplus.dk
+127.0.0.1 dii1.zooplus.fi
+127.0.0.1 dii1.zooplus.fr
+127.0.0.1 dii1.zooplus.gr
+127.0.0.1 dii1.zooplus.hr
+127.0.0.1 dii1.zooplus.hu
+127.0.0.1 dii1.zooplus.ie
+127.0.0.1 dii1.zooplus.it
+127.0.0.1 dii1.zooplus.nl
+127.0.0.1 dii1.zooplus.no
+127.0.0.1 dii1.zooplus.pl
+127.0.0.1 dii1.zooplus.pt
+127.0.0.1 dii1.zooplus.ro
+127.0.0.1 dii1.zooplus.se
 127.0.0.1 dii2.bitiba.be
 127.0.0.1 dii2.bitiba.ch
 127.0.0.1 dii2.bitiba.co.uk
@@ -21840,6 +21863,7 @@
 127.0.0.1 dii3.zoohit.cz
 127.0.0.1 dii3.zoohit.si
 127.0.0.1 dii3.zoohit.sk
+127.0.0.1 dii3.zooplus.nl
 127.0.0.1 dii4.bitiba.be
 127.0.0.1 dii4.bitiba.ch
 127.0.0.1 dii4.bitiba.co.uk
@@ -38191,6 +38215,7 @@
 127.0.0.1 mc.medicanow.com
 127.0.0.1 mcmetrika.ru
 127.0.0.1 mc.myclinicalexchange.com
+127.0.0.1 m.communications.ihmvcu.org
 127.0.0.1 mcorpcx.com
 127.0.0.1 mc.payoff.com
 127.0.0.1 mcssl.com
@@ -38205,6 +38230,7 @@
 127.0.0.1 mc.yandex.md
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mczbf.com
+127.0.0.1 m.delltechnologies.com
 127.0.0.1 m.destinocerto.com.br
 127.0.0.1 mdf-analytics.rheindenken-digital.de
 127.0.0.1 mdh-pa.googleapis.com
@@ -38512,6 +38538,7 @@
 127.0.0.1 med.viibryd.com
 127.0.0.1 med.viibrydhcp.com
 127.0.0.1 med.vraylar.com
+127.0.0.1 m.edweek.org
 127.0.0.1 meerkat.bigcrazylife.com
 127.0.0.1 meerkat.inprivy.io
 127.0.0.1 meerkat.missinglettr.com
@@ -38874,6 +38901,7 @@
 127.0.0.1 metrics.angara.com
 127.0.0.1 metrics.angelinaballerina.com
 127.0.0.1 metrics.anhi.org
+127.0.0.1 metrics.animagazin.ru
 127.0.0.1 metrics.animalnetwork.com
 127.0.0.1 metrics.animatron.com
 127.0.0.1 metrics.anixter.com
@@ -39531,6 +39559,7 @@
 127.0.0.1 metrics.hbf.com.au
 127.0.0.1 metrics.hbogo.com
 127.0.0.1 metrics.hbogola.com
+127.0.0.1 metrics.hbs.edu
 127.0.0.1 metrics.hctra.org
 127.0.0.1 metrics.healthengine.com.au
 127.0.0.1 metrics.healthnet.com
@@ -40613,6 +40642,7 @@
 127.0.0.1 metrics.writersdigestshop.com
 127.0.0.1 metrics.wu.com
 127.0.0.1 metrics.wwltv.com
+127.0.0.1 metrics.www.apus.edu
 127.0.0.1 metrics.www.career-education.monster.com
 127.0.0.1 metrics.wwwishbone.com
 127.0.0.1 metrics.www.vwfs.de
@@ -51710,6 +51740,7 @@
 127.0.0.1 mole.venturini.dev
 127.0.0.1 mollusk.forwardmx.io
 127.0.0.1 mollusk.working.actor
+127.0.0.1 m.olympia.it
 127.0.0.1 mom365mail.com
 127.0.0.1 momently.com
 127.0.0.1 momently.info
@@ -51950,6 +51981,7 @@
 127.0.0.1 mto.cgv.vn
 127.0.0.1 mto.philippfankhauser.com
 127.0.0.1 mto.podcaster.de
+127.0.0.1 m.topschooljobs.org
 127.0.0.1 mto.videobuster.de
 127.0.0.1 mtp-98-nodeagile.top
 127.0.0.1 mtp.murrelektronik.com
@@ -63843,6 +63875,7 @@
 127.0.0.1 potloc.com
 127.0.0.1 potomac-clickstream.capitalone.com
 127.0.0.1 pov.spectrum.net
+127.0.0.1 powa-ingest-prod-us-east-1.video-player.arcpublishing.com
 127.0.0.1 powderjourney.com
 127.0.0.1 powderprofit.com
 127.0.0.1 poweranalytics.com
@@ -69737,6 +69770,7 @@
 127.0.0.1 smetrics.cadenadial.com
 127.0.0.1 smetrics.cadenaser.com
 127.0.0.1 smetrics.cahealthwellness.com
+127.0.0.1 smetrics.calbaptist.edu
 127.0.0.1 smetrics.caleres.com
 127.0.0.1 smetrics.calia.com
 127.0.0.1 smetrics.caliastudio.com
@@ -69753,6 +69787,7 @@
 127.0.0.1 smetrics.camzyosrems.com
 127.0.0.1 smetrics.canikur.de
 127.0.0.1 smetrics.canosan.de
+127.0.0.1 smetrics.capella.edu
 127.0.0.1 smetrics.capitalone.com
 127.0.0.1 smetrics.captiveriskltd.com
 127.0.0.1 smetrics.caracol.com.co
@@ -70477,6 +70512,8 @@
 127.0.0.1 smetrics.hayesandjarvis.co.uk
 127.0.0.1 smetrics.hbogo.com
 127.0.0.1 smetrics.hbonow.com
+127.0.0.1 smetrics.hbs.edu
+127.0.0.1 smetrics.hbsp.harvard.edu
 127.0.0.1 smetrics.hctra.org
 127.0.0.1 smetrics.hdcymru.co.uk
 127.0.0.1 smetrics.h-dnet.com
@@ -70727,6 +70764,7 @@
 127.0.0.1 smetrics.kegerator.com
 127.0.0.1 smetrics.kelownachev.com
 127.0.0.1 smetrics.kelownatoyota.com
+127.0.0.1 smetrics.kendall.edu
 127.0.0.1 smetrics.kerry.com
 127.0.0.1 smetrics.ketsusen.jp
 127.0.0.1 smetrics.keysight.co.jp
@@ -71480,6 +71518,7 @@
 127.0.0.1 smetrics.pharmapremiasolution.com
 127.0.0.1 smetrics.pharmawebportal.com
 127.0.0.1 smetrics.phesgo.com
+127.0.0.1 smetrics.phoenix.edu
 127.0.0.1 smetrics.phoenix.gov
 127.0.0.1 smetrics.phoenixinwest.de
 127.0.0.1 smetrics.photos.com
@@ -72571,6 +72610,8 @@
 127.0.0.1 smetrics.welivewithsz.com
 127.0.0.1 smetrics.wellcareky.com
 127.0.0.1 smetrics.westbred.com
+127.0.0.1 smetrics.westcoastuniversity.edu
+127.0.0.1 smetrics.west.edu
 127.0.0.1 smetrics.westelm.ca
 127.0.0.1 smetrics.westelm.com
 127.0.0.1 smetrics.westernaustralia.com
@@ -72579,8 +72620,10 @@
 127.0.0.1 smetrics.westernskycommunitycare.com
 127.0.0.1 smetrics.westernunion.com
 127.0.0.1 smetrics.westgateresorts.com
+127.0.0.1 smetrics.westminstercollege.edu
 127.0.0.1 smetrics.westpac.com.au
 127.0.0.1 smetrics.westpacgroup.com.au
+127.0.0.1 smetrics.wgu.edu
 127.0.0.1 smetrics.whatsappsim.de
 127.0.0.1 smetrics.wheatleyvodka.com
 127.0.0.1 smetrics.whitbreadinns.co.uk
@@ -72625,6 +72668,8 @@
 127.0.0.1 smetrics.wszechnica.roche.pl
 127.0.0.1 smetrics.wu.com
 127.0.0.1 smetrics.wunetspendprepaid.com
+127.0.0.1 smetrics.www.apus.edu
+127.0.0.1 smetrics.www.hondros.edu
 127.0.0.1 smetrics.www.vwfs.de
 127.0.0.1 smetrics.wyndham.com
 127.0.0.1 smetrics.wyndhamhotelgroup.com
@@ -74167,6 +74212,7 @@
 127.0.0.1 sstats.fishersci.se
 127.0.0.1 sstats.franklincovey.com
 127.0.0.1 sstats.gaba.co.jp
+127.0.0.1 sstats.getty.edu
 127.0.0.1 sstats.girls1st.com
 127.0.0.1 sstats.girls1st.dk
 127.0.0.1 sstats.girls1st.no
@@ -74220,6 +74266,7 @@
 127.0.0.1 sstats.mora.jp
 127.0.0.1 sstats.mt.com
 127.0.0.1 sstats.myafco.com
+127.0.0.1 sstats.myfidm.fidm.edu
 127.0.0.1 sstats.nalgene.com
 127.0.0.1 sstats.nana.fr
 127.0.0.1 sstats.nana-maghreb.com
@@ -80822,6 +80869,7 @@
 127.0.0.1 stats.mydienstwagen.de
 127.0.0.1 stats.my-etw.de
 127.0.0.1 stats.myfengshui.ch
+127.0.0.1 stats.myfidm.fidm.edu
 127.0.0.1 stats.mygaia.org
 127.0.0.1 stats.my-health.ch
 127.0.0.1 stats.myhonda.de

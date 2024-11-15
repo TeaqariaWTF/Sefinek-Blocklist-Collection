@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 09 Nov 2024
+# Updated: 15 Nov 2024
 # LatestVersion 24.01
-# Domain Count: 15921
+# Domain Count: 15919
 #===============================================================
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0sntp7dnrr.com
@@ -14991,7 +14991,6 @@
 0.0.0.0 smetrics.sdcvisit.com
 0.0.0.0 smetrics.seat.co.uk
 0.0.0.0 smetrics.seat.com
-0.0.0.0 smetrics.seat.pl
 0.0.0.0 smetrics.seguro.mediaset.es
 0.0.0.0 smetrics.sephora.com
 0.0.0.0 smetrics.sfr.fr
@@ -15207,7 +15206,6 @@
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 srmdata-eur.com
 0.0.0.0 ssacdn.com
-0.0.0.0 ssite.waitrose.com
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 sstats.adobe.com
 0.0.0.0 ssw.live.com

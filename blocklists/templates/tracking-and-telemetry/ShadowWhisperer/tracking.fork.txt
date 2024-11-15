@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,125
-# Updated: 11/14/2024  23:06 (11:06 PM CST)
+# Domains: 95,173
+# Updated: 11/15/2024  14:46 (2:46 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1767,6 +1767,7 @@
 0.0.0.0 a8.vinew.jp
 0.0.0.0 a8.virus-gekitai.com
 0.0.0.0 a8.volstar.jp
+0.0.0.0 a8.vtuber.sexy
 0.0.0.0 a8wakiga.ike-sunshine.co.jp
 0.0.0.0 a8.watero.pet
 0.0.0.0 a8.waterstand.jp
@@ -21667,6 +21668,7 @@
 0.0.0.0 d.hello.plowandhearth.com
 0.0.0.0 dhqbrvplips7x.cloudfront.net
 0.0.0.0 di0trk.com
+0.0.0.0 di2.zooplus.es
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 diagnostics.office.com
@@ -21783,6 +21785,27 @@
 0.0.0.0 dii1.zoohit.cz
 0.0.0.0 dii1.zoohit.si
 0.0.0.0 dii1.zoohit.sk
+0.0.0.0 dii1.zooplus.at
+0.0.0.0 dii1.zooplus.be
+0.0.0.0 dii1.zooplus.bg
+0.0.0.0 dii1.zooplus.ch
+0.0.0.0 dii1.zooplus.com
+0.0.0.0 dii1.zooplus.co.uk
+0.0.0.0 dii1.zooplus.de
+0.0.0.0 dii1.zooplus.dk
+0.0.0.0 dii1.zooplus.fi
+0.0.0.0 dii1.zooplus.fr
+0.0.0.0 dii1.zooplus.gr
+0.0.0.0 dii1.zooplus.hr
+0.0.0.0 dii1.zooplus.hu
+0.0.0.0 dii1.zooplus.ie
+0.0.0.0 dii1.zooplus.it
+0.0.0.0 dii1.zooplus.nl
+0.0.0.0 dii1.zooplus.no
+0.0.0.0 dii1.zooplus.pl
+0.0.0.0 dii1.zooplus.pt
+0.0.0.0 dii1.zooplus.ro
+0.0.0.0 dii1.zooplus.se
 0.0.0.0 dii2.bitiba.be
 0.0.0.0 dii2.bitiba.ch
 0.0.0.0 dii2.bitiba.co.uk
@@ -21840,6 +21863,7 @@
 0.0.0.0 dii3.zoohit.cz
 0.0.0.0 dii3.zoohit.si
 0.0.0.0 dii3.zoohit.sk
+0.0.0.0 dii3.zooplus.nl
 0.0.0.0 dii4.bitiba.be
 0.0.0.0 dii4.bitiba.ch
 0.0.0.0 dii4.bitiba.co.uk
@@ -38191,6 +38215,7 @@
 0.0.0.0 mc.medicanow.com
 0.0.0.0 mcmetrika.ru
 0.0.0.0 mc.myclinicalexchange.com
+0.0.0.0 m.communications.ihmvcu.org
 0.0.0.0 mcorpcx.com
 0.0.0.0 mc.payoff.com
 0.0.0.0 mcssl.com
@@ -38205,6 +38230,7 @@
 0.0.0.0 mc.yandex.md
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mczbf.com
+0.0.0.0 m.delltechnologies.com
 0.0.0.0 m.destinocerto.com.br
 0.0.0.0 mdf-analytics.rheindenken-digital.de
 0.0.0.0 mdh-pa.googleapis.com
@@ -38512,6 +38538,7 @@
 0.0.0.0 med.viibryd.com
 0.0.0.0 med.viibrydhcp.com
 0.0.0.0 med.vraylar.com
+0.0.0.0 m.edweek.org
 0.0.0.0 meerkat.bigcrazylife.com
 0.0.0.0 meerkat.inprivy.io
 0.0.0.0 meerkat.missinglettr.com
@@ -38874,6 +38901,7 @@
 0.0.0.0 metrics.angara.com
 0.0.0.0 metrics.angelinaballerina.com
 0.0.0.0 metrics.anhi.org
+0.0.0.0 metrics.animagazin.ru
 0.0.0.0 metrics.animalnetwork.com
 0.0.0.0 metrics.animatron.com
 0.0.0.0 metrics.anixter.com
@@ -39531,6 +39559,7 @@
 0.0.0.0 metrics.hbf.com.au
 0.0.0.0 metrics.hbogo.com
 0.0.0.0 metrics.hbogola.com
+0.0.0.0 metrics.hbs.edu
 0.0.0.0 metrics.hctra.org
 0.0.0.0 metrics.healthengine.com.au
 0.0.0.0 metrics.healthnet.com
@@ -40613,6 +40642,7 @@
 0.0.0.0 metrics.writersdigestshop.com
 0.0.0.0 metrics.wu.com
 0.0.0.0 metrics.wwltv.com
+0.0.0.0 metrics.www.apus.edu
 0.0.0.0 metrics.www.career-education.monster.com
 0.0.0.0 metrics.wwwishbone.com
 0.0.0.0 metrics.www.vwfs.de
@@ -51710,6 +51740,7 @@
 0.0.0.0 mole.venturini.dev
 0.0.0.0 mollusk.forwardmx.io
 0.0.0.0 mollusk.working.actor
+0.0.0.0 m.olympia.it
 0.0.0.0 mom365mail.com
 0.0.0.0 momently.com
 0.0.0.0 momently.info
@@ -51950,6 +51981,7 @@
 0.0.0.0 mto.cgv.vn
 0.0.0.0 mto.philippfankhauser.com
 0.0.0.0 mto.podcaster.de
+0.0.0.0 m.topschooljobs.org
 0.0.0.0 mto.videobuster.de
 0.0.0.0 mtp-98-nodeagile.top
 0.0.0.0 mtp.murrelektronik.com
@@ -63843,6 +63875,7 @@
 0.0.0.0 potloc.com
 0.0.0.0 potomac-clickstream.capitalone.com
 0.0.0.0 pov.spectrum.net
+0.0.0.0 powa-ingest-prod-us-east-1.video-player.arcpublishing.com
 0.0.0.0 powderjourney.com
 0.0.0.0 powderprofit.com
 0.0.0.0 poweranalytics.com
@@ -69737,6 +69770,7 @@
 0.0.0.0 smetrics.cadenadial.com
 0.0.0.0 smetrics.cadenaser.com
 0.0.0.0 smetrics.cahealthwellness.com
+0.0.0.0 smetrics.calbaptist.edu
 0.0.0.0 smetrics.caleres.com
 0.0.0.0 smetrics.calia.com
 0.0.0.0 smetrics.caliastudio.com
@@ -69753,6 +69787,7 @@
 0.0.0.0 smetrics.camzyosrems.com
 0.0.0.0 smetrics.canikur.de
 0.0.0.0 smetrics.canosan.de
+0.0.0.0 smetrics.capella.edu
 0.0.0.0 smetrics.capitalone.com
 0.0.0.0 smetrics.captiveriskltd.com
 0.0.0.0 smetrics.caracol.com.co
@@ -70477,6 +70512,8 @@
 0.0.0.0 smetrics.hayesandjarvis.co.uk
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 smetrics.hbonow.com
+0.0.0.0 smetrics.hbs.edu
+0.0.0.0 smetrics.hbsp.harvard.edu
 0.0.0.0 smetrics.hctra.org
 0.0.0.0 smetrics.hdcymru.co.uk
 0.0.0.0 smetrics.h-dnet.com
@@ -70727,6 +70764,7 @@
 0.0.0.0 smetrics.kegerator.com
 0.0.0.0 smetrics.kelownachev.com
 0.0.0.0 smetrics.kelownatoyota.com
+0.0.0.0 smetrics.kendall.edu
 0.0.0.0 smetrics.kerry.com
 0.0.0.0 smetrics.ketsusen.jp
 0.0.0.0 smetrics.keysight.co.jp
@@ -71480,6 +71518,7 @@
 0.0.0.0 smetrics.pharmapremiasolution.com
 0.0.0.0 smetrics.pharmawebportal.com
 0.0.0.0 smetrics.phesgo.com
+0.0.0.0 smetrics.phoenix.edu
 0.0.0.0 smetrics.phoenix.gov
 0.0.0.0 smetrics.phoenixinwest.de
 0.0.0.0 smetrics.photos.com
@@ -72571,6 +72610,8 @@
 0.0.0.0 smetrics.welivewithsz.com
 0.0.0.0 smetrics.wellcareky.com
 0.0.0.0 smetrics.westbred.com
+0.0.0.0 smetrics.westcoastuniversity.edu
+0.0.0.0 smetrics.west.edu
 0.0.0.0 smetrics.westelm.ca
 0.0.0.0 smetrics.westelm.com
 0.0.0.0 smetrics.westernaustralia.com
@@ -72579,8 +72620,10 @@
 0.0.0.0 smetrics.westernskycommunitycare.com
 0.0.0.0 smetrics.westernunion.com
 0.0.0.0 smetrics.westgateresorts.com
+0.0.0.0 smetrics.westminstercollege.edu
 0.0.0.0 smetrics.westpac.com.au
 0.0.0.0 smetrics.westpacgroup.com.au
+0.0.0.0 smetrics.wgu.edu
 0.0.0.0 smetrics.whatsappsim.de
 0.0.0.0 smetrics.wheatleyvodka.com
 0.0.0.0 smetrics.whitbreadinns.co.uk
@@ -72625,6 +72668,8 @@
 0.0.0.0 smetrics.wszechnica.roche.pl
 0.0.0.0 smetrics.wu.com
 0.0.0.0 smetrics.wunetspendprepaid.com
+0.0.0.0 smetrics.www.apus.edu
+0.0.0.0 smetrics.www.hondros.edu
 0.0.0.0 smetrics.www.vwfs.de
 0.0.0.0 smetrics.wyndham.com
 0.0.0.0 smetrics.wyndhamhotelgroup.com
@@ -74167,6 +74212,7 @@
 0.0.0.0 sstats.fishersci.se
 0.0.0.0 sstats.franklincovey.com
 0.0.0.0 sstats.gaba.co.jp
+0.0.0.0 sstats.getty.edu
 0.0.0.0 sstats.girls1st.com
 0.0.0.0 sstats.girls1st.dk
 0.0.0.0 sstats.girls1st.no
@@ -74220,6 +74266,7 @@
 0.0.0.0 sstats.mora.jp
 0.0.0.0 sstats.mt.com
 0.0.0.0 sstats.myafco.com
+0.0.0.0 sstats.myfidm.fidm.edu
 0.0.0.0 sstats.nalgene.com
 0.0.0.0 sstats.nana.fr
 0.0.0.0 sstats.nana-maghreb.com
@@ -80822,6 +80869,7 @@
 0.0.0.0 stats.mydienstwagen.de
 0.0.0.0 stats.my-etw.de
 0.0.0.0 stats.myfengshui.ch
+0.0.0.0 stats.myfidm.fidm.edu
 0.0.0.0 stats.mygaia.org
 0.0.0.0 stats.my-health.ch
 0.0.0.0 stats.myhonda.de
