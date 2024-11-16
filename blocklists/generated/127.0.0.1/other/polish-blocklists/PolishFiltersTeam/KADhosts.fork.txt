@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 16 Nov 2024, 17:26 UTC+01:00
-# Version: 2024.11.16.2
+# Last modified: Sat, 16 Nov 2024, 21:22 UTC+01:00
+# Version: 2024.11.16.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3153,6 +3153,7 @@
 127.0.0.1 0llx.46659125.xyz
 127.0.0.1 0llx.56659125.xyz
 127.0.0.1 0llx.66659125.xyz
+127.0.0.1 0llx.68635345.xyz
 127.0.0.1 0llx.76659125.xyz
 127.0.0.1 0llx.86659125.xyz
 127.0.0.1 0llx.228569132.xyz
@@ -3816,6 +3817,7 @@
 127.0.0.1 54613.ws
 127.0.0.1 61213e800e.telewizjanf.help
 127.0.0.1 071324.com
+127.0.0.1 74468cde3c.aregr.pl
 127.0.0.1 77264cf0e6.mertv.pl
 127.0.0.1 77328e7b.session-ctls.pages.dev
 127.0.0.1 79593b68.augustoxs.com
@@ -3823,6 +3825,7 @@
 127.0.0.1 090724.com
 127.0.0.1 92260b84125c16671f6783c3a6254f7e.liamartem.pl
 127.0.0.1 93109.cfd
+127.0.0.1 94748.pl
 127.0.0.1 125194-coinbase.com
 127.0.0.1 128594-gemini.com
 127.0.0.1 159057a2a8bc6f972e441eaff6637aaf.voiseper.pl
@@ -4044,7 +4047,6 @@
 127.0.0.1 account-myrbc.com
 127.0.0.1 account-renew-pl.com
 127.0.0.1 account-renewal.net
-127.0.0.1 account-settings-help-inc.com
 127.0.0.1 account.coordinatoins.click
 127.0.0.1 account.direction-publicitaires-stewardship.com
 127.0.0.1 account.objective.best
@@ -5175,7 +5177,6 @@
 127.0.0.1 almanachackers.com
 127.0.0.1 almeratrade.com
 127.0.0.1 almondambrosia.xyz
-127.0.0.1 almostgrand.host
 127.0.0.1 almuradtiles.zohosites.com
 127.0.0.1 almuwaihat.com
 127.0.0.1 almuwaten.com
@@ -10461,7 +10462,6 @@
 127.0.0.1 d-gx6i.lat
 127.0.0.1 d-p-d.065236523.xyz
 127.0.0.1 d-pd.7903423.xyz
-127.0.0.1 d-t9zu.icu
 127.0.0.1 d-w5zk.icu
 127.0.0.1 d.bbuuddaa.top
 127.0.0.1 d.buddaa.top
@@ -12562,7 +12562,6 @@
 127.0.0.1 eludeplank.sbs
 127.0.0.1 elusports.com
 127.0.0.1 elvcsr.com
-127.0.0.1 elvisuzor.com
 127.0.0.1 elytestuff.com
 127.0.0.1 em.qcct.lat
 127.0.0.1 em.quzu.skin
@@ -13287,6 +13286,7 @@
 127.0.0.1 facebook-marketplace-306.ubpages.com
 127.0.0.1 facebook-security-marketplace.pages.med.br
 127.0.0.1 facebook.ct8.pl
+127.0.0.1 facebook.locationactor.click
 127.0.0.1 facebookinfo24.eu
 127.0.0.1 facebookloginpoczta.dorik.io
 127.0.0.1 facebookpocztalogin.square.site
@@ -14960,7 +14960,6 @@
 127.0.0.1 geniusesforhire.com
 127.0.0.1 geniusquest.online
 127.0.0.1 geniuswalletnow.com
-127.0.0.1 genobranch.store
 127.0.0.1 genregroup.com
 127.0.0.1 gensa.xrduniverse.info
 127.0.0.1 gentl3breez3.live
@@ -15258,6 +15257,7 @@
 127.0.0.1 globalproftab.xyz
 127.0.0.1 globalqualitytires.com
 127.0.0.1 globaltechbharat.com
+127.0.0.1 globaltechtrend.com
 127.0.0.1 globaltradeandindustries.com
 127.0.0.1 globaltvindia.com
 127.0.0.1 globalwdi.com
@@ -15502,7 +15502,6 @@
 127.0.0.1 googleggoolle.com
 127.0.0.1 googlep1ay.com
 127.0.0.1 googleplateform.com
-127.0.0.1 goontariogo.com
 127.0.0.1 gopedsweb.glitch.me
 127.0.0.1 gopixelal.skin
 127.0.0.1 gopkb.com
@@ -17716,7 +17715,6 @@
 127.0.0.1 infopolska.pro
 127.0.0.1 infoprasa.rest
 127.0.0.1 infoprogram.rest
-127.0.0.1 infoprojekt.visite-vendee.com
 127.0.0.1 informacjablog.homes
 127.0.0.1 informacjadnia.pics
 127.0.0.1 informacjafilm.mom
@@ -20766,6 +20764,7 @@
 127.0.0.1 lesspiemoregreen.com
 127.0.0.1 lesstoxicstore.com
 127.0.0.1 letechy.com
+127.0.0.1 leterinmx.com
 127.0.0.1 letest360.com
 127.0.0.1 letgo-lot.com
 127.0.0.1 letoilerouge.com
@@ -21146,7 +21145,6 @@
 127.0.0.1 ln-post.one
 127.0.0.1 ln-post.sbs
 127.0.0.1 ln.run
-127.0.0.1 lnbvasq.xyz
 127.0.0.1 lngcompanion.com
 127.0.0.1 lngcustody.com
 127.0.0.1 lnkpls.vip
@@ -21672,7 +21670,6 @@
 127.0.0.1 m-nuz3.lat
 127.0.0.1 m-or-b.com
 127.0.0.1 m-psgb.lat
-127.0.0.1 m-q6g3.lat
 127.0.0.1 m.bbuaa.top
 127.0.0.1 m.buddaa.top
 127.0.0.1 m.kghm-pk.ru
@@ -25834,6 +25831,7 @@
 127.0.0.1 olx.domain-redirect.shop
 127.0.0.1 olx.domain-safe.shop
 127.0.0.1 olx.dronabb.shop
+127.0.0.1 olx.dyjeorl.lol
 127.0.0.1 olx.effect-redirect.shop
 127.0.0.1 olx.ellipse-redirect.shop
 127.0.0.1 olx.emkaisd.shop
@@ -26279,6 +26277,7 @@
 127.0.0.1 oolx.9037423.xyz
 127.0.0.1 oolx.16532658.xyz
 127.0.0.1 oolx.16589154.xyz
+127.0.0.1 oolx.17834753.xyz
 127.0.0.1 oolx.25124587.xyz
 127.0.0.1 oolx.26512458.xyz
 127.0.0.1 oolx.26581542.xyz
@@ -26681,6 +26680,7 @@
 127.0.0.1 oxbh.top
 127.0.0.1 oxes.shawrick.cfd
 127.0.0.1 oxfordlawusa.com
+127.0.0.1 oy5ygu.cyou
 127.0.0.1 oy.trom-so.com
 127.0.0.1 oy.vevk.top
 127.0.0.1 oycliks.xyz
@@ -27152,7 +27152,6 @@
 127.0.0.1 peka-trading.com
 127.0.0.1 pekao24-logowanie-klienci-indywidualne.eqm.gr
 127.0.0.1 pekao24-pl-bankowosc-online-officcial.metalco.gr
-127.0.0.1 pekao24-pl-bankowosc-online-ofiicial.dkprs.gr
 127.0.0.1 pekao24.lol
 127.0.0.1 pekao24.sbs
 127.0.0.1 pekao24card.com
@@ -27651,7 +27650,6 @@
 127.0.0.1 pl.mysafesmartphone.com
 127.0.0.1 pl.pasywnydchod.xyz
 127.0.0.1 pl.phtmedia.com
-127.0.0.1 pl.polndmedia.com
 127.0.0.1 pl.posts-ng-nta.top
 127.0.0.1 pl.qwantumm.top
 127.0.0.1 pl.relevance.enzymeadvisinggroup.com
@@ -29543,6 +29541,7 @@
 127.0.0.1 qureel.com
 127.0.0.1 qutconest.com
 127.0.0.1 quuenzaglow.com
+127.0.0.1 quut.top
 127.0.0.1 quyn.de
 127.0.0.1 qv-qqj.cfd
 127.0.0.1 qv.buddaa.top
@@ -30374,6 +30373,7 @@
 127.0.0.1 rkmdigital.com
 127.0.0.1 rkmf.skin
 127.0.0.1 rkpconstruction.com
+127.0.0.1 rkry14q.com
 127.0.0.1 rkw.uzz.mybluehost.me
 127.0.0.1 rl8oue.one
 127.0.0.1 rl73ajb2idqxixq.highway-kly.com
@@ -32184,6 +32184,7 @@
 127.0.0.1 slademdziecka.rest
 127.0.0.1 slademzbrodni.click
 127.0.0.1 slademzbrodni.pics
+127.0.0.1 slandersntsntdr.net
 127.0.0.1 slashcareer.com
 127.0.0.1 slashwp.com
 127.0.0.1 slaski-bank.com
@@ -33034,6 +33035,7 @@
 127.0.0.1 steam.artworkscommunity.com
 127.0.0.1 steam.communityworkshopbrowse.com
 127.0.0.1 steam.communityworkshopvote.com
+127.0.0.1 steam.poweredartchart.com
 127.0.0.1 steam.workshopitemsdetail.com
 127.0.0.1 steam.workshopmodels.com
 127.0.0.1 steam.workshopscosmetics.com
@@ -33496,6 +33498,7 @@
 127.0.0.1 support.warningtoprotectyouraccount.date
 127.0.0.1 supportcase.help
 127.0.0.1 supportlinemail.com
+127.0.0.1 supportlinkfromeveryonneme.uncody.site
 127.0.0.1 supportpoland.net
 127.0.0.1 supportrefundfinance.eu
 127.0.0.1 supportscenter.basicotact.click
@@ -34769,6 +34772,7 @@
 127.0.0.1 thompsontransitionpartners.com
 127.0.0.1 thor.muchflaw.click
 127.0.0.1 thornyline.click
+127.0.0.1 thredovminaka.serv00.net
 127.0.0.1 three-nobody.com
 127.0.0.1 threeacestruckdispatching.com
 127.0.0.1 threecountiescycle.com
@@ -36909,7 +36913,6 @@
 127.0.0.1 vinted.page8909.biz
 127.0.0.1 vinted.page58812.cfd
 127.0.0.1 vinted.payment8.de
-127.0.0.1 vinted.receivu.eu
 127.0.0.1 vinted.safebuyorder.xyz
 127.0.0.1 vinted.shop6337.info
 127.0.0.1 vinted.verkaufs1.shop
@@ -37374,7 +37377,6 @@
 127.0.0.1 wallgalaxy.com
 127.0.0.1 walmartgiftcard.sbs
 127.0.0.1 walthama.info
-127.0.0.1 walu.opinionjet.com
 127.0.0.1 waluteo.pl
 127.0.0.1 wammy.org
 127.0.0.1 wanbuy.net
@@ -38068,6 +38070,7 @@
 127.0.0.1 wndpisbr6.top
 127.0.0.1 wnioski-kredytowe.pl
 127.0.0.1 wnirgkdksfvirwo.site
+127.0.0.1 woaq5l6.today
 127.0.0.1 wobblegrit.site
 127.0.0.1 wobiras.site
 127.0.0.1 wodawmiescie.rest
@@ -38455,6 +38458,7 @@
 127.0.0.1 www.0llx.46659125.xyz
 127.0.0.1 www.0llx.56659125.xyz
 127.0.0.1 www.0llx.66659125.xyz
+127.0.0.1 www.0llx.68635345.xyz
 127.0.0.1 www.0llx.76659125.xyz
 127.0.0.1 www.0llx.86659125.xyz
 127.0.0.1 www.0llx.228569132.xyz
@@ -39118,6 +39122,7 @@
 127.0.0.1 www.54613.ws
 127.0.0.1 www.61213e800e.telewizjanf.help
 127.0.0.1 www.071324.com
+127.0.0.1 www.74468cde3c.aregr.pl
 127.0.0.1 www.77264cf0e6.mertv.pl
 127.0.0.1 www.77328e7b.session-ctls.pages.dev
 127.0.0.1 www.79593b68.augustoxs.com
@@ -39125,6 +39130,7 @@
 127.0.0.1 www.090724.com
 127.0.0.1 www.92260b84125c16671f6783c3a6254f7e.liamartem.pl
 127.0.0.1 www.93109.cfd
+127.0.0.1 www.94748.pl
 127.0.0.1 www.125194-coinbase.com
 127.0.0.1 www.128594-gemini.com
 127.0.0.1 www.159057a2a8bc6f972e441eaff6637aaf.voiseper.pl
@@ -39346,7 +39352,6 @@
 127.0.0.1 www.account-myrbc.com
 127.0.0.1 www.account-renew-pl.com
 127.0.0.1 www.account-renewal.net
-127.0.0.1 www.account-settings-help-inc.com
 127.0.0.1 www.account.coordinatoins.click
 127.0.0.1 www.account.direction-publicitaires-stewardship.com
 127.0.0.1 www.account.objective.best
@@ -40477,7 +40482,6 @@
 127.0.0.1 www.almanachackers.com
 127.0.0.1 www.almeratrade.com
 127.0.0.1 www.almondambrosia.xyz
-127.0.0.1 www.almostgrand.host
 127.0.0.1 www.almuradtiles.zohosites.com
 127.0.0.1 www.almuwaihat.com
 127.0.0.1 www.almuwaten.com
@@ -45763,7 +45767,6 @@
 127.0.0.1 www.d-gx6i.lat
 127.0.0.1 www.d-p-d.065236523.xyz
 127.0.0.1 www.d-pd.7903423.xyz
-127.0.0.1 www.d-t9zu.icu
 127.0.0.1 www.d-w5zk.icu
 127.0.0.1 www.d.bbuuddaa.top
 127.0.0.1 www.d.buddaa.top
@@ -47864,7 +47867,6 @@
 127.0.0.1 www.eludeplank.sbs
 127.0.0.1 www.elusports.com
 127.0.0.1 www.elvcsr.com
-127.0.0.1 www.elvisuzor.com
 127.0.0.1 www.elytestuff.com
 127.0.0.1 www.em.qcct.lat
 127.0.0.1 www.em.quzu.skin
@@ -48589,6 +48591,7 @@
 127.0.0.1 www.facebook-marketplace-306.ubpages.com
 127.0.0.1 www.facebook-security-marketplace.pages.med.br
 127.0.0.1 www.facebook.ct8.pl
+127.0.0.1 www.facebook.locationactor.click
 127.0.0.1 www.facebookinfo24.eu
 127.0.0.1 www.facebookloginpoczta.dorik.io
 127.0.0.1 www.facebookpocztalogin.square.site
@@ -50262,7 +50265,6 @@
 127.0.0.1 www.geniusesforhire.com
 127.0.0.1 www.geniusquest.online
 127.0.0.1 www.geniuswalletnow.com
-127.0.0.1 www.genobranch.store
 127.0.0.1 www.genregroup.com
 127.0.0.1 www.gensa.xrduniverse.info
 127.0.0.1 www.gentl3breez3.live
@@ -50560,6 +50562,7 @@
 127.0.0.1 www.globalproftab.xyz
 127.0.0.1 www.globalqualitytires.com
 127.0.0.1 www.globaltechbharat.com
+127.0.0.1 www.globaltechtrend.com
 127.0.0.1 www.globaltradeandindustries.com
 127.0.0.1 www.globaltvindia.com
 127.0.0.1 www.globalwdi.com
@@ -50804,7 +50807,6 @@
 127.0.0.1 www.googleggoolle.com
 127.0.0.1 www.googlep1ay.com
 127.0.0.1 www.googleplateform.com
-127.0.0.1 www.goontariogo.com
 127.0.0.1 www.gopedsweb.glitch.me
 127.0.0.1 www.gopixelal.skin
 127.0.0.1 www.gopkb.com
@@ -53018,7 +53020,6 @@
 127.0.0.1 www.infopolska.pro
 127.0.0.1 www.infoprasa.rest
 127.0.0.1 www.infoprogram.rest
-127.0.0.1 www.infoprojekt.visite-vendee.com
 127.0.0.1 www.informacjablog.homes
 127.0.0.1 www.informacjadnia.pics
 127.0.0.1 www.informacjafilm.mom
@@ -56068,6 +56069,7 @@
 127.0.0.1 www.lesspiemoregreen.com
 127.0.0.1 www.lesstoxicstore.com
 127.0.0.1 www.letechy.com
+127.0.0.1 www.leterinmx.com
 127.0.0.1 www.letest360.com
 127.0.0.1 www.letgo-lot.com
 127.0.0.1 www.letoilerouge.com
@@ -56448,7 +56450,6 @@
 127.0.0.1 www.ln-post.one
 127.0.0.1 www.ln-post.sbs
 127.0.0.1 www.ln.run
-127.0.0.1 www.lnbvasq.xyz
 127.0.0.1 www.lngcompanion.com
 127.0.0.1 www.lngcustody.com
 127.0.0.1 www.lnkpls.vip
@@ -56974,7 +56975,6 @@
 127.0.0.1 www.m-nuz3.lat
 127.0.0.1 www.m-or-b.com
 127.0.0.1 www.m-psgb.lat
-127.0.0.1 www.m-q6g3.lat
 127.0.0.1 www.m.bbuaa.top
 127.0.0.1 www.m.buddaa.top
 127.0.0.1 www.m.kghm-pk.ru
@@ -61136,6 +61136,7 @@
 127.0.0.1 www.olx.domain-redirect.shop
 127.0.0.1 www.olx.domain-safe.shop
 127.0.0.1 www.olx.dronabb.shop
+127.0.0.1 www.olx.dyjeorl.lol
 127.0.0.1 www.olx.effect-redirect.shop
 127.0.0.1 www.olx.ellipse-redirect.shop
 127.0.0.1 www.olx.emkaisd.shop
@@ -61581,6 +61582,7 @@
 127.0.0.1 www.oolx.9037423.xyz
 127.0.0.1 www.oolx.16532658.xyz
 127.0.0.1 www.oolx.16589154.xyz
+127.0.0.1 www.oolx.17834753.xyz
 127.0.0.1 www.oolx.25124587.xyz
 127.0.0.1 www.oolx.26512458.xyz
 127.0.0.1 www.oolx.26581542.xyz
@@ -61983,6 +61985,7 @@
 127.0.0.1 www.oxbh.top
 127.0.0.1 www.oxes.shawrick.cfd
 127.0.0.1 www.oxfordlawusa.com
+127.0.0.1 www.oy5ygu.cyou
 127.0.0.1 www.oy.trom-so.com
 127.0.0.1 www.oy.vevk.top
 127.0.0.1 www.oycliks.xyz
@@ -62454,7 +62457,6 @@
 127.0.0.1 www.peka-trading.com
 127.0.0.1 www.pekao24-logowanie-klienci-indywidualne.eqm.gr
 127.0.0.1 www.pekao24-pl-bankowosc-online-officcial.metalco.gr
-127.0.0.1 www.pekao24-pl-bankowosc-online-ofiicial.dkprs.gr
 127.0.0.1 www.pekao24.lol
 127.0.0.1 www.pekao24.sbs
 127.0.0.1 www.pekao24card.com
@@ -64801,6 +64803,7 @@
 127.0.0.1 www.qureel.com
 127.0.0.1 www.qutconest.com
 127.0.0.1 www.quuenzaglow.com
+127.0.0.1 www.quut.top
 127.0.0.1 www.quyn.de
 127.0.0.1 www.qv-qqj.cfd
 127.0.0.1 www.qv.buddaa.top
@@ -65632,6 +65635,7 @@
 127.0.0.1 www.rkmdigital.com
 127.0.0.1 www.rkmf.skin
 127.0.0.1 www.rkpconstruction.com
+127.0.0.1 www.rkry14q.com
 127.0.0.1 www.rkw.uzz.mybluehost.me
 127.0.0.1 www.rl8oue.one
 127.0.0.1 www.rl73ajb2idqxixq.highway-kly.com
@@ -67442,6 +67446,7 @@
 127.0.0.1 www.slademdziecka.rest
 127.0.0.1 www.slademzbrodni.click
 127.0.0.1 www.slademzbrodni.pics
+127.0.0.1 www.slandersntsntdr.net
 127.0.0.1 www.slashcareer.com
 127.0.0.1 www.slashwp.com
 127.0.0.1 www.slaski-bank.com
@@ -68292,6 +68297,7 @@
 127.0.0.1 www.steam.artworkscommunity.com
 127.0.0.1 www.steam.communityworkshopbrowse.com
 127.0.0.1 www.steam.communityworkshopvote.com
+127.0.0.1 www.steam.poweredartchart.com
 127.0.0.1 www.steam.workshopitemsdetail.com
 127.0.0.1 www.steam.workshopmodels.com
 127.0.0.1 www.steam.workshopscosmetics.com
@@ -68754,6 +68760,7 @@
 127.0.0.1 www.support.warningtoprotectyouraccount.date
 127.0.0.1 www.supportcase.help
 127.0.0.1 www.supportlinemail.com
+127.0.0.1 www.supportlinkfromeveryonneme.uncody.site
 127.0.0.1 www.supportpoland.net
 127.0.0.1 www.supportrefundfinance.eu
 127.0.0.1 www.supportscenter.basicotact.click
@@ -70027,6 +70034,7 @@
 127.0.0.1 www.thompsontransitionpartners.com
 127.0.0.1 www.thor.muchflaw.click
 127.0.0.1 www.thornyline.click
+127.0.0.1 www.thredovminaka.serv00.net
 127.0.0.1 www.three-nobody.com
 127.0.0.1 www.threeacestruckdispatching.com
 127.0.0.1 www.threecountiescycle.com
@@ -72167,7 +72175,6 @@
 127.0.0.1 www.vinted.page8909.biz
 127.0.0.1 www.vinted.page58812.cfd
 127.0.0.1 www.vinted.payment8.de
-127.0.0.1 www.vinted.receivu.eu
 127.0.0.1 www.vinted.safebuyorder.xyz
 127.0.0.1 www.vinted.shop6337.info
 127.0.0.1 www.vinted.verkaufs1.shop
@@ -72632,7 +72639,6 @@
 127.0.0.1 www.wallgalaxy.com
 127.0.0.1 www.walmartgiftcard.sbs
 127.0.0.1 www.walthama.info
-127.0.0.1 www.walu.opinionjet.com
 127.0.0.1 www.waluteo.pl
 127.0.0.1 www.wammy.org
 127.0.0.1 www.wanbuy.net
@@ -73326,6 +73332,7 @@
 127.0.0.1 www.wndpisbr6.top
 127.0.0.1 www.wnioski-kredytowe.pl
 127.0.0.1 www.wnirgkdksfvirwo.site
+127.0.0.1 www.woaq5l6.today
 127.0.0.1 www.wobblegrit.site
 127.0.0.1 www.wobiras.site
 127.0.0.1 www.wodawmiescie.rest
@@ -74384,7 +74391,6 @@
 127.0.0.1 www.z08k694.aidmenuto.live
 127.0.0.1 www.z9xlclx1p.top
 127.0.0.1 www.z-34e6.cfd
-127.0.0.1 www.z-93r4.icu
 127.0.0.1 www.z-b42f.cfd
 127.0.0.1 www.z-cal.com
 127.0.0.1 www.z-vivg.icu
@@ -75545,7 +75551,6 @@
 127.0.0.1 z08k694.aidmenuto.live
 127.0.0.1 z9xlclx1p.top
 127.0.0.1 z-34e6.cfd
-127.0.0.1 z-93r4.icu
 127.0.0.1 z-b42f.cfd
 127.0.0.1 z-cal.com
 127.0.0.1 z-vivg.icu

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-16 18:18:06 (UTC)                      #
+# Last updated: 2024-11-16 20:16:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -68,6 +68,8 @@
 0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
 0.0.0.0 dow.andylab.cn
@@ -118,7 +120,6 @@
 0.0.0.0 goodlabel.cn
 0.0.0.0 hailcocks.ru
 0.0.0.0 hitman-pro.ru
-0.0.0.0 hitstation.nl
 0.0.0.0 hjmhjm.is-a-landscaper.com
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
@@ -159,23 +160,22 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-tech-savvy.com
-0.0.0.0 newvideo.link
 0.0.0.0 nexoproducciones.cl
 0.0.0.0 ngt-techs.com
 0.0.0.0 njprfirm.com
 0.0.0.0 node.noxichosts.xyz
 0.0.0.0 noithaticon.vn
+0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 onemk3.teracomm.mk
 0.0.0.0 osecweb.ir
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panel.noxichosts.xyz
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
-0.0.0.0 powercx1.wetolink.com
 0.0.0.0 ppzdn.events.socalpocis.org
 0.0.0.0 proanuncios.mx
 0.0.0.0 protechasia.com
@@ -196,15 +196,15 @@
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sfa.com.ar
 0.0.0.0 sfsdfsdvsd.neat-url.com
-0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
+0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 springs.octabracessorioscom.com
 0.0.0.0 sqdqsdsq.com
 0.0.0.0 srothienhoa.com
 0.0.0.0 stdown.dinju.com
@@ -217,12 +217,11 @@
 0.0.0.0 tecunonline.com
 0.0.0.0 tehytdf.sellsyourhome.org
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tqne.events.socalpocis.org
 0.0.0.0 travelwithmanta.co.za
-0.0.0.0 trtmrefix.com
-0.0.0.0 tttht.is-a-therapist.com
 0.0.0.0 twizt.net
 0.0.0.0 ujuju.from-md.com
 0.0.0.0 ujujuju.from-pa.com
@@ -234,11 +233,13 @@
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 valseg.com.br
 0.0.0.0 voievodulgelu.ro
 0.0.0.0 websutility.in
+0.0.0.0 wewef.from-sc.com
 0.0.0.0 winyardbuilding.nz
 0.0.0.0 wrwwewfe.from-wi.com
 0.0.0.0 wrwwewfe.is-a-blogger.com
@@ -257,12 +258,12 @@
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.griservice.ro
 0.0.0.0 www.hseda.com
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.luxurypropertiesfl.com
 0.0.0.0 www.manjeetsteelproductions.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mspa-constabulary.org
 0.0.0.0 www.netsolution.it
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.ranchoboscardin.com.br
@@ -282,8 +283,9 @@
 0.0.0.0 yazanr.net
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 zibll.8899006.net
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
 0.0.0.0 zvczcz.saves-the-whales.com
-# Number of entries: 280
+# Number of entries: 282

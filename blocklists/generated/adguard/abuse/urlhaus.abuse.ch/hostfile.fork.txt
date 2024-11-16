@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-11-16 18:18:06 (UTC)                      !
+! Last updated: 2024-11-16 20:16:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -68,6 +68,8 @@
 ||diclegrup.org^
 ||disk.accord1key.cn^
 ||dl.aginjector.com^
+||dl.natgo.cn^
+||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||dnvk1.info^
 ||dow.andylab.cn^
@@ -118,7 +120,6 @@
 ||goodlabel.cn^
 ||hailcocks.ru^
 ||hitman-pro.ru^
-||hitstation.nl^
 ||hjmhjm.is-a-landscaper.com^
 ||hoteltoscanaplaza.com.co^
 ||hr2019.vrcom7.com^
@@ -159,23 +160,22 @@
 ||municipiodomaio.cv^
 ||namthaibinh.net^
 ||new-tech-savvy.com^
-||newvideo.link^
 ||nexoproducciones.cl^
 ||ngt-techs.com^
 ||njprfirm.com^
 ||node.noxichosts.xyz^
 ||noithaticon.vn^
+||ns.smallsrv.com^
 ||odoo.kseibitools.com^
 ||onemk3.teracomm.mk^
 ||osecweb.ir^
-||palharesinformatica.com.br^
 ||panel.noxichosts.xyz^
+||paonancs.cn^
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
 ||perfectperu.com^
 ||pid.fly160.com^
-||powercx1.wetolink.com^
 ||ppzdn.events.socalpocis.org^
 ||proanuncios.mx^
 ||protechasia.com^
@@ -196,15 +196,15 @@
 ||ser.nrovn.xyz^
 ||sfa.com.ar^
 ||sfsdfsdvsd.neat-url.com^
-||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||sirault.be^
 ||sms-szfang.com^
+||soft.110route.com^
+||softcatalog.ru^
 ||soportegira.net^
 ||sos.vivi.sg^
 ||soyjak.download^
 ||spaceframe.mobi.space-frame.co.za^
-||springs.octabracessorioscom.com^
 ||sqdqsdsq.com^
 ||srothienhoa.com^
 ||stdown.dinju.com^
@@ -217,12 +217,11 @@
 ||tecunonline.com^
 ||tehytdf.sellsyourhome.org^
 ||telegramcn.co^
+||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tianyinsoft.top^
 ||tqne.events.socalpocis.org^
 ||travelwithmanta.co.za^
-||trtmrefix.com^
-||tttht.is-a-therapist.com^
 ||twizt.net^
 ||ujuju.from-md.com^
 ||ujujuju.from-pa.com^
@@ -234,11 +233,13 @@
 ||unicorpbrunei.com^
 ||up.maolaoban.top^
 ||update.cg100iii.com^
+||update.vlnguba.com^
 ||upload.vina-host.com^
 ||utorrent-backup-server.top^
 ||valseg.com.br^
 ||voievodulgelu.ro^
 ||websutility.in^
+||wewef.from-sc.com^
 ||winyardbuilding.nz^
 ||wrwwewfe.from-wi.com^
 ||wrwwewfe.is-a-blogger.com^
@@ -257,12 +258,12 @@
 ||www.globallaborsupply.com^
 ||www.griservice.ro^
 ||www.hseda.com^
-||www.ingonherbal.com^
 ||www.luxurypropertiesfl.com^
 ||www.manjeetsteelproductions.com^
 ||www.medises.co.kr^
 ||www.mspa-constabulary.org^
 ||www.netsolution.it^
+||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.qqqmy.com^
 ||www.ranchoboscardin.com.br^
@@ -282,8 +283,9 @@
 ||yazanr.net^
 ||ywxww.net^
 ||yzkzixun.com^
+||z.shavsl.com^
 ||zibll.8899006.net^
 ||znrq.zifwxq.cn^
 ||zunigarquitectura.com^
 ||zvczcz.saves-the-whales.com^
-! Number of entries: 280
+! Number of entries: 282
