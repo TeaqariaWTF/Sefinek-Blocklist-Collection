@@ -17,10 +17,10 @@ $TTL 300
 *.912648.aioc.qbgxl.com CNAME .
 aaaee.from-wa.com CNAME .
 *.aaaee.from-wa.com CNAME .
-aarzoomarine.com CNAME .
-*.aarzoomarine.com CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
+adf6.adf6.com CNAME .
+*.adf6.adf6.com CNAME .
 adp-auth.com CNAME .
 *.adp-auth.com CNAME .
 aefieiaehfiaehr.top CNAME .
@@ -53,6 +53,8 @@ aulist.com CNAME .
 *.aulist.com CNAME .
 avastop.com CNAME .
 *.avastop.com CNAME .
+avastpx.com CNAME .
+*.avastpx.com CNAME .
 azczxs.from-nd.com CNAME .
 *.azczxs.from-nd.com CNAME .
 bestmagazineforanimalsunicum.ru CNAME .
@@ -75,8 +77,6 @@ cdn-defac18.artcollective-snapclick.com CNAME .
 *.cdn-defac18.artcollective-snapclick.com CNAME .
 cdn-defac18.studyzone-investmentguru.com CNAME .
 *.cdn-defac18.studyzone-investmentguru.com CNAME .
-chat2cams.com CNAME .
-*.chat2cams.com CNAME .
 ciscocdn.com CNAME .
 *.ciscocdn.com CNAME .
 clavity.me CNAME .
@@ -143,8 +143,6 @@ down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
 *.download.caihong.com CNAME .
-download.cdn-serveri6731-ns.shop CNAME .
-*.download.cdn-serveri6731-ns.shop CNAME .
 download.document-sharing.com CNAME .
 *.download.document-sharing.com CNAME .
 download.haozip.com CNAME .
@@ -209,12 +207,8 @@ gdhbbdv.is-a-bruinsfan.org CNAME .
 *.gdhbbdv.is-a-bruinsfan.org CNAME .
 gdhbbdv.is-a-student.com CNAME .
 *.gdhbbdv.is-a-student.com CNAME .
-gdhbbdv.is-into-games.com CNAME .
-*.gdhbbdv.is-into-games.com CNAME .
 gdhbbdv.is-very-sweet.org CNAME .
 *.gdhbbdv.is-very-sweet.org CNAME .
-gdhbbdv.sellsyourhome.org CNAME .
-*.gdhbbdv.sellsyourhome.org CNAME .
 getgrass-earn.com CNAME .
 *.getgrass-earn.com CNAME .
 ggg.is-a-painter.com CNAME .
@@ -281,8 +275,6 @@ kykgenot.com CNAME .
 *.kykgenot.com CNAME .
 leadbase.cloud CNAME .
 *.leadbase.cloud CNAME .
-library.arihantmbainstitute.ac.in CNAME .
-*.library.arihantmbainstitute.ac.in CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
 linkvilleplayers.org CNAME .
@@ -327,8 +319,6 @@ node.noxichosts.xyz CNAME .
 *.node.noxichosts.xyz CNAME .
 noithaticon.vn CNAME .
 *.noithaticon.vn CNAME .
-ns.smallsrv.com CNAME .
-*.ns.smallsrv.com CNAME .
 octabracessorioscom.com CNAME .
 *.octabracessorioscom.com CNAME .
 odoo.kseibitools.com CNAME .
@@ -341,8 +331,6 @@ palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
 panel.noxichosts.xyz CNAME .
 *.panel.noxichosts.xyz CNAME .
-paonancs.cn CNAME .
-*.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 passagetoeastafrica.com CNAME .
@@ -351,8 +339,6 @@ pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 perfectperu.com CNAME .
 *.perfectperu.com CNAME .
-pid.fly160.com CNAME .
-*.pid.fly160.com CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
 powercx1.wetolink.com CNAME .
@@ -363,8 +349,6 @@ proanuncios.mx CNAME .
 *.proanuncios.mx CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
-pub.foodie-safari.shop CNAME .
-*.pub.foodie-safari.shop CNAME .
 qdofg.strategies.mvpstrat.com CNAME .
 *.qdofg.strategies.mvpstrat.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
@@ -393,8 +377,6 @@ scsfscscs.is-an-actress.com CNAME .
 *.scsfscscs.is-an-actress.com CNAME .
 sdfgfv.stuff-4-sale.org CNAME .
 *.sdfgfv.stuff-4-sale.org CNAME .
-secure.cloudtechnologiesusa.com CNAME .
-*.secure.cloudtechnologiesusa.com CNAME .
 ser.nrovn.xyz CNAME .
 *.ser.nrovn.xyz CNAME .
 sfa.com.ar CNAME .
@@ -419,8 +401,6 @@ soyjak.download CNAME .
 *.soyjak.download CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
-springs.octabracessorioscom.com CNAME .
-*.springs.octabracessorioscom.com CNAME .
 sqdqsdsq.com CNAME .
 *.sqdqsdsq.com CNAME .
 srothienhoa.com CNAME .
@@ -429,8 +409,6 @@ stdown.dinju.com CNAME .
 *.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
-suanfe.is-a-landscaper.com CNAME .
-*.suanfe.is-a-landscaper.com CNAME .
 support.clz.kr CNAME .
 *.support.clz.kr CNAME .
 taodianla.com CNAME .
@@ -447,8 +425,6 @@ telegram-app.vip CNAME .
 *.telegram-app.vip CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
-temirtau-adm.ru CNAME .
-*.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
 *.tengfeidn.com CNAME .
 tianyinsoft.top CNAME .
@@ -457,16 +433,12 @@ tqne.events.socalpocis.org CNAME .
 *.tqne.events.socalpocis.org CNAME .
 travelwithmanta.co.za CNAME .
 *.travelwithmanta.co.za CNAME .
-tttht.is-a-therapist.com CNAME .
-*.tttht.is-a-therapist.com CNAME .
 twizt.net CNAME .
 *.twizt.net CNAME .
 ujuju.from-md.com CNAME .
 *.ujuju.from-md.com CNAME .
 ujujuju.from-pa.com CNAME .
 *.ujujuju.from-pa.com CNAME .
-ujujuju.is-a-anarchist.com CNAME .
-*.ujujuju.is-a-anarchist.com CNAME .
 ujujuju.is-a-painter.com CNAME .
 *.ujujuju.is-a-painter.com CNAME .
 ujujuju.is-a-republican.com CNAME .
@@ -503,6 +475,8 @@ wrwwewfe.is-a-blogger.com CNAME .
 *.wrwwewfe.is-a-blogger.com CNAME .
 wrwwewfe.merseine.org CNAME .
 *.wrwwewfe.merseine.org CNAME .
+aqianniao.com CNAME .
+*.aqianniao.com CNAME .
 atordeg.com.br CNAME .
 *.atordeg.com.br CNAME .
 beiletoys.com CNAME .
@@ -555,8 +529,6 @@ xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
-wynecare.com CNAME .
-*.wynecare.com CNAME .
 wz.3911.com CNAME .
 *.wz.3911.com CNAME .
 xiangshunjy.com CNAME .

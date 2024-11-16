@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-16 02:48:12 (UTC)                      #
+# Last updated: 2024-11-16 04:23:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,8 +14,8 @@
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aaaee.from-wa.com
-0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
+0.0.0.0 adf6.adf6.com
 0.0.0.0 adp-auth.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -32,6 +32,7 @@
 0.0.0.0 asianchow.com
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
+0.0.0.0 avastpx.com
 0.0.0.0 azczxs.from-nd.com
 0.0.0.0 bestmagazineforanimalsunicum.ru
 0.0.0.0 bitkiselurunsiparis.com
@@ -43,7 +44,6 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-defac18.artcollective-snapclick.com
 0.0.0.0 cdn-defac18.studyzone-investmentguru.com
-0.0.0.0 chat2cams.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 clavity.me
 0.0.0.0 cloud-salchechon.com
@@ -77,7 +77,6 @@
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
-0.0.0.0 download.cdn-serveri6731-ns.shop
 0.0.0.0 download.document-sharing.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
@@ -110,9 +109,7 @@
 0.0.0.0 gdhbbdv.is-a-blogger.com
 0.0.0.0 gdhbbdv.is-a-bruinsfan.org
 0.0.0.0 gdhbbdv.is-a-student.com
-0.0.0.0 gdhbbdv.is-into-games.com
 0.0.0.0 gdhbbdv.is-very-sweet.org
-0.0.0.0 gdhbbdv.sellsyourhome.org
 0.0.0.0 getgrass-earn.com
 0.0.0.0 ggg.is-a-painter.com
 0.0.0.0 gig.energymaxgrp.eu
@@ -146,7 +143,6 @@
 0.0.0.0 kjjghhjgf.is-uberleet.com
 0.0.0.0 kykgenot.com
 0.0.0.0 leadbase.cloud
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
@@ -169,25 +165,21 @@
 0.0.0.0 njprfirm.com
 0.0.0.0 node.noxichosts.xyz
 0.0.0.0 noithaticon.vn
-0.0.0.0 ns.smallsrv.com
 0.0.0.0 octabracessorioscom.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 onemk3.teracomm.mk
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panel.noxichosts.xyz
-0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
-0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 powercx1.wetolink.com
 0.0.0.0 ppzdn.events.socalpocis.org
 0.0.0.0 proanuncios.mx
 0.0.0.0 protechasia.com
-0.0.0.0 pub.foodie-safari.shop
 0.0.0.0 qdofg.strategies.mvpstrat.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 ranchoboscardin.com.br
@@ -202,7 +194,6 @@
 0.0.0.0 scsfscscs.is-a-chef.net
 0.0.0.0 scsfscscs.is-an-actress.com
 0.0.0.0 sdfgfv.stuff-4-sale.org
-0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sfa.com.ar
 0.0.0.0 sfsdfsdvsd.neat-url.com
@@ -215,12 +206,10 @@
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 springs.octabracessorioscom.com
 0.0.0.0 sqdqsdsq.com
 0.0.0.0 srothienhoa.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
-0.0.0.0 suanfe.is-a-landscaper.com
 0.0.0.0 support.clz.kr
 0.0.0.0 taodianla.com
 0.0.0.0 technovm-hk.tioffiop.shop
@@ -229,16 +218,13 @@
 0.0.0.0 tehytdf.sellsyourhome.org
 0.0.0.0 telegram-app.vip
 0.0.0.0 telegramcn.co
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tqne.events.socalpocis.org
 0.0.0.0 travelwithmanta.co.za
-0.0.0.0 tttht.is-a-therapist.com
 0.0.0.0 twizt.net
 0.0.0.0 ujuju.from-md.com
 0.0.0.0 ujujuju.from-pa.com
-0.0.0.0 ujujuju.is-a-anarchist.com
 0.0.0.0 ujujuju.is-a-painter.com
 0.0.0.0 ujujuju.is-a-republican.com
 0.0.0.0 ujujuju.is-uberleet.com
@@ -257,6 +243,7 @@
 0.0.0.0 wrwwewfe.from-wi.com
 0.0.0.0 wrwwewfe.is-a-blogger.com
 0.0.0.0 wrwwewfe.merseine.org
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atordeg.com.br
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
@@ -288,7 +275,6 @@
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xinhgai.tv
@@ -301,4 +287,4 @@
 0.0.0.0 zibll.8899006.net
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zvczcz.saves-the-whales.com
-# Number of entries: 295
+# Number of entries: 281
