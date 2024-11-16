@@ -1,9 +1,9 @@
-# Version: 202411152206
+# Version: 202411160109
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137312
-# Last modified: 2024-11-15T22:06:51+0000
+! Entries: 137313
+# Last modified: 2024-11-16T01:09:44+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -3433,7 +3433,6 @@
 127.0.0.1 58.red-80-34-98.staticip.rima-tde.net
 127.0.0.1 58.red-81-47-136.staticip.rima-tde.net
 127.0.0.1 58.sub-70-194-163.myvzw.com
-127.0.0.1 58.wf
 127.0.0.1 582971756703458-dot-wetransfer-auth-file-344.appspot.com
 127.0.0.1 582abb5891.c3bb533dd7.com
 127.0.0.1 585227ybn.com
@@ -5321,7 +5320,6 @@
 127.0.0.1 a1599.g.akamai.net
 127.0.0.1 a15aaa1.oss-cn-hongkong.aliyuncs.com
 127.0.0.1 a15aeb5940.c4877dea0d.com
-127.0.0.1 a15c5009bcbe272.com
 127.0.0.1 a166994a16.com
 127.0.0.1 a1767.g.akamai.net
 127.0.0.1 a18qqq1.oss-cn-hongkong.aliyuncs.com
@@ -13045,6 +13043,7 @@
 127.0.0.1 alloicne.fr
 127.0.0.1 allopix.com
 127.0.0.1 alloramart.com
+127.0.0.1 allorfrryz.com
 127.0.0.1 allosponsor.com
 127.0.0.1 allostreaming.fr
 127.0.0.1 allotasse.kissr.com
@@ -14957,7 +14956,6 @@
 127.0.0.1 anibis-ch.xf.cz
 127.0.0.1 anickeebsoon.com
 127.0.0.1 anidianskirts.com
-127.0.0.1 aniede.xyz
 127.0.0.1 animadulte.com
 127.0.0.1 animal-drawings.com
 127.0.0.1 animal36.com
@@ -14999,7 +14997,6 @@
 127.0.0.1 ankboot.com
 127.0.0.1 ankecircuits.com
 127.0.0.1 ankerch-crimea.ru
-127.0.0.1 ankghgcgygyfi.com
 127.0.0.1 ankieta-online.pl
 127.0.0.1 ankjdans.xyz
 127.0.0.1 ankleproposedomicile.com
@@ -17291,7 +17288,6 @@
 127.0.0.1 asbgenius.com
 127.0.0.1 asbhyer.top
 127.0.0.1 asbulbasaura.com
-127.0.0.1 asbutiseemedli.com
 127.0.0.1 ascc.javquick.com
 127.0.0.1 asccdn.com
 127.0.0.1 asccounttixckers-facebo0k.emochila.com
@@ -20374,7 +20370,6 @@
 127.0.0.1 barnacle.natalieandmikeyb.com
 127.0.0.1 barnacle.viewsource.io
 127.0.0.1 barnaclecocoonjest.com
-127.0.0.1 barnacleoverdo.com
 127.0.0.1 barnaclewiped.com
 127.0.0.1 barname.weebly.com
 127.0.0.1 barnandfence.com
@@ -24311,6 +24306,7 @@
 127.0.0.1 boutique-rugby.fr
 127.0.0.1 boutique.aintzira.com
 127.0.0.1 boutiquebestsell.com
+127.0.0.1 boutiquechannel.fr
 127.0.0.1 boutiquefeel.com
 127.0.0.1 boutiqueinfrance.com
 127.0.0.1 boutiquemizunoparis.fr
@@ -30492,6 +30488,7 @@
 127.0.0.1 clickad.eo.pl
 127.0.0.1 clickadilla.com
 127.0.0.1 clickadin.com
+127.0.0.1 clickadsource.com
 127.0.0.1 clickadu.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
@@ -39019,6 +39016,7 @@
 127.0.0.1 dgdfb.groks-this.info
 127.0.0.1 dgdfsgdgdegde.blogspot.bg
 127.0.0.1 dgerard.com
+127.0.0.1 dgfip-impots-ca3.fr
 127.0.0.1 dgfip-impots.fr
 127.0.0.1 dgfu.education
 127.0.0.1 dggaenaawxe8z.cloudfront.net
@@ -41289,6 +41287,7 @@
 127.0.0.1 dossier-antaigouv.fr
 127.0.0.1 dossier-clients.fr
 127.0.0.1 dossier-express-regularisation.fr
+127.0.0.1 dossier-santer.fr
 127.0.0.1 dossierantai.fr
 127.0.0.1 dossmanaventre.top
 127.0.0.1 dosudosuo.com
@@ -43412,7 +43411,6 @@
 127.0.0.1 economyfr.com
 127.0.0.1 economyhave.com
 127.0.0.1 economylube.com
-127.0.0.1 economymentor.com
 127.0.0.1 economystocking.com
 127.0.0.1 economywatch.com
 127.0.0.1 econotoolsinc.com
@@ -44272,6 +44270,7 @@
 127.0.0.1 elmipardaz.com
 127.0.0.1 elmissouri.fr
 127.0.0.1 elmonopolicycr.info
+127.0.0.1 elmordjene.fr
 127.0.0.1 elmow.com
 127.0.0.1 elmpedia.com
 127.0.0.1 elnuevosistemamundo.com
@@ -55890,7 +55889,6 @@
 127.0.0.1 gov.emkgr.info
 127.0.0.1 gov.enterprisegr.com
 127.0.0.1 gov.envirocoregr.com
-127.0.0.1 gov.equipegr.ink
 127.0.0.1 gov.ergr.lat
 127.0.0.1 gov.esfbhz-eergr.com
 127.0.0.1 gov.euwrbwgr.fun
@@ -56184,7 +56182,6 @@
 127.0.0.1 gov.sale-suv-gr.store
 127.0.0.1 gov.sbumzjfwegr.info
 127.0.0.1 gov.sbvfgr.info
-127.0.0.1 gov.scengr.net
 127.0.0.1 gov.scngr.com
 127.0.0.1 gov.sdbgr.buzz
 127.0.0.1 gov.sdlgr.sbs
@@ -57156,6 +57153,7 @@
 127.0.0.1 groundlesscrown.com
 127.0.0.1 groundlesstightsitself.com
 127.0.0.1 groundzeroevent.com
+127.0.0.1 group-but.fr
 127.0.0.1 group-colas.fr
 127.0.0.1 group-meeting.online
 127.0.0.1 group-meeting.team
@@ -58648,6 +58646,8 @@
 127.0.0.1 hariheadacheasperity.com
 127.0.0.1 harleycuddlepuppies.com
 127.0.0.1 harleydavidson-france.fr
+127.0.0.1 harleydavidson-shop.fr
+127.0.0.1 harleydavidson-store.fr
 127.0.0.1 harleymaltipoopp.com
 127.0.0.1 harmfuleqwrj14xnvdc.jp
 127.0.0.1 harmonfinance.com
@@ -59466,7 +59466,6 @@
 127.0.0.1 helpmymacfaster.club
 127.0.0.1 helpnanacenter.helpscoutdocs.com
 127.0.0.1 helps-not.top
-127.0.0.1 helps-tx.top
 127.0.0.1 helpstop.us
 127.0.0.1 helpsupportcenter.com
 127.0.0.1 helpwebroot.com
@@ -64022,6 +64021,7 @@
 127.0.0.1 informality.co
 127.0.0.1 informaticsanalyst.com
 127.0.0.1 information-biling.fr
+127.0.0.1 information-cartevital.fr
 127.0.0.1 information-chronopost.fr
 127.0.0.1 information-client.fr
 127.0.0.1 information-compte.fr
@@ -69217,7 +69217,6 @@
 127.0.0.1 kkujkajkeiobts.com
 127.0.0.1 kkuuiif.shop
 127.0.0.1 kkvesjzn.com
-127.0.0.1 kkyvmkxmunrk.com
 127.0.0.1 kl-cleanse.com
 127.0.0.1 kl.embarupbuoy.com
 127.0.0.1 kladart.com
@@ -72348,7 +72347,6 @@
 127.0.0.1 likeyoungna.com
 127.0.0.1 likez.in
 127.0.0.1 likondok.com
-127.0.0.1 likratoka.com
 127.0.0.1 liktufmruav.com
 127.0.0.1 likutaencoil.shop
 127.0.0.1 lilac-lane.com
@@ -75144,7 +75142,6 @@
 127.0.0.1 lwrjrm.top
 127.0.0.1 lwrnikzjpp.com
 127.0.0.1 lwrohd.xyz
-127.0.0.1 lwtlock.cn
 127.0.0.1 lwv-wbla.org
 127.0.0.1 lwvrv.icu
 127.0.0.1 lwxs99.cc
@@ -75267,7 +75264,6 @@
 127.0.0.1 lzwla.top
 127.0.0.1 lzxdx24yib.com
 127.0.0.1 lzzqfj.xyz
-127.0.0.1 m-a-global-online-service.icu
 127.0.0.1 m-a-global-online-service.vip
 127.0.0.1 m-account-online.webnode.com
 127.0.0.1 m-adash.m.taobao.com
@@ -78413,7 +78409,6 @@
 127.0.0.1 messsenger.online
 127.0.0.1 messsenger.ru
 127.0.0.1 messsomehow.com
-127.0.0.1 messy-concentrate.com
 127.0.0.1 messyfuck.com
 127.0.0.1 messyoranges.com
 127.0.0.1 mestertignseekjet4.blogspot.com
@@ -80453,6 +80448,7 @@
 127.0.0.1 moecoco.com
 127.0.0.1 moecrocari.com
 127.0.0.1 moelove.jp
+127.0.0.1 moende11disney.fr
 127.0.0.1 moera.xyz
 127.0.0.1 moereng.com
 127.0.0.1 moesexy.com
@@ -80656,6 +80652,7 @@
 127.0.0.1 moncolissimo.fr
 127.0.0.1 moncommisariat.fr
 127.0.0.1 moncompte-ameli.com
+127.0.0.1 moncompte-blank.fr
 127.0.0.1 moncompte-info.fr
 127.0.0.1 moncompte-mydisney.fr
 127.0.0.1 moncompte-pmu.fr
@@ -80680,6 +80677,7 @@
 127.0.0.1 mondial-relays.fr
 127.0.0.1 mondialeacrilicos.com.br
 127.0.0.1 mondialrelaay.top
+127.0.0.1 mondialrelais-suivis.fr
 127.0.0.1 mondialrelay-colis-fr.com
 127.0.0.1 mondialrelay-france.com
 127.0.0.1 mondialrelay-infocolis.fr
@@ -80687,6 +80685,7 @@
 127.0.0.1 mondialrelay-livraison.fr
 127.0.0.1 mondialrelay-reglement.com
 127.0.0.1 mondialrelay-support.com
+127.0.0.1 mondialrelay-transit.fr
 127.0.0.1 mondialrelayaide.com
 127.0.0.1 mondialrelayf-livraison.com
 127.0.0.1 mondialrelayhelp.com
@@ -80998,6 +80997,7 @@
 127.0.0.1 moratomengineering.com
 127.0.0.1 moravianjournal.upol.cz
 127.0.0.1 morbitempus.com
+127.0.0.1 mordjene.fr
 127.0.0.1 mordoops.com
 127.0.0.1 more-followers.com
 127.0.0.1 more.square7.ch
@@ -83020,7 +83020,6 @@
 127.0.0.1 names.indianmedsupplies.co.in
 127.0.0.1 names.louisconjar.com
 127.0.0.1 namesakecapricorntotally.com
-127.0.0.1 namesakedisappointmentpulverize.com
 127.0.0.1 namesakeoscilloscopemarquis.com
 127.0.0.1 nameserver.win
 127.0.0.1 namestorefilmlife.cn
@@ -84736,6 +84735,7 @@
 127.0.0.1 nguyenkim.co
 127.0.0.1 nguyenthanhdat.com
 127.0.0.1 ngwadzu.cn
+127.0.0.1 ngxzkaxf.icu
 127.0.0.1 nh-iie.top
 127.0.0.1 nhadatchinhchu24h.net
 127.0.0.1 nhan.design
@@ -85128,7 +85128,6 @@
 127.0.0.1 niuguwang.net.cn
 127.0.0.1 niupaiba.com
 127.0.0.1 niuxgame77.com
-127.0.0.1 niveahie.beget.tech
 127.0.0.1 nivirijimukavut.weebly.com
 127.0.0.1 niwooghu.com
 127.0.0.1 nixbsprhupgor.com
@@ -91852,7 +91851,6 @@
 127.0.0.1 perade.top
 127.0.0.1 peraltae.com
 127.0.0.1 peranry.com
-127.0.0.1 perazxcs.com
 127.0.0.1 perce.ru
 127.0.0.1 perceivedfineembark.com
 127.0.0.1 perceivedspokeorient.com
@@ -94359,7 +94357,6 @@
 127.0.0.1 portail-messagerieorangemms.web.app
 127.0.0.1 portail-opposition.fr
 127.0.0.1 portail-public-de-facturation.fr
-127.0.0.1 portail-service-ameli.fr
 127.0.0.1 portailauto-entrepreneur.fr
 127.0.0.1 portailfree.fr
 127.0.0.1 portailopposition.fr
@@ -97670,7 +97667,6 @@
 127.0.0.1 pziad.com
 127.0.0.1 pziaix.xyz
 127.0.0.1 pzmeblamivop.world
-127.0.0.1 pznhfofqtwkky.com
 127.0.0.1 pznlpp.xyz
 127.0.0.1 pzphmkf.xyz
 127.0.0.1 pzpivx.xyz
@@ -98059,6 +98055,7 @@
 127.0.0.1 qpdigitech.com
 127.0.0.1 qpdownload.com
 127.0.0.1 qpesok.xyz
+127.0.0.1 qphkuua.icu
 127.0.0.1 qpigoa.xyz
 127.0.0.1 qpoe.com
 127.0.0.1 qppez6.gow.englishwoodlands.co.uk
@@ -100199,7 +100196,6 @@
 127.0.0.1 rehtrhhfdhfdehdfhrhj.blogspot.sn
 127.0.0.1 rehvbghwe.cc
 127.0.0.1 rehyejereeeefh.bij.pl
-127.0.0.1 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 127.0.0.1 reichelcormier.bid
 127.0.0.1 reifen-richter-ellhofen.de
 127.0.0.1 reifen-simon.com
@@ -105423,7 +105419,6 @@
 127.0.0.1 seburax.com
 127.0.0.1 sec-autifpal.fr
 127.0.0.1 sec-cdn.static.xiaomi.net
-127.0.0.1 sec-cloud.cn
 127.0.0.1 sec.dashabi.in
 127.0.0.1 sec.hit.gemius.pl
 127.0.0.1 sec.resource.xiaomi.net
@@ -113986,6 +113981,7 @@
 127.0.0.1 stpmgo.com
 127.0.0.1 stpmneaywgib.com
 127.0.0.1 stptb.org
+127.0.0.1 stqagmrylm.xyz
 127.0.0.1 stquality.org
 127.0.0.1 str-travaux.com
 127.0.0.1 str.hit.gemius.pl
@@ -115498,6 +115494,7 @@
 127.0.0.1 sweettruckdiscountpro.com
 127.0.0.1 sweety.biz
 127.0.0.1 sweetymalls.com
+127.0.0.1 sweisib.top
 127.0.0.1 swelen.com
 127.0.0.1 swellex.best
 127.0.0.1 swellingconsultation.com
@@ -115712,6 +115709,7 @@
 127.0.0.1 sylhetvoice.com
 127.0.0.1 syllableliking.com
 127.0.0.1 syllablesight.com
+127.0.0.1 syllabusbastardchunk.com
 127.0.0.1 syllabusimperfect.com
 127.0.0.1 syllabuspillowcasebake.com
 127.0.0.1 sylmg.com
@@ -128340,6 +128338,7 @@
 127.0.0.1 vlitag.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 vlkmcpnfo.com
+127.0.0.1 vlkvchof.com
 127.0.0.1 vllsour.com
 127.0.0.1 vlnk.me
 127.0.0.1 vlogerads.com
@@ -130962,6 +130961,7 @@
 127.0.0.1 whompothessy.com
 127.0.0.1 whomspreadbeep.com
 127.0.0.1 whomsudsikaxu.com
+127.0.0.1 whoobaumpairto.xyz
 127.0.0.1 whoodiksaglels.net
 127.0.0.1 whookroo.com
 127.0.0.1 whoolrulr.net
@@ -137163,6 +137163,7 @@
 127.0.0.1 zumrieth.com
 127.0.0.1 zumschwarzenhirsch.de
 127.0.0.1 zunfa.net
+127.0.0.1 zungiwhaigaunsi.net
 127.0.0.1 zunigarquitectura.com
 127.0.0.1 zunmi.cn
 127.0.0.1 zunostore.su

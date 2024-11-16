@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111601 43200 3600 259200 300
   NS  localhost.
 00d3ed994e.com CNAME .
 *.00d3ed994e.com CNAME .
@@ -4149,6 +4149,8 @@ allocationhistorianweekend.com CNAME .
 *.allocationhistorianweekend.com CNAME .
 allodsubussu.com CNAME .
 *.allodsubussu.com CNAME .
+allorfrryz.com CNAME .
+*.allorfrryz.com CNAME .
 allotnegate.com CNAME .
 *.allotnegate.com CNAME .
 allotupwardmalicious.com CNAME .
@@ -11183,6 +11185,8 @@ click4free.info CNAME .
 *.click4free.info CNAME .
 clickadin.com CNAME .
 *.clickadin.com CNAME .
+clickadsource.com CNAME .
+*.clickadsource.com CNAME .
 clickagy.com CNAME .
 *.clickagy.com CNAME .
 clickalinks.xyz CNAME .
@@ -46797,6 +46801,8 @@ stpmgo.com CNAME .
 *.stpmgo.com CNAME .
 stpmneaywgib.com CNAME .
 *.stpmneaywgib.com CNAME .
+stqagmrylm.xyz CNAME .
+*.stqagmrylm.xyz CNAME .
 stquality.org CNAME .
 *.stquality.org CNAME .
 straight-shift.pro CNAME .
@@ -47629,6 +47635,8 @@ sykfmgu.com CNAME .
 *.sykfmgu.com CNAME .
 syllableliking.com CNAME .
 *.syllableliking.com CNAME .
+syllabusbastardchunk.com CNAME .
+*.syllabusbastardchunk.com CNAME .
 syllabusimperfect.com CNAME .
 *.syllabusimperfect.com CNAME .
 syllabuspillowcasebake.com CNAME .
@@ -52681,6 +52689,8 @@ vlitag.com CNAME .
 *.vlitag.com CNAME .
 vlkmcpnfo.com CNAME .
 *.vlkmcpnfo.com CNAME .
+vlkvchof.com CNAME .
+*.vlkvchof.com CNAME .
 vllsour.com CNAME .
 *.vllsour.com CNAME .
 vlnk.me CNAME .
@@ -53911,6 +53921,8 @@ whomspreadbeep.com CNAME .
 *.whomspreadbeep.com CNAME .
 whomsudsikaxu.com CNAME .
 *.whomsudsikaxu.com CNAME .
+whoobaumpairto.xyz CNAME .
+*.whoobaumpairto.xyz CNAME .
 whoodiksaglels.net CNAME .
 *.whoodiksaglels.net CNAME .
 whookrair.xyz CNAME .
@@ -56401,6 +56413,8 @@ zumid.xyz CNAME .
 *.zumid.xyz CNAME .
 zumrieth.com CNAME .
 *.zumrieth.com CNAME .
+zungiwhaigaunsi.net CNAME .
+*.zungiwhaigaunsi.net CNAME .
 zunsoach.com CNAME .
 *.zunsoach.com CNAME .
 zuoltlhh.com CNAME .

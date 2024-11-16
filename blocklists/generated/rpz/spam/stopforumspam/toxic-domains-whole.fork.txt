@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111601 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -21341,6 +21341,8 @@ chito-18.info CNAME .
 *.chito-18.info CNAME .
 chitrakutdhamtalgajarada.org CNAME .
 *.chitrakutdhamtalgajarada.org CNAME .
+chitthi.in CNAME .
+*.chitthi.in CNAME .
 chitty.com CNAME .
 *.chitty.com CNAME .
 chnaxa.com CNAME .
@@ -46241,6 +46243,8 @@ htcvive.online CNAME .
 *.htcvive.online CNAME .
 htdig.org CNAME .
 *.htdig.org CNAME .
+hthlm.com CNAME .
+*.hthlm.com CNAME .
 hthp.com CNAME .
 *.hthp.com CNAME .
 htmail.com CNAME .
@@ -57417,6 +57421,8 @@ lspsmail.com CNAME .
 *.lspsmail.com CNAME .
 lsr-ural.org CNAME .
 *.lsr-ural.org CNAME .
+lsubjectss.com CNAME .
+*.lsubjectss.com CNAME .
 lsygxh.com CNAME .
 *.lsygxh.com CNAME .
 ltcorp.org CNAME .
@@ -58609,6 +58615,8 @@ maildgsp.com CNAME .
 *.maildgsp.com CNAME .
 maildivine.com CNAME .
 *.maildivine.com CNAME .
+maildom.online CNAME .
+*.maildom.online CNAME .
 maildom.xyz CNAME .
 *.maildom.xyz CNAME .
 maildoroty.space CNAME .
