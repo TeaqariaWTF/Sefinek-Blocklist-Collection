@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,173
-# Updated: 11/15/2024  14:46 (2:46 PM CST)
+# Domains: 95,179
+# Updated: 11/17/2024  01:31 (1:31 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1810,6 +1810,7 @@
 0.0.0.0 a8.zeroku.jp
 0.0.0.0 a8.zipan.jp
 0.0.0.0 a8.zzz-land.com
+0.0.0.0 a9bed26630edf75b8d36.uncommongoods.com
 0.0.0.0 a.aaamidatlantic.com
 0.0.0.0 aa-aem.hamamatsu.com
 0.0.0.0 aaa.ftsafe.co.jp
@@ -18712,6 +18713,7 @@
 0.0.0.0 csource.rentals.com
 0.0.0.0 csp38.domdog.io
 0.0.0.0 csp.djicdn.com
+0.0.0.0 csper.io
 0.0.0.0 csp.godaddy.com
 0.0.0.0 csp.nytimes.com
 0.0.0.0 csp.prod.saga.co.uk
@@ -21489,6 +21491,7 @@
 0.0.0.0 delicateducks.com
 0.0.0.0 deliciousducks.com
 0.0.0.0 delidatax.net
+0.0.0.0 delightchat.io
 0.0.0.0 delightfulhour.com
 0.0.0.0 deliv12.com
 0.0.0.0 deliverability.timeout.com
@@ -25400,6 +25403,7 @@
 0.0.0.0 get.game-insight.com
 0.0.0.0 get.ginger.io
 0.0.0.0 get.glooko.com
+0.0.0.0 getgobot.com
 0.0.0.0 getgong.io
 0.0.0.0 get.goodlifehomeloans.com
 0.0.0.0 get.gosolo.tv
@@ -52677,6 +52681,7 @@
 0.0.0.0 nm1w.santander.com.ar
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmetrics.samsungmobile.com
+0.0.0.0 nmgassets.com
 0.0.0.0 nmp1.com
 0.0.0.0 nmp2.com
 0.0.0.0 nmrodam.com
@@ -86186,6 +86191,7 @@
 0.0.0.0 t.jawliner.de
 0.0.0.0 tjh23trk.com
 0.0.0.0 tj.makeding.com
+0.0.0.0 tj.misew.top
 0.0.0.0 t.jmusports.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.jossandmain.com

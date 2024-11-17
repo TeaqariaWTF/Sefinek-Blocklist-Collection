@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,173
-# Updated: 11/15/2024  14:46 (2:46 PM CST)
+# Domains: 95,179
+# Updated: 11/17/2024  01:31 (1:31 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1810,6 +1810,7 @@ server=/a8.zen-camps.com/
 server=/a8.zeroku.jp/
 server=/a8.zipan.jp/
 server=/a8.zzz-land.com/
+server=/a9bed26630edf75b8d36.uncommongoods.com/
 server=/a.aaamidatlantic.com/
 server=/aa-aem.hamamatsu.com/
 server=/aaa.ftsafe.co.jp/
@@ -18712,6 +18713,7 @@ server=/cs.ogis-ri.co.jp/
 server=/csource.rentals.com/
 server=/csp38.domdog.io/
 server=/csp.djicdn.com/
+server=/csper.io/
 server=/csp.godaddy.com/
 server=/csp.nytimes.com/
 server=/csp.prod.saga.co.uk/
@@ -21489,6 +21491,7 @@ server=/delicatecascade.com/
 server=/delicateducks.com/
 server=/deliciousducks.com/
 server=/delidatax.net/
+server=/delightchat.io/
 server=/delightfulhour.com/
 server=/deliv12.com/
 server=/deliverability.timeout.com/
@@ -25400,6 +25403,7 @@ server=/get.freightos.com/
 server=/get.game-insight.com/
 server=/get.ginger.io/
 server=/get.glooko.com/
+server=/getgobot.com/
 server=/getgong.io/
 server=/get.goodlifehomeloans.com/
 server=/get.gosolo.tv/
@@ -52677,6 +52681,7 @@ server=/nl.zettle.com/
 server=/nm1w.santander.com.ar/
 server=/nmetrics.samsung.com/
 server=/nmetrics.samsungmobile.com/
+server=/nmgassets.com/
 server=/nmp1.com/
 server=/nmp2.com/
 server=/nmrodam.com/
@@ -86186,6 +86191,7 @@ server=/t.janieandjack.com/
 server=/t.jawliner.de/
 server=/tjh23trk.com/
 server=/tj.makeding.com/
+server=/tj.misew.top/
 server=/t.jmusports.com/
 server=/t.jobsyn.org/
 server=/t.jossandmain.com/
