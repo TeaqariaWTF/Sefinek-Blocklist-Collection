@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
   NS  localhost.
 0i0i0i0.com CNAME .
 *.0i0i0i0.com CNAME .
@@ -27277,8 +27277,6 @@ mookie1.com CNAME .
 *.mookie1.com CNAME .
 mopub.com CNAME .
 *.mopub.com CNAME .
-motdgd.com CNAME .
-*.motdgd.com CNAME .
 mountain.com CNAME .
 *.mountain.com CNAME .
 mouseflow.com CNAME .

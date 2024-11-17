@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-17 20:19:07 (UTC)                      #
+# Last updated: 2024-11-17 22:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,6 +8,7 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
@@ -39,7 +40,6 @@
 0.0.0.0 boostcreatives-ai.com
 0.0.0.0 bot.suqi.bf
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 cajgtus.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-defac18.artcollective-snapclick.com
@@ -50,22 +50,22 @@
 0.0.0.0 cnc.carteldesinaloa.ru
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
-0.0.0.0 coindiscussion.net
 0.0.0.0 compounded.fghnbv.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crickout.com
-0.0.0.0 crystalpvp.ru
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 devapi.wenano.app
 0.0.0.0 dfvdfvfddf.is-a-anarchist.com
+0.0.0.0 dgdfb.groks-this.info
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
 0.0.0.0 dow.andylab.cn
@@ -107,6 +107,7 @@
 0.0.0.0 gdhbbdv.is-a-blogger.com
 0.0.0.0 gdhbbdv.is-a-bruinsfan.org
 0.0.0.0 gdhbbdv.is-a-student.com
+0.0.0.0 gdhbbdv.is-into-games.com
 0.0.0.0 gdhbbdv.is-very-sweet.org
 0.0.0.0 gdhbbdv.sellsyourhome.org
 0.0.0.0 ggg.is-a-painter.com
@@ -120,6 +121,7 @@
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
+0.0.0.0 hthth.is-a-knight.org
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hyhyhy.is-a-therapist.com
 0.0.0.0 ikincielesyaciankara.com.tr
@@ -135,13 +137,13 @@
 0.0.0.0 jujuju.from-pa.com
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kjjghhjgf.is-uberleet.com
 0.0.0.0 kykgenot.com
 0.0.0.0 leadbase.cloud
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 maan2u.com
@@ -197,7 +199,6 @@
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
@@ -208,13 +209,17 @@
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 suanfe.is-a-landscaper.com
 0.0.0.0 support.clz.kr
+0.0.0.0 taodianla.com
 0.0.0.0 technovm-hk.tioffiop.shop
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 tehytdf.sellsyourhome.org
 0.0.0.0 telegram-app.vip
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
+0.0.0.0 tianyinsoft.top
+0.0.0.0 toibinghiensegay.minehard.xyz
 0.0.0.0 tqne.events.socalpocis.org
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 tttht.is-a-therapist.com
@@ -227,6 +232,7 @@
 0.0.0.0 ujujuju.merseine.org
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 up.maolaoban.top
+0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 utorrent-backup-server.top
@@ -276,9 +282,8 @@
 0.0.0.0 xkobeimparatu.net
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 zibll.8899006.net
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
 0.0.0.0 zvczcz.saves-the-whales.com
-# Number of entries: 275
+# Number of entries: 280
