@@ -11,14 +11,14 @@
 # Title: Blocks e-commerce websites and online shopping platforms (beta)
 # Description: Active, inactive, and parked domains. Blocks online shopping websites like Amazon, eBay, AliExpress, Etsy, Wish, and others.
 # Expires: 1 day
-# Count: 120761
+# Count: 120763
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 0.0.0.0 before each domain
-# Version: 1731147826585
-# Last update: November 9, 2024 at 10:23 AM UTC | 2024-11-09T10:23:46.585+00:00
+# Version: 1731839178726
+# Last update: November 17, 2024 at 10:26 AM UTC | 2024-11-17T10:26:18.726+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -120789,3 +120789,5 @@
 0.0.0.0 myshopify.se
 0.0.0.0 vimedshopify.se
 0.0.0.0 swishaway.se
+0.0.0.0 allegronordic.se
+0.0.0.0 byggverketsyd.se
