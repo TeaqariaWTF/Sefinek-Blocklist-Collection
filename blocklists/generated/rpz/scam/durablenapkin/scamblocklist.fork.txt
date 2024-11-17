@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
   NS  localhost.
 1000fapvids.online CNAME .
 *.1000fapvids.online CNAME .
@@ -81,8 +81,14 @@ airup-bottlegreece.com CNAME .
 *.airup-bottlegreece.com CNAME .
 store.airup-bottlegreece.com CNAME .
 *.store.airup-bottlegreece.com CNAME .
+airup-fi.com CNAME .
+*.airup-fi.com CNAME .
 airup-gr.com CNAME .
 *.airup-gr.com CNAME .
+airup-it.shop CNAME .
+*.airup-it.shop CNAME .
+store.airup-it.shop CNAME .
+*.store.airup-it.shop CNAME .
 airup-nederland.com CNAME .
 *.airup-nederland.com CNAME .
 airup-romania.com CNAME .
@@ -1019,6 +1025,8 @@ store.frest.info CNAME .
 *.store.frest.info CNAME .
 friday89.com CNAME .
 *.friday89.com CNAME .
+store.fridaylocalmanager.duckdns.org CNAME .
+*.store.fridaylocalmanager.duckdns.org CNAME .
 frostgoddess.com CNAME .
 *.frostgoddess.com CNAME .
 store.frostgoddess.com CNAME .
@@ -1397,6 +1405,8 @@ store.jonausa.com CNAME .
 *.store.jonausa.com CNAME .
 jourl.live CNAME .
 *.jourl.live CNAME .
+store.jourl.live CNAME .
+*.store.jourl.live CNAME .
 jsdimmigration.com CNAME .
 *.jsdimmigration.com CNAME .
 store.jsdimmigration.com CNAME .
@@ -1421,14 +1431,14 @@ kisserine.com CNAME .
 *.kisserine.com CNAME .
 kitchendecor.shop CNAME .
 *.kitchendecor.shop CNAME .
+kms-full.com CNAME .
+*.kms-full.com CNAME .
 kms-pc.com CNAME .
 *.kms-pc.com CNAME .
 kms-tool.com CNAME .
 *.kms-tool.com CNAME .
 kmsauto.info CNAME .
 *.kmsauto.info CNAME .
-kmsofficial.org CNAME .
-*.kmsofficial.org CNAME .
 kmspi.co CNAME .
 *.kmspi.co CNAME .
 kmspico-official.org CNAME .
@@ -1623,10 +1633,6 @@ miucart.com CNAME .
 *.miucart.com CNAME .
 mizunsports.com CNAME .
 *.mizunsports.com CNAME .
-moddetail.com CNAME .
-*.moddetail.com CNAME .
-store.moddetail.com CNAME .
-*.store.moddetail.com CNAME .
 modmobile24.com CNAME .
 *.modmobile24.com CNAME .
 store.modmobile24.com CNAME .
@@ -1687,6 +1693,8 @@ store.myhandshops.myshopify.com CNAME .
 *.store.myhandshops.myshopify.com CNAME .
 mystitich4u.com CNAME .
 *.mystitich4u.com CNAME .
+myweaithsimple.com CNAME .
+*.myweaithsimple.com CNAME .
 n24-news.com CNAME .
 *.n24-news.com CNAME .
 store.n24-news.com CNAME .
@@ -1761,6 +1769,8 @@ store.navi24.com CNAME .
 *.store.navi24.com CNAME .
 navi24.ru CNAME .
 *.navi24.ru CNAME .
+navi29.com CNAME .
+*.navi29.com CNAME .
 navi3.com CNAME .
 *.navi3.com CNAME .
 store.navi3.com CNAME .
@@ -1783,12 +1793,16 @@ navi39.ru CNAME .
 *.navi39.ru CNAME .
 navi4.com CNAME .
 *.navi4.com CNAME .
+store.navi4.com CNAME .
+*.store.navi4.com CNAME .
 navi40.com CNAME .
 *.navi40.com CNAME .
 store.navi40.com CNAME .
 *.store.navi40.com CNAME .
 navi42.ru CNAME .
 *.navi42.ru CNAME .
+store.navi42.ru CNAME .
+*.store.navi42.ru CNAME .
 navi45.ru CNAME .
 *.navi45.ru CNAME .
 navi5.com CNAME .
@@ -1819,6 +1833,8 @@ navi66.ru CNAME .
 *.navi66.ru CNAME .
 navi7.com CNAME .
 *.navi7.com CNAME .
+store.navi70.com CNAME .
+*.store.navi70.com CNAME .
 navi72.com CNAME .
 *.navi72.com CNAME .
 navi72.ru CNAME .
@@ -2227,6 +2243,8 @@ store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com CNAME .
 *.store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com CNAME .
 pump.fun CNAME .
 *.pump.fun CNAME .
+punyauang.xyz CNAME .
+*.punyauang.xyz CNAME .
 queenscattery.com CNAME .
 *.queenscattery.com CNAME .
 quitasueno.com CNAME .
@@ -3087,6 +3105,10 @@ store.zaz4o.securesolidlink.com CNAME .
 *.store.zaz4o.securesolidlink.com CNAME .
 zedbubble.com CNAME .
 *.zedbubble.com CNAME .
+zerowasteinitiative.com CNAME .
+*.zerowasteinitiative.com CNAME .
+store.zerowasteinitiative.com CNAME .
+*.store.zerowasteinitiative.com CNAME .
 zillify.cfd CNAME .
 *.zillify.cfd CNAME .
 zolrqw.palatlaldate.com CNAME .
