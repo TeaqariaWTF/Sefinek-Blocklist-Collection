@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -4021,6 +4021,8 @@ log.popin.cc CNAME .
 *.log.popin.cc CNAME .
 logger.torimochi-ad.net CNAME .
 *.logger.torimochi-ad.net CNAME .
+logs.chatboost-cv.algoage.co.jp CNAME .
+*.logs.chatboost-cv.algoage.co.jp CNAME .
 mail-count.matsui.co.jp CNAME .
 *.mail-count.matsui.co.jp CNAME .
 metrics.streaks.jp CNAME .
@@ -78255,6 +78257,8 @@ sy.amebame.com CNAME .
 *.sy.amebame.com CNAME .
 sy.ameblo.jp CNAME .
 *.sy.ameblo.jp CNAME .
+t.rentio.jp CNAME .
+*.t.rentio.jp CNAME .
 t.syosetu.org CNAME .
 *.t.syosetu.org CNAME .
 temp.twicomi.com CNAME .

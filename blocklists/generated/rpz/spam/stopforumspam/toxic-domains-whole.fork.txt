@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -10069,6 +10069,8 @@ asapmarketurls.com CNAME .
 *.asapmarketurls.com CNAME .
 asaud.com CNAME .
 *.asaud.com CNAME .
+asb.mercedes500.de CNAME .
+*.asb.mercedes500.de CNAME .
 asbakpinuh.club CNAME .
 *.asbakpinuh.club CNAME .
 asbcglobal.net CNAME .
@@ -15233,6 +15235,8 @@ bjmedia.site CNAME .
 *.bjmedia.site CNAME .
 bjorn-frantzen.art CNAME .
 *.bjorn-frantzen.art CNAME .
+bjs-team.com CNAME .
+*.bjs-team.com CNAME .
 bjsulu.com CNAME .
 *.bjsulu.com CNAME .
 bjvl.com CNAME .
@@ -90403,6 +90407,8 @@ texasaol.com CNAME .
 *.texasaol.com CNAME .
 texasecologix.com CNAME .
 *.texasecologix.com CNAME .
+texashomenet.net CNAME .
+*.texashomenet.net CNAME .
 texaslibertynetwork.org CNAME .
 *.texaslibertynetwork.org CNAME .
 texasorangepages.com CNAME .
@@ -93225,6 +93231,8 @@ trekwire.com CNAME .
 *.trekwire.com CNAME .
 trelatesd.com CNAME .
 *.trelatesd.com CNAME .
+trels.site CNAME .
+*.trels.site CNAME .
 tremecil.online CNAME .
 *.tremecil.online CNAME .
 trend-hot-news.com CNAME .
