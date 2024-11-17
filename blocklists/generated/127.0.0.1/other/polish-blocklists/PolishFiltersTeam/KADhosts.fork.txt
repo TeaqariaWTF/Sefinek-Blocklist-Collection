@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 17 Nov 2024, 17:25 UTC+01:00
-# Version: 2024.11.17.3
+# Last modified: Sun, 17 Nov 2024, 21:22 UTC+01:00
+# Version: 2024.11.17.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -359,6 +359,7 @@
 127.0.0.1 female-apparel.com
 127.0.0.1 fenzy.pl
 127.0.0.1 fhgfffdsf9.appspot.com
+127.0.0.1 filaipolska.com
 127.0.0.1 filaplbuty.com
 127.0.0.1 file.co.pl
 127.0.0.1 fileice.net
@@ -1635,6 +1636,7 @@
 127.0.0.1 www.female-apparel.com
 127.0.0.1 www.fenzy.pl
 127.0.0.1 www.fhgfffdsf9.appspot.com
+127.0.0.1 www.filaipolska.com
 127.0.0.1 www.filaplbuty.com
 127.0.0.1 www.file.co.pl
 127.0.0.1 www.fileice.net
@@ -3167,6 +3169,7 @@
 127.0.0.1 0lx.8423363.xyz
 127.0.0.1 00lx.15450210.xyz
 127.0.0.1 00lx.16592154.xyz
+127.0.0.1 0lx.27834753.xyz
 127.0.0.1 0lx.30283472.xyz
 127.0.0.1 00lx.35450210.xyz
 127.0.0.1 00lx.65450210.xyz
@@ -7825,7 +7828,6 @@
 127.0.0.1 buda.met-esm.top
 127.0.0.1 budaa.biproplw.top
 127.0.0.1 budads.ximprrove.top
-127.0.0.1 budalivetv7.blogspot.com
 127.0.0.1 budaw.met-esm.top
 127.0.0.1 budbowl.xyz
 127.0.0.1 budc.ximprrove.top
@@ -8264,6 +8266,7 @@
 127.0.0.1 caladma.com
 127.0.0.1 calaudyog.com
 127.0.0.1 caldswellslibertybar.com
+127.0.0.1 calezyi.com
 127.0.0.1 californiaspade.com
 127.0.0.1 calkowitaprzemiana.com
 127.0.0.1 callcenterglobalsolutions.com
@@ -9351,7 +9354,6 @@
 127.0.0.1 cn-m.cn-m.xyz
 127.0.0.1 cn-p.kerinds.com
 127.0.0.1 cnamdroit.com
-127.0.0.1 cnnpriima.com
 127.0.0.1 cnnstats.org
 127.0.0.1 cnpqread.com
 127.0.0.1 cnpz.skin
@@ -13740,7 +13742,6 @@
 127.0.0.1 fin-ref.site
 127.0.0.1 fin-wallet.com
 127.0.0.1 finafreedom1.com
-127.0.0.1 finalecortin.world
 127.0.0.1 finalidara16.com
 127.0.0.1 finaljankari.com
 127.0.0.1 finan.deeph.top
@@ -16227,7 +16228,6 @@
 127.0.0.1 help-center-contact-us.com
 127.0.0.1 help-center-for-business-open-appeal.mkt5support.cyou
 127.0.0.1 help-center-for-business-open-case.mkt6support.cyou
-127.0.0.1 help-center-for-business-open-cases-10118.vercel.app
 127.0.0.1 help-center-for-pages.updateappealv9.biz
 127.0.0.1 help-center-overview-form-10031030002333333.vercel.app
 127.0.0.1 help-center-the-walt-company.com
@@ -17655,7 +17655,6 @@
 127.0.0.1 info.artikproject.com
 127.0.0.1 info.bimreserv.shop
 127.0.0.1 info.hids-122135.shop
-127.0.0.1 info.invigorgroup.com
 127.0.0.1 info.trss-333232.shop
 127.0.0.1 infoblog24.boo
 127.0.0.1 infocomrade.com
@@ -17834,6 +17833,8 @@
 127.0.0.1 inpoot-plr.top
 127.0.0.1 inpoot-pls.com
 127.0.0.1 inpoot-pls.top
+127.0.0.1 inpoot-ply.top
+127.0.0.1 inpoot-plz.top
 127.0.0.1 inpopps.top
 127.0.0.1 inpos.mom
 127.0.0.1 inposa-ptso.sbs
@@ -18004,7 +18005,6 @@
 127.0.0.1 inpostapl.pics
 127.0.0.1 inpostapppls.info
 127.0.0.1 inpostapppls.skin
-127.0.0.1 inpostapps.top
 127.0.0.1 inpostappspl.bond
 127.0.0.1 inpostappspl.info
 127.0.0.1 inpostappspl.online
@@ -18063,7 +18063,6 @@
 127.0.0.1 inpostedgapp.site
 127.0.0.1 inpostedgapp.world
 127.0.0.1 inpostedgapps.world
-127.0.0.1 inpostedplapp.info
 127.0.0.1 inpostedplapps.buzz
 127.0.0.1 inpostedpsapp.buzz
 127.0.0.1 inpostedpsapp.xyz
@@ -21030,7 +21029,6 @@
 127.0.0.1 livelyspirits.click
 127.0.0.1 livemsnseg24.serv00.net
 127.0.0.1 livenewsclick.com
-127.0.0.1 liverrcreatetech.top
 127.0.0.1 liversely.com
 127.0.0.1 livethatmax.com
 127.0.0.1 liveview-map.com
@@ -25903,6 +25901,7 @@
 127.0.0.1 olx.nyserfop.click
 127.0.0.1 olx.ochpoler.lol
 127.0.0.1 olx.ochrona-i-zakup.pl
+127.0.0.1 olx.oferta-691753.link
 127.0.0.1 olx.oferta-2348910.link
 127.0.0.1 olx.off-more.shop
 127.0.0.1 olx.off-net.shop
@@ -26282,7 +26281,6 @@
 127.0.0.1 opcztanett.weeblysite.com
 127.0.0.1 ope.endiim.com
 127.0.0.1 open-case-support-for-business-appeal-id-106.vercel.app
-127.0.0.1 open-cases-support-for-business-appeal-id-205.vercel.app
 127.0.0.1 open-yourshop.com
 127.0.0.1 openai4power.com
 127.0.0.1 openai-soratexts.com
@@ -26329,6 +26327,7 @@
 127.0.0.1 optus-webmail.serv00.net
 127.0.0.1 oq.yavk.lat
 127.0.0.1 oqxc.top
+127.0.0.1 or3xmi.lat
 127.0.0.1 or.dwaf.top
 127.0.0.1 or.qcct.lat
 127.0.0.1 oracleoutdoor.shop
@@ -26898,6 +26897,7 @@
 127.0.0.1 parkodkrywcow.pl
 127.0.0.1 parkside.vanessabrunotop.shop
 127.0.0.1 parksidestore.shop
+127.0.0.1 parksidestorevip.shop
 127.0.0.1 parksidevip.com
 127.0.0.1 parktengroup.com
 127.0.0.1 parlorqv.drobearite.sbs
@@ -28350,7 +28350,6 @@
 127.0.0.1 postgq.cfd
 127.0.0.1 posthg.buzz
 127.0.0.1 posti.cfd
-127.0.0.1 postiapl.top
 127.0.0.1 postiaspl.top
 127.0.0.1 postigh.com
 127.0.0.1 postighq.com
@@ -29841,6 +29840,7 @@
 127.0.0.1 redsofttech.com
 127.0.0.1 redtoracism.com
 127.0.0.1 reduk.mastercasc.top
+127.0.0.1 redvpl.schooldocu.com
 127.0.0.1 redwirefirmware.com
 127.0.0.1 redwirehardware.com
 127.0.0.1 redwoodhealthclubofukiah.com
@@ -30859,6 +30859,7 @@
 127.0.0.1 sadahiq.com
 127.0.0.1 sadapsbardahll.com
 127.0.0.1 saddlesalesonline.com
+127.0.0.1 sade.ignorelist.com
 127.0.0.1 sadfinansowy.com
 127.0.0.1 sadhlaeurope.com
 127.0.0.1 saf11onspect1ra.xyz
@@ -31494,6 +31495,7 @@
 127.0.0.1 seoverseas.com
 127.0.0.1 seowerewolf.com
 127.0.0.1 separationanxietydogcoach.com
+127.0.0.1 sephora.fashion
 127.0.0.1 sephoraiq.com
 127.0.0.1 sephorashopeu.shop
 127.0.0.1 sepuhdul.com
@@ -35692,6 +35694,7 @@
 127.0.0.1 tymke.com
 127.0.0.1 tymlogisticsllc.com
 127.0.0.1 tynebee.com
+127.0.0.1 type-olx.protect-orange.shop
 127.0.0.1 typicalstream.site
 127.0.0.1 tyrsonfarm.com
 127.0.0.1 tysonfoodsinvestigation.com
@@ -38383,6 +38386,7 @@
 127.0.0.1 www.0lx.8423363.xyz
 127.0.0.1 www.00lx.15450210.xyz
 127.0.0.1 www.00lx.16592154.xyz
+127.0.0.1 www.0lx.27834753.xyz
 127.0.0.1 www.0lx.30283472.xyz
 127.0.0.1 www.00lx.35450210.xyz
 127.0.0.1 www.00lx.65450210.xyz
@@ -43041,7 +43045,6 @@
 127.0.0.1 www.buda.met-esm.top
 127.0.0.1 www.budaa.biproplw.top
 127.0.0.1 www.budads.ximprrove.top
-127.0.0.1 www.budalivetv7.blogspot.com
 127.0.0.1 www.budaw.met-esm.top
 127.0.0.1 www.budbowl.xyz
 127.0.0.1 www.budc.ximprrove.top
@@ -43480,6 +43483,7 @@
 127.0.0.1 www.caladma.com
 127.0.0.1 www.calaudyog.com
 127.0.0.1 www.caldswellslibertybar.com
+127.0.0.1 www.calezyi.com
 127.0.0.1 www.californiaspade.com
 127.0.0.1 www.calkowitaprzemiana.com
 127.0.0.1 www.callcenterglobalsolutions.com
@@ -44567,7 +44571,6 @@
 127.0.0.1 www.cn-m.cn-m.xyz
 127.0.0.1 www.cn-p.kerinds.com
 127.0.0.1 www.cnamdroit.com
-127.0.0.1 www.cnnpriima.com
 127.0.0.1 www.cnnstats.org
 127.0.0.1 www.cnpqread.com
 127.0.0.1 www.cnpz.skin
@@ -48956,7 +48959,6 @@
 127.0.0.1 www.fin-ref.site
 127.0.0.1 www.fin-wallet.com
 127.0.0.1 www.finafreedom1.com
-127.0.0.1 www.finalecortin.world
 127.0.0.1 www.finalidara16.com
 127.0.0.1 www.finaljankari.com
 127.0.0.1 www.finan.deeph.top
@@ -51443,7 +51445,6 @@
 127.0.0.1 www.help-center-contact-us.com
 127.0.0.1 www.help-center-for-business-open-appeal.mkt5support.cyou
 127.0.0.1 www.help-center-for-business-open-case.mkt6support.cyou
-127.0.0.1 www.help-center-for-business-open-cases-10118.vercel.app
 127.0.0.1 www.help-center-for-pages.updateappealv9.biz
 127.0.0.1 www.help-center-overview-form-10031030002333333.vercel.app
 127.0.0.1 www.help-center-the-walt-company.com
@@ -52871,7 +52872,6 @@
 127.0.0.1 www.info.artikproject.com
 127.0.0.1 www.info.bimreserv.shop
 127.0.0.1 www.info.hids-122135.shop
-127.0.0.1 www.info.invigorgroup.com
 127.0.0.1 www.info.trss-333232.shop
 127.0.0.1 www.infoblog24.boo
 127.0.0.1 www.infocomrade.com
@@ -53050,6 +53050,8 @@
 127.0.0.1 www.inpoot-plr.top
 127.0.0.1 www.inpoot-pls.com
 127.0.0.1 www.inpoot-pls.top
+127.0.0.1 www.inpoot-ply.top
+127.0.0.1 www.inpoot-plz.top
 127.0.0.1 www.inpopps.top
 127.0.0.1 www.inpos.mom
 127.0.0.1 www.inposa-ptso.sbs
@@ -53220,7 +53222,6 @@
 127.0.0.1 www.inpostapl.pics
 127.0.0.1 www.inpostapppls.info
 127.0.0.1 www.inpostapppls.skin
-127.0.0.1 www.inpostapps.top
 127.0.0.1 www.inpostappspl.bond
 127.0.0.1 www.inpostappspl.info
 127.0.0.1 www.inpostappspl.online
@@ -53279,7 +53280,6 @@
 127.0.0.1 www.inpostedgapp.site
 127.0.0.1 www.inpostedgapp.world
 127.0.0.1 www.inpostedgapps.world
-127.0.0.1 www.inpostedplapp.info
 127.0.0.1 www.inpostedplapps.buzz
 127.0.0.1 www.inpostedpsapp.buzz
 127.0.0.1 www.inpostedpsapp.xyz
@@ -56246,7 +56246,6 @@
 127.0.0.1 www.livelyspirits.click
 127.0.0.1 www.livemsnseg24.serv00.net
 127.0.0.1 www.livenewsclick.com
-127.0.0.1 www.liverrcreatetech.top
 127.0.0.1 www.liversely.com
 127.0.0.1 www.livethatmax.com
 127.0.0.1 www.liveview-map.com
@@ -61119,6 +61118,7 @@
 127.0.0.1 www.olx.nyserfop.click
 127.0.0.1 www.olx.ochpoler.lol
 127.0.0.1 www.olx.ochrona-i-zakup.pl
+127.0.0.1 www.olx.oferta-691753.link
 127.0.0.1 www.olx.oferta-2348910.link
 127.0.0.1 www.olx.off-more.shop
 127.0.0.1 www.olx.off-net.shop
@@ -61498,7 +61498,6 @@
 127.0.0.1 www.opcztanett.weeblysite.com
 127.0.0.1 www.ope.endiim.com
 127.0.0.1 www.open-case-support-for-business-appeal-id-106.vercel.app
-127.0.0.1 www.open-cases-support-for-business-appeal-id-205.vercel.app
 127.0.0.1 www.open-yourshop.com
 127.0.0.1 www.openai4power.com
 127.0.0.1 www.openai-soratexts.com
@@ -61545,6 +61544,7 @@
 127.0.0.1 www.optus-webmail.serv00.net
 127.0.0.1 www.oq.yavk.lat
 127.0.0.1 www.oqxc.top
+127.0.0.1 www.or3xmi.lat
 127.0.0.1 www.or.dwaf.top
 127.0.0.1 www.or.qcct.lat
 127.0.0.1 www.oracleoutdoor.shop
@@ -62114,6 +62114,7 @@
 127.0.0.1 www.parkodkrywcow.pl
 127.0.0.1 www.parkside.vanessabrunotop.shop
 127.0.0.1 www.parksidestore.shop
+127.0.0.1 www.parksidestorevip.shop
 127.0.0.1 www.parksidevip.com
 127.0.0.1 www.parktengroup.com
 127.0.0.1 www.parlorqv.drobearite.sbs
@@ -63523,7 +63524,6 @@
 127.0.0.1 www.postgq.cfd
 127.0.0.1 www.posthg.buzz
 127.0.0.1 www.posti.cfd
-127.0.0.1 www.postiapl.top
 127.0.0.1 www.postiaspl.top
 127.0.0.1 www.postigh.com
 127.0.0.1 www.postighq.com
@@ -65014,6 +65014,7 @@
 127.0.0.1 www.redsofttech.com
 127.0.0.1 www.redtoracism.com
 127.0.0.1 www.reduk.mastercasc.top
+127.0.0.1 www.redvpl.schooldocu.com
 127.0.0.1 www.redwirefirmware.com
 127.0.0.1 www.redwirehardware.com
 127.0.0.1 www.redwoodhealthclubofukiah.com
@@ -66032,6 +66033,7 @@
 127.0.0.1 www.sadahiq.com
 127.0.0.1 www.sadapsbardahll.com
 127.0.0.1 www.saddlesalesonline.com
+127.0.0.1 www.sade.ignorelist.com
 127.0.0.1 www.sadfinansowy.com
 127.0.0.1 www.sadhlaeurope.com
 127.0.0.1 www.saf11onspect1ra.xyz
@@ -66667,6 +66669,7 @@
 127.0.0.1 www.seoverseas.com
 127.0.0.1 www.seowerewolf.com
 127.0.0.1 www.separationanxietydogcoach.com
+127.0.0.1 www.sephora.fashion
 127.0.0.1 www.sephoraiq.com
 127.0.0.1 www.sephorashopeu.shop
 127.0.0.1 www.sepuhdul.com
@@ -70865,6 +70868,7 @@
 127.0.0.1 www.tymke.com
 127.0.0.1 www.tymlogisticsllc.com
 127.0.0.1 www.tynebee.com
+127.0.0.1 www.type-olx.protect-orange.shop
 127.0.0.1 www.typicalstream.site
 127.0.0.1 www.tyrsonfarm.com
 127.0.0.1 www.tysonfoodsinvestigation.com
@@ -73631,6 +73635,7 @@
 127.0.0.1 www.xd.sems.skin
 127.0.0.1 www.xd.wegn.top
 127.0.0.1 www.xdairspring.com
+127.0.0.1 www.xdlw.skin
 127.0.0.1 www.xdoskax.com
 127.0.0.1 www.xe2cpe.rest
 127.0.0.1 www.xe5chv.bond
@@ -73731,7 +73736,6 @@
 127.0.0.1 www.xn--erhhtesbewusstsein-f3b.com
 127.0.0.1 www.xn--lewatan-tfb.pl
 127.0.0.1 www.xn--maanatours-u9a.com
-127.0.0.1 www.xn--polne-polska-zdb.com
 127.0.0.1 www.xn--raw-yi4b3nx003ao4i.com
 127.0.0.1 www.xn--wiadomoci24-kfc.news
 127.0.0.1 www.xn.nwmw.skin
@@ -74181,7 +74185,6 @@
 127.0.0.1 www.yy4i.lat
 127.0.0.1 www.yy4snf.top
 127.0.0.1 www.yy9wms.skin
-127.0.0.1 www.yysd34.cc
 127.0.0.1 www.yyxhp.icu
 127.0.0.1 www.yz3a.space
 127.0.0.1 www.yz4wuc.skin
@@ -74781,6 +74784,7 @@
 127.0.0.1 xd.sems.skin
 127.0.0.1 xd.wegn.top
 127.0.0.1 xdairspring.com
+127.0.0.1 xdlw.skin
 127.0.0.1 xdoskax.com
 127.0.0.1 xe2cpe.rest
 127.0.0.1 xe5chv.bond
@@ -74881,7 +74885,6 @@
 127.0.0.1 xn--erhhtesbewusstsein-f3b.com
 127.0.0.1 xn--lewatan-tfb.pl
 127.0.0.1 xn--maanatours-u9a.com
-127.0.0.1 xn--polne-polska-zdb.com
 127.0.0.1 xn--raw-yi4b3nx003ao4i.com
 127.0.0.1 xn--wiadomoci24-kfc.news
 127.0.0.1 xn.nwmw.skin
@@ -75331,7 +75334,6 @@
 127.0.0.1 yy4i.lat
 127.0.0.1 yy4snf.top
 127.0.0.1 yy9wms.skin
-127.0.0.1 yysd34.cc
 127.0.0.1 yyxhp.icu
 127.0.0.1 yz3a.space
 127.0.0.1 yz4wuc.skin
