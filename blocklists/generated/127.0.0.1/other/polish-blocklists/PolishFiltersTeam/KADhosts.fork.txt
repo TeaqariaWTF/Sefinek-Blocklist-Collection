@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 18 Nov 2024, 18:25 UTC+01:00
-# Version: 2024.11.18.5
+# Last modified: Mon, 18 Nov 2024, 21:23 UTC+01:00
+# Version: 2024.11.18.6
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3147,6 +3147,7 @@
 127.0.0.1 00lx.03265926.xyz
 127.0.0.1 0lx.5846232.xyz
 127.0.0.1 0lx.6836457.xyz
+127.0.0.1 00lx.6846232.xyz
 127.0.0.1 0lx.8423363.xyz
 127.0.0.1 00lx.15450210.xyz
 127.0.0.1 00lx.16592154.xyz
@@ -3323,6 +3324,7 @@
 127.0.0.1 4-bvn5.sbs
 127.0.0.1 4-pl.es
 127.0.0.1 4-r6mx.lat
+127.0.0.1 4a5440d7bf.aliegro.click
 127.0.0.1 4a66884dbc.nxcli.io
 127.0.0.1 4avdmf2rw.top
 127.0.0.1 4bd52ac063.nfxsh.fun
@@ -3405,6 +3407,7 @@
 127.0.0.1 6e8bbhv7l.top
 127.0.0.1 6e-nee.cfd
 127.0.0.1 6ec118e307.aregr.pl
+127.0.0.1 6f7317b289.allegro40.fun
 127.0.0.1 6fd2c.cc
 127.0.0.1 6fe76f3da2.aiiegros40.pl
 127.0.0.1 6jvvq3si5.top
@@ -3485,6 +3488,7 @@
 127.0.0.1 9c71802255.smtvw.pl
 127.0.0.1 9cdc9ff946.intshvw.fun
 127.0.0.1 9d6ihdz43.top
+127.0.0.1 9d9993630b.aliegro.click
 127.0.0.1 9db0d33d.pay.zamkowaskoczow.pl
 127.0.0.1 9dl7s3kps.top
 127.0.0.1 9ea74030cb.tvuwa.pl
@@ -3710,6 +3714,7 @@
 127.0.0.1 401klick.com
 127.0.0.1 401mopie.xyz
 127.0.0.1 420artzone.com
+127.0.0.1 435ab59c4.choyoga.com
 127.0.0.1 443b9e9e5bc2531bc4c635d620368b4a.mrjsa.pl
 127.0.0.1 456bbshop.com
 127.0.0.1 462f42b20a.smtvw.pl
@@ -3726,6 +3731,7 @@
 127.0.0.1 715kreationz.com
 127.0.0.1 726t.cfd
 127.0.0.1 777skyexchange.com
+127.0.0.1 783a8dad5d.aliegro.click
 127.0.0.1 0789ea12ff6080c4d56621c01b7e50c1.irpwa.pl
 127.0.0.1 789goal.online
 127.0.0.1 797bet-unlim.com
@@ -3811,6 +3817,7 @@
 127.0.0.1 92260b84125c16671f6783c3a6254f7e.liamartem.pl
 127.0.0.1 93109.cfd
 127.0.0.1 94748.pl
+127.0.0.1 98735.pl
 127.0.0.1 125194-coinbase.com
 127.0.0.1 128594-gemini.com
 127.0.0.1 159057a2a8bc6f972e441eaff6637aaf.voiseper.pl
@@ -3895,6 +3902,7 @@
 127.0.0.1 a7stgi.skin
 127.0.0.1 a7uabl1ss.xyz
 127.0.0.1 a8dhee.sbs
+127.0.0.1 a8qcnm.hair
 127.0.0.1 a8qjci.skin
 127.0.0.1 a8tuhn.lol
 127.0.0.1 a9cdlq.lol
@@ -4892,6 +4900,7 @@
 127.0.0.1 allegrolokalnie.id89109421.buzz
 127.0.0.1 allegrolokalnie.id94712894.buzz
 127.0.0.1 allegrolokalnie.id767128914.shop
+127.0.0.1 allegrolokalnie.id786140981.buzz
 127.0.0.1 allegrolokalnie.id7681236592.shop
 127.0.0.1 allegrolokalnie.id81278948712.shop
 127.0.0.1 allegrolokalnie.id-2874.pl
@@ -5337,8 +5346,11 @@
 127.0.0.1 ams3.gadgetfaro.com
 127.0.0.1 ams4.finetravelz.com
 127.0.0.1 ams4.fitnessmungo.com
+127.0.0.1 ams4.gadgetbott.com
+127.0.0.1 ams4.gadgetchroma.com
 127.0.0.1 ams4.gadgetlinq.com
 127.0.0.1 ams4.gadgetsystemz.com
+127.0.0.1 ams4.gadgettaskk.com
 127.0.0.1 ams4.steptripz.com
 127.0.0.1 ams4.trendflaky.com
 127.0.0.1 ams.fitnessmyna.com
@@ -6378,6 +6390,7 @@
 127.0.0.1 bafkreifncch354d5ingktuxyvvoxqkq6unaw4wa3han7qrlh3aqo3lsbz4.ipfs.flk-ipfs.xyz
 127.0.0.1 bafkreig3t2whzy5gfvuvotnh5dvgeg3pw5ucfmlqbysd5clxc7aylzr6ea.ipfs.flk-ipfs.xyz
 127.0.0.1 bafkreiglazdwbgo6aqvll3a4br4yaj66teisqqaobgoziquwaxkln2qo4u.ipfs.flk-ipfs.xyz
+127.0.0.1 bafybeiaqbr3diczbdiqwcg24gc2qkwwsfrpn5wrvc3pmzjmhvjw75z7tae.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeibjfaazlungprctrtapxt4epjqtvxl2heomxql6a65ohdthhpotr4.ipfs.w3s.link
 127.0.0.1 bafybeic4ugfvbfsvxsgwnt2uqowt5tasnkj4zoaxzc2mkvnjdmgsx3u27i.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeidh4qovztyu24bllyjg3zvp2sibzishutlkbxarpbd46zxfhlw5z4.ipfs.flk-ipfs.xyz
@@ -8126,6 +8139,7 @@
 127.0.0.1 byeolcorp.com
 127.0.0.1 byformar.cfd
 127.0.0.1 byhimou.com
+127.0.0.1 bykar.homes
 127.0.0.1 bykome.com
 127.0.0.1 bykotr.com
 127.0.0.1 bykugya.com
@@ -9334,6 +9348,7 @@
 127.0.0.1 cmonemgmt.com
 127.0.0.1 cmpttron.xyz
 127.0.0.1 cmq.tesxappes.top
+127.0.0.1 cmrao.majestic.dev
 127.0.0.1 cmunitize.com
 127.0.0.1 cmwx.com
 127.0.0.1 cn1ugk.lat
@@ -11166,6 +11181,7 @@
 127.0.0.1 discountsaredrastic.com
 127.0.0.1 discountvapeusa.com
 127.0.0.1 discreetlysubtle.com
+127.0.0.1 disgarrisons.com
 127.0.0.1 dishanfarmsindia.com
 127.0.0.1 dishdelish.xyz
 127.0.0.1 dishdivine.xyz
@@ -12104,6 +12120,7 @@
 127.0.0.1 e6atmi.one
 127.0.0.1 e6fkyl.lat
 127.0.0.1 e7-6dt.pages.dev
+127.0.0.1 e7caf3e584.aliegro.click
 127.0.0.1 e7nude.lol
 127.0.0.1 e8cglh.cyou
 127.0.0.1 e8ee132d5b.mertv.pl
@@ -12521,6 +12538,7 @@
 127.0.0.1 elmenc7ave.xyz
 127.0.0.1 elmessence.xyz
 127.0.0.1 elmulu.com
+127.0.0.1 elodic.shop
 127.0.0.1 elogearts.com
 127.0.0.1 elonreevemusk.com
 127.0.0.1 elopeeurekaspring.com
@@ -14199,6 +14217,7 @@
 127.0.0.1 fortinder.com
 127.0.0.1 fortissio.com
 127.0.0.1 fortnite77.com
+127.0.0.1 fortnitemax.com
 127.0.0.1 fortrade.com
 127.0.0.1 fortstake.com
 127.0.0.1 fortuna189.com
@@ -15788,6 +15807,7 @@
 127.0.0.1 gulbaagpublicschool.com
 127.0.0.1 gulfoptions.net
 127.0.0.1 gulijeopoe.pro
+127.0.0.1 gulojyi1.pro
 127.0.0.1 gulymao.pics
 127.0.0.1 gummauadditi.fun
 127.0.0.1 gumroade.com
@@ -17610,6 +17630,7 @@
 127.0.0.1 indminweek.com
 127.0.0.1 indokantorfurniture.com
 127.0.0.1 indolebavw.cfd
+127.0.0.1 indolimx.com
 127.0.0.1 indonesiareport.com
 127.0.0.1 indoorsha.com
 127.0.0.1 indosoftbdg.com
@@ -17918,6 +17939,7 @@
 127.0.0.1 inpost-poland.top
 127.0.0.1 inpost-ps.buzz
 127.0.0.1 inpost-ps.net
+127.0.0.1 inpost-qwd.top
 127.0.0.1 inpost-qwr.top
 127.0.0.1 inpost-serve.buzz
 127.0.0.1 inpost-serve.cfd
@@ -21281,6 +21303,7 @@
 127.0.0.1 london07.com
 127.0.0.1 london99.online
 127.0.0.1 london-ltd.com
+127.0.0.1 london-uk-ltd.com
 127.0.0.1 londoncrypto.com
 127.0.0.1 londonsreal.com
 127.0.0.1 londonukairportcars.com
@@ -23955,6 +23978,7 @@
 127.0.0.1 neftlix-pl.cfolks.pl
 127.0.0.1 neftlixsys-pl293829.cfolks.pl
 127.0.0.1 neftlx-pl-renew.cfolks.pl
+127.0.0.1 neftxinc-pl2083.cfolks.pl
 127.0.0.1 negociosexigentes.com
 127.0.0.1 negroninirvana.life
 127.0.0.1 negufoi.info
@@ -25693,6 +25717,7 @@
 127.0.0.1 olx-pl.yabiloper.shop
 127.0.0.1 olx-pl.yahodit.shop
 127.0.0.1 olx-pl.yaibjlok.lol
+127.0.0.1 olx-pl.yalejern.pics
 127.0.0.1 olx-pl.yanemgdy.pics
 127.0.0.1 olx-pl.yanepodef.shop
 127.0.0.1 olx-pl.yansevir.shop
@@ -29354,6 +29379,7 @@
 127.0.0.1 qg2jpi.hair
 127.0.0.1 qg-e7k.lat
 127.0.0.1 qg.rvartions.ru
+127.0.0.1 qgil.skin
 127.0.0.1 qgsbaby.com
 127.0.0.1 qh1bjf.sbs
 127.0.0.1 qh.mras.skin
@@ -29608,6 +29634,7 @@
 127.0.0.1 r-tbmk.cfd
 127.0.0.1 r-vs5v.lat
 127.0.0.1 r.qwantumm.top
+127.0.0.1 ra8ibn.skin
 127.0.0.1 ra8nbowrhapsody.xyz
 127.0.0.1 ra.aofw.top
 127.0.0.1 raantrambutan.xyz
@@ -31041,7 +31068,6 @@
 127.0.0.1 samajewels.com
 127.0.0.1 samakamu.site
 127.0.0.1 samanthahairbeauty.com
-127.0.0.1 samarafranca.com
 127.0.0.1 sambadresult.com
 127.0.0.1 samchevalier.com
 127.0.0.1 samconus.com
@@ -36621,6 +36647,7 @@
 127.0.0.1 vedamau7.store
 127.0.0.1 vedantawiki.org
 127.0.0.1 vedhakrishna.com
+127.0.0.1 vedrobix.tilda.ws
 127.0.0.1 vedrobudd.tilda.ws
 127.0.0.1 veebist.com
 127.0.0.1 vefader.com
@@ -36662,7 +36689,6 @@
 127.0.0.1 vengefulaspiration.com
 127.0.0.1 venomia.com
 127.0.0.1 venosa.treasurendtrovedeals.com
-127.0.0.1 ventanillaunica.armeniaamable.gov.co
 127.0.0.1 ventas4d.com
 127.0.0.1 ventorydora.com
 127.0.0.1 ventsbusinessnews.com
@@ -36952,6 +36978,7 @@
 127.0.0.1 vintedfr.pro
 127.0.0.1 vintedit.defen.info
 127.0.0.1 vintednl.defen.info
+127.0.0.1 vintedpay.pro
 127.0.0.1 vintedpro572.wixsite.com
 127.0.0.1 vintedse.defen.info
 127.0.0.1 vintedsell.org
@@ -37835,6 +37862,7 @@
 127.0.0.1 whytedevelopers.com
 127.0.0.1 whywelovepropane.com
 127.0.0.1 whyyoulovepropane.com
+127.0.0.1 wi4cvb.icu
 127.0.0.1 wi.ytgs.lat
 127.0.0.1 wiado.akrisenergy.com
 127.0.0.1 wiado.emhtenergy.com
@@ -38487,6 +38515,7 @@
 127.0.0.1 www.00lx.03265926.xyz
 127.0.0.1 www.0lx.5846232.xyz
 127.0.0.1 www.0lx.6836457.xyz
+127.0.0.1 www.00lx.6846232.xyz
 127.0.0.1 www.0lx.8423363.xyz
 127.0.0.1 www.00lx.15450210.xyz
 127.0.0.1 www.00lx.16592154.xyz
@@ -38663,6 +38692,7 @@
 127.0.0.1 www.4-bvn5.sbs
 127.0.0.1 www.4-pl.es
 127.0.0.1 www.4-r6mx.lat
+127.0.0.1 www.4a5440d7bf.aliegro.click
 127.0.0.1 www.4a66884dbc.nxcli.io
 127.0.0.1 www.4avdmf2rw.top
 127.0.0.1 www.4bd52ac063.nfxsh.fun
@@ -38745,6 +38775,7 @@
 127.0.0.1 www.6e8bbhv7l.top
 127.0.0.1 www.6e-nee.cfd
 127.0.0.1 www.6ec118e307.aregr.pl
+127.0.0.1 www.6f7317b289.allegro40.fun
 127.0.0.1 www.6fd2c.cc
 127.0.0.1 www.6fe76f3da2.aiiegros40.pl
 127.0.0.1 www.6jvvq3si5.top
@@ -38825,6 +38856,7 @@
 127.0.0.1 www.9c71802255.smtvw.pl
 127.0.0.1 www.9cdc9ff946.intshvw.fun
 127.0.0.1 www.9d6ihdz43.top
+127.0.0.1 www.9d9993630b.aliegro.click
 127.0.0.1 www.9db0d33d.pay.zamkowaskoczow.pl
 127.0.0.1 www.9dl7s3kps.top
 127.0.0.1 www.9ea74030cb.tvuwa.pl
@@ -39050,6 +39082,7 @@
 127.0.0.1 www.401klick.com
 127.0.0.1 www.401mopie.xyz
 127.0.0.1 www.420artzone.com
+127.0.0.1 www.435ab59c4.choyoga.com
 127.0.0.1 www.443b9e9e5bc2531bc4c635d620368b4a.mrjsa.pl
 127.0.0.1 www.456bbshop.com
 127.0.0.1 www.462f42b20a.smtvw.pl
@@ -39066,6 +39099,7 @@
 127.0.0.1 www.715kreationz.com
 127.0.0.1 www.726t.cfd
 127.0.0.1 www.777skyexchange.com
+127.0.0.1 www.783a8dad5d.aliegro.click
 127.0.0.1 www.0789ea12ff6080c4d56621c01b7e50c1.irpwa.pl
 127.0.0.1 www.789goal.online
 127.0.0.1 www.797bet-unlim.com
@@ -39151,6 +39185,7 @@
 127.0.0.1 www.92260b84125c16671f6783c3a6254f7e.liamartem.pl
 127.0.0.1 www.93109.cfd
 127.0.0.1 www.94748.pl
+127.0.0.1 www.98735.pl
 127.0.0.1 www.125194-coinbase.com
 127.0.0.1 www.128594-gemini.com
 127.0.0.1 www.159057a2a8bc6f972e441eaff6637aaf.voiseper.pl
@@ -39235,6 +39270,7 @@
 127.0.0.1 www.a7stgi.skin
 127.0.0.1 www.a7uabl1ss.xyz
 127.0.0.1 www.a8dhee.sbs
+127.0.0.1 www.a8qcnm.hair
 127.0.0.1 www.a8qjci.skin
 127.0.0.1 www.a8tuhn.lol
 127.0.0.1 www.a9cdlq.lol
@@ -40232,6 +40268,7 @@
 127.0.0.1 www.allegrolokalnie.id89109421.buzz
 127.0.0.1 www.allegrolokalnie.id94712894.buzz
 127.0.0.1 www.allegrolokalnie.id767128914.shop
+127.0.0.1 www.allegrolokalnie.id786140981.buzz
 127.0.0.1 www.allegrolokalnie.id7681236592.shop
 127.0.0.1 www.allegrolokalnie.id81278948712.shop
 127.0.0.1 www.allegrolokalnie.id-2874.pl
@@ -40677,8 +40714,11 @@
 127.0.0.1 www.ams3.gadgetfaro.com
 127.0.0.1 www.ams4.finetravelz.com
 127.0.0.1 www.ams4.fitnessmungo.com
+127.0.0.1 www.ams4.gadgetbott.com
+127.0.0.1 www.ams4.gadgetchroma.com
 127.0.0.1 www.ams4.gadgetlinq.com
 127.0.0.1 www.ams4.gadgetsystemz.com
+127.0.0.1 www.ams4.gadgettaskk.com
 127.0.0.1 www.ams4.steptripz.com
 127.0.0.1 www.ams4.trendflaky.com
 127.0.0.1 www.ams.fitnessmyna.com
@@ -41718,6 +41758,7 @@
 127.0.0.1 www.bafkreifncch354d5ingktuxyvvoxqkq6unaw4wa3han7qrlh3aqo3lsbz4.ipfs.flk-ipfs.xyz
 127.0.0.1 www.bafkreig3t2whzy5gfvuvotnh5dvgeg3pw5ucfmlqbysd5clxc7aylzr6ea.ipfs.flk-ipfs.xyz
 127.0.0.1 www.bafkreiglazdwbgo6aqvll3a4br4yaj66teisqqaobgoziquwaxkln2qo4u.ipfs.flk-ipfs.xyz
+127.0.0.1 www.bafybeiaqbr3diczbdiqwcg24gc2qkwwsfrpn5wrvc3pmzjmhvjw75z7tae.ipfs.flk-ipfs.xyz
 127.0.0.1 www.bafybeibjfaazlungprctrtapxt4epjqtvxl2heomxql6a65ohdthhpotr4.ipfs.w3s.link
 127.0.0.1 www.bafybeic4ugfvbfsvxsgwnt2uqowt5tasnkj4zoaxzc2mkvnjdmgsx3u27i.ipfs.flk-ipfs.xyz
 127.0.0.1 www.bafybeidh4qovztyu24bllyjg3zvp2sibzishutlkbxarpbd46zxfhlw5z4.ipfs.flk-ipfs.xyz
@@ -43466,6 +43507,7 @@
 127.0.0.1 www.byeolcorp.com
 127.0.0.1 www.byformar.cfd
 127.0.0.1 www.byhimou.com
+127.0.0.1 www.bykar.homes
 127.0.0.1 www.bykome.com
 127.0.0.1 www.bykotr.com
 127.0.0.1 www.bykugya.com
@@ -44674,6 +44716,7 @@
 127.0.0.1 www.cmonemgmt.com
 127.0.0.1 www.cmpttron.xyz
 127.0.0.1 www.cmq.tesxappes.top
+127.0.0.1 www.cmrao.majestic.dev
 127.0.0.1 www.cmunitize.com
 127.0.0.1 www.cmwx.com
 127.0.0.1 www.cn1ugk.lat
@@ -46506,6 +46549,7 @@
 127.0.0.1 www.discountsaredrastic.com
 127.0.0.1 www.discountvapeusa.com
 127.0.0.1 www.discreetlysubtle.com
+127.0.0.1 www.disgarrisons.com
 127.0.0.1 www.dishanfarmsindia.com
 127.0.0.1 www.dishdelish.xyz
 127.0.0.1 www.dishdivine.xyz
@@ -47444,6 +47488,7 @@
 127.0.0.1 www.e6atmi.one
 127.0.0.1 www.e6fkyl.lat
 127.0.0.1 www.e7-6dt.pages.dev
+127.0.0.1 www.e7caf3e584.aliegro.click
 127.0.0.1 www.e7nude.lol
 127.0.0.1 www.e8cglh.cyou
 127.0.0.1 www.e8ee132d5b.mertv.pl
@@ -47861,6 +47906,7 @@
 127.0.0.1 www.elmenc7ave.xyz
 127.0.0.1 www.elmessence.xyz
 127.0.0.1 www.elmulu.com
+127.0.0.1 www.elodic.shop
 127.0.0.1 www.elogearts.com
 127.0.0.1 www.elonreevemusk.com
 127.0.0.1 www.elopeeurekaspring.com
@@ -49539,6 +49585,7 @@
 127.0.0.1 www.fortinder.com
 127.0.0.1 www.fortissio.com
 127.0.0.1 www.fortnite77.com
+127.0.0.1 www.fortnitemax.com
 127.0.0.1 www.fortrade.com
 127.0.0.1 www.fortstake.com
 127.0.0.1 www.fortuna189.com
@@ -51128,6 +51175,7 @@
 127.0.0.1 www.gulbaagpublicschool.com
 127.0.0.1 www.gulfoptions.net
 127.0.0.1 www.gulijeopoe.pro
+127.0.0.1 www.gulojyi1.pro
 127.0.0.1 www.gulymao.pics
 127.0.0.1 www.gummauadditi.fun
 127.0.0.1 www.gumroade.com
@@ -52950,6 +52998,7 @@
 127.0.0.1 www.indminweek.com
 127.0.0.1 www.indokantorfurniture.com
 127.0.0.1 www.indolebavw.cfd
+127.0.0.1 www.indolimx.com
 127.0.0.1 www.indonesiareport.com
 127.0.0.1 www.indoorsha.com
 127.0.0.1 www.indosoftbdg.com
@@ -53258,6 +53307,7 @@
 127.0.0.1 www.inpost-poland.top
 127.0.0.1 www.inpost-ps.buzz
 127.0.0.1 www.inpost-ps.net
+127.0.0.1 www.inpost-qwd.top
 127.0.0.1 www.inpost-qwr.top
 127.0.0.1 www.inpost-serve.buzz
 127.0.0.1 www.inpost-serve.cfd
@@ -56621,6 +56671,7 @@
 127.0.0.1 www.london07.com
 127.0.0.1 www.london99.online
 127.0.0.1 www.london-ltd.com
+127.0.0.1 www.london-uk-ltd.com
 127.0.0.1 www.londoncrypto.com
 127.0.0.1 www.londonsreal.com
 127.0.0.1 www.londonukairportcars.com
@@ -59295,6 +59346,7 @@
 127.0.0.1 www.neftlix-pl.cfolks.pl
 127.0.0.1 www.neftlixsys-pl293829.cfolks.pl
 127.0.0.1 www.neftlx-pl-renew.cfolks.pl
+127.0.0.1 www.neftxinc-pl2083.cfolks.pl
 127.0.0.1 www.negociosexigentes.com
 127.0.0.1 www.negroninirvana.life
 127.0.0.1 www.negufoi.info
@@ -61033,6 +61085,7 @@
 127.0.0.1 www.olx-pl.yabiloper.shop
 127.0.0.1 www.olx-pl.yahodit.shop
 127.0.0.1 www.olx-pl.yaibjlok.lol
+127.0.0.1 www.olx-pl.yalejern.pics
 127.0.0.1 www.olx-pl.yanemgdy.pics
 127.0.0.1 www.olx-pl.yanepodef.shop
 127.0.0.1 www.olx-pl.yansevir.shop
@@ -64650,6 +64703,7 @@
 127.0.0.1 www.qg2jpi.hair
 127.0.0.1 www.qg-e7k.lat
 127.0.0.1 www.qg.rvartions.ru
+127.0.0.1 www.qgil.skin
 127.0.0.1 www.qgsbaby.com
 127.0.0.1 www.qh1bjf.sbs
 127.0.0.1 www.qh.mras.skin
@@ -64904,6 +64958,7 @@
 127.0.0.1 www.r-tbmk.cfd
 127.0.0.1 www.r-vs5v.lat
 127.0.0.1 www.r.qwantumm.top
+127.0.0.1 www.ra8ibn.skin
 127.0.0.1 www.ra8nbowrhapsody.xyz
 127.0.0.1 www.ra.aofw.top
 127.0.0.1 www.raantrambutan.xyz
@@ -66337,7 +66392,6 @@
 127.0.0.1 www.samajewels.com
 127.0.0.1 www.samakamu.site
 127.0.0.1 www.samanthahairbeauty.com
-127.0.0.1 www.samarafranca.com
 127.0.0.1 www.sambadresult.com
 127.0.0.1 www.samchevalier.com
 127.0.0.1 www.samconus.com
@@ -71917,6 +71971,7 @@
 127.0.0.1 www.vedamau7.store
 127.0.0.1 www.vedantawiki.org
 127.0.0.1 www.vedhakrishna.com
+127.0.0.1 www.vedrobix.tilda.ws
 127.0.0.1 www.vedrobudd.tilda.ws
 127.0.0.1 www.veebist.com
 127.0.0.1 www.vefader.com
@@ -71958,7 +72013,6 @@
 127.0.0.1 www.vengefulaspiration.com
 127.0.0.1 www.venomia.com
 127.0.0.1 www.venosa.treasurendtrovedeals.com
-127.0.0.1 www.ventanillaunica.armeniaamable.gov.co
 127.0.0.1 www.ventas4d.com
 127.0.0.1 www.ventorydora.com
 127.0.0.1 www.ventsbusinessnews.com
@@ -72248,6 +72302,7 @@
 127.0.0.1 www.vintedfr.pro
 127.0.0.1 www.vintedit.defen.info
 127.0.0.1 www.vintednl.defen.info
+127.0.0.1 www.vintedpay.pro
 127.0.0.1 www.vintedpro572.wixsite.com
 127.0.0.1 www.vintedse.defen.info
 127.0.0.1 www.vintedsell.org
@@ -73131,6 +73186,7 @@
 127.0.0.1 www.whytedevelopers.com
 127.0.0.1 www.whywelovepropane.com
 127.0.0.1 www.whyyoulovepropane.com
+127.0.0.1 www.wi4cvb.icu
 127.0.0.1 www.wi.ytgs.lat
 127.0.0.1 www.wiado.akrisenergy.com
 127.0.0.1 www.wiado.emhtenergy.com
