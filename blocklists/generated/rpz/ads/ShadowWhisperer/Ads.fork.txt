@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111801 43200 3600 259200 300
   NS  localhost.
 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
 *.0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
@@ -19249,6 +19249,8 @@ dentsu.de CNAME .
 *.dentsu.de CNAME .
 deployads.com CNAME .
 *.deployads.com CNAME .
+deployinput.com CNAME .
+*.deployinput.com CNAME .
 deqph.com CNAME .
 *.deqph.com CNAME .
 deqwas.co.jp CNAME .
@@ -32291,6 +32293,10 @@ retail9.com CNAME .
 *.retail9.com CNAME .
 retail9ventures.com CNAME .
 *.retail9ventures.com CNAME .
+retailready.agency CNAME .
+*.retailready.agency CNAME .
+retailready.ai CNAME .
+*.retailready.ai CNAME .
 retailtime.cloud CNAME .
 *.retailtime.cloud CNAME .
 retai.ly CNAME .

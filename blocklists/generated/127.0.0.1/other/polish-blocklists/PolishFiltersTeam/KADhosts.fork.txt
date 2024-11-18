@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 18 Nov 2024, 17:29 UTC+01:00
-# Version: 2024.11.18.4
+# Last modified: Mon, 18 Nov 2024, 18:25 UTC+01:00
+# Version: 2024.11.18.5
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3145,6 +3145,7 @@
 127.0.0.1 0lx.2326595.xyz
 127.0.0.1 0lx.2902342.xyz
 127.0.0.1 00lx.03265926.xyz
+127.0.0.1 0lx.5846232.xyz
 127.0.0.1 0lx.6836457.xyz
 127.0.0.1 0lx.8423363.xyz
 127.0.0.1 00lx.15450210.xyz
@@ -3856,6 +3857,7 @@
 127.0.0.1 7785150814.ziemowitemil.eu
 127.0.0.1 8116668315.tobiaszpawlik.eu
 127.0.0.1 423413245647szeca123675853489.pl
+127.0.0.1 743982084780.weebly.com
 127.0.0.1 1243552353535.inhhome.top
 127.0.0.1 075709437151098.lewkonopka.eu
 127.0.0.1 343547473425365345heg345423rtge34-allready.bunvisinhgiare.com
@@ -5336,6 +5338,7 @@
 127.0.0.1 ams4.finetravelz.com
 127.0.0.1 ams4.fitnessmungo.com
 127.0.0.1 ams4.gadgetlinq.com
+127.0.0.1 ams4.gadgetsystemz.com
 127.0.0.1 ams4.steptripz.com
 127.0.0.1 ams4.trendflaky.com
 127.0.0.1 ams.fitnessmyna.com
@@ -12421,6 +12424,7 @@
 127.0.0.1 ekldjfh8i3jm2ueryeuthd8iok3m24turihn9uijkewd.pages.dev
 127.0.0.1 ekm-servers.net
 127.0.0.1 ekmexico.com
+127.0.0.1 eko-wegiel.eu
 127.0.0.1 ekoinnovaate.com
 127.0.0.1 ekowegiel.eu
 127.0.0.1 eksizseren.com
@@ -16543,6 +16547,7 @@
 127.0.0.1 hoofingpaperes.pro
 127.0.0.1 hoofingprevalenceed.pro
 127.0.0.1 hoofingprevalencees.pro
+127.0.0.1 hookupers.com
 127.0.0.1 hookx.click
 127.0.0.1 hoomrealestate.com
 127.0.0.1 hopebridge.cloud
@@ -17872,6 +17877,7 @@
 127.0.0.1 inpost-bcd.top
 127.0.0.1 inpost-bgd.top
 127.0.0.1 inpost-edd.top
+127.0.0.1 inpost-etr.top
 127.0.0.1 inpost-hgw.top
 127.0.0.1 inpost-home.top
 127.0.0.1 inpost-ieq.top
@@ -23318,7 +23324,6 @@
 127.0.0.1 multimediapark.paulinab.site
 127.0.0.1 multimegamart.com
 127.0.0.1 multiplexfilms.com
-127.0.0.1 multiply-wp.eu
 127.0.0.1 multisistemastae.com
 127.0.0.1 mumbaiexpress.com
 127.0.0.1 mumbaifasteners.com
@@ -38480,6 +38485,7 @@
 127.0.0.1 www.0lx.2326595.xyz
 127.0.0.1 www.0lx.2902342.xyz
 127.0.0.1 www.00lx.03265926.xyz
+127.0.0.1 www.0lx.5846232.xyz
 127.0.0.1 www.0lx.6836457.xyz
 127.0.0.1 www.0lx.8423363.xyz
 127.0.0.1 www.00lx.15450210.xyz
@@ -39191,6 +39197,7 @@
 127.0.0.1 www.7785150814.ziemowitemil.eu
 127.0.0.1 www.8116668315.tobiaszpawlik.eu
 127.0.0.1 www.423413245647szeca123675853489.pl
+127.0.0.1 www.743982084780.weebly.com
 127.0.0.1 www.1243552353535.inhhome.top
 127.0.0.1 www.075709437151098.lewkonopka.eu
 127.0.0.1 www.343547473425365345heg345423rtge34-allready.bunvisinhgiare.com
@@ -40671,6 +40678,7 @@
 127.0.0.1 www.ams4.finetravelz.com
 127.0.0.1 www.ams4.fitnessmungo.com
 127.0.0.1 www.ams4.gadgetlinq.com
+127.0.0.1 www.ams4.gadgetsystemz.com
 127.0.0.1 www.ams4.steptripz.com
 127.0.0.1 www.ams4.trendflaky.com
 127.0.0.1 www.ams.fitnessmyna.com
@@ -47756,6 +47764,7 @@
 127.0.0.1 www.ekldjfh8i3jm2ueryeuthd8iok3m24turihn9uijkewd.pages.dev
 127.0.0.1 www.ekm-servers.net
 127.0.0.1 www.ekmexico.com
+127.0.0.1 www.eko-wegiel.eu
 127.0.0.1 www.ekoinnovaate.com
 127.0.0.1 www.ekowegiel.eu
 127.0.0.1 www.eksizseren.com
@@ -51878,6 +51887,7 @@
 127.0.0.1 www.hoofingpaperes.pro
 127.0.0.1 www.hoofingprevalenceed.pro
 127.0.0.1 www.hoofingprevalencees.pro
+127.0.0.1 www.hookupers.com
 127.0.0.1 www.hookx.click
 127.0.0.1 www.hoomrealestate.com
 127.0.0.1 www.hopebridge.cloud
@@ -53207,6 +53217,7 @@
 127.0.0.1 www.inpost-bcd.top
 127.0.0.1 www.inpost-bgd.top
 127.0.0.1 www.inpost-edd.top
+127.0.0.1 www.inpost-etr.top
 127.0.0.1 www.inpost-hgw.top
 127.0.0.1 www.inpost-home.top
 127.0.0.1 www.inpost-ieq.top
@@ -58653,7 +58664,6 @@
 127.0.0.1 www.multimediapark.paulinab.site
 127.0.0.1 www.multimegamart.com
 127.0.0.1 www.multiplexfilms.com
-127.0.0.1 www.multiply-wp.eu
 127.0.0.1 www.multisistemastae.com
 127.0.0.1 www.mumbaiexpress.com
 127.0.0.1 www.mumbaifasteners.com

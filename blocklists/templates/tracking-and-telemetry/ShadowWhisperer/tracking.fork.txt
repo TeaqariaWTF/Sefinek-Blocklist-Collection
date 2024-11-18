@@ -1,13 +1,14 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,179
-# Updated: 11/17/2024  01:31 (1:31 AM CST)
+# Domains: 95,196
+# Updated: 11/18/2024  12:04 (12:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 0.0.0.0 01009.wikihoster.de
+0.0.0.0 01039.wikihoster.de
 0.0.0.0 01counter.com
 0.0.0.0 0cf.io
 0.0.0.0 0ip.eu
@@ -1966,6 +1967,7 @@
 0.0.0.0 abcas1.accessabc.com
 0.0.0.0 abc.bayer04.de
 0.0.0.0 abcdef.gladysassistant.com
+0.0.0.0 abc.doepud.co.uk
 0.0.0.0 abc.esprit.at
 0.0.0.0 abc.esprit.be
 0.0.0.0 abc.esprit.co.uk
@@ -10258,6 +10260,7 @@
 0.0.0.0 analytics.projook.com
 0.0.0.0 analytics.prolatio.eu
 0.0.0.0 analytics.proled.com
+0.0.0.0 analytics-pro.liana.fi
 0.0.0.0 analytics.promatur.com
 0.0.0.0 analytics.promopixels.ch
 0.0.0.0 analytics.promptus-partners.de
@@ -13397,6 +13400,7 @@
 0.0.0.0 api.feedaty.com
 0.0.0.0 api.floracing.com
 0.0.0.0 api.fool.com
+0.0.0.0 api.freelancers.org.au
 0.0.0.0 api-frontend-events.prodigygame.com
 0.0.0.0 apig.carvana.io
 0.0.0.0 api-gdpr.voodoo-tech.io
@@ -13437,6 +13441,7 @@
 0.0.0.0 api.mypurecloud.de
 0.0.0.0 api.neko-san.fr
 0.0.0.0 api.nestict.com
+0.0.0.0 api.ngehlert.com
 0.0.0.0 api.officedepot.io
 0.0.0.0 api.pd01e.gcp.ford.com
 0.0.0.0 api.peers.tv
@@ -13449,6 +13454,7 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rnet.plus
 0.0.0.0 api.rollbar.com
+0.0.0.0 apisa.polkadot.cloud
 0.0.0.0 apisa.polkadot.network
 0.0.0.0 api-sa.rikatillsammans.se
 0.0.0.0 api-sa.substrate.io
@@ -15327,6 +15333,7 @@
 0.0.0.0 bs.sbi-bs.co.jp
 0.0.0.0 bsscustomersuccess.canon.ca
 0.0.0.0 bstats.org
+0.0.0.0 bstofrevr.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bt3cqo2v.myraidbox.de
 0.0.0.0 btbmentoring.connectr.co.uk
@@ -24490,6 +24497,7 @@
 0.0.0.0 fms.perahub.com.ph
 0.0.0.0 fndrsp-checkout.net
 0.0.0.0 fndrsp.net
+0.0.0.0 fnxstats.net
 0.0.0.0 foamyfood.com
 0.0.0.0 foamypain.com
 0.0.0.0 focus.exampleconfig.com
@@ -26940,8 +26948,10 @@
 0.0.0.0 hyp.sekologistics.com
 0.0.0.0 hyros.com
 0.0.0.0 hyros.darrenhardy.com
+0.0.0.0 hyros.drmariza.com
 0.0.0.0 hyros-t.foundr.com
 0.0.0.0 hyrost.rotorriot.com
+0.0.0.0 hyscripts.thebbco.com
 0.0.0.0 hystericalcloth.com
 0.0.0.0 hystericalfinger.com
 0.0.0.0 hystericalhelp.com
@@ -31647,6 +31657,7 @@
 0.0.0.0 k54nw.pw
 0.0.0.0 k5a.io
 0.0.0.0 k677.collegexpress.com
+0.0.0.0 k9cc.cloud
 0.0.0.0 kaden.netoff.co.jp
 0.0.0.0 kalibrate.com
 0.0.0.0 kameleoon.eu
@@ -31900,6 +31911,7 @@
 0.0.0.0 ksn-url-geo.kaspersky-labs.com
 0.0.0.0 ksn-verdict-geo.kaspersky-labs.com
 0.0.0.0 kstk.pt
+0.0.0.0 kswiftnode-637.top
 0.0.0.0 ktmine.com
 0.0.0.0 ktml.kensetsutenshokunavi.jp
 0.0.0.0 ktxlytics.io
@@ -32234,6 +32246,7 @@
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 lhinsights.com
 0.0.0.0 li3k4d70ig52.resourceya.com
+0.0.0.0 liberland.nl
 0.0.0.0 liberty.logs.roku.com
 0.0.0.0 liblynx.com
 0.0.0.0 lib.onet.pl
@@ -63732,6 +63745,7 @@
 0.0.0.0 plsb.lrdjx.nl
 0.0.0.0 plsb.valletech.eu
 0.0.0.0 pls.destiny.gg
+0.0.0.0 pl.sinusiks.com
 0.0.0.0 pls.moendigitalservices.com
 0.0.0.0 pls.nextrealm.io
 0.0.0.0 pls.prd.mz.internal.unity3d.com
@@ -66061,6 +66075,7 @@
 0.0.0.0 r.odlivenews.be
 0.0.0.0 rodo.structum.pl
 0.0.0.0 rogersradionews.com
+0.0.0.0 rogue.orongowebhosting.com
 0.0.0.0 roia.biz
 0.0.0.0 roicalculator.net
 0.0.0.0 roihunter.com
@@ -73310,6 +73325,7 @@
 0.0.0.0 sosc.hrs.de
 0.0.0.0 so.sunrise.ch
 0.0.0.0 so.swisscom.ch
+0.0.0.0 sota-solutions.de
 0.0.0.0 so.tempstaff.co.jp
 0.0.0.0 so.toptable.co.uk
 0.0.0.0 sotrender.com
@@ -90492,6 +90508,7 @@
 0.0.0.0 wms-analytics.net
 0.0.0.0 wm.shiftwizard.com
 0.0.0.0 wm.sybase.com
+0.0.0.0 wn4bhtrk.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 wn.worknest.com
 0.0.0.0 wof-piwik2.desy.de

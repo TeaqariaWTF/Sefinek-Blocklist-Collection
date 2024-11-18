@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 18 Nov 2024, 17:29 UTC+01:00
-! Version: 2024.11.18.4
+! Last modified: Mon, 18 Nov 2024, 18:25 UTC+01:00
+! Version: 2024.11.18.5
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -3145,6 +3145,7 @@
 ||0lx.2326595.xyz^
 ||0lx.2902342.xyz^
 ||00lx.03265926.xyz^
+||0lx.5846232.xyz^
 ||0lx.6836457.xyz^
 ||0lx.8423363.xyz^
 ||00lx.15450210.xyz^
@@ -3856,6 +3857,7 @@
 ||7785150814.ziemowitemil.eu^
 ||8116668315.tobiaszpawlik.eu^
 ||423413245647szeca123675853489.pl^
+||743982084780.weebly.com^
 ||1243552353535.inhhome.top^
 ||075709437151098.lewkonopka.eu^
 ||343547473425365345heg345423rtge34-allready.bunvisinhgiare.com^
@@ -5336,6 +5338,7 @@
 ||ams4.finetravelz.com^
 ||ams4.fitnessmungo.com^
 ||ams4.gadgetlinq.com^
+||ams4.gadgetsystemz.com^
 ||ams4.steptripz.com^
 ||ams4.trendflaky.com^
 ||ams.fitnessmyna.com^
@@ -12421,6 +12424,7 @@
 ||ekldjfh8i3jm2ueryeuthd8iok3m24turihn9uijkewd.pages.dev^
 ||ekm-servers.net^
 ||ekmexico.com^
+||eko-wegiel.eu^
 ||ekoinnovaate.com^
 ||ekowegiel.eu^
 ||eksizseren.com^
@@ -16543,6 +16547,7 @@
 ||hoofingpaperes.pro^
 ||hoofingprevalenceed.pro^
 ||hoofingprevalencees.pro^
+||hookupers.com^
 ||hookx.click^
 ||hoomrealestate.com^
 ||hopebridge.cloud^
@@ -17872,6 +17877,7 @@
 ||inpost-bcd.top^
 ||inpost-bgd.top^
 ||inpost-edd.top^
+||inpost-etr.top^
 ||inpost-hgw.top^
 ||inpost-home.top^
 ||inpost-ieq.top^
@@ -23318,7 +23324,6 @@
 ||multimediapark.paulinab.site^
 ||multimegamart.com^
 ||multiplexfilms.com^
-||multiply-wp.eu^
 ||multisistemastae.com^
 ||mumbaiexpress.com^
 ||mumbaifasteners.com^
@@ -38480,6 +38485,7 @@
 ||www.0lx.2326595.xyz^
 ||www.0lx.2902342.xyz^
 ||www.00lx.03265926.xyz^
+||www.0lx.5846232.xyz^
 ||www.0lx.6836457.xyz^
 ||www.0lx.8423363.xyz^
 ||www.00lx.15450210.xyz^
@@ -39191,6 +39197,7 @@
 ||www.7785150814.ziemowitemil.eu^
 ||www.8116668315.tobiaszpawlik.eu^
 ||www.423413245647szeca123675853489.pl^
+||www.743982084780.weebly.com^
 ||www.1243552353535.inhhome.top^
 ||www.075709437151098.lewkonopka.eu^
 ||www.343547473425365345heg345423rtge34-allready.bunvisinhgiare.com^
@@ -40671,6 +40678,7 @@
 ||www.ams4.finetravelz.com^
 ||www.ams4.fitnessmungo.com^
 ||www.ams4.gadgetlinq.com^
+||www.ams4.gadgetsystemz.com^
 ||www.ams4.steptripz.com^
 ||www.ams4.trendflaky.com^
 ||www.ams.fitnessmyna.com^
@@ -47756,6 +47764,7 @@
 ||www.ekldjfh8i3jm2ueryeuthd8iok3m24turihn9uijkewd.pages.dev^
 ||www.ekm-servers.net^
 ||www.ekmexico.com^
+||www.eko-wegiel.eu^
 ||www.ekoinnovaate.com^
 ||www.ekowegiel.eu^
 ||www.eksizseren.com^
@@ -51878,6 +51887,7 @@
 ||www.hoofingpaperes.pro^
 ||www.hoofingprevalenceed.pro^
 ||www.hoofingprevalencees.pro^
+||www.hookupers.com^
 ||www.hookx.click^
 ||www.hoomrealestate.com^
 ||www.hopebridge.cloud^
@@ -53207,6 +53217,7 @@
 ||www.inpost-bcd.top^
 ||www.inpost-bgd.top^
 ||www.inpost-edd.top^
+||www.inpost-etr.top^
 ||www.inpost-hgw.top^
 ||www.inpost-home.top^
 ||www.inpost-ieq.top^
@@ -58653,7 +58664,6 @@
 ||www.multimediapark.paulinab.site^
 ||www.multimegamart.com^
 ||www.multiplexfilms.com^
-||www.multiply-wp.eu^
 ||www.multisistemastae.com^
 ||www.mumbaiexpress.com^
 ||www.mumbaifasteners.com^

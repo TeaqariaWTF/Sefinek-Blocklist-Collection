@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,398
-# Updated: 11/15/2024  16:13 (4:13 PM CST)
+# Domains: 20,401
+# Updated: 11/18/2024  12:04 (12:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -9631,6 +9631,7 @@
 127.0.0.1 dentsu.com
 127.0.0.1 dentsu.de
 127.0.0.1 deployads.com
+127.0.0.1 deployinput.com
 127.0.0.1 deqph.com
 127.0.0.1 deqwas.co.jp
 127.0.0.1 derangeddollars.com
@@ -16152,6 +16153,8 @@
 127.0.0.1 resurrect.club
 127.0.0.1 retail9.com
 127.0.0.1 retail9ventures.com
+127.0.0.1 retailready.agency
+127.0.0.1 retailready.ai
 127.0.0.1 retailtime.cloud
 127.0.0.1 retai.ly
 127.0.0.1 retargeting.biz

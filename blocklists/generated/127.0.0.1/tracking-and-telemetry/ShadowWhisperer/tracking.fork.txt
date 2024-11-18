@@ -1,13 +1,14 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,179
-# Updated: 11/17/2024  01:31 (1:31 AM CST)
+# Domains: 95,196
+# Updated: 11/18/2024  12:04 (12:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 127.0.0.1 01009.wikihoster.de
+127.0.0.1 01039.wikihoster.de
 127.0.0.1 01counter.com
 127.0.0.1 0cf.io
 127.0.0.1 0ip.eu
@@ -1966,6 +1967,7 @@
 127.0.0.1 abcas1.accessabc.com
 127.0.0.1 abc.bayer04.de
 127.0.0.1 abcdef.gladysassistant.com
+127.0.0.1 abc.doepud.co.uk
 127.0.0.1 abc.esprit.at
 127.0.0.1 abc.esprit.be
 127.0.0.1 abc.esprit.co.uk
@@ -10258,6 +10260,7 @@
 127.0.0.1 analytics.projook.com
 127.0.0.1 analytics.prolatio.eu
 127.0.0.1 analytics.proled.com
+127.0.0.1 analytics-pro.liana.fi
 127.0.0.1 analytics.promatur.com
 127.0.0.1 analytics.promopixels.ch
 127.0.0.1 analytics.promptus-partners.de
@@ -13397,6 +13400,7 @@
 127.0.0.1 api.feedaty.com
 127.0.0.1 api.floracing.com
 127.0.0.1 api.fool.com
+127.0.0.1 api.freelancers.org.au
 127.0.0.1 api-frontend-events.prodigygame.com
 127.0.0.1 apig.carvana.io
 127.0.0.1 api-gdpr.voodoo-tech.io
@@ -13437,6 +13441,7 @@
 127.0.0.1 api.mypurecloud.de
 127.0.0.1 api.neko-san.fr
 127.0.0.1 api.nestict.com
+127.0.0.1 api.ngehlert.com
 127.0.0.1 api.officedepot.io
 127.0.0.1 api.pd01e.gcp.ford.com
 127.0.0.1 api.peers.tv
@@ -13449,6 +13454,7 @@
 127.0.0.1 api.rlcdn.com
 127.0.0.1 api.rnet.plus
 127.0.0.1 api.rollbar.com
+127.0.0.1 apisa.polkadot.cloud
 127.0.0.1 apisa.polkadot.network
 127.0.0.1 api-sa.rikatillsammans.se
 127.0.0.1 api-sa.substrate.io
@@ -15327,6 +15333,7 @@
 127.0.0.1 bs.sbi-bs.co.jp
 127.0.0.1 bsscustomersuccess.canon.ca
 127.0.0.1 bstats.org
+127.0.0.1 bstofrevr.com
 127.0.0.1 bs.yandex.ru
 127.0.0.1 bt3cqo2v.myraidbox.de
 127.0.0.1 btbmentoring.connectr.co.uk
@@ -24490,6 +24497,7 @@
 127.0.0.1 fms.perahub.com.ph
 127.0.0.1 fndrsp-checkout.net
 127.0.0.1 fndrsp.net
+127.0.0.1 fnxstats.net
 127.0.0.1 foamyfood.com
 127.0.0.1 foamypain.com
 127.0.0.1 focus.exampleconfig.com
@@ -26940,8 +26948,10 @@
 127.0.0.1 hyp.sekologistics.com
 127.0.0.1 hyros.com
 127.0.0.1 hyros.darrenhardy.com
+127.0.0.1 hyros.drmariza.com
 127.0.0.1 hyros-t.foundr.com
 127.0.0.1 hyrost.rotorriot.com
+127.0.0.1 hyscripts.thebbco.com
 127.0.0.1 hystericalcloth.com
 127.0.0.1 hystericalfinger.com
 127.0.0.1 hystericalhelp.com
@@ -31647,6 +31657,7 @@
 127.0.0.1 k54nw.pw
 127.0.0.1 k5a.io
 127.0.0.1 k677.collegexpress.com
+127.0.0.1 k9cc.cloud
 127.0.0.1 kaden.netoff.co.jp
 127.0.0.1 kalibrate.com
 127.0.0.1 kameleoon.eu
@@ -31900,6 +31911,7 @@
 127.0.0.1 ksn-url-geo.kaspersky-labs.com
 127.0.0.1 ksn-verdict-geo.kaspersky-labs.com
 127.0.0.1 kstk.pt
+127.0.0.1 kswiftnode-637.top
 127.0.0.1 ktmine.com
 127.0.0.1 ktml.kensetsutenshokunavi.jp
 127.0.0.1 ktxlytics.io
@@ -32234,6 +32246,7 @@
 127.0.0.1 lg-release-tracking-8080.gcld-line.com
 127.0.0.1 lhinsights.com
 127.0.0.1 li3k4d70ig52.resourceya.com
+127.0.0.1 liberland.nl
 127.0.0.1 liberty.logs.roku.com
 127.0.0.1 liblynx.com
 127.0.0.1 lib.onet.pl
@@ -63732,6 +63745,7 @@
 127.0.0.1 plsb.lrdjx.nl
 127.0.0.1 plsb.valletech.eu
 127.0.0.1 pls.destiny.gg
+127.0.0.1 pl.sinusiks.com
 127.0.0.1 pls.moendigitalservices.com
 127.0.0.1 pls.nextrealm.io
 127.0.0.1 pls.prd.mz.internal.unity3d.com
@@ -66061,6 +66075,7 @@
 127.0.0.1 r.odlivenews.be
 127.0.0.1 rodo.structum.pl
 127.0.0.1 rogersradionews.com
+127.0.0.1 rogue.orongowebhosting.com
 127.0.0.1 roia.biz
 127.0.0.1 roicalculator.net
 127.0.0.1 roihunter.com
@@ -73310,6 +73325,7 @@
 127.0.0.1 sosc.hrs.de
 127.0.0.1 so.sunrise.ch
 127.0.0.1 so.swisscom.ch
+127.0.0.1 sota-solutions.de
 127.0.0.1 so.tempstaff.co.jp
 127.0.0.1 so.toptable.co.uk
 127.0.0.1 sotrender.com
@@ -90492,6 +90508,7 @@
 127.0.0.1 wms-analytics.net
 127.0.0.1 wm.shiftwizard.com
 127.0.0.1 wm.sybase.com
+127.0.0.1 wn4bhtrk.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 wn.worknest.com
 127.0.0.1 wof-piwik2.desy.de
