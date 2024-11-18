@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,401
-# Updated: 11/18/2024  12:04 (12:04 PM CST)
+# Domains: 20,407
+# Updated: 11/18/2024  15:31 (3:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -6912,11 +6912,13 @@ server=/arrlnk.com/
 server=/arrnaught.com/
 server=/arrowmmc.com/
 server=/ars.comicarab.com/
+server=/artbuzz.co.in/
 server=/artfut.com/
 server=/arthacreativeservices.com/
 server=/artilleryads.com/
 server=/arti-media.net/
 server=/artkade.com/
+server=/artpeediya.com/
 server=/artsai.com/
 server=/artthevoid.com/
 server=/artworx.at/
@@ -9293,6 +9295,7 @@ server=/csjuq.com/
 server=/cstadvertising.com/
 server=/c.stat100.ameba.jp/
 server=/ctalyst.com/
+server=/ctamedia.net/
 server=/ctasnet.com/
 server=/ctjdwm.com/
 server=/ctjmf3j.de/
@@ -9700,6 +9703,7 @@ server=/digimarcon.com/
 server=/digimarketplace.co/
 server=/digipush.io/
 server=/digiquals.in/
+server=/digislots.in/
 server=/digitad.com/
 server=/digitaladagency.com/
 server=/digitaladsystems.com/
@@ -10467,7 +10471,9 @@ server=/facilitatebreakfast.com/
 server=/facilitatedigital.com/
 server=/facmtf.com/
 server=/factor-eleven.de/
+server=/factor-service.prod.voltaxservices.io/
 server=/factorybyks.com/
+server=/factorycreatives.com/
 server=/fadstrack.com/
 server=/faestara.com/
 server=/fafc5ra5.ru/
