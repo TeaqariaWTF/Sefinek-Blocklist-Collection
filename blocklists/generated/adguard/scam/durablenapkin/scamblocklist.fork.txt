@@ -1,5 +1,5 @@
 ! Scam Blocklist by DurableNapkin
-! Domains: 2560
+! Domains: 2555
 ! -
 ! Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 ! Home: https://github.com/durablenapkin/scamblocklist
@@ -843,7 +843,6 @@
 ||store.frest.info^
 ||friday89.com^
 ||www.friday89.com^
-||store.fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||www.frostgoddess.com^
 ||store.frostgoddess.com^
@@ -856,8 +855,6 @@
 ||store.fulfillgift.com^
 ||fundanemt.org^
 ||www.fundanemt.org^
-||fundcash.id^
-||www.fundcash.id^
 ||furykms.com^
 ||www.furykms.com^
 ||store.furykms.com^
@@ -877,6 +874,9 @@
 ||store.gearstastic.com^
 ||gearver.com^
 ||www.gearver.com^
+||geekupdates.notion.site^
+||www.geekupdates.notion.site^
+||store.geekupdates.notion.site^
 ||geldencosmeticos.com^
 ||www.geldencosmeticos.com^
 ||gemlis.com^
@@ -1151,9 +1151,6 @@
 ||jewellvanmarter.za.com^
 ||www.jewellvanmarter.za.com^
 ||store.jewellvanmarter.za.com^
-||jfremovals.com^
-||www.jfremovals.com^
-||store.jfremovals.com^
 ||jne-express.my.id^
 ||www.jne-express.my.id^
 ||jollyfamilygifts.net^
@@ -1185,7 +1182,6 @@
 ||kisserine.com^
 ||www.kisserine.com^
 ||kitchendecor.shop^
-||www.kms-full.com^
 ||kms-pc.com^
 ||www.kms-pc.com^
 ||kms-tool.com^
@@ -1351,6 +1347,8 @@
 ||www.miucart.com^
 ||mizunsports.com^
 ||www.mizunsports.com^
+||moddetail.com^
+||store.moddetail.com^
 ||modmobile24.com^
 ||www.modmobile24.com^
 ||store.modmobile24.com^
@@ -1461,7 +1459,6 @@
 ||store.navi24.com^
 ||navi24.ru^
 ||www.navi24.ru^
-||navi29.com^
 ||navi3.com^
 ||www.navi3.com^
 ||store.navi3.com^
@@ -1499,9 +1496,11 @@
 ||navi54.com^
 ||navi56.com^
 ||www.navi56.com^
+||www.navi57.ru^
 ||navi58.com^
 ||www.navi58.com^
 ||store.navi58.com^
+||www.navi58.ru^
 ||navi59.ru^
 ||www.navi59.ru^
 ||navi6.com^
@@ -1512,7 +1511,6 @@
 ||www.navi66.ru^
 ||navi7.com^
 ||www.navi7.com^
-||store.navi70.com^
 ||navi72.com^
 ||www.navi72.com^
 ||navi72.ru^
@@ -1705,9 +1703,6 @@
 ||pambi.tech^
 ||www.pambi.tech^
 ||www.pandzee.com^
-||paquetsuivi7noti.com^
-||www.paquetsuivi7noti.com^
-||store.paquetsuivi7noti.com^
 ||paradisevs.com^
 ||www.paradisevs.com^
 ||parcelprocessingredelivery1.info^
@@ -1848,6 +1843,7 @@
 ||www.pump.fun^
 ||punyauang.xyz^
 ||www.punyauang.xyz^
+||store.qttlpn.shop^
 ||queenscattery.com^
 ||www.queenscattery.com^
 ||quitasueno.com^
@@ -1861,6 +1857,7 @@
 ||radiatorcrate.com^
 ||www.radiatorcrate.com^
 ||store.radiatorcrate.com^
+||www.raif.easypayment.me^
 ||re-captha-version-3-277.buzz^
 ||www.re-captha-version-3-277.buzz^
 ||reforest-iita.org^
@@ -2555,8 +2552,6 @@
 ||zedbubble.com^
 ||www.zedbubble.com^
 ||zerowasteinitiative.com^
-||www.zerowasteinitiative.com^
-||store.zerowasteinitiative.com^
 ||zillify.cfd^
 ||www.zillify.cfd^
 ||zolrqw.palatlaldate.com^

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2560
+# Domains: 2555
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -843,7 +843,6 @@
 127.0.0.1 store.frest.info
 127.0.0.1 friday89.com
 127.0.0.1 www.friday89.com
-127.0.0.1 store.fridaylocalmanager.duckdns.org
 127.0.0.1 frostgoddess.com
 127.0.0.1 www.frostgoddess.com
 127.0.0.1 store.frostgoddess.com
@@ -856,8 +855,6 @@
 127.0.0.1 store.fulfillgift.com
 127.0.0.1 fundanemt.org
 127.0.0.1 www.fundanemt.org
-127.0.0.1 fundcash.id
-127.0.0.1 www.fundcash.id
 127.0.0.1 furykms.com
 127.0.0.1 www.furykms.com
 127.0.0.1 store.furykms.com
@@ -877,6 +874,9 @@
 127.0.0.1 store.gearstastic.com
 127.0.0.1 gearver.com
 127.0.0.1 www.gearver.com
+127.0.0.1 geekupdates.notion.site
+127.0.0.1 www.geekupdates.notion.site
+127.0.0.1 store.geekupdates.notion.site
 127.0.0.1 geldencosmeticos.com
 127.0.0.1 www.geldencosmeticos.com
 127.0.0.1 gemlis.com
@@ -1151,9 +1151,6 @@
 127.0.0.1 jewellvanmarter.za.com
 127.0.0.1 www.jewellvanmarter.za.com
 127.0.0.1 store.jewellvanmarter.za.com
-127.0.0.1 jfremovals.com
-127.0.0.1 www.jfremovals.com
-127.0.0.1 store.jfremovals.com
 127.0.0.1 jne-express.my.id
 127.0.0.1 www.jne-express.my.id
 127.0.0.1 jollyfamilygifts.net
@@ -1185,7 +1182,6 @@
 127.0.0.1 kisserine.com
 127.0.0.1 www.kisserine.com
 127.0.0.1 kitchendecor.shop
-127.0.0.1 www.kms-full.com
 127.0.0.1 kms-pc.com
 127.0.0.1 www.kms-pc.com
 127.0.0.1 kms-tool.com
@@ -1351,6 +1347,8 @@
 127.0.0.1 www.miucart.com
 127.0.0.1 mizunsports.com
 127.0.0.1 www.mizunsports.com
+127.0.0.1 moddetail.com
+127.0.0.1 store.moddetail.com
 127.0.0.1 modmobile24.com
 127.0.0.1 www.modmobile24.com
 127.0.0.1 store.modmobile24.com
@@ -1461,7 +1459,6 @@
 127.0.0.1 store.navi24.com
 127.0.0.1 navi24.ru
 127.0.0.1 www.navi24.ru
-127.0.0.1 navi29.com
 127.0.0.1 navi3.com
 127.0.0.1 www.navi3.com
 127.0.0.1 store.navi3.com
@@ -1499,9 +1496,11 @@
 127.0.0.1 navi54.com
 127.0.0.1 navi56.com
 127.0.0.1 www.navi56.com
+127.0.0.1 www.navi57.ru
 127.0.0.1 navi58.com
 127.0.0.1 www.navi58.com
 127.0.0.1 store.navi58.com
+127.0.0.1 www.navi58.ru
 127.0.0.1 navi59.ru
 127.0.0.1 www.navi59.ru
 127.0.0.1 navi6.com
@@ -1512,7 +1511,6 @@
 127.0.0.1 www.navi66.ru
 127.0.0.1 navi7.com
 127.0.0.1 www.navi7.com
-127.0.0.1 store.navi70.com
 127.0.0.1 navi72.com
 127.0.0.1 www.navi72.com
 127.0.0.1 navi72.ru
@@ -1705,9 +1703,6 @@
 127.0.0.1 pambi.tech
 127.0.0.1 www.pambi.tech
 127.0.0.1 www.pandzee.com
-127.0.0.1 paquetsuivi7noti.com
-127.0.0.1 www.paquetsuivi7noti.com
-127.0.0.1 store.paquetsuivi7noti.com
 127.0.0.1 paradisevs.com
 127.0.0.1 www.paradisevs.com
 127.0.0.1 parcelprocessingredelivery1.info
@@ -1848,6 +1843,7 @@
 127.0.0.1 www.pump.fun
 127.0.0.1 punyauang.xyz
 127.0.0.1 www.punyauang.xyz
+127.0.0.1 store.qttlpn.shop
 127.0.0.1 queenscattery.com
 127.0.0.1 www.queenscattery.com
 127.0.0.1 quitasueno.com
@@ -1861,6 +1857,7 @@
 127.0.0.1 radiatorcrate.com
 127.0.0.1 www.radiatorcrate.com
 127.0.0.1 store.radiatorcrate.com
+127.0.0.1 www.raif.easypayment.me
 127.0.0.1 re-captha-version-3-277.buzz
 127.0.0.1 www.re-captha-version-3-277.buzz
 127.0.0.1 reforest-iita.org
@@ -2555,8 +2552,6 @@
 127.0.0.1 zedbubble.com
 127.0.0.1 www.zedbubble.com
 127.0.0.1 zerowasteinitiative.com
-127.0.0.1 www.zerowasteinitiative.com
-127.0.0.1 store.zerowasteinitiative.com
 127.0.0.1 zillify.cfd
 127.0.0.1 www.zillify.cfd
 127.0.0.1 zolrqw.palatlaldate.com

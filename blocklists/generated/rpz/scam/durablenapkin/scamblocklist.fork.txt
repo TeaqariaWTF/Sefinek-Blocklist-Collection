@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111801 43200 3600 259200 300
   NS  localhost.
 1000fapvids.online CNAME .
 *.1000fapvids.online CNAME .
@@ -1025,8 +1025,6 @@ store.frest.info CNAME .
 *.store.frest.info CNAME .
 friday89.com CNAME .
 *.friday89.com CNAME .
-store.fridaylocalmanager.duckdns.org CNAME .
-*.store.fridaylocalmanager.duckdns.org CNAME .
 frostgoddess.com CNAME .
 *.frostgoddess.com CNAME .
 store.frostgoddess.com CNAME .
@@ -1041,8 +1039,6 @@ store.fulfillgift.com CNAME .
 *.store.fulfillgift.com CNAME .
 fundanemt.org CNAME .
 *.fundanemt.org CNAME .
-fundcash.id CNAME .
-*.fundcash.id CNAME .
 furykms.com CNAME .
 *.furykms.com CNAME .
 store.furykms.com CNAME .
@@ -1065,6 +1061,10 @@ store.gearstastic.com CNAME .
 *.store.gearstastic.com CNAME .
 gearver.com CNAME .
 *.gearver.com CNAME .
+geekupdates.notion.site CNAME .
+*.geekupdates.notion.site CNAME .
+store.geekupdates.notion.site CNAME .
+*.store.geekupdates.notion.site CNAME .
 geldencosmeticos.com CNAME .
 *.geldencosmeticos.com CNAME .
 gemlis.com CNAME .
@@ -1391,10 +1391,6 @@ jewellvanmarter.za.com CNAME .
 *.jewellvanmarter.za.com CNAME .
 store.jewellvanmarter.za.com CNAME .
 *.store.jewellvanmarter.za.com CNAME .
-jfremovals.com CNAME .
-*.jfremovals.com CNAME .
-store.jfremovals.com CNAME .
-*.store.jfremovals.com CNAME .
 jne-express.my.id CNAME .
 *.jne-express.my.id CNAME .
 jollyfamilygifts.net CNAME .
@@ -1431,8 +1427,6 @@ kisserine.com CNAME .
 *.kisserine.com CNAME .
 kitchendecor.shop CNAME .
 *.kitchendecor.shop CNAME .
-kms-full.com CNAME .
-*.kms-full.com CNAME .
 kms-pc.com CNAME .
 *.kms-pc.com CNAME .
 kms-tool.com CNAME .
@@ -1633,6 +1627,10 @@ miucart.com CNAME .
 *.miucart.com CNAME .
 mizunsports.com CNAME .
 *.mizunsports.com CNAME .
+moddetail.com CNAME .
+*.moddetail.com CNAME .
+store.moddetail.com CNAME .
+*.store.moddetail.com CNAME .
 modmobile24.com CNAME .
 *.modmobile24.com CNAME .
 store.modmobile24.com CNAME .
@@ -1769,8 +1767,6 @@ store.navi24.com CNAME .
 *.store.navi24.com CNAME .
 navi24.ru CNAME .
 *.navi24.ru CNAME .
-navi29.com CNAME .
-*.navi29.com CNAME .
 navi3.com CNAME .
 *.navi3.com CNAME .
 store.navi3.com CNAME .
@@ -1817,10 +1813,14 @@ navi54.com CNAME .
 *.navi54.com CNAME .
 navi56.com CNAME .
 *.navi56.com CNAME .
+navi57.ru CNAME .
+*.navi57.ru CNAME .
 navi58.com CNAME .
 *.navi58.com CNAME .
 store.navi58.com CNAME .
 *.store.navi58.com CNAME .
+navi58.ru CNAME .
+*.navi58.ru CNAME .
 navi59.ru CNAME .
 *.navi59.ru CNAME .
 navi6.com CNAME .
@@ -1833,8 +1833,6 @@ navi66.ru CNAME .
 *.navi66.ru CNAME .
 navi7.com CNAME .
 *.navi7.com CNAME .
-store.navi70.com CNAME .
-*.store.navi70.com CNAME .
 navi72.com CNAME .
 *.navi72.com CNAME .
 navi72.ru CNAME .
@@ -2073,10 +2071,6 @@ pambi.tech CNAME .
 *.pambi.tech CNAME .
 pandzee.com CNAME .
 *.pandzee.com CNAME .
-paquetsuivi7noti.com CNAME .
-*.paquetsuivi7noti.com CNAME .
-store.paquetsuivi7noti.com CNAME .
-*.store.paquetsuivi7noti.com CNAME .
 paradisevs.com CNAME .
 *.paradisevs.com CNAME .
 parcelprocessingredelivery1.info CNAME .
@@ -2245,6 +2239,8 @@ pump.fun CNAME .
 *.pump.fun CNAME .
 punyauang.xyz CNAME .
 *.punyauang.xyz CNAME .
+store.qttlpn.shop CNAME .
+*.store.qttlpn.shop CNAME .
 queenscattery.com CNAME .
 *.queenscattery.com CNAME .
 quitasueno.com CNAME .
@@ -2261,6 +2257,8 @@ radiatorcrate.com CNAME .
 *.radiatorcrate.com CNAME .
 store.radiatorcrate.com CNAME .
 *.store.radiatorcrate.com CNAME .
+raif.easypayment.me CNAME .
+*.raif.easypayment.me CNAME .
 re-captha-version-3-277.buzz CNAME .
 *.re-captha-version-3-277.buzz CNAME .
 reforest-iita.org CNAME .
@@ -3107,8 +3105,6 @@ zedbubble.com CNAME .
 *.zedbubble.com CNAME .
 zerowasteinitiative.com CNAME .
 *.zerowasteinitiative.com CNAME .
-store.zerowasteinitiative.com CNAME .
-*.store.zerowasteinitiative.com CNAME .
 zillify.cfd CNAME .
 *.zillify.cfd CNAME .
 zolrqw.palatlaldate.com CNAME .

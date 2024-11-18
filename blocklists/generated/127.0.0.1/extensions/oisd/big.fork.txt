@@ -1,9 +1,9 @@
-# Version: 202411180406
+# Version: 202411180606
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 136522
-# Last modified: 2024-11-18T04:06:38+0000
+! Entries: 136464
+# Last modified: 2024-11-18T06:06:43+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2884,6 +2884,7 @@
 127.0.0.1 4comtech.com
 127.0.0.1 4ct35xohh.top
 127.0.0.1 4d15ee32c1.com
+127.0.0.1 4d33a4adbc.com
 127.0.0.1 4d3f87f705.com
 127.0.0.1 4d658ab856.com
 127.0.0.1 4d6f4467.adsl.enternet.hu
@@ -4087,7 +4088,6 @@
 127.0.0.1 722089065999283-dot-wetransfer-auth-file-343.appspot.com
 127.0.0.1 7239618ccc.com
 127.0.0.1 7246.bapi.adsafeprotected.com
-127.0.0.1 724da29433.4d33a4adbc.com
 127.0.0.1 7250.bapi.adsafeprotected.com
 127.0.0.1 7251.bapi.adsafeprotected.com
 127.0.0.1 726704030228633-dot-wetransfer-auth-file-341.appspot.com
@@ -4516,7 +4516,6 @@
 127.0.0.1 897263tqs.com
 127.0.0.1 899v.com
 127.0.0.1 89h8.com
-127.0.0.1 89hdn.cn
 127.0.0.1 8a40179356.com
 127.0.0.1 8a43d8c952.b0b48016c5.com
 127.0.0.1 8a7d8912cb.0ef2473ad8.com
@@ -6333,7 +6332,6 @@
 127.0.0.1 achelesscorporaltreaty.com
 127.0.0.1 achelessintegralsigh.com
 127.0.0.1 acheminement-assistance.com
-127.0.0.1 acheminement-chronopost.fr
 127.0.0.1 acheminement-colis.fr
 127.0.0.1 acheminement-livraison.fr
 127.0.0.1 acheminement-retrait-colis.com
@@ -6385,7 +6383,6 @@
 127.0.0.1 acknowledgecalculated.com
 127.0.0.1 acknowledgementforproject.com
 127.0.0.1 acledit.com
-127.0.0.1 aclemonliner.com
 127.0.0.1 aclhs.de
 127.0.0.1 aclickads.com
 127.0.0.1 aclimoges.fr
@@ -6605,7 +6602,6 @@
 127.0.0.1 actthrilled.com
 127.0.0.1 actu-laposte.com
 127.0.0.1 actualdeals.com
-127.0.0.1 actualisation-en-ligne.fr
 127.0.0.1 actualisation-espace-assure-enligne.fr
 127.0.0.1 actualisation-service.com
 127.0.0.1 actualiser-paiement.fr
@@ -11732,7 +11728,6 @@
 127.0.0.1 ahmedbulad.com
 127.0.0.1 ahmedhusseinali.com
 127.0.0.1 ahmedshow.com
-127.0.0.1 ahmedyassin.ddns.net
 127.0.0.1 ahmetkara.duckdns.org
 127.0.0.1 ahmibai.cn
 127.0.0.1 ahnenforschung.de
@@ -12886,7 +12881,6 @@
 127.0.0.1 allegroguanwang.com
 127.0.0.1 allegrolokalnie.id8741893.buzz
 127.0.0.1 allegrolokalnie.oferta463729.com
-127.0.0.1 allegrolokalnie.p24-345c895ncvfc3.buzz
 127.0.0.1 allegrolokalnie.promowane-kategorie-8311.buzz
 127.0.0.1 allegroqrdelivery.com
 127.0.0.1 allegroscn.shop
@@ -13948,7 +13942,6 @@
 127.0.0.1 amyu.org
 127.0.0.1 amyzon.top
 127.0.0.1 amz.steamprices.com
-127.0.0.1 amza.geolocalisation-auto-pro.top
 127.0.0.1 amzaon-co.com
 127.0.0.1 amzargfaht.com
 127.0.0.1 amzautumnshop.com
@@ -16735,7 +16728,6 @@
 127.0.0.1 arbitrage-ai-app.com
 127.0.0.1 arbitrarysack.com
 127.0.0.1 arbo.hit.gemius.pl
-127.0.0.1 arbocontext.ro
 127.0.0.1 arbolonline.org
 127.0.0.1 arbomedia.pl
 127.0.0.1 arborcomm.com.au
@@ -19102,7 +19094,6 @@
 127.0.0.1 ayahoo.fr
 127.0.0.1 ayahuascaretreatfoundation.com
 127.0.0.1 ayakawamura.com
-127.0.0.1 ayalcid.icu
 127.0.0.1 ayandehit.com
 127.0.0.1 ayanpleasek.xyz
 127.0.0.1 ayarkkyjrmqzw.top
@@ -20193,7 +20184,6 @@
 127.0.0.1 bantenpipa.com
 127.0.0.1 banterteeserving.com
 127.0.0.1 bantex.ru
-127.0.0.1 bantuan-layanan-resmi-dana.krsis.my.id
 127.0.0.1 banvoucher-vn.weeblysite.com
 127.0.0.1 banxc.com
 127.0.0.1 banydox.com
@@ -26147,7 +26137,6 @@
 127.0.0.1 cabbingdandled.com
 127.0.0.1 cabecoteparafresadora.com.br
 127.0.0.1 cabhwq.com
-127.0.0.1 cabiaiprude.shop
 127.0.0.1 cabild.top
 127.0.0.1 cabin.om.to
 127.0.0.1 cabinetmedicaldamparis.fr
@@ -27347,7 +27336,6 @@
 127.0.0.1 cathysragdollkittensforsale.com
 127.0.0.1 catiligh.ru
 127.0.0.1 catinsurance.live
-127.0.0.1 cationinin.com
 127.0.0.1 cative.top
 127.0.0.1 catliza.com
 127.0.0.1 catnip-caramel-amount.glitch.me
@@ -29663,7 +29651,6 @@
 127.0.0.1 chutgpt.fun
 127.0.0.1 chutkideals.com
 127.0.0.1 chuvashskoe.ru
-127.0.0.1 chuye.cosmosasd.shop
 127.0.0.1 chuyendoitienquote-nhantien24h.weebly.com
 127.0.0.1 chuyentienquocte1313.vercel.app
 127.0.0.1 chuyentienquocte242.weebly.com
@@ -42999,13 +42986,11 @@
 127.0.0.1 ebayadvertising.com
 127.0.0.1 ebayasean.com
 127.0.0.1 ebaybanner.com
-127.0.0.1 ebaybestbox.com
 127.0.0.1 ebaybestpartnner.com
 127.0.0.1 ebayc.top
 127.0.0.1 ebayget.cc
 127.0.0.1 ebayk.images.icas.io
 127.0.0.1 ebayma77.com
-127.0.0.1 ebaymall168.shop
 127.0.0.1 ebaynonreg.112.2o7.net
 127.0.0.1 ebayreg.112.2o7.net
 127.0.0.1 ebaysm023.top
@@ -43166,7 +43151,6 @@
 127.0.0.1 eco.taobao.com
 127.0.0.1 eco50.co.uk
 127.0.0.1 ecoastandhei.org
-127.0.0.1 ecobank-bj.com
 127.0.0.1 ecobankghanaonline.org
 127.0.0.1 ecobeauteau.com
 127.0.0.1 ecobkbenin.com
@@ -50162,7 +50146,6 @@
 127.0.0.1 forgivenessdeportdearly.com
 127.0.0.1 forgivenesspeltanalyse.com
 127.0.0.1 forgoodplay.com
-127.0.0.1 forgotingolstono.com
 127.0.0.1 forgottencelebs.com
 127.0.0.1 forhavingartistic.info
 127.0.0.1 forimg.net
@@ -54499,7 +54482,6 @@
 127.0.0.1 gnezdo.ru
 127.0.0.1 gnfonline.org
 127.0.0.1 gngtvwjo.com
-127.0.0.1 gnjaifthgesd.com
 127.0.0.1 gnkpy.com
 127.0.0.1 gnn01wl.cn
 127.0.0.1 gnnnzxuzv.com
@@ -55431,7 +55413,6 @@
 127.0.0.1 gov.49c8gr.top
 127.0.0.1 gov.55z3gr.top
 127.0.0.1 gov.5ygr.lat
-127.0.0.1 gov.61hawthorneavenuegr.com
 127.0.0.1 gov.6agr.lat
 127.0.0.1 gov.6hgr.com
 127.0.0.1 gov.6urd-5ergr.com
@@ -55492,7 +55473,6 @@
 127.0.0.1 gov.bets-gr.com
 127.0.0.1 gov.bfdnkv-yvsgr.com
 127.0.0.1 gov.bgr.nu
-127.0.0.1 gov.bidwin88bgr.com
 127.0.0.1 gov.bigmitmgr.com
 127.0.0.1 gov.bigr.xyz
 127.0.0.1 gov.bkfrtcaqasgr.xyz
@@ -55583,7 +55563,6 @@
 127.0.0.1 gov.eycngr.website
 127.0.0.1 gov.ezdfae-edfgr.com
 127.0.0.1 gov.f0tgr.com
-127.0.0.1 gov.fa28gr.com
 127.0.0.1 gov.fahsdufhorwgrigr.com
 127.0.0.1 gov.fbjrfgr.cn
 127.0.0.1 gov.fddgr.buzz
@@ -55620,7 +55599,6 @@
 127.0.0.1 gov.gozigr.site
 127.0.0.1 gov.gozigr.xyz
 127.0.0.1 gov.gr-govgr.top
-127.0.0.1 gov.gr.ch
 127.0.0.1 gov.gr.sbs
 127.0.0.1 gov.gregr.buzz
 127.0.0.1 gov.grfui7ty-fgr.com
@@ -55682,7 +55660,6 @@
 127.0.0.1 gov.jrdhygr.cn
 127.0.0.1 gov.jtfsgr.buzz
 127.0.0.1 gov.jththtgr.bond
-127.0.0.1 gov.jxakgr.info
 127.0.0.1 gov.jyfgr.buzz
 127.0.0.1 gov.jzorecilncnjbgr.work
 127.0.0.1 gov.k6gr.lat
@@ -55741,7 +55718,6 @@
 127.0.0.1 gov.lkjmgr.com
 127.0.0.1 gov.lktuzbgr.shop
 127.0.0.1 gov.lmrfgr.xyz
-127.0.0.1 gov.logisticagr.com
 127.0.0.1 gov.lonzomalapimalgr.sbs
 127.0.0.1 gov.lrvfgr.sbs
 127.0.0.1 gov.ltrgr.sbs
@@ -55971,7 +55947,6 @@
 127.0.0.1 gov.vjtwgr.info
 127.0.0.1 gov.vkjygr.buzz
 127.0.0.1 gov.vohgr.info
-127.0.0.1 gov.voyagr.club
 127.0.0.1 gov.vpgr.lat
 127.0.0.1 gov.vsygr.click
 127.0.0.1 gov.vxtef3ab-rgr.com
@@ -56306,7 +56281,6 @@
 127.0.0.1 grainlyricalamend.com
 127.0.0.1 grainmass.com
 127.0.0.1 grainshen.com
-127.0.0.1 grainsslaughter.com
 127.0.0.1 grairdou.com
 127.0.0.1 grairgoo.com
 127.0.0.1 grairsoa.com
@@ -58104,7 +58078,6 @@
 127.0.0.1 hammerhearing.com
 127.0.0.1 hammerhewer.top
 127.0.0.1 hammockpublisherillumination.com
-127.0.0.1 hamousbellon.com
 127.0.0.1 hampersolarwings.com
 127.0.0.1 hamperstirringoats.com
 127.0.0.1 hamrahkar.com
@@ -65740,7 +65713,6 @@
 127.0.0.1 jas8aspzxoias.appspot.com
 127.0.0.1 jasabacklinkseo.com
 127.0.0.1 jasaiklan.com
-127.0.0.1 jasaweb.biz
 127.0.0.1 jasawebsite.online
 127.0.0.1 jashautchord.com
 127.0.0.1 jashop.vn
@@ -66667,7 +66639,6 @@
 127.0.0.1 jollylens.com
 127.0.0.1 jollyspring.com
 127.0.0.1 joltidiotichighest.com
-127.0.0.1 jomali.xvsem.my.id
 127.0.0.1 jomjolse.pw
 127.0.0.1 jomtingi.net
 127.0.0.1 jonabytes.50webs.com
@@ -67657,7 +67628,6 @@
 127.0.0.1 kalantzis.net
 127.0.0.1 kalauxet.com
 127.0.0.1 kalaydo.fnp.de
-127.0.0.1 kale.amwebsolution.com
 127.0.0.1 kaleidoscopeadjacent.com
 127.0.0.1 kaleidoscopefingernaildigging.com
 127.0.0.1 kaleidoscopepincers.com
@@ -69619,7 +69589,6 @@
 127.0.0.1 kwbmkwej.com
 127.0.0.1 kwdflqos.com
 127.0.0.1 kwedzcq.com
-127.0.0.1 kweisid.top
 127.0.0.1 kwiydaw.com
 127.0.0.1 kwizzu.com
 127.0.0.1 kwjam.com
@@ -69874,7 +69843,6 @@
 127.0.0.1 l0lz.co
 127.0.0.1 l0p1.shop
 127.0.0.1 l0vekatsu.com
-127.0.0.1 l1fzqy.lol
 127.0.0.1 l1nk.info
 127.0.0.1 l1r.org
 127.0.0.1 l1vec4ms.com
@@ -77063,7 +77031,6 @@
 127.0.0.1 mdzwjra.cn
 127.0.0.1 me-airbnb.com
 127.0.0.1 me-ru.jp
-127.0.0.1 me-sk.help
 127.0.0.1 me.cpatrk.net
 127.0.0.1 me.salinaswesting.com
 127.0.0.1 me.zedcdn.me
@@ -79761,7 +79728,6 @@
 127.0.0.1 mobileconfig.sascdn.com
 127.0.0.1 mobilecookingteacher.com
 127.0.0.1 mobilecore.com
-127.0.0.1 mobilecspal.fr
 127.0.0.1 mobiledata.biz
 127.0.0.1 mobiledevel.com
 127.0.0.1 mobiledissector.com
@@ -81150,7 +81116,6 @@
 127.0.0.1 mt-download.com
 127.0.0.1 mt.adquality.ch
 127.0.0.1 mt.gigazine.net
-127.0.0.1 mt.yhiroybgtrkk.top
 127.0.0.1 mt2.gucac.com
 127.0.0.1 mt2gm.org
 127.0.0.1 mt34iofvjay.com
@@ -82051,7 +82016,6 @@
 127.0.0.1 mynorth40.com
 127.0.0.1 myocean.jp
 127.0.0.1 myocrealtor.com
-127.0.0.1 myodin.red
 127.0.0.1 myolnyr5bsk18.com
 127.0.0.1 myonlineshope.in
 127.0.0.1 myopiacreeper.com
@@ -82901,7 +82865,6 @@
 127.0.0.1 navi65.com
 127.0.0.1 navi66.ru
 127.0.0.1 navi7.com
-127.0.0.1 navi70.com
 127.0.0.1 navi72.com
 127.0.0.1 navi72.ru
 127.0.0.1 navi77.com
@@ -89507,7 +89470,6 @@
 127.0.0.1 pagead-tpc.l.google.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 pageantbagauspice.com
 127.0.0.1 pageappareilsauditifs.com
 127.0.0.1 pagechoice.com
 127.0.0.1 pagechoice.net
@@ -94033,7 +93995,6 @@
 127.0.0.1 postnl-posta-ddress.top
 127.0.0.1 postnlz.top
 127.0.0.1 postnord.academy
-127.0.0.1 postnord.hair
 127.0.0.1 postnorddo-se.top
 127.0.0.1 postnordlse.top
 127.0.0.1 postofficce.top
@@ -95215,7 +95176,6 @@
 127.0.0.1 production-reservation.gl.at.ply.gg
 127.0.0.1 production-tracking.riviu.co
 127.0.0.1 productionguy.com
-127.0.0.1 productive-chemical.pro
 127.0.0.1 productivity-engineering.com
 127.0.0.1 productivityboss.com
 127.0.0.1 productmed.ru
@@ -96138,7 +96098,6 @@
 127.0.0.1 ptsoa-batt.top
 127.0.0.1 ptstnews.pro
 127.0.0.1 ptsyhasifubi.buzz
-127.0.0.1 ptt-365.life
 127.0.0.1 ptt-gob.shop
 127.0.0.1 ptt-gof.shop
 127.0.0.1 ptt-gog.shop
@@ -96556,7 +96515,6 @@
 127.0.0.1 pulharktheherald.112.2o7.net
 127.0.0.1 puliscitutto.com
 127.0.0.1 pulkauaiworld.112.2o7.net
-127.0.0.1 pull-trucker.sbs
 127.0.0.1 pulle.ru
 127.0.0.1 pullinfo.info
 127.0.0.1 pullovereugenemistletoe.com
@@ -96961,7 +96919,6 @@
 127.0.0.1 pvmultimedia.net
 127.0.0.1 pvnapp.zol.com.cn
 127.0.0.1 pvnwap.zol.com.cn
-127.0.0.1 pvnzrr.xyz
 127.0.0.1 pvpdbth.xyz
 127.0.0.1 pvrtx.net
 127.0.0.1 pvsite.zol.com.cn
@@ -101069,7 +101026,6 @@
 127.0.0.1 rkblox.com
 127.0.0.1 rkdms.com
 127.0.0.1 rkdpzcdehop.fun
-127.0.0.1 rkdtwinlkoj.xyz
 127.0.0.1 rkgwzfwjgk.com
 127.0.0.1 rkinterior.com.my
 127.0.0.1 rkjtwjwmesvwhpc.com
@@ -109641,7 +109597,6 @@
 127.0.0.1 socialloginplus-apps.haravan.com
 127.0.0.1 sociallypublish.com
 127.0.0.1 sociallytight.com
-127.0.0.1 socialmediadream.com
 127.0.0.1 socialmediahackers.com
 127.0.0.1 socialnewpages.com
 127.0.0.1 socialninja.xyz
@@ -110753,7 +110708,6 @@
 127.0.0.1 spenlobubestgas.files.wordpress.com
 127.0.0.1 spensa.co
 127.0.0.1 spentdrugfrontier.com
-127.0.0.1 spentindicate.com
 127.0.0.1 spentjerseydelve.com
 127.0.0.1 sperans-beactor.com
 127.0.0.1 spermwhale.rowansimpson.com
@@ -113083,7 +113037,6 @@
 127.0.0.1 stingycrush.com
 127.0.0.1 stingyshoe.com
 127.0.0.1 stingyspoon.com
-127.0.0.1 stinicf.com
 127.0.0.1 stink-frei.de
 127.0.0.1 stinkcomedian.com
 127.0.0.1 stinkfrei.com
@@ -113251,7 +113204,6 @@
 127.0.0.1 storecollegeonline.com
 127.0.0.1 storeconfig.mistat.intl.xiaomi.com
 127.0.0.1 storedhaulms.com
-127.0.0.1 storefloozie.com
 127.0.0.1 storefutebol.com.br
 127.0.0.1 storegiftcardgiveaways.com
 127.0.0.1 storehealth.ru
@@ -120048,7 +120000,6 @@
 127.0.0.1 touzoaty.net
 127.0.0.1 tovanillitechan.com
 127.0.0.1 tovespiquener.com
-127.0.0.1 towallet.pro
 127.0.0.1 towandering.com
 127.0.0.1 towardcorporal.com
 127.0.0.1 towardsflourextremely.com
@@ -122655,7 +122606,6 @@
 127.0.0.1 tweenteam.de
 127.0.0.1 tweet818k.2fh.co
 127.0.0.1 tweezesmalanga.com
-127.0.0.1 tweisii.top
 127.0.0.1 tweitter.com
 127.0.0.1 twelfthcomprehendgrape.com
 127.0.0.1 twelfthdistasteful.com
@@ -124617,7 +124567,6 @@
 127.0.0.1 us-shoppingzone.com
 127.0.0.1 us-tracking.nextdoor.com
 127.0.0.1 us-upsp.top
-127.0.0.1 us-uspt.top
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 us.js2.yimg.com
 127.0.0.1 us.l.qq.com
@@ -126594,7 +126543,6 @@
 127.0.0.1 vgxbpf.xyz
 127.0.0.1 vgzytn.xyz
 127.0.0.1 vh1com.112.2o7.net
-127.0.0.1 vhatsaupp-qh.com
 127.0.0.1 vhdbohe.com
 127.0.0.1 vhducnso.com
 127.0.0.1 vheoggjiqaz.com
@@ -127853,7 +127801,6 @@
 127.0.0.1 vole.sonicrida.com
 127.0.0.1 vole.tsttechnology.com
 127.0.0.1 voleryclat.com
-127.0.0.1 voleur.nl
 127.0.0.1 volfdex.com
 127.0.0.1 volform.online
 127.0.0.1 volgo-marun.cn
@@ -129923,7 +129870,6 @@
 127.0.0.1 whatasapp.net
 127.0.0.1 whataspp.top
 127.0.0.1 whatcapp.pro
-127.0.0.1 whateapp.top
 127.0.0.1 whateyesight.com
 127.0.0.1 whatfsapp.com
 127.0.0.1 whathappenedace.com
@@ -130276,7 +130222,6 @@
 127.0.0.1 whservidor.com
 127.0.0.1 whsjg.cn
 127.0.0.1 whstsapp.vip
-127.0.0.1 whtasapp.bond
 127.0.0.1 whtasapp.shop
 127.0.0.1 whtsapp.top
 127.0.0.1 whtshpsexviral.a5z.club
@@ -131136,7 +131081,6 @@
 127.0.0.1 wolf.aomg5bzv7.com
 127.0.0.1 wolf.camera
 127.0.0.1 wolf.samarasousa.com
-127.0.0.1 wolfandthefox.com
 127.0.0.1 wolfgangkueter.de
 127.0.0.1 wolfoxcorp.com
 127.0.0.1 wolfup.com
@@ -132142,7 +132086,6 @@
 127.0.0.1 wyczyscto.com
 127.0.0.1 wydfghjjh.live
 127.0.0.1 wyeczfx.com
-127.0.0.1 wyfec.cn
 127.0.0.1 wyglyvaso.com
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 wyiegt.icu
@@ -135329,7 +135272,6 @@
 127.0.0.1 z5o9q2.hbg.hebdenbridgedental.co.uk
 127.0.0.1 z5x.net
 127.0.0.1 z6.cnzz.com
-127.0.0.1 z680.beaumontenterprise.com
 127.0.0.1 z6kot5.gow.englishwoodlands.co.uk
 127.0.0.1 z7.cnzz.com
 127.0.0.1 z7752.com
