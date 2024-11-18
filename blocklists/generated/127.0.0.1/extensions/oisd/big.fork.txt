@@ -1,9 +1,9 @@
-# Version: 202411180106
+# Version: 202411180206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 136572
-# Last modified: 2024-11-18T01:06:45+0000
+! Entries: 136541
+# Last modified: 2024-11-18T02:06:46+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -144,6 +144,7 @@
 127.0.0.1 042313929614438-dot-wetransfer-auth-file-342.appspot.com
 127.0.0.1 0438336acf.0a74314cd1.com
 127.0.0.1 044586748929278-dot-vui-sgp-cnh.appspot.com
+127.0.0.1 044da016b3.com
 127.0.0.1 046699400840456-dot-wetransfer-auth-file-343.appspot.com
 127.0.0.1 046zxnm.com
 127.0.0.1 04953bf049.c172a66e69.com
@@ -4254,7 +4255,6 @@
 127.0.0.1 7dgw.com
 127.0.0.1 7dlm.cn
 127.0.0.1 7dot.cn
-127.0.0.1 7e0211e30b.044da016b3.com
 127.0.0.1 7e4a6fbed2.b14e96118f.com
 127.0.0.1 7e52bb0df7.c5ab629aba.com
 127.0.0.1 7ee4c0f141.com
@@ -23008,7 +23008,6 @@
 127.0.0.1 bjscjsd.com
 127.0.0.1 bjsdg0.pintaexoticfashion.co.in
 127.0.0.1 bjtengda.cn
-127.0.0.1 bjtgds.xyz
 127.0.0.1 bjvsjkday.com
 127.0.0.1 bjvvqu.cn
 127.0.0.1 bjxfnn.xyz
@@ -23152,7 +23151,6 @@
 127.0.0.1 blakaa.duckdns.org
 127.0.0.1 blakbass.linkpc.net
 127.0.0.1 blakelyclothing.fr
-127.0.0.1 blakelyfrance.fr
 127.0.0.1 blamads-assets.s3.amazonaws.com
 127.0.0.1 blamads.com
 127.0.0.1 blamdigital.com
@@ -25830,7 +25828,6 @@
 127.0.0.1 byuibyuiedu.112.2o7.net
 127.0.0.1 byuidaho.112.2o7.net
 127.0.0.1 byuvaigranonile.com
-127.0.0.1 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 127.0.0.1 bywordmiddleagedpowder.com
 127.0.0.1 byxlivaqzo.com
 127.0.0.1 byxon.com
@@ -31176,7 +31173,6 @@
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 cnt1.xhamster.com
 127.0.0.1 cntcinc.com
-127.0.0.1 cntrafficpro.com
 127.0.0.1 cntributed.com
 127.0.0.1 cntrktaieagnam.com
 127.0.0.1 cntrl.fr
@@ -44140,7 +44136,6 @@
 127.0.0.1 elsilvercloud.com
 127.0.0.1 elsotoproduction.com
 127.0.0.1 elswit.com
-127.0.0.1 elta-courier.best
 127.0.0.1 elta-gr.biz
 127.0.0.1 eltagr.top
 127.0.0.1 eltau.com
@@ -46213,7 +46208,6 @@
 127.0.0.1 eweconciliate.com
 127.0.0.1 ewerhodub.com
 127.0.0.1 ewesmedia.com
-127.0.0.1 ewfwetqfbhmlodz.com
 127.0.0.1 ewhafoup.com
 127.0.0.1 ewhareey.com
 127.0.0.1 ewicap.com
@@ -55566,7 +55560,6 @@
 127.0.0.1 gov.cndgr.buzz
 127.0.0.1 gov.colosseum-gr.ru
 127.0.0.1 gov.contrgeogr.com
-127.0.0.1 gov.corporativojuridicogr.com
 127.0.0.1 gov.cqsggr.buzz
 127.0.0.1 gov.cqtgr.buzz
 127.0.0.1 gov.crispigr.com
@@ -56126,7 +56119,6 @@
 127.0.0.1 govtgrantsaid.com
 127.0.0.1 govtnz.info
 127.0.0.1 govtr.cloud
-127.0.0.1 govtres.top
 127.0.0.1 govxian.cn
 127.0.0.1 goweb-scratchesok.live
 127.0.0.1 gowfsubsept.shop
@@ -56336,7 +56328,6 @@
 127.0.0.1 gracewellscare.co.uk
 127.0.0.1 grachouss.com
 127.0.0.1 gracious-bardeen.95-181-157-21.plesk.page
-127.0.0.1 graciouslyyourssydney.com
 127.0.0.1 grade-excellence.gl.at.ply.gg
 127.0.0.1 grade.flyingpigsranch.com
 127.0.0.1 gradecastlecanadian.com
@@ -58382,7 +58373,6 @@
 127.0.0.1 harmonicbamboo.com
 127.0.0.1 harmonie-holistique.fr
 127.0.0.1 harmonimusik.co.id
-127.0.0.1 harmoniousfamiliar.pro
 127.0.0.1 harmoniouy.com
 127.0.0.1 harmony-id-store.com
 127.0.0.1 harmonyhealthuscenter.com
@@ -61961,7 +61951,6 @@
 127.0.0.1 icorpadro.hit.gemius.pl
 127.0.0.1 icpanel.hackcrack.io
 127.0.0.1 icpet-intrometic.ro
-127.0.0.1 icpfwlrzqcm.com
 127.0.0.1 icpingenieria.cl
 127.0.0.1 icpkw0333.info
 127.0.0.1 icpnt.org
@@ -64227,7 +64216,6 @@
 127.0.0.1 instantmadness.com
 127.0.0.1 instantnewssource.com
 127.0.0.1 instantnewzz.com
-127.0.0.1 instantonlineverification.usaabank.verification.fajitaritas.com
 127.0.0.1 instantoptiontrades.com
 127.0.0.1 instantwebcash435.pages.dev
 127.0.0.1 instanu.ru
@@ -69374,7 +69362,6 @@
 127.0.0.1 kreischerdesign.com
 127.0.0.1 kremlin-school.info
 127.0.0.1 kreport.com
-127.0.0.1 krestaop.com
 127.0.0.1 kretic.info
 127.0.0.1 kreuzberg.ru
 127.0.0.1 kreuzfahrt-radar.de
@@ -78934,7 +78921,6 @@
 127.0.0.1 milkyway-dag.pages.dev
 127.0.0.1 milkywaynewspaper.com
 127.0.0.1 mill.miltontech.co.uk
-127.0.0.1 millanplaners.duckdns.org
 127.0.0.1 milldesign.com
 127.0.0.1 millecius.synology.me
 127.0.0.1 milleniumpapelaria.com.br
@@ -83354,7 +83340,6 @@
 127.0.0.1 nerveheels.com
 127.0.0.1 nervoussummer.com
 127.0.0.1 nervoustolsel.com
-127.0.0.1 nesfspublicate.info
 127.0.0.1 neshigreek.com
 127.0.0.1 neskodny.builders
 127.0.0.1 nesoftwares.pages.dev
@@ -84398,7 +84383,6 @@
 127.0.0.1 nickssaugus.com
 127.0.0.1 nicksstevmark.com
 127.0.0.1 nickymaru.com
-127.0.0.1 nicmisa.com
 127.0.0.1 nicolaf.xyz
 127.0.0.1 nicolan.shop
 127.0.0.1 nicolasbaldoma.com
@@ -84663,7 +84647,6 @@
 127.0.0.1 niuxgame77.com
 127.0.0.1 nivirijimukavut.weebly.com
 127.0.0.1 niwooghu.com
-127.0.0.1 nixbsprhupgor.com
 127.0.0.1 nixonhabbo.duckdns.org
 127.0.0.1 nixse.com
 127.0.0.1 nixthecurb.com
@@ -86253,7 +86236,6 @@
 127.0.0.1 obj9.cn
 127.0.0.1 objecthero.com
 127.0.0.1 objectionportedseaside.com
-127.0.0.1 objectionsdomesticatednagging.com
 127.0.0.1 objectiv-x.com
 127.0.0.1 objective-fermi-75a252.netlify.com
 127.0.0.1 objective-wright-961fed.netlify.com
@@ -88211,7 +88193,6 @@
 127.0.0.1 optad360.net
 127.0.0.1 optaim.com
 127.0.0.1 optankning.com
-127.0.0.1 optasko.com
 127.0.0.1 optbeacon.net
 127.0.0.1 opteama.com
 127.0.0.1 optefice.digital
@@ -88429,7 +88410,6 @@
 127.0.0.1 ordinaleatersouls.com
 127.0.0.1 ordinalexclusively.com
 127.0.0.1 ordinarilycomedyunload.com
-127.0.0.1 ordinarilyinstead.com
 127.0.0.1 ordinarilyrehearsenewsletter.com
 127.0.0.1 ordinaryseason.best
 127.0.0.1 ordinghology.com
@@ -89065,7 +89045,6 @@
 127.0.0.1 ovaarmor.com
 127.0.0.1 ovaleithermansfield.com
 127.0.0.1 ovcball.com
-127.0.0.1 ovdimin.buzz
 127.0.0.1 ovejqw.xyz
 127.0.0.1 ovenbifaces.cam
 127.0.0.1 ovencraftily.org
@@ -89463,7 +89442,6 @@
 127.0.0.1 p7.tr1.n0.cdn.zight.com
 127.0.0.1 p710.de
 127.0.0.1 p769.wgal.com
-127.0.0.1 p7cloud.net
 127.0.0.1 p7uln5towbuozltok5nj.maherstcottage.com.au
 127.0.0.1 p8p6k.codesandbox.io
 127.0.0.1 p8u.hinet.net
@@ -94468,7 +94446,6 @@
 127.0.0.1 pravpost.org.ua
 127.0.0.1 prawn.lionsmouth.digital
 127.0.0.1 prawnrespiratorgrim.com
-127.0.0.1 prawnsimply.com
 127.0.0.1 praxis-csm.de
 127.0.0.1 praxis-hurst.de
 127.0.0.1 praxis-seyda.com
@@ -96236,7 +96213,6 @@
 127.0.0.1 ptt-trt.top
 127.0.0.1 ptt-try.top
 127.0.0.1 ptt-trz.top
-127.0.0.1 ptt-trzt.top
 127.0.0.1 pttcs-gov.top
 127.0.0.1 pttg-gov.top
 127.0.0.1 pttgg-gov-tr.top
@@ -99753,7 +99729,6 @@
 127.0.0.1 relativefraudulentprop.com
 127.0.0.1 relativelyfang.com
 127.0.0.1 relativelyweptcurls.com
-127.0.0.1 relativewheneverhoe.com
 127.0.0.1 relatoriadigital.com.de
 127.0.0.1 relatumrorid.com
 127.0.0.1 relaxafford.com
@@ -106472,7 +106447,6 @@
 127.0.0.1 sfixretarum.com
 127.0.0.1 sfkmq.yt
 127.0.0.1 sfmarzell.de
-127.0.0.1 sforourcompa.org
 127.0.0.1 sfp.safe.baidu.com
 127.0.0.1 sfqlbmxt.58guyu.com
 127.0.0.1 sfqyck.xyz
@@ -119116,7 +119090,6 @@
 127.0.0.1 tmedianews.de
 127.0.0.1 tmenfhave.info
 127.0.0.1 tmevmom.pro
-127.0.0.1 tmftsdjyahbhi.com
 127.0.0.1 tmgxmmessccy.in
 127.0.0.1 tmh4pshu0f3n.com
 127.0.0.1 tmhacks22.ovh
@@ -126640,7 +126613,6 @@
 127.0.0.1 vgoogle.it
 127.0.0.1 vgoogle.top
 127.0.0.1 vgosuslugi.ru
-127.0.0.1 vgqxnajvciers.com
 127.0.0.1 vgs-collect-keeper.apps.verygood.systems
 127.0.0.1 vgsfree.b-cdn.net
 127.0.0.1 vgvjkw.com
@@ -128161,7 +128133,6 @@
 127.0.0.1 vs2.gzcu.u3.ucweb.com
 127.0.0.1 vs3.com
 127.0.0.1 vs95off.com
-127.0.0.1 vscinyke.com
 127.0.0.1 vscode.digital
 127.0.0.1 vsdz21wasz.appspot.com
 127.0.0.1 vseccz.weebly.com
@@ -136278,7 +136249,6 @@
 127.0.0.1 zoutufoostou.com
 127.0.0.1 zouzougri.net
 127.0.0.1 zovesksin.site
-127.0.0.1 zovgdpj.cn
 127.0.0.1 zovidree.com
 127.0.0.1 zovihutum.com
 127.0.0.1 zoxkljeicxi.com
@@ -136372,7 +136342,6 @@
 127.0.0.1 zt1.me.zing.vn
 127.0.0.1 ztacs.com
 127.0.0.1 ztevents.zaloapp.com
-127.0.0.1 ztfzskpc.com
 127.0.0.1 ztgame.com
 127.0.0.1 ztidu.com
 127.0.0.1 ztion.yolasite.com

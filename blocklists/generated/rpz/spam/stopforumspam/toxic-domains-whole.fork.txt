@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111801 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -3811,6 +3811,8 @@ $TTL 300
 *.7k-spinwin.boats CNAME .
 7k.autos CNAME .
 *.7k.autos CNAME .
+7k.boats CNAME .
+*.7k.boats CNAME .
 7kratom.com CNAME .
 *.7kratom.com CNAME .
 7nation.com CNAME .
@@ -22417,6 +22419,8 @@ cloud.wrengostic.com CNAME .
 *.cloud.wrengostic.com CNAME .
 cloud99.top CNAME .
 *.cloud99.top CNAME .
+cloudbmail.org CNAME .
+*.cloudbmail.org CNAME .
 cloudbst.com CNAME .
 *.cloudbst.com CNAME .
 cloudcohol.com CNAME .
@@ -40505,6 +40509,8 @@ gizbo-payout.autos CNAME .
 *.gizbo-payout.autos CNAME .
 gizbo.click CNAME .
 *.gizbo.click CNAME .
+gizbo.cyou CNAME .
+*.gizbo.cyou CNAME .
 gizmona.com CNAME .
 *.gizmona.com CNAME .
 gizzmo.se CNAME .
@@ -87425,6 +87431,8 @@ strategysuperb.com CNAME .
 *.strategysuperb.com CNAME .
 stratfordfootclinic.com CNAME .
 *.stratfordfootclinic.com CNAME .
+strawberry.boats CNAME .
+*.strawberry.boats CNAME .
 strawberrycasino.top CNAME .
 *.strawberrycasino.top CNAME .
 streamarticles.com CNAME .
@@ -95547,6 +95555,8 @@ uoregon.work CNAME .
 *.uoregon.work CNAME .
 uormail.com CNAME .
 *.uormail.com CNAME .
+up-x.bond CNAME .
+*.up-x.bond CNAME .
 up-x.pics CNAME .
 *.up-x.pics CNAME .
 up.cowsnbullz.com CNAME .
@@ -96561,6 +96571,8 @@ vavadabc.com CNAME .
 *.vavadabc.com CNAME .
 vavadacasino.icu CNAME .
 *.vavadacasino.icu CNAME .
+vavadaeth.com CNAME .
+*.vavadaeth.com CNAME .
 vavadafbi777.com CNAME .
 *.vavadafbi777.com CNAME .
 vavaxa.com CNAME .

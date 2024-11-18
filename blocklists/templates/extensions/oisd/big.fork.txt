@@ -1,9 +1,9 @@
-# Version: 202411180106
+# Version: 202411180206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 136572
-# Last modified: 2024-11-18T01:06:45+0000
+! Entries: 136541
+# Last modified: 2024-11-18T02:06:46+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -144,6 +144,7 @@
 0.0.0.0 042313929614438-dot-wetransfer-auth-file-342.appspot.com
 0.0.0.0 0438336acf.0a74314cd1.com
 0.0.0.0 044586748929278-dot-vui-sgp-cnh.appspot.com
+0.0.0.0 044da016b3.com
 0.0.0.0 046699400840456-dot-wetransfer-auth-file-343.appspot.com
 0.0.0.0 046zxnm.com
 0.0.0.0 04953bf049.c172a66e69.com
@@ -4254,7 +4255,6 @@
 0.0.0.0 7dgw.com
 0.0.0.0 7dlm.cn
 0.0.0.0 7dot.cn
-0.0.0.0 7e0211e30b.044da016b3.com
 0.0.0.0 7e4a6fbed2.b14e96118f.com
 0.0.0.0 7e52bb0df7.c5ab629aba.com
 0.0.0.0 7ee4c0f141.com
@@ -23008,7 +23008,6 @@
 0.0.0.0 bjscjsd.com
 0.0.0.0 bjsdg0.pintaexoticfashion.co.in
 0.0.0.0 bjtengda.cn
-0.0.0.0 bjtgds.xyz
 0.0.0.0 bjvsjkday.com
 0.0.0.0 bjvvqu.cn
 0.0.0.0 bjxfnn.xyz
@@ -23152,7 +23151,6 @@
 0.0.0.0 blakaa.duckdns.org
 0.0.0.0 blakbass.linkpc.net
 0.0.0.0 blakelyclothing.fr
-0.0.0.0 blakelyfrance.fr
 0.0.0.0 blamads-assets.s3.amazonaws.com
 0.0.0.0 blamads.com
 0.0.0.0 blamdigital.com
@@ -25830,7 +25828,6 @@
 0.0.0.0 byuibyuiedu.112.2o7.net
 0.0.0.0 byuidaho.112.2o7.net
 0.0.0.0 byuvaigranonile.com
-0.0.0.0 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 0.0.0.0 bywordmiddleagedpowder.com
 0.0.0.0 byxlivaqzo.com
 0.0.0.0 byxon.com
@@ -31176,7 +31173,6 @@
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cnt1.xhamster.com
 0.0.0.0 cntcinc.com
-0.0.0.0 cntrafficpro.com
 0.0.0.0 cntributed.com
 0.0.0.0 cntrktaieagnam.com
 0.0.0.0 cntrl.fr
@@ -44140,7 +44136,6 @@
 0.0.0.0 elsilvercloud.com
 0.0.0.0 elsotoproduction.com
 0.0.0.0 elswit.com
-0.0.0.0 elta-courier.best
 0.0.0.0 elta-gr.biz
 0.0.0.0 eltagr.top
 0.0.0.0 eltau.com
@@ -46213,7 +46208,6 @@
 0.0.0.0 eweconciliate.com
 0.0.0.0 ewerhodub.com
 0.0.0.0 ewesmedia.com
-0.0.0.0 ewfwetqfbhmlodz.com
 0.0.0.0 ewhafoup.com
 0.0.0.0 ewhareey.com
 0.0.0.0 ewicap.com
@@ -55566,7 +55560,6 @@
 0.0.0.0 gov.cndgr.buzz
 0.0.0.0 gov.colosseum-gr.ru
 0.0.0.0 gov.contrgeogr.com
-0.0.0.0 gov.corporativojuridicogr.com
 0.0.0.0 gov.cqsggr.buzz
 0.0.0.0 gov.cqtgr.buzz
 0.0.0.0 gov.crispigr.com
@@ -56126,7 +56119,6 @@
 0.0.0.0 govtgrantsaid.com
 0.0.0.0 govtnz.info
 0.0.0.0 govtr.cloud
-0.0.0.0 govtres.top
 0.0.0.0 govxian.cn
 0.0.0.0 goweb-scratchesok.live
 0.0.0.0 gowfsubsept.shop
@@ -56336,7 +56328,6 @@
 0.0.0.0 gracewellscare.co.uk
 0.0.0.0 grachouss.com
 0.0.0.0 gracious-bardeen.95-181-157-21.plesk.page
-0.0.0.0 graciouslyyourssydney.com
 0.0.0.0 grade-excellence.gl.at.ply.gg
 0.0.0.0 grade.flyingpigsranch.com
 0.0.0.0 gradecastlecanadian.com
@@ -58382,7 +58373,6 @@
 0.0.0.0 harmonicbamboo.com
 0.0.0.0 harmonie-holistique.fr
 0.0.0.0 harmonimusik.co.id
-0.0.0.0 harmoniousfamiliar.pro
 0.0.0.0 harmoniouy.com
 0.0.0.0 harmony-id-store.com
 0.0.0.0 harmonyhealthuscenter.com
@@ -61961,7 +61951,6 @@
 0.0.0.0 icorpadro.hit.gemius.pl
 0.0.0.0 icpanel.hackcrack.io
 0.0.0.0 icpet-intrometic.ro
-0.0.0.0 icpfwlrzqcm.com
 0.0.0.0 icpingenieria.cl
 0.0.0.0 icpkw0333.info
 0.0.0.0 icpnt.org
@@ -64227,7 +64216,6 @@
 0.0.0.0 instantmadness.com
 0.0.0.0 instantnewssource.com
 0.0.0.0 instantnewzz.com
-0.0.0.0 instantonlineverification.usaabank.verification.fajitaritas.com
 0.0.0.0 instantoptiontrades.com
 0.0.0.0 instantwebcash435.pages.dev
 0.0.0.0 instanu.ru
@@ -69374,7 +69362,6 @@
 0.0.0.0 kreischerdesign.com
 0.0.0.0 kremlin-school.info
 0.0.0.0 kreport.com
-0.0.0.0 krestaop.com
 0.0.0.0 kretic.info
 0.0.0.0 kreuzberg.ru
 0.0.0.0 kreuzfahrt-radar.de
@@ -78934,7 +78921,6 @@
 0.0.0.0 milkyway-dag.pages.dev
 0.0.0.0 milkywaynewspaper.com
 0.0.0.0 mill.miltontech.co.uk
-0.0.0.0 millanplaners.duckdns.org
 0.0.0.0 milldesign.com
 0.0.0.0 millecius.synology.me
 0.0.0.0 milleniumpapelaria.com.br
@@ -83354,7 +83340,6 @@
 0.0.0.0 nerveheels.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 nervoustolsel.com
-0.0.0.0 nesfspublicate.info
 0.0.0.0 neshigreek.com
 0.0.0.0 neskodny.builders
 0.0.0.0 nesoftwares.pages.dev
@@ -84398,7 +84383,6 @@
 0.0.0.0 nickssaugus.com
 0.0.0.0 nicksstevmark.com
 0.0.0.0 nickymaru.com
-0.0.0.0 nicmisa.com
 0.0.0.0 nicolaf.xyz
 0.0.0.0 nicolan.shop
 0.0.0.0 nicolasbaldoma.com
@@ -84663,7 +84647,6 @@
 0.0.0.0 niuxgame77.com
 0.0.0.0 nivirijimukavut.weebly.com
 0.0.0.0 niwooghu.com
-0.0.0.0 nixbsprhupgor.com
 0.0.0.0 nixonhabbo.duckdns.org
 0.0.0.0 nixse.com
 0.0.0.0 nixthecurb.com
@@ -86253,7 +86236,6 @@
 0.0.0.0 obj9.cn
 0.0.0.0 objecthero.com
 0.0.0.0 objectionportedseaside.com
-0.0.0.0 objectionsdomesticatednagging.com
 0.0.0.0 objectiv-x.com
 0.0.0.0 objective-fermi-75a252.netlify.com
 0.0.0.0 objective-wright-961fed.netlify.com
@@ -88211,7 +88193,6 @@
 0.0.0.0 optad360.net
 0.0.0.0 optaim.com
 0.0.0.0 optankning.com
-0.0.0.0 optasko.com
 0.0.0.0 optbeacon.net
 0.0.0.0 opteama.com
 0.0.0.0 optefice.digital
@@ -88429,7 +88410,6 @@
 0.0.0.0 ordinaleatersouls.com
 0.0.0.0 ordinalexclusively.com
 0.0.0.0 ordinarilycomedyunload.com
-0.0.0.0 ordinarilyinstead.com
 0.0.0.0 ordinarilyrehearsenewsletter.com
 0.0.0.0 ordinaryseason.best
 0.0.0.0 ordinghology.com
@@ -89065,7 +89045,6 @@
 0.0.0.0 ovaarmor.com
 0.0.0.0 ovaleithermansfield.com
 0.0.0.0 ovcball.com
-0.0.0.0 ovdimin.buzz
 0.0.0.0 ovejqw.xyz
 0.0.0.0 ovenbifaces.cam
 0.0.0.0 ovencraftily.org
@@ -89463,7 +89442,6 @@
 0.0.0.0 p7.tr1.n0.cdn.zight.com
 0.0.0.0 p710.de
 0.0.0.0 p769.wgal.com
-0.0.0.0 p7cloud.net
 0.0.0.0 p7uln5towbuozltok5nj.maherstcottage.com.au
 0.0.0.0 p8p6k.codesandbox.io
 0.0.0.0 p8u.hinet.net
@@ -94468,7 +94446,6 @@
 0.0.0.0 pravpost.org.ua
 0.0.0.0 prawn.lionsmouth.digital
 0.0.0.0 prawnrespiratorgrim.com
-0.0.0.0 prawnsimply.com
 0.0.0.0 praxis-csm.de
 0.0.0.0 praxis-hurst.de
 0.0.0.0 praxis-seyda.com
@@ -96236,7 +96213,6 @@
 0.0.0.0 ptt-trt.top
 0.0.0.0 ptt-try.top
 0.0.0.0 ptt-trz.top
-0.0.0.0 ptt-trzt.top
 0.0.0.0 pttcs-gov.top
 0.0.0.0 pttg-gov.top
 0.0.0.0 pttgg-gov-tr.top
@@ -99753,7 +99729,6 @@
 0.0.0.0 relativefraudulentprop.com
 0.0.0.0 relativelyfang.com
 0.0.0.0 relativelyweptcurls.com
-0.0.0.0 relativewheneverhoe.com
 0.0.0.0 relatoriadigital.com.de
 0.0.0.0 relatumrorid.com
 0.0.0.0 relaxafford.com
@@ -106472,7 +106447,6 @@
 0.0.0.0 sfixretarum.com
 0.0.0.0 sfkmq.yt
 0.0.0.0 sfmarzell.de
-0.0.0.0 sforourcompa.org
 0.0.0.0 sfp.safe.baidu.com
 0.0.0.0 sfqlbmxt.58guyu.com
 0.0.0.0 sfqyck.xyz
@@ -119116,7 +119090,6 @@
 0.0.0.0 tmedianews.de
 0.0.0.0 tmenfhave.info
 0.0.0.0 tmevmom.pro
-0.0.0.0 tmftsdjyahbhi.com
 0.0.0.0 tmgxmmessccy.in
 0.0.0.0 tmh4pshu0f3n.com
 0.0.0.0 tmhacks22.ovh
@@ -126640,7 +126613,6 @@
 0.0.0.0 vgoogle.it
 0.0.0.0 vgoogle.top
 0.0.0.0 vgosuslugi.ru
-0.0.0.0 vgqxnajvciers.com
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vgsfree.b-cdn.net
 0.0.0.0 vgvjkw.com
@@ -128161,7 +128133,6 @@
 0.0.0.0 vs2.gzcu.u3.ucweb.com
 0.0.0.0 vs3.com
 0.0.0.0 vs95off.com
-0.0.0.0 vscinyke.com
 0.0.0.0 vscode.digital
 0.0.0.0 vsdz21wasz.appspot.com
 0.0.0.0 vseccz.weebly.com
@@ -136278,7 +136249,6 @@
 0.0.0.0 zoutufoostou.com
 0.0.0.0 zouzougri.net
 0.0.0.0 zovesksin.site
-0.0.0.0 zovgdpj.cn
 0.0.0.0 zovidree.com
 0.0.0.0 zovihutum.com
 0.0.0.0 zoxkljeicxi.com
@@ -136372,7 +136342,6 @@
 0.0.0.0 zt1.me.zing.vn
 0.0.0.0 ztacs.com
 0.0.0.0 ztevents.zaloapp.com
-0.0.0.0 ztfzskpc.com
 0.0.0.0 ztgame.com
 0.0.0.0 ztidu.com
 0.0.0.0 ztion.yolasite.com

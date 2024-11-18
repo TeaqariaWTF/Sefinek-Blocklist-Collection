@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-18 01:44:06 (UTC)                      #
+# Last updated: 2024-11-18 02:54:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,12 +9,12 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 2.haory.cn
 0.0.0.0 26f0b.language.sebtomato.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 502.hanzstore.xyz
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
-0.0.0.0 aaaee.from-wa.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
@@ -30,7 +30,7 @@
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
 0.0.0.0 asianchow.com
-0.0.0.0 aulist.com
+0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 azczxs.from-nd.com
 0.0.0.0 b6a1e.language.sebtomato.com
@@ -41,7 +41,6 @@
 0.0.0.0 bot.minehard.xyz
 0.0.0.0 bot.suqi.bf
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 cajgtus.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-defac18.artcollective-snapclick.com
@@ -73,7 +72,6 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
-0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.cdn-serveri6731-ns.shop
@@ -110,6 +108,7 @@
 0.0.0.0 gdhbbdv.is-a-bruinsfan.org
 0.0.0.0 gdhbbdv.is-a-student.com
 0.0.0.0 gdhbbdv.is-into-games.com
+0.0.0.0 gdhbbdv.is-very-sweet.org
 0.0.0.0 gdhbbdv.sellsyourhome.org
 0.0.0.0 ggg.is-a-painter.com
 0.0.0.0 gig.energymaxgrp.eu
@@ -131,7 +130,6 @@
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
-0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jtpdev.co.uk
 0.0.0.0 jujuju.from-pa.com
@@ -149,14 +147,13 @@
 0.0.0.0 maan2u.com
 0.0.0.0 mail.drdanfe.com
 0.0.0.0 mbsngradnja.com
+0.0.0.0 meeweb.com
 0.0.0.0 mertvinc.com.tr
-0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-tech-savvy.com
 0.0.0.0 newvideo.link
-0.0.0.0 nexoproducciones.cl
 0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
@@ -174,6 +171,7 @@
 0.0.0.0 proanuncios.mx
 0.0.0.0 protechasia.com
 0.0.0.0 pub.foodie-safari.shop
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 ranchoboscardin.com.br
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -210,6 +208,7 @@
 0.0.0.0 technovm-hk.tioffiop.shop
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 tehytdf.sellsyourhome.org
 0.0.0.0 telegram-app.vip
 0.0.0.0 telegramcn.co
 0.0.0.0 tengfeidn.com
@@ -234,7 +233,6 @@
 0.0.0.0 valseg.com.br
 0.0.0.0 voievodulgelu.ro
 0.0.0.0 websutility.in
-0.0.0.0 wewef.from-sc.com
 0.0.0.0 winyardbuilding.nz
 0.0.0.0 wrwwewfe.from-wi.com
 0.0.0.0 wrwwewfe.is-a-blogger.com
@@ -255,6 +253,7 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.luxurypropertiesfl.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
@@ -262,6 +261,7 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.starcountry.net
+0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
@@ -273,7 +273,6 @@
 0.0.0.0 ygtvv.events.socalpocis.org
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-0.0.0.0 zunigarquitectura.com
-# Number of entries: 270
+0.0.0.0 zvczcz.saves-the-whales.com
+# Number of entries: 269
