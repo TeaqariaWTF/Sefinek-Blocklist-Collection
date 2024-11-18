@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111801 43200 3600 259200 300
   NS  localhost.
 00d3ed994e.com CNAME .
 *.00d3ed994e.com CNAME .
@@ -55175,8 +55175,6 @@ xlviirdr.com CNAME .
 *.xlviirdr.com CNAME .
 xlvirdr.com CNAME .
 *.xlvirdr.com CNAME .
-xlvul.ajscdn.com CNAME .
-*.xlvul.ajscdn.com CNAME .
 xmas-xmas-wow.com CNAME .
 *.xmas-xmas-wow.com CNAME .
 xmaswrite.com CNAME .
@@ -59595,6 +59593,10 @@ rtb-1.xcafe.com CNAME .
 *.rtb-1.xcafe.com CNAME .
 rtb-3.xgroovy.com CNAME .
 *.rtb-3.xgroovy.com CNAME .
+s.bussyhunter.com CNAME .
+*.s.bussyhunter.com CNAME .
+s.everydayporn.co CNAME .
+*.s.everydayporn.co CNAME .
 sli.crazyporn.xxx CNAME .
 *.sli.crazyporn.xxx CNAME .
 slit.lewd.rip CNAME .

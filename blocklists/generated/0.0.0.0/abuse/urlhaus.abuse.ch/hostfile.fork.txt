@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-17 22:14:06 (UTC)                      #
+# Last updated: 2024-11-18 01:44:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,8 +9,9 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
-0.0.0.0 2.haory.cn
+0.0.0.0 26f0b.language.sebtomato.com
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 502.hanzstore.xyz
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aaaee.from-wa.com
@@ -23,7 +24,6 @@
 0.0.0.0 aiiaiafrzrueuedur.net
 0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
-0.0.0.0 altraonline.com
 0.0.0.0 amoamosss.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
@@ -31,15 +31,17 @@
 0.0.0.0 armanayegh.com
 0.0.0.0 asianchow.com
 0.0.0.0 aulist.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 azczxs.from-nd.com
+0.0.0.0 b6a1e.language.sebtomato.com
 0.0.0.0 bestmagazineforanimalsunicum.ru
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blacksmatter.live
 0.0.0.0 boostcreatives-ai.com
+0.0.0.0 bot.minehard.xyz
 0.0.0.0 bot.suqi.bf
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 cajgtus.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-defac18.artcollective-snapclick.com
@@ -50,12 +52,12 @@
 0.0.0.0 cnc.carteldesinaloa.ru
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
+0.0.0.0 coindiscussion.net
 0.0.0.0 compounded.fghnbv.com
 0.0.0.0 conn.masjesu.zip
-0.0.0.0 crickout.com
+0.0.0.0 crystalpvp.ru
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
-0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 devapi.wenano.app
 0.0.0.0 dfvdfvfddf.is-a-anarchist.com
@@ -96,19 +98,18 @@
 0.0.0.0 fiestagrandefm.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
-0.0.0.0 files.offshore.cat
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fish.hackbiji.cc
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
 0.0.0.0 garanticonstruct.ro
 0.0.0.0 gawx.florenda.com
+0.0.0.0 gay.minehard.xyz
 0.0.0.0 gdfgdfdv.groks-this.info
 0.0.0.0 gdhbbdv.is-a-blogger.com
 0.0.0.0 gdhbbdv.is-a-bruinsfan.org
 0.0.0.0 gdhbbdv.is-a-student.com
 0.0.0.0 gdhbbdv.is-into-games.com
-0.0.0.0 gdhbbdv.is-very-sweet.org
 0.0.0.0 gdhbbdv.sellsyourhome.org
 0.0.0.0 ggg.is-a-painter.com
 0.0.0.0 gig.energymaxgrp.eu
@@ -124,7 +125,6 @@
 0.0.0.0 hthth.is-a-knight.org
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hyhyhy.is-a-therapist.com
-0.0.0.0 ikincielesyaciankara.com.tr
 0.0.0.0 in-houselegal.ro
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
@@ -140,20 +140,18 @@
 0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kjjghhjgf.is-uberleet.com
 0.0.0.0 kykgenot.com
-0.0.0.0 leadbase.cloud
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
+0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 maan2u.com
 0.0.0.0 mail.drdanfe.com
 0.0.0.0 mbsngradnja.com
-0.0.0.0 meeweb.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 mijpostontvangen.nl
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-tech-savvy.com
@@ -173,11 +171,9 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 powercx1.wetolink.com
-0.0.0.0 ppzdn.events.socalpocis.org
 0.0.0.0 proanuncios.mx
 0.0.0.0 protechasia.com
 0.0.0.0 pub.foodie-safari.shop
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 ranchoboscardin.com.br
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -199,6 +195,7 @@
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
@@ -213,18 +210,16 @@
 0.0.0.0 technovm-hk.tioffiop.shop
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 tehytdf.sellsyourhome.org
 0.0.0.0 telegram-app.vip
 0.0.0.0 telegramcn.co
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 toibinghiensegay.minehard.xyz
-0.0.0.0 tqne.events.socalpocis.org
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 tttht.is-a-therapist.com
 0.0.0.0 twizt.net
 0.0.0.0 ujuju.from-md.com
+0.0.0.0 ujujuju.from-pa.com
 0.0.0.0 ujujuju.is-a-anarchist.com
 0.0.0.0 ujujuju.is-a-painter.com
 0.0.0.0 ujujuju.is-a-republican.com
@@ -244,7 +239,6 @@
 0.0.0.0 wrwwewfe.from-wi.com
 0.0.0.0 wrwwewfe.is-a-blogger.com
 0.0.0.0 wrwwewfe.merseine.org
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atordeg.com.br
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
@@ -258,12 +252,9 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.griservice.ro
-0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.luxurypropertiesfl.com
-0.0.0.0 www.manjeetsteelproductions.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
@@ -271,7 +262,6 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.starcountry.net
-0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
@@ -280,10 +270,10 @@
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xinhgai.tv
 0.0.0.0 xkobeimparatu.net
+0.0.0.0 ygtvv.events.socalpocis.org
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 zibll.8899006.net
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zunigarquitectura.com
-0.0.0.0 zvczcz.saves-the-whales.com
-# Number of entries: 280
+# Number of entries: 270

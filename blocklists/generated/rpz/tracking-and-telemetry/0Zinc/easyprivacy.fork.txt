@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111801 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -1615,8 +1615,6 @@ edge.adobedc.net CNAME .
 *.edge.adobedc.net CNAME .
 eel.transistor.fm CNAME .
 *.eel.transistor.fm CNAME .
-ele26126.jscrambler.com CNAME .
-*.ele26126.jscrambler.com CNAME .
 eq.userneeds.com CNAME .
 *.eq.userneeds.com CNAME .
 era.easyvoyage.com CNAME .
@@ -2243,6 +2241,8 @@ prod.ew.srp.navigacloud.com CNAME .
 *.prod.ew.srp.navigacloud.com CNAME .
 prod.fennec.atp.fox CNAME .
 *.prod.fennec.atp.fox CNAME .
+prodregistryv2.org CNAME .
+*.prodregistryv2.org CNAME .
 proxy.dzeio.com CNAME .
 *.proxy.dzeio.com CNAME .
 proxy.trysavvy.com CNAME .
@@ -4929,6 +4929,8 @@ events.api.godaddy.com CNAME .
 *.events.api.godaddy.com CNAME .
 events.baselime.io CNAME .
 *.events.baselime.io CNAME .
+events.character.ai CNAME .
+*.events.character.ai CNAME .
 events.clips4sale.com CNAME .
 *.events.clips4sale.com CNAME .
 events.framer.com CNAME .
