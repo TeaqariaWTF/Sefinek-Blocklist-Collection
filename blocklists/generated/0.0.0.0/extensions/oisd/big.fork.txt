@@ -1,9 +1,9 @@
-# Version: 202411181406
+# Version: 202411181506
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
 ! Entries: 138497
-# Last modified: 2024-11-18T14:06:59+0000
+# Last modified: 2024-11-18T15:06:42+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -4770,6 +4770,7 @@
 0.0.0.0 953388.cc
 0.0.0.0 9560.xyz
 0.0.0.0 958702ecdf.com
+0.0.0.0 95b1e00252.com
 0.0.0.0 95cf5beb64.com
 0.0.0.0 95d04d0751.22ad426520.com
 0.0.0.0 95gmail.com
@@ -20894,7 +20895,6 @@
 0.0.0.0 bc.qushimeiti.com
 0.0.0.0 bc13945167.9cf57a043f.com
 0.0.0.0 bc6dc48b743dc5d01.clicknplay.to
-0.0.0.0 bc7b02847f.95b1e00252.com
 0.0.0.0 bc84617c73.com
 0.0.0.0 bca286d743.com
 0.0.0.0 bcaakxxuf.com
