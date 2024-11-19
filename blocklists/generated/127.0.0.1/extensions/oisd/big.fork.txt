@@ -1,9 +1,9 @@
-# Version: 202411191907
+# Version: 202411192107
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 138702
-# Last modified: 2024-11-19T19:07:27+0000
+! Entries: 138698
+# Last modified: 2024-11-19T21:07:17+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -31355,7 +31355,6 @@
 127.0.0.1 cmdealernet.com
 127.0.0.1 cmec.ir
 127.0.0.1 cmeds24.com
-127.0.0.1 cmelr.com
 127.0.0.1 cmercipourlinfo.fr
 127.0.0.1 cmfads.com
 127.0.0.1 cmgtrading.eu
@@ -32275,7 +32274,6 @@
 127.0.0.1 com-trackinshxb.vip
 127.0.0.1 com-trackinslog.vip
 127.0.0.1 com-trackinsnte.vip
-127.0.0.1 com-trackinsosu.vip
 127.0.0.1 com-trackinsouc.vip
 127.0.0.1 com-trackinsqgo.vip
 127.0.0.1 com-trackinsqke.vip
@@ -115889,7 +115887,6 @@
 127.0.0.1 sunnimiq.cf
 127.0.0.1 sunnology.fr
 127.0.0.1 sunnshele.com
-127.0.0.1 sunnudvelure.com
 127.0.0.1 sunny-kosmetik.de
 127.0.0.1 sunny-lai.com
 127.0.0.1 sunny-works.com
@@ -127057,7 +127054,6 @@
 127.0.0.1 uspsvlwo.top
 127.0.0.1 uspsvlwu.top
 127.0.0.1 uspsvlzc.top
-127.0.0.1 uspswebo.top
 127.0.0.1 uspsxhome.top
 127.0.0.1 uspsxss.com
 127.0.0.1 uspsxva.com
