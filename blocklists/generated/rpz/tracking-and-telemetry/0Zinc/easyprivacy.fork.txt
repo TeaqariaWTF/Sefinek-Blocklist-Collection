@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024111901 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -78235,6 +78235,8 @@ log-lb.skyperfectv.co.jp CNAME .
 *.log-lb.skyperfectv.co.jp CNAME .
 log.recommend.nicovideo.jp CNAME .
 *.log.recommend.nicovideo.jp CNAME .
+logcollector.note.com CNAME .
+*.logcollector.note.com CNAME .
 logql.yahoo.co.jp CNAME .
 *.logql.yahoo.co.jp CNAME .
 measure.ameblo.jp CNAME .

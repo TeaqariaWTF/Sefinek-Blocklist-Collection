@@ -1,9 +1,9 @@
-# Version: 202411182206
+# Version: 202411190006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 138507
-# Last modified: 2024-11-18T22:06:43+0000
+! Entries: 138506
+# Last modified: 2024-11-19T00:06:55+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -27193,7 +27193,6 @@
 0.0.0.0 car-90r.pages.dev
 0.0.0.0 car-donation.shengen.ru
 0.0.0.0 car-insurance.live
-0.0.0.0 car-insurer-offers.live
 0.0.0.0 car-loan.shengen.ru
 0.0.0.0 car-na.jp
 0.0.0.0 car.all-productz.com
