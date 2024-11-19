@@ -1,9 +1,9 @@
-# Version: 202411191007
+# Version: 202411191206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 138681
-# Last modified: 2024-11-19T10:07:04+0000
+! Entries: 138676
+# Last modified: 2024-11-19T12:06:49+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -32247,7 +32247,6 @@
 127.0.0.1 com-trackingfaw.vip
 127.0.0.1 com-trackingfka.vip
 127.0.0.1 com-trackingid.vip
-127.0.0.1 com-trackingied.vip
 127.0.0.1 com-trackingin.vip
 127.0.0.1 com-trackingio.vip
 127.0.0.1 com-trackingit.vip
@@ -32271,7 +32270,6 @@
 127.0.0.1 com-trackinshcd.vip
 127.0.0.1 com-trackinshmd.vip
 127.0.0.1 com-trackinshxb.vip
-127.0.0.1 com-trackinsije.vip
 127.0.0.1 com-trackinslog.vip
 127.0.0.1 com-trackinsnte.vip
 127.0.0.1 com-trackinsosu.vip
@@ -56714,7 +56712,6 @@
 127.0.0.1 gov.sjngr.com
 127.0.0.1 gov.sktgr.info
 127.0.0.1 gov.slimfiguregr.com
-127.0.0.1 gov.smartigr.com
 127.0.0.1 gov.smtegr.com
 127.0.0.1 gov.smzgr.buzz
 127.0.0.1 gov.sorel-gr.com
@@ -72671,7 +72668,6 @@
 127.0.0.1 lianmeng.360.cn
 127.0.0.1 lianoidvoice.htmlpasta.com
 127.0.0.1 lianruntang.cn
-127.0.0.1 lianskc.top
 127.0.0.1 liantrip.com
 127.0.0.1 lianwangtech.com
 127.0.0.1 liaoptse.net
@@ -94860,7 +94856,6 @@
 127.0.0.1 poltio.com
 127.0.0.1 polycoon.com
 127.0.0.1 polydarth.com
-127.0.0.1 polydueces.afpfobamascare.info
 127.0.0.1 polyfill-js.cn
 127.0.0.1 polyglotcoding.com
 127.0.0.1 polygonminerpro.online

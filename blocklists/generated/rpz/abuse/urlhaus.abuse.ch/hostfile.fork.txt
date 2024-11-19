@@ -7,8 +7,6 @@ $TTL 300
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
-2.haory.cn CNAME .
-*.2.haory.cn CNAME .
 26f0b.language.sebtomato.com CNAME .
 *.26f0b.language.sebtomato.com CNAME .
 360down7.miiyun.cn CNAME .
@@ -123,6 +121,8 @@ disk.accord1key.cn CNAME .
 *.disk.accord1key.cn CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
+dl.natgo.cn CNAME .
+*.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
 *.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
@@ -161,8 +161,6 @@ epanpano.com CNAME .
 *.epanpano.com CNAME .
 eveezueigohehla.co CNAME .
 *.eveezueigohehla.co CNAME .
-ewrew.is-a-caterer.com CNAME .
-*.ewrew.is-a-caterer.com CNAME .
 exilum.com CNAME .
 *.exilum.com CNAME .
 fetchdesignprint.co.za CNAME .
@@ -195,6 +193,8 @@ hailcocks.ru CNAME .
 *.hailcocks.ru CNAME .
 heavyequipmentsales.au CNAME .
 *.heavyequipmentsales.au CNAME .
+hitman-pro.ru CNAME .
+*.hitman-pro.ru CNAME .
 hitstation.nl CNAME .
 *.hitstation.nl CNAME .
 hjmhjm.is-a-landscaper.com CNAME .
@@ -211,6 +211,8 @@ in-houselegal.ro CNAME .
 *.in-houselegal.ro CNAME .
 inayatullah.com CNAME .
 *.inayatullah.com CNAME .
+inspirecollege.co.uk CNAME .
+*.inspirecollege.co.uk CNAME .
 inspirepk.org CNAME .
 *.inspirepk.org CNAME .
 jahez.me CNAME .
@@ -237,8 +239,6 @@ library.arihantmbainstitute.ac.in CNAME .
 *.library.arihantmbainstitute.ac.in CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
-linkvilleplayers.org CNAME .
-*.linkvilleplayers.org CNAME .
 livetrack.in CNAME .
 *.livetrack.in CNAME .
 loeghaiofiehfihf.to CNAME .
@@ -255,10 +255,14 @@ meeweb.com CNAME .
 *.meeweb.com CNAME .
 mertvinc.com.tr CNAME .
 *.mertvinc.com.tr CNAME .
+microsecurityupdate.com CNAME .
+*.microsecurityupdate.com CNAME .
 microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
 municipiodomaio.cv CNAME .
 *.municipiodomaio.cv CNAME .
+namthaibinh.net CNAME .
+*.namthaibinh.net CNAME .
 ndur.events.socalpocis.org CNAME .
 *.ndur.events.socalpocis.org CNAME .
 new-tech-savvy.com CNAME .
@@ -267,6 +271,8 @@ newvideo.link CNAME .
 *.newvideo.link CNAME .
 noithaticon.vn CNAME .
 *.noithaticon.vn CNAME .
+ns.smallsrv.com CNAME .
+*.ns.smallsrv.com CNAME .
 odoo.kseibitools.com CNAME .
 *.odoo.kseibitools.com CNAME .
 osecweb.ir CNAME .
@@ -317,8 +323,6 @@ sccsdcsdcv.is-a-democrat.com CNAME .
 *.sccsdcsdcv.is-a-democrat.com CNAME .
 sccsdcsdcv.is-an-actress.com CNAME .
 *.sccsdcsdcv.is-an-actress.com CNAME .
-scsfscscs.is-a-chef.net CNAME .
-*.scsfscscs.is-a-chef.net CNAME .
 scsfscscs.is-an-actress.com CNAME .
 *.scsfscscs.is-an-actress.com CNAME .
 sdfgfv.stuff-4-sale.org CNAME .
@@ -339,8 +343,6 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
-softcatalog.ru CNAME .
-*.softcatalog.ru CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
 soyjak.download CNAME .
@@ -387,6 +389,8 @@ twizt.net CNAME .
 *.twizt.net CNAME .
 ujujuju.is-a-anarchist.com CNAME .
 *.ujujuju.is-a-anarchist.com CNAME .
+ujujuju.is-a-painter.com CNAME .
+*.ujujuju.is-a-painter.com CNAME .
 ujujuju.is-uberleet.com CNAME .
 *.ujujuju.is-uberleet.com CNAME .
 unicorpbrunei.com CNAME .
@@ -469,8 +473,6 @@ ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
-wz.3911.com CNAME .
-*.wz.3911.com CNAME .
 xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 xkobeimparatu.net CNAME .
@@ -483,8 +485,8 @@ ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
-z.shavsl.com CNAME .
-*.z.shavsl.com CNAME .
+zaraee.com CNAME .
+*.zaraee.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
 zvczcz.saves-the-whales.com CNAME .
