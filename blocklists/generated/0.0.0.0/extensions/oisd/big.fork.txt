@@ -1,9 +1,9 @@
-# Version: 202411191406
+# Version: 202411191506
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 138683
-# Last modified: 2024-11-19T14:06:58+0000
+! Entries: 138681
+# Last modified: 2024-11-19T15:06:58+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -32255,7 +32255,6 @@
 0.0.0.0 com-trackingiw.vip
 0.0.0.0 com-trackingnaa.top
 0.0.0.0 com-trackingnaw.top
-0.0.0.0 com-trackingnwx.vip
 0.0.0.0 com-trackingrej.vip
 0.0.0.0 com-trackingsvu.vip
 0.0.0.0 com-trackingtan.top
@@ -32270,7 +32269,6 @@
 0.0.0.0 com-trackinsfmi.vip
 0.0.0.0 com-trackinsfrt.vip
 0.0.0.0 com-trackinshcd.vip
-0.0.0.0 com-trackinshmd.vip
 0.0.0.0 com-trackinshxb.vip
 0.0.0.0 com-trackinslog.vip
 0.0.0.0 com-trackinsnte.vip
