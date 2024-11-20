@@ -36361,8 +36361,6 @@ sync.partyetalon.com CNAME .
 *.sync.partyetalon.com CNAME .
 sync.sumetalon.com CNAME .
 *.sync.sumetalon.com CNAME .
-sync.teads.tv.edgekey.net CNAME .
-*.sync.teads.tv.edgekey.net CNAME .
 sync.theetalon.com CNAME .
 *.sync.theetalon.com CNAME .
 sync.tv CNAME .
@@ -36645,6 +36643,8 @@ teads.com CNAME .
 *.teads.com CNAME .
 teads.tv CNAME .
 *.teads.tv CNAME .
+teads.tv.edgekey.net CNAME .
+*.teads.tv.edgekey.net CNAME .
 tealjewel.com CNAME .
 *.tealjewel.com CNAME .
 teamaol.org CNAME .

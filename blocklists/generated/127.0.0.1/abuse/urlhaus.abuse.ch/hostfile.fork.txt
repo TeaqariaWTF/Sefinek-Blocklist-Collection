@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-20 06:24:06 (UTC)                      #
+# Last updated: 2024-11-20 08:22:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@
 127.0.0.1 crystalpvp.ru
 127.0.0.1 data.discuz.mobi
 127.0.0.1 data.yhydl.com
+127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 defgyma.com
 127.0.0.1 dfvdfvfddf.is-a-anarchist.com
@@ -63,16 +64,17 @@
 127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 dl.aginjector.com
+127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dnvk1.info
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
+127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.haozip.com
-127.0.0.1 download.innovare.no
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 eegqzvxd.shop
@@ -87,18 +89,17 @@
 127.0.0.1 exilum.com
 127.0.0.1 fetchdesignprint.co.za
 127.0.0.1 fiestagrandefm.com
-127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 fish.hackbiji.cc
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 funletters.net
 127.0.0.1 garanticonstruct.ro
+127.0.0.1 garhoudjourm.com
 127.0.0.1 gawx.florenda.com
 127.0.0.1 gdfgdfdv.groks-this.info
 127.0.0.1 gig.energymaxgrp.eu
 127.0.0.1 girlsgifs.com
-127.0.0.1 goodlabel.cn
 127.0.0.1 hailcocks.ru
 127.0.0.1 heavyequipmentsales.au
 127.0.0.1 hitman-pro.ru
@@ -112,7 +113,6 @@
 127.0.0.1 in-houselegal.ro
 127.0.0.1 inayatullah.com
 127.0.0.1 info.csbrand.ru
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirecollege.co.uk
 127.0.0.1 inspirepk.org
 127.0.0.1 jahez.me
@@ -125,7 +125,9 @@
 127.0.0.1 karoonpc.com
 127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 kjjghhjgf.is-uberleet.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
+127.0.0.1 linkvilleplayers.org
 127.0.0.1 livetrack.in
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
@@ -146,6 +148,7 @@
 127.0.0.1 ns.smallsrv.com
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 osecweb.ir
+127.0.0.1 palharesinformatica.com.br
 127.0.0.1 panel.chanbaba.xyz
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
@@ -190,7 +193,6 @@
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 suanfe.is-a-landscaper.com
-127.0.0.1 support.clz.kr
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -222,7 +224,6 @@
 127.0.0.1 winyardbuilding.nz
 127.0.0.1 wrwwewfe.from-wi.com
 127.0.0.1 wrwwewfe.is-a-blogger.com
-127.0.0.1 wrwwewfe.merseine.org
 127.0.0.1 www.333zz.top
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.atordeg.com.br
@@ -252,6 +253,7 @@
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
+127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 xiangshunjy.com
@@ -262,4 +264,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zvczcz.saves-the-whales.com
-# Number of entries: 256
+# Number of entries: 258

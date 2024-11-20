@@ -2,7 +2,7 @@
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
 # Domains: 20,524
-# Updated: 11/19/2024  19:13 (7:13 PM CST)
+# Updated: 11/20/2024  01:36 (1:36 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -18187,7 +18187,6 @@
 0.0.0.0 sync.ortb.152media.info
 0.0.0.0 sync.partyetalon.com
 0.0.0.0 sync.sumetalon.com
-0.0.0.0 sync.teads.tv.edgekey.net
 0.0.0.0 sync.theetalon.com
 0.0.0.0 sync.tv
 0.0.0.0 sync-unosync-com.geodns.me
@@ -18329,6 +18328,7 @@
 0.0.0.0 teacupbooks.com
 0.0.0.0 teads.com
 0.0.0.0 teads.tv
+0.0.0.0 teads.tv.edgekey.net
 0.0.0.0 tealjewel.com
 0.0.0.0 teamaol.org
 0.0.0.0 teamcornett.com
