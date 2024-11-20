@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024110501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024112001 43200 3600 259200 300
   NS  localhost.
 adx-open-service.youku.com CNAME .
 *.adx-open-service.youku.com CNAME .
@@ -167,6 +167,16 @@ startup.mobile.webvisor.com CNAME .
 *.startup.mobile.webvisor.com CNAME .
 startup-mobile.ap.yandex-net.ru CNAME .
 *.startup-mobile.ap.yandex-net.ru CNAME .
+httpdns.bilivideo.com CNAME .
+*.httpdns.bilivideo.com CNAME .
+dataflow.biliapi.com CNAME .
+*.dataflow.biliapi.com CNAME .
+grpc.biliapi.net CNAME .
+*.grpc.biliapi.net CNAME .
+ads.adinmotech.com CNAME .
+*.ads.adinmotech.com CNAME .
+kvaedit.site CNAME .
+*.kvaedit.site CNAME .
 ads-ap-venues.yinzcam.com CNAME .
 *.ads-ap-venues.yinzcam.com CNAME .
 ads-delivery.gunosy.com CNAME .
