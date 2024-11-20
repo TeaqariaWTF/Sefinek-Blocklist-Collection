@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024111701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024112001 43200 3600 259200 300
   NS  localhost.
 0i0i0i0.com CNAME .
 *.0i0i0i0.com CNAME .
@@ -9137,8 +9137,12 @@ mkt12246.com CNAME .
 *.mkt12246.com CNAME .
 mkt12247.com CNAME .
 *.mkt12247.com CNAME .
+mkt12248.com CNAME .
+*.mkt12248.com CNAME .
 mkt1225.com CNAME .
 *.mkt1225.com CNAME .
+mkt12252.com CNAME .
+*.mkt12252.com CNAME .
 mkt1226.com CNAME .
 *.mkt1226.com CNAME .
 mkt1227.com CNAME .
