@@ -1,9 +1,9 @@
-# Version: 202411210106
+# Version: 202411210206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 138596
-# Last modified: 2024-11-21T01:06:26+0000
+! Entries: 138583
+# Last modified: 2024-11-21T02:06:27+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -937,7 +937,6 @@ server=/15d113e19a.com/
 server=/15df670512.a5fa8c7726.com/
 server=/15f7a5a67a.com/
 server=/15gmail.com/
-server=/15huhu.cn/
 server=/15min.it/
 server=/15minadlt.hit.gemius.pl/
 server=/15pvpv.jik.thetreecentre.com/
@@ -8010,7 +8009,6 @@ server=/adidassamba.fr/
 server=/adidassambafrance.fr/
 server=/adidasschuheneu.de/
 server=/adidasspezial.fr/
-server=/adidassuperstar.fr/
 server=/adidasterrex.fr/
 server=/adidasweb.fr/
 server=/adidasyeezy.fr/
@@ -32843,6 +32841,7 @@ server=/connect-viaverde.com/
 server=/connect-wp.net/
 server=/connect.clevelandskin.com/
 server=/connect.idocdn.com/
+server=/connect.il-cert.net/
 server=/connect.lemsgroup.net/
 server=/connect.p2p-secure.org/
 server=/connect.quoka.de/
@@ -43550,7 +43549,6 @@ server=/eatablesquare.com/
 server=/eatasesetitoefa.info/
 server=/eatasesetitoefany.com/
 server=/eaterdrewduchess.com/
-server=/eatgirls.org/
 server=/eatmenttogeth.com/
 server=/eatphi.com/
 server=/eatshootrock.com/
@@ -63384,7 +63382,6 @@ server=/ikvcxz.cn/
 server=/ikwiwnnofgpzq.com/
 server=/ikwzrix.com/
 server=/ikya.ir/
-server=/il-cert.net/
 server=/il-picchio.eu/
 server=/il.appme.ru/
 server=/il119.com/
@@ -70739,7 +70736,6 @@ server=/kyxnz.cn/
 server=/kyyfsw.xyz/
 server=/kyzocollection.com/
 server=/kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes/
-server=/kzcayec.icu/
 server=/kzcdgja.com/
 server=/kzdh.com/
 server=/kzdxpcn.com/
@@ -71207,7 +71203,6 @@ server=/lakmus.xyz/
 server=/lakotorra.com/
 server=/laktevit.ru/
 server=/lakushsupplyshop.com/
-server=/lakvandula.com/
 server=/lalabaos1020.top/
 server=/lalabaos1021.top/
 server=/lalabaos1025.top/
@@ -80735,7 +80730,6 @@ server=/mmnneo.com/
 server=/mmo2350.top/
 server=/mmoabpvutkr.com/
 server=/mmoddkdn.com/
-server=/mmofoojap.2288.org/
 server=/mmoframes.com/
 server=/mmofreegames.online/
 server=/mmogamehack.com/
@@ -83574,7 +83568,6 @@ server=/n0gge40o.de/
 server=/n0h56.site/
 server=/n0v1cdn.com/
 server=/n1272adserv.xyz/
-server=/n1307adserv.xyz/
 server=/n152adserv.com/
 server=/n1g459ky7y.com/
 server=/n1internet.com/
@@ -90594,7 +90587,6 @@ server=/oxxvikappo.com/
 server=/oxybe.com/
 server=/oxycode.net/
 server=/oxydaserucked.com/
-server=/oxydend2r5umarb8oreum.com/
 server=/oxygenblobsglass.com/
 server=/oxygenfuse.com/
 server=/oxygenpermissionenviable.com/
@@ -97626,8 +97618,6 @@ server=/ptt-govc.top/
 server=/ptt-goy.shop/
 server=/ptt-toolsinfo.bond/
 server=/ptt-trc.top/
-server=/ptt-tri.top/
-server=/ptt-trj.top/
 server=/ptt-trl.top/
 server=/ptt-trt.top/
 server=/ptt-try.top/
@@ -99684,7 +99674,6 @@ server=/rafastudio.nl/
 server=/raffaelli.com.br/
 server=/raffleinsanity.com/
 server=/rafflisle.com/
-server=/rafidcohen.com/
 server=/rafikistry.com/
 server=/rafmod.com/
 server=/rafvertizing.crazygames.com/
@@ -101058,7 +101047,6 @@ server=/regularisation-souscription.com/
 server=/regularisation-souscriptions.fr/
 server=/regularisation-vignette.fr/
 server=/regularisationenligne.fr/
-server=/regularisationmonamendes.fr/
 server=/regularisations-en-ligne.com/
 server=/regularisations-gouv.info/
 server=/regularlyk.com/
@@ -126965,7 +126953,6 @@ server=/uspsuspsusps.top/
 server=/uspsuss.top/
 server=/uspsvbc.top/
 server=/uspsvbo.top/
-server=/uspsvbx.top/
 server=/uspsverfiy.com/
 server=/uspsvlcb.top/
 server=/uspsvls.top/
