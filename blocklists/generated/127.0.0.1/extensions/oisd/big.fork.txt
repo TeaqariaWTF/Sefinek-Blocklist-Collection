@@ -1,9 +1,9 @@
-# Version: 202411202206
+# Version: 202411210106
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 138619
-# Last modified: 2024-11-20T22:06:45+0000
+! Entries: 138596
+# Last modified: 2024-11-21T01:06:26+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2673,6 +2673,7 @@
 127.0.0.1 3rdeye.go2cloud.org
 127.0.0.1 3redlightfix.com
 127.0.0.1 3ri.cc
+127.0.0.1 3sas.icu
 127.0.0.1 3site-rss.s3-ap-northeast-1.amazonaws.com
 127.0.0.1 3sixty5.net
 127.0.0.1 3ssem.com
@@ -4048,7 +4049,6 @@
 127.0.0.1 6fx2ua.shet.eveshamairporttransfers.co.uk
 127.0.0.1 6g1a0138.cn
 127.0.0.1 6g88slzg2rxwg2lejrbd.viomil.ro
-127.0.0.1 6gcstb.xyz
 127.0.0.1 6gi0edui.xyz
 127.0.0.1 6glece4homah8dweracea.com
 127.0.0.1 6google.com
@@ -14289,7 +14289,6 @@
 127.0.0.1 analytics.126.net
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.300624.com
-127.0.0.1 analytics.30m.com
 127.0.0.1 analytics.365scores.com
 127.0.0.1 analytics.3c5.com
 127.0.0.1 analytics.74.ru
@@ -16428,7 +16427,6 @@
 127.0.0.1 apple-boutique.fr
 127.0.0.1 apple-icloud-id-security-information-restore-onlineprocess.gandharaguides.com
 127.0.0.1 apple-id-itunes.webcindario.com
-127.0.0.1 apple-jp.ingebandas.com
 127.0.0.1 apple-lbusca.com
 127.0.0.1 apple-localiser.fr
 127.0.0.1 apple-login.eb2a.com
@@ -19633,7 +19631,6 @@
 127.0.0.1 b57dqedu4.com
 127.0.0.1 b58ncoa1c07f.com
 127.0.0.1 b59307fdacf7b2db12ec4bd5ca1caba8-dot-oo0-987.appspot.com
-127.0.0.1 b5c01d507e.com
 127.0.0.1 b5c28f9b84.com
 127.0.0.1 b5e75c56.com
 127.0.0.1 b5f9253029.fbc6272bce.com
@@ -20450,7 +20447,6 @@
 127.0.0.1 bantenpipa.com
 127.0.0.1 banterteeserving.com
 127.0.0.1 bantex.ru
-127.0.0.1 bantuan-dna.ld-webb.biz.id
 127.0.0.1 bantuan-official-dana.dit2.my.id
 127.0.0.1 banvoucher-vn.weeblysite.com
 127.0.0.1 banxc.com
@@ -25778,7 +25774,6 @@
 127.0.0.1 businessdocs.org
 127.0.0.1 businessenviron.com
 127.0.0.1 businessessities.com
-127.0.0.1 businesseventskp.top
 127.0.0.1 businessfinancing-now.com
 127.0.0.1 businessfixnow.com
 127.0.0.1 businessformsc.com.tr
@@ -35696,6 +35691,7 @@
 127.0.0.1 cwconsultores.cnt.br
 127.0.0.1 cwdata.itsearch.co.kr
 127.0.0.1 cweb.ws
+127.0.0.1 cweizaf.top
 127.0.0.1 cwhrealestate.com
 127.0.0.1 cwhsmgs1.cn
 127.0.0.1 cwnetworkmparticle.112.2o7.net
@@ -47998,7 +47994,6 @@
 127.0.0.1 faggotry.com
 127.0.0.1 faggrim.com
 127.0.0.1 fagovwnavab.com
-127.0.0.1 fagywalu.pro
 127.0.0.1 fahad26smsm.duckdns.org
 127.0.0.1 fahd2010.ddns.net
 127.0.0.1 fahd2011.ddns.net
@@ -51926,7 +51921,6 @@
 127.0.0.1 frothadditions.com
 127.0.0.1 frotic.com
 127.0.0.1 frotneels.shop
-127.0.0.1 froughyprovine.click
 127.0.0.1 frowzlynecklet.top
 127.0.0.1 frozenmeatproducer.com
 127.0.0.1 frozentoaster.com
@@ -53634,7 +53628,6 @@
 127.0.0.1 geladinhogourmetoficial.com.br
 127.0.0.1 gelatineabstainads.com
 127.0.0.1 gelatinelighter.com
-127.0.0.1 gelatinerespectivelyhector.com
 127.0.0.1 gelatogems.com
 127.0.0.1 geldencosmeticos.com
 127.0.0.1 gelfull.com.de
@@ -57724,7 +57717,6 @@
 127.0.0.1 grouse.i21.co
 127.0.0.1 grouse.textile.io
 127.0.0.1 grouse.ultimateballistics.com
-127.0.0.1 grout.group
 127.0.0.1 groutoozy.com
 127.0.0.1 groutsukooh.net
 127.0.0.1 grova.buzz
@@ -59760,7 +59752,6 @@
 127.0.0.1 heartbeats.prd.data.s.joyn.de
 127.0.0.1 heartbreakingmind.com
 127.0.0.1 heartbreakslotserpent.com
-127.0.0.1 heartburnrelieface.com
 127.0.0.1 heartchakracheckup.com
 127.0.0.1 heartdiseaseaid.com
 127.0.0.1 heartdiseasehome.com
@@ -61442,7 +61433,6 @@
 127.0.0.1 horse.vesuvius-publishing.com
 127.0.0.1 horse.zwei-bags.com
 127.0.0.1 horsebackbeatingangular.com
-127.0.0.1 horsebackcastle.com
 127.0.0.1 hortestoz.com
 127.0.0.1 hortitedigress.com
 127.0.0.1 hortline.com
@@ -67394,6 +67384,7 @@
 127.0.0.1 jjjj.getui.vip
 127.0.0.1 jjjkl.com
 127.0.0.1 jjlgbyd.in
+127.0.0.1 jjmrmeovo.world
 127.0.0.1 jjp59.com
 127.0.0.1 jjpnveujkk.com
 127.0.0.1 jjpp.lmtjapi.com
@@ -69393,7 +69384,6 @@
 127.0.0.1 khsecurity.sg
 127.0.0.1 khufaw2.com
 127.0.0.1 khujos-nl.com
-127.0.0.1 khujoverkoop.com
 127.0.0.1 khuoy.com
 127.0.0.1 khushalitravels.com
 127.0.0.1 khuyenkhichsangtaoviet.net
@@ -74798,7 +74788,6 @@
 127.0.0.1 long.carolinakilns.com
 127.0.0.1 long.k12insight.net
 127.0.0.1 long1x.xyz
-127.0.0.1 longanpulex.shop
 127.0.0.1 longarctic.com
 127.0.0.1 longbeierfs.cn
 127.0.0.1 longchamp--outlet.org
@@ -76459,7 +76448,6 @@
 127.0.0.1 magmbb.com
 127.0.0.1 magmut.fr
 127.0.0.1 magnaki.com
-127.0.0.1 magnannichaussures.fr
 127.0.0.1 magneseum.pages.dev
 127.0.0.1 magnet4power.com
 127.0.0.1 magnetadservices.com
@@ -82518,7 +82506,6 @@
 127.0.0.1 mueritzer-raeuchertipps.de
 127.0.0.1 mufcrkk.com
 127.0.0.1 mufera.com
-127.0.0.1 muffermafioso.com
 127.0.0.1 muffin.no-ip.biz
 127.0.0.1 mufflercypress.com
 127.0.0.1 mufflerlightsgroups.com
@@ -84930,7 +84917,6 @@
 127.0.0.1 newcp.amtech.sd
 127.0.0.1 newcp.aurcleaning.com
 127.0.0.1 newcp.bayraklicicekciler.com
-127.0.0.1 newcp.bitezeventwedding.com
 127.0.0.1 newcp.bnkilaclama.com
 127.0.0.1 newcp.bornovacicekciler.com
 127.0.0.1 newcp.boscosoft.ae
@@ -86192,6 +86178,7 @@
 127.0.0.1 noir-wonen.com
 127.0.0.1 noirswide.com
 127.0.0.1 noirtease.com
+127.0.0.1 nois5gj.xyz
 127.0.0.1 noiseaway.store
 127.0.0.1 noiselessplough.com
 127.0.0.1 noiselessvegetables.com
@@ -88346,6 +88333,7 @@
 127.0.0.1 oleousjosher.com
 127.0.0.1 olep.xyz
 127.0.0.1 olevole.ru
+127.0.0.1 olgrae.com
 127.0.0.1 olhequedemais.com.br
 127.0.0.1 olhomagicocdt.duckdns.org
 127.0.0.1 olhsc.org
@@ -93834,7 +93822,6 @@
 127.0.0.1 pismax.com
 127.0.0.1 pisosribarroja.es
 127.0.0.1 pista.con-ip.com
-127.0.0.1 pistadebaile.co
 127.0.0.1 pistola404.duckdns.org
 127.0.0.1 pistolstumbled.com
 127.0.0.1 pistolterrificsuspend.com
@@ -94545,7 +94532,6 @@
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 pmiskc.cn
 127.0.0.1 pmkez.tech
-127.0.0.1 pmloa40p.beget.tech
 127.0.0.1 pmm.people.com.cn
 127.0.0.1 pmma.ch
 127.0.0.1 pmmu.fr
@@ -95519,7 +95505,6 @@
 127.0.0.1 postolwepok.tech
 127.0.0.1 postorderapotheek.com
 127.0.0.1 postpagodescuentos.com
-127.0.0.1 postposted-dat-realistic-email.trycloudflare.com
 127.0.0.1 postproperties.co.zw
 127.0.0.1 postq.lat
 127.0.0.1 postr.ink
@@ -97250,7 +97235,6 @@
 127.0.0.1 proyecta.net.pe
 127.0.0.1 proyectosalji.com
 127.0.0.1 proyectosecreto.com
-127.0.0.1 proyectsace.bond
 127.0.0.1 prozaconline.com
 127.0.0.1 prpapp1expe.univ-orleans.fr
 127.0.0.1 prplad.com
@@ -99051,7 +99035,6 @@
 127.0.0.1 qtuxulczymu.com
 127.0.0.1 qu3.cc
 127.0.0.1 qu96.com
-127.0.0.1 quacksquirrel.com
 127.0.0.1 quacktypist.com
 127.0.0.1 quackupsilon.com
 127.0.0.1 quada.ru
@@ -115306,7 +115289,6 @@
 127.0.0.1 student-pickup.com
 127.0.0.1 student.spsbv.cz
 127.0.0.1 studentcreditcardhelp.com
-127.0.0.1 studentdebtrelieface.com
 127.0.0.1 studententipps.com
 127.0.0.1 studentloan.live
 127.0.0.1 studentloananalyzer.com
@@ -119961,7 +119943,6 @@
 127.0.0.1 thisisyourchangeqq.com
 127.0.0.1 thisisyourprize.site
 127.0.0.1 thissideupdesigns.com
-127.0.0.1 thitrangchaycantnonk.cyou
 127.0.0.1 thivelunliken.com
 127.0.0.1 thizecmeeshumum.net
 127.0.0.1 thj.astrakhan.ru
@@ -125762,7 +125743,6 @@
 127.0.0.1 uniplayad.com
 127.0.0.1 uniplaybook.com
 127.0.0.1 uniproject.substack.com
-127.0.0.1 uniqlo-fr.fr
 127.0.0.1 uniqloenfrance.fr
 127.0.0.1 uniqlofr.fr
 127.0.0.1 uniqlofrance.fr
@@ -126694,7 +126674,6 @@
 127.0.0.1 usn.cc
 127.0.0.1 usnd.to
 127.0.0.1 usnews.122.2o7.net
-127.0.0.1 usninicsooey.com
 127.0.0.1 usonar.jp
 127.0.0.1 usounoul.com
 127.0.0.1 usp1.baidu.com
@@ -126923,7 +126902,6 @@
 127.0.0.1 uspsmxpost.life
 127.0.0.1 uspsn.bond
 127.0.0.1 uspsnbfd.top
-127.0.0.1 uspsnfe.top
 127.0.0.1 uspsnfr.top
 127.0.0.1 uspsnlo.top
 127.0.0.1 uspsnlw.top
@@ -135642,7 +135620,6 @@
 127.0.0.1 xtxgsx.com
 127.0.0.1 xu.pl
 127.0.0.1 xu2.com
-127.0.0.1 xu5ctufltn.com
 127.0.0.1 xuan-yuan.com
 127.0.0.1 xubcnzfex.com
 127.0.0.1 xucafe.com

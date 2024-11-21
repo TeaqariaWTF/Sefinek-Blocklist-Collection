@@ -1,9 +1,9 @@
-# Version: 202411202206
+# Version: 202411210106
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 138619
-# Last modified: 2024-11-20T22:06:45+0000
+! Entries: 138596
+# Last modified: 2024-11-21T01:06:26+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2673,6 +2673,7 @@
 0.0.0.0 3rdeye.go2cloud.org
 0.0.0.0 3redlightfix.com
 0.0.0.0 3ri.cc
+0.0.0.0 3sas.icu
 0.0.0.0 3site-rss.s3-ap-northeast-1.amazonaws.com
 0.0.0.0 3sixty5.net
 0.0.0.0 3ssem.com
@@ -4048,7 +4049,6 @@
 0.0.0.0 6fx2ua.shet.eveshamairporttransfers.co.uk
 0.0.0.0 6g1a0138.cn
 0.0.0.0 6g88slzg2rxwg2lejrbd.viomil.ro
-0.0.0.0 6gcstb.xyz
 0.0.0.0 6gi0edui.xyz
 0.0.0.0 6glece4homah8dweracea.com
 0.0.0.0 6google.com
@@ -14289,7 +14289,6 @@
 0.0.0.0 analytics.126.net
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.300624.com
-0.0.0.0 analytics.30m.com
 0.0.0.0 analytics.365scores.com
 0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.74.ru
@@ -16428,7 +16427,6 @@
 0.0.0.0 apple-boutique.fr
 0.0.0.0 apple-icloud-id-security-information-restore-onlineprocess.gandharaguides.com
 0.0.0.0 apple-id-itunes.webcindario.com
-0.0.0.0 apple-jp.ingebandas.com
 0.0.0.0 apple-lbusca.com
 0.0.0.0 apple-localiser.fr
 0.0.0.0 apple-login.eb2a.com
@@ -19633,7 +19631,6 @@
 0.0.0.0 b57dqedu4.com
 0.0.0.0 b58ncoa1c07f.com
 0.0.0.0 b59307fdacf7b2db12ec4bd5ca1caba8-dot-oo0-987.appspot.com
-0.0.0.0 b5c01d507e.com
 0.0.0.0 b5c28f9b84.com
 0.0.0.0 b5e75c56.com
 0.0.0.0 b5f9253029.fbc6272bce.com
@@ -20450,7 +20447,6 @@
 0.0.0.0 bantenpipa.com
 0.0.0.0 banterteeserving.com
 0.0.0.0 bantex.ru
-0.0.0.0 bantuan-dna.ld-webb.biz.id
 0.0.0.0 bantuan-official-dana.dit2.my.id
 0.0.0.0 banvoucher-vn.weeblysite.com
 0.0.0.0 banxc.com
@@ -25778,7 +25774,6 @@
 0.0.0.0 businessdocs.org
 0.0.0.0 businessenviron.com
 0.0.0.0 businessessities.com
-0.0.0.0 businesseventskp.top
 0.0.0.0 businessfinancing-now.com
 0.0.0.0 businessfixnow.com
 0.0.0.0 businessformsc.com.tr
@@ -35696,6 +35691,7 @@
 0.0.0.0 cwconsultores.cnt.br
 0.0.0.0 cwdata.itsearch.co.kr
 0.0.0.0 cweb.ws
+0.0.0.0 cweizaf.top
 0.0.0.0 cwhrealestate.com
 0.0.0.0 cwhsmgs1.cn
 0.0.0.0 cwnetworkmparticle.112.2o7.net
@@ -47998,7 +47994,6 @@
 0.0.0.0 faggotry.com
 0.0.0.0 faggrim.com
 0.0.0.0 fagovwnavab.com
-0.0.0.0 fagywalu.pro
 0.0.0.0 fahad26smsm.duckdns.org
 0.0.0.0 fahd2010.ddns.net
 0.0.0.0 fahd2011.ddns.net
@@ -51926,7 +51921,6 @@
 0.0.0.0 frothadditions.com
 0.0.0.0 frotic.com
 0.0.0.0 frotneels.shop
-0.0.0.0 froughyprovine.click
 0.0.0.0 frowzlynecklet.top
 0.0.0.0 frozenmeatproducer.com
 0.0.0.0 frozentoaster.com
@@ -53634,7 +53628,6 @@
 0.0.0.0 geladinhogourmetoficial.com.br
 0.0.0.0 gelatineabstainads.com
 0.0.0.0 gelatinelighter.com
-0.0.0.0 gelatinerespectivelyhector.com
 0.0.0.0 gelatogems.com
 0.0.0.0 geldencosmeticos.com
 0.0.0.0 gelfull.com.de
@@ -57724,7 +57717,6 @@
 0.0.0.0 grouse.i21.co
 0.0.0.0 grouse.textile.io
 0.0.0.0 grouse.ultimateballistics.com
-0.0.0.0 grout.group
 0.0.0.0 groutoozy.com
 0.0.0.0 groutsukooh.net
 0.0.0.0 grova.buzz
@@ -59760,7 +59752,6 @@
 0.0.0.0 heartbeats.prd.data.s.joyn.de
 0.0.0.0 heartbreakingmind.com
 0.0.0.0 heartbreakslotserpent.com
-0.0.0.0 heartburnrelieface.com
 0.0.0.0 heartchakracheckup.com
 0.0.0.0 heartdiseaseaid.com
 0.0.0.0 heartdiseasehome.com
@@ -61442,7 +61433,6 @@
 0.0.0.0 horse.vesuvius-publishing.com
 0.0.0.0 horse.zwei-bags.com
 0.0.0.0 horsebackbeatingangular.com
-0.0.0.0 horsebackcastle.com
 0.0.0.0 hortestoz.com
 0.0.0.0 hortitedigress.com
 0.0.0.0 hortline.com
@@ -67394,6 +67384,7 @@
 0.0.0.0 jjjj.getui.vip
 0.0.0.0 jjjkl.com
 0.0.0.0 jjlgbyd.in
+0.0.0.0 jjmrmeovo.world
 0.0.0.0 jjp59.com
 0.0.0.0 jjpnveujkk.com
 0.0.0.0 jjpp.lmtjapi.com
@@ -69393,7 +69384,6 @@
 0.0.0.0 khsecurity.sg
 0.0.0.0 khufaw2.com
 0.0.0.0 khujos-nl.com
-0.0.0.0 khujoverkoop.com
 0.0.0.0 khuoy.com
 0.0.0.0 khushalitravels.com
 0.0.0.0 khuyenkhichsangtaoviet.net
@@ -74798,7 +74788,6 @@
 0.0.0.0 long.carolinakilns.com
 0.0.0.0 long.k12insight.net
 0.0.0.0 long1x.xyz
-0.0.0.0 longanpulex.shop
 0.0.0.0 longarctic.com
 0.0.0.0 longbeierfs.cn
 0.0.0.0 longchamp--outlet.org
@@ -76459,7 +76448,6 @@
 0.0.0.0 magmbb.com
 0.0.0.0 magmut.fr
 0.0.0.0 magnaki.com
-0.0.0.0 magnannichaussures.fr
 0.0.0.0 magneseum.pages.dev
 0.0.0.0 magnet4power.com
 0.0.0.0 magnetadservices.com
@@ -82518,7 +82506,6 @@
 0.0.0.0 mueritzer-raeuchertipps.de
 0.0.0.0 mufcrkk.com
 0.0.0.0 mufera.com
-0.0.0.0 muffermafioso.com
 0.0.0.0 muffin.no-ip.biz
 0.0.0.0 mufflercypress.com
 0.0.0.0 mufflerlightsgroups.com
@@ -84930,7 +84917,6 @@
 0.0.0.0 newcp.amtech.sd
 0.0.0.0 newcp.aurcleaning.com
 0.0.0.0 newcp.bayraklicicekciler.com
-0.0.0.0 newcp.bitezeventwedding.com
 0.0.0.0 newcp.bnkilaclama.com
 0.0.0.0 newcp.bornovacicekciler.com
 0.0.0.0 newcp.boscosoft.ae
@@ -86192,6 +86178,7 @@
 0.0.0.0 noir-wonen.com
 0.0.0.0 noirswide.com
 0.0.0.0 noirtease.com
+0.0.0.0 nois5gj.xyz
 0.0.0.0 noiseaway.store
 0.0.0.0 noiselessplough.com
 0.0.0.0 noiselessvegetables.com
@@ -88346,6 +88333,7 @@
 0.0.0.0 oleousjosher.com
 0.0.0.0 olep.xyz
 0.0.0.0 olevole.ru
+0.0.0.0 olgrae.com
 0.0.0.0 olhequedemais.com.br
 0.0.0.0 olhomagicocdt.duckdns.org
 0.0.0.0 olhsc.org
@@ -93834,7 +93822,6 @@
 0.0.0.0 pismax.com
 0.0.0.0 pisosribarroja.es
 0.0.0.0 pista.con-ip.com
-0.0.0.0 pistadebaile.co
 0.0.0.0 pistola404.duckdns.org
 0.0.0.0 pistolstumbled.com
 0.0.0.0 pistolterrificsuspend.com
@@ -94545,7 +94532,6 @@
 0.0.0.0 pmir.3g.qq.com
 0.0.0.0 pmiskc.cn
 0.0.0.0 pmkez.tech
-0.0.0.0 pmloa40p.beget.tech
 0.0.0.0 pmm.people.com.cn
 0.0.0.0 pmma.ch
 0.0.0.0 pmmu.fr
@@ -95519,7 +95505,6 @@
 0.0.0.0 postolwepok.tech
 0.0.0.0 postorderapotheek.com
 0.0.0.0 postpagodescuentos.com
-0.0.0.0 postposted-dat-realistic-email.trycloudflare.com
 0.0.0.0 postproperties.co.zw
 0.0.0.0 postq.lat
 0.0.0.0 postr.ink
@@ -97250,7 +97235,6 @@
 0.0.0.0 proyecta.net.pe
 0.0.0.0 proyectosalji.com
 0.0.0.0 proyectosecreto.com
-0.0.0.0 proyectsace.bond
 0.0.0.0 prozaconline.com
 0.0.0.0 prpapp1expe.univ-orleans.fr
 0.0.0.0 prplad.com
@@ -99051,7 +99035,6 @@
 0.0.0.0 qtuxulczymu.com
 0.0.0.0 qu3.cc
 0.0.0.0 qu96.com
-0.0.0.0 quacksquirrel.com
 0.0.0.0 quacktypist.com
 0.0.0.0 quackupsilon.com
 0.0.0.0 quada.ru
@@ -115306,7 +115289,6 @@
 0.0.0.0 student-pickup.com
 0.0.0.0 student.spsbv.cz
 0.0.0.0 studentcreditcardhelp.com
-0.0.0.0 studentdebtrelieface.com
 0.0.0.0 studententipps.com
 0.0.0.0 studentloan.live
 0.0.0.0 studentloananalyzer.com
@@ -119961,7 +119943,6 @@
 0.0.0.0 thisisyourchangeqq.com
 0.0.0.0 thisisyourprize.site
 0.0.0.0 thissideupdesigns.com
-0.0.0.0 thitrangchaycantnonk.cyou
 0.0.0.0 thivelunliken.com
 0.0.0.0 thizecmeeshumum.net
 0.0.0.0 thj.astrakhan.ru
@@ -125762,7 +125743,6 @@
 0.0.0.0 uniplayad.com
 0.0.0.0 uniplaybook.com
 0.0.0.0 uniproject.substack.com
-0.0.0.0 uniqlo-fr.fr
 0.0.0.0 uniqloenfrance.fr
 0.0.0.0 uniqlofr.fr
 0.0.0.0 uniqlofrance.fr
@@ -126694,7 +126674,6 @@
 0.0.0.0 usn.cc
 0.0.0.0 usnd.to
 0.0.0.0 usnews.122.2o7.net
-0.0.0.0 usninicsooey.com
 0.0.0.0 usonar.jp
 0.0.0.0 usounoul.com
 0.0.0.0 usp1.baidu.com
@@ -126923,7 +126902,6 @@
 0.0.0.0 uspsmxpost.life
 0.0.0.0 uspsn.bond
 0.0.0.0 uspsnbfd.top
-0.0.0.0 uspsnfe.top
 0.0.0.0 uspsnfr.top
 0.0.0.0 uspsnlo.top
 0.0.0.0 uspsnlw.top
@@ -135642,7 +135620,6 @@
 0.0.0.0 xtxgsx.com
 0.0.0.0 xu.pl
 0.0.0.0 xu2.com
-0.0.0.0 xu5ctufltn.com
 0.0.0.0 xuan-yuan.com
 0.0.0.0 xubcnzfex.com
 0.0.0.0 xucafe.com
