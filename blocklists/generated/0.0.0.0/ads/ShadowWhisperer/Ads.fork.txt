@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,528
-# Updated: 11/20/2024  19:09 (7:09 PM CST)
+# Domains: 20,542
+# Updated: 11/20/2024  23:55 (11:55 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2017,6 +2017,7 @@
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 0.0.0.0 ad-m.asia
+0.0.0.0 admaster.cc
 0.0.0.0 admaster.com
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.de
@@ -2103,6 +2104,7 @@
 0.0.0.0 ad.miztec.pt
 0.0.0.0 admlb.com
 0.0.0.0 ad.mms-muenster.de
+0.0.0.0 ad-m.net
 0.0.0.0 admob.biz
 0.0.0.0 admob.co.kr
 0.0.0.0 admob.com
@@ -6715,8 +6717,6 @@
 0.0.0.0 aotgm.com
 0.0.0.0 aotter.net
 0.0.0.0 ap01.pub.funshion.com
-0.0.0.0 apac-hk-ads.aralego.net
-0.0.0.0 apac-tw-ads.aralego.net
 0.0.0.0 apartena.net
 0.0.0.0 apbbjmp.com
 0.0.0.0 apcl360.com
@@ -6939,7 +6939,6 @@
 0.0.0.0 asa.co.nz
 0.0.0.0 asapp.com
 0.0.0.0 asap.sindikata.org
-0.0.0.0 as.casalemedia.com.edgesuite.net
 0.0.0.0 asccdn.com
 0.0.0.0 ascc.javquick.com
 0.0.0.0 ascendvideo.com
@@ -8120,6 +8119,7 @@
 0.0.0.0 c22x1.xcdn.ovh
 0.0.0.0 c2.datingpartner.com
 0.0.0.0 c2.neoncdn.com
+0.0.0.0 c2shb-oao.ssp.yahoo.com
 0.0.0.0 c2shb.pubgw.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 c3medianetwork.com
@@ -8226,7 +8226,9 @@
 0.0.0.0 carsongroupadvertising.com
 0.0.0.0 cartender.co
 0.0.0.0 carti.io
+0.0.0.0 casale-match.dotomi.com
 0.0.0.0 casalemedia.com
+0.0.0.0 casalemedia.com.edgekey.net
 0.0.0.0 casalemedia.com.edgesuite.net
 0.0.0.0 cash4members.com
 0.0.0.0 cash-ads.com
@@ -9445,6 +9447,7 @@
 0.0.0.0 d35xxde4fgg0cx.cloudfront.net
 0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 d37oebn0w9ir6a.cloudfront.net
+0.0.0.0 d37unsldgykj8z.cloudfront.net
 0.0.0.0 d38psrni17bvxu.cloudfront.net
 0.0.0.0 d3c8j8snkzfr1n.cloudfront.net
 0.0.0.0 d3cod80thn7qnd.cloudfront.net
@@ -9560,6 +9563,7 @@
 0.0.0.0 dc.chillyroom.com
 0.0.0.0 dcdd.online
 0.0.0.0 dclick.io
+0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dcmagency.com
 0.0.0.0 dc-storm.com
 0.0.0.0 dcwacl.com
@@ -10145,6 +10149,7 @@
 0.0.0.0 edge360.co.uk
 0.0.0.0 edgecast-vod.yimg.com
 0.0.0.0 edgeoffer.microsoft.com
+0.0.0.0 edge-prebid-cdn.g03.yahoodns.net
 0.0.0.0 e-dialog.at
 0.0.0.0 e-dialog.ch
 0.0.0.0 e-dialog.pl
@@ -10236,6 +10241,7 @@
 0.0.0.0 emsservice.de
 0.0.0.0 emxdgt.com
 0.0.0.0 emxdigital.com
+0.0.0.0 emx-match.dotomi.com
 0.0.0.0 emycewiw.xyz
 0.0.0.0 enbpvt.com
 0.0.0.0 enchanted-stretch.pro
@@ -10326,6 +10332,7 @@
 0.0.0.0 eqfgrt.com
 0.0.0.0 eqmx04n5s0.ru
 0.0.0.0 eqolot.com
+0.0.0.0 equativ.com
 0.0.0.0 equityme.com
 0.0.0.0 erandex.com
 0.0.0.0 erasercash.com
@@ -10776,6 +10783,7 @@
 0.0.0.0 fractalcoast.com
 0.0.0.0 fractionalmedia.com
 0.0.0.0 franchiseramp.com
+0.0.0.0 fran.frvr.com
 0.0.0.0 franklychat.com
 0.0.0.0 frankly.images.worldnow.com
 0.0.0.0 frap.frap.site
@@ -11970,6 +11978,7 @@
 0.0.0.0 inmobicdn.net
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.com
+0.0.0.0 inmobi-match.dotomi.com
 0.0.0.0 inmotiongroup.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 innismaggiore.com
@@ -12551,6 +12560,7 @@
 0.0.0.0 krizim.com
 0.0.0.0 krkk.online
 0.0.0.0 krush.com
+0.0.0.0 krush-match.dotomi.com
 0.0.0.0 krushmedia.com
 0.0.0.0 kryptoads.com
 0.0.0.0 kryteo.com
@@ -13277,6 +13287,7 @@
 0.0.0.0 mediamond.it
 0.0.0.0 media.net
 0.0.0.0 medianetadvertising.com
+0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 mediaocean.com
 0.0.0.0 media.on.betrivers.ca
 0.0.0.0 mediapalmtree.com
@@ -14841,20 +14852,21 @@
 0.0.0.0 pazzfun.com
 0.0.0.0 p.barlo.xyz
 0.0.0.0 pbc.decider.com
+0.0.0.0 pbc.yahoo.com
+0.0.0.0 pbd.yahoo.com
 0.0.0.0 pbgrd.com
-0.0.0.0 p.bhlph.com
 0.0.0.0 pbh-network-com.videoplayerhub.com
 0.0.0.0 pbmusf.com
 0.0.0.0 pbnblm.com
 0.0.0.0 pb-rtd-minutemedia.ccgateway.net
 0.0.0.0 pbstck.com
+0.0.0.0 pbs.yahoo.com
 0.0.0.0 pbterra.com
 0.0.0.0 p.buram.xyz
 0.0.0.0 pc3ads.com
 0.0.0.0 pc5ads.com
 0.0.0.0 p.cabhwq.com
 0.0.0.0 pcacdn.com
-0.0.0.0 p.calcpol.com
 0.0.0.0 pcgames.network
 0.0.0.0 p.cjlph.com
 0.0.0.0 pclk.name
@@ -14950,7 +14962,6 @@
 0.0.0.0 pgammedia.com
 0.0.0.0 p.gecl.xyz
 0.0.0.0 p.gelhp.com
-0.0.0.0 p.genfpm.com
 0.0.0.0 p.gerdasetmay.site
 0.0.0.0 pgmcdn.com
 0.0.0.0 pgnagency.com
@@ -14966,7 +14977,6 @@
 0.0.0.0 photosyntesis.com
 0.0.0.0 p.hqwa.xyz
 0.0.0.0 p.htdjylhttfm0424.space
-0.0.0.0 p.htkcm.com
 0.0.0.0 phywifupta.com
 0.0.0.0 pi4.piczhq.com
 0.0.0.0 piads.vn
@@ -15297,7 +15307,6 @@
 0.0.0.0 pp-prod-ads.ue2.breadgateway.net
 0.0.0.0 ppr.media
 0.0.0.0 p.puyjjq.com
-0.0.0.0 p.puysis.com
 0.0.0.0 p.qlogo.cn
 0.0.0.0 pqrtd9hhtu9x.info
 0.0.0.0 pqype.com
@@ -15305,7 +15314,6 @@
 0.0.0.0 practicalbar.pro
 0.0.0.0 pragatimediasolutions.com
 0.0.0.0 prajapatiadvertising.com
-0.0.0.0 p.rausfml.com
 0.0.0.0 p.rawqel.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pre.03porno.com
@@ -15395,8 +15403,8 @@
 0.0.0.0 prodmp.ru
 0.0.0.0 productserve.com
 0.0.0.0 productsurfer.com
+0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 0.0.0.0 proelementcreatives.com
-0.0.0.0 p.roemoss.com
 0.0.0.0 profitsence.com
 0.0.0.0 profitshare.bg
 0.0.0.0 profitshare.emag.ro
@@ -15593,6 +15601,7 @@
 0.0.0.0 publi.tkscreativos.com
 0.0.0.0 publy.com
 0.0.0.0 pubmatic.com
+0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmine.com
 0.0.0.0 pubnation.com
 0.0.0.0 pubnative.info
@@ -15807,7 +15816,6 @@
 0.0.0.0 puysis.com
 0.0.0.0 pv.aramisauto.com
 0.0.0.0 pv.claudiepierlot.com
-0.0.0.0 p.verwh.com
 0.0.0.0 pvf680.top
 0.0.0.0 p.viowrel.com
 0.0.0.0 pv.izy.com
@@ -15826,7 +15834,6 @@
 0.0.0.0 pwxlqg.com
 0.0.0.0 p.xbcpcn.com
 0.0.0.0 pxc.otto.de
-0.0.0.0 p.xipteq.com
 0.0.0.0 pxlad.io
 0.0.0.0 pxlsrv.net
 0.0.0.0 pxlssl.ibpxl.com
@@ -17910,7 +17917,6 @@
 0.0.0.0 ssp-web-bidder.igaw.io
 0.0.0.0 ssp-web-request.igaw.io
 0.0.0.0 s-static.innovid.com.edgekey.net
-0.0.0.0 ssum-sec.casalemedia.com.edgekey.net
 0.0.0.0 ssvim.com
 0.0.0.0 sszhan.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 st1.lg.avendrealouer.fr
@@ -18091,6 +18097,7 @@
 0.0.0.0 stupid-luck.com
 0.0.0.0 stvkr.com
 0.0.0.0 stw.co.in
+0.0.0.0 stx-match.dotomi.com
 0.0.0.0 styria-digital.com
 0.0.0.0 subdued-illegal.pro
 0.0.0.0 sublimerevenue.com
@@ -18182,6 +18189,7 @@
 0.0.0.0 symplr.de
 0.0.0.0 synacor.com
 0.0.0.0 sync2ad.com
+0.0.0.0 sync.a-mo.net
 0.0.0.0 sync.app.copper6.com
 0.0.0.0 sync.bidmatic.io
 0.0.0.0 sync.etalonco.com
@@ -18824,6 +18832,7 @@
 0.0.0.0 trimgrandmother.pro
 0.0.0.0 trimpur.com
 0.0.0.0 triplelift.com
+0.0.0.0 triplelift-match.dotomi.com
 0.0.0.0 tripple.at
 0.0.0.0 tripple.net
 0.0.0.0 triptent.com
@@ -18860,6 +18869,7 @@
 0.0.0.0 trustbadge.shopclimb.com
 0.0.0.0 truste.com
 0.0.0.0 trustedbanana.com
+0.0.0.0 trustedstack.com
 0.0.0.0 trustmarkthai.com
 0.0.0.0 trustseal.enamad.ir
 0.0.0.0 trustx.org
@@ -19153,6 +19163,7 @@
 0.0.0.0 us-ads-jitt.akamaized.net
 0.0.0.0 uscluster.com
 0.0.0.0 uscluster.net
+0.0.0.0 use2-assets.a-mo.net
 0.0.0.0 useless-promotion.pro
 0.0.0.0 uselnk.com
 0.0.0.0 usemax.de
@@ -19519,6 +19530,7 @@
 0.0.0.0 vismark.us
 0.0.0.0 visoon-dai.com
 0.0.0.0 vistarmedia.com
+0.0.0.0 vistarsagency.com
 0.0.0.0 vi-tag.net
 0.0.0.0 vital20communications.com
 0.0.0.0 vitalads.net
@@ -20216,6 +20228,7 @@
 0.0.0.0 yahoho.de
 0.0.0.0 yahooadblaster.com
 0.0.0.0 yahoobluelithium.com
+0.0.0.0 yahoo-match.dotomi.com
 0.0.0.0 yajani.com
 0.0.0.0 yajgm.com
 0.0.0.0 yamads.com
@@ -20270,6 +20283,7 @@
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
+0.0.0.0 yieldmo-match.dotomi.com
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yieldopt.spreaker.com
 0.0.0.0 yieldpartners.com
