@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-21 10:19:07 (UTC)                      #
+# Last updated: 2024-11-21 12:44:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,12 +8,12 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
-0.0.0.0 adf6.adf6.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 aiddoscnc.aisysmddos.com
@@ -27,9 +27,7 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
-0.0.0.0 asianchow.com
 0.0.0.0 aulist.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 aviationchartersolutions.com
 0.0.0.0 bgyeger.r6.hu
@@ -48,10 +46,13 @@
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 clavity.me
+0.0.0.0 cmgtrading.eu
 0.0.0.0 cnc.carteldesinaloa.ru
 0.0.0.0 coach.028csc.com
+0.0.0.0 coadymarine.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
+0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
@@ -66,6 +67,7 @@
 0.0.0.0 dnvk1.info
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -94,18 +96,19 @@
 0.0.0.0 funletters.net
 0.0.0.0 garhoudjourm.com
 0.0.0.0 gawx.florenda.com
-0.0.0.0 girlsgifs.com
 0.0.0.0 heavyequipmentsales.au
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
+0.0.0.0 hseda.com
 0.0.0.0 huayusoft.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 in-houselegal.ro
 0.0.0.0 inayatullah.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirecollege.co.uk
+0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 jaipurraj.com
 0.0.0.0 javierlopez.eu
@@ -133,11 +136,10 @@
 0.0.0.0 new-tech-savvy.com
 0.0.0.0 newvideo.link
 0.0.0.0 noithaticon.vn
-0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
-0.0.0.0 onemk3.teracomm.mk
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
@@ -157,8 +159,6 @@
 0.0.0.0 sbelegi.com.br
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 segurofinalizar.shop
-0.0.0.0 ser.nrovn.xyz
-0.0.0.0 sfa.com.ar
 0.0.0.0 shadon.net
 0.0.0.0 shalouxt.top
 0.0.0.0 shell.dimitrimedia.com
@@ -181,7 +181,6 @@
 0.0.0.0 telegram-app.vip
 0.0.0.0 telegramcn.co
 0.0.0.0 telezgram.top
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 travelwithmanta.co.za
@@ -199,7 +198,6 @@
 0.0.0.0 winyardbuilding.nz
 0.0.0.0 www.333zz.top
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.atordeg.com.br
 0.0.0.0 www.aviationchartersolutions.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
@@ -211,7 +209,6 @@
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hseda.com
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
@@ -234,6 +231,6 @@
 0.0.0.0 ywp.guide.borden-carleton.ca
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 230
+0.0.0.0 zunigarquitectura.com
+# Number of entries: 227
