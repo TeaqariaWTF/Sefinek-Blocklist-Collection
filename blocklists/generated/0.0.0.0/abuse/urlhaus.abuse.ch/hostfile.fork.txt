@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-22 10:19:10 (UTC)                      #
+# Last updated: 2024-11-22 12:39:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,9 +9,8 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
-0.0.0.0 360down7.miiyun.cn
+0.0.0.0 2.haory.cn
 0.0.0.0 7zip10-2024.top
-0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -37,7 +36,6 @@
 0.0.0.0 bot.suqi.bf
 0.0.0.0 bsfchile.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 by.haory.cn
 0.0.0.0 cajgtus.com
 0.0.0.0 casacoimbramaputo.com
 0.0.0.0 catbaparadisehotel.com.vn
@@ -46,6 +44,8 @@
 0.0.0.0 cdn-defac18.artcollective-snapclick.com
 0.0.0.0 cdn.wecdndown.com
 0.0.0.0 cheat.underground-cheat.com
+0.0.0.0 chromeupdates.com
+0.0.0.0 chromeupdates.xyz
 0.0.0.0 ciscocdn.com
 0.0.0.0 clavity.me
 0.0.0.0 cmgtrading.eu
@@ -57,12 +57,9 @@
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
 0.0.0.0 deauduafzgezzfgm.top
-0.0.0.0 defgyma.com
-0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
@@ -98,7 +95,6 @@
 0.0.0.0 geui.cases.pcohenlaw.com
 0.0.0.0 hailcocks.ru
 0.0.0.0 heavyequipmentsales.au
-0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
@@ -120,6 +116,7 @@
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 kiemthehuyenlong.com
+0.0.0.0 klingdownload.com
 0.0.0.0 kuotc.staff.plenarykcg.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
@@ -134,18 +131,18 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 newvideo.link
-0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
-0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 protechasia.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 redappletravel.com
@@ -162,7 +159,6 @@
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
@@ -175,13 +171,16 @@
 0.0.0.0 swaceapp.com
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
+0.0.0.0 tecunonline.com
 0.0.0.0 telegram-app.vip
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.destinyalertapp.com
 0.0.0.0 thedotmediagroup.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 twizt.net
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 up.maolaoban.top
@@ -229,4 +228,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 223
+# Number of entries: 222
