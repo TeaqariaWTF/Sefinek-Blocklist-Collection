@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-22 12:39:08 (UTC)                      #
+# Last updated: 2024-11-22 14:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,7 +10,9 @@
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -48,7 +50,6 @@
 0.0.0.0 chromeupdates.xyz
 0.0.0.0 ciscocdn.com
 0.0.0.0 clavity.me
-0.0.0.0 cmgtrading.eu
 0.0.0.0 cnc.carteldesinaloa.ru
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -57,9 +58,12 @@
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
 0.0.0.0 deauduafzgezzfgm.top
+0.0.0.0 defgyma.com
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
@@ -67,7 +71,6 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -93,8 +96,10 @@
 0.0.0.0 garhoudjourm.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 geui.cases.pcohenlaw.com
+0.0.0.0 goodlabel.cn
 0.0.0.0 hailcocks.ru
 0.0.0.0 heavyequipmentsales.au
+0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
@@ -116,6 +121,7 @@
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 kiemthehuyenlong.com
+0.0.0.0 klingdow.com
 0.0.0.0 klingdownload.com
 0.0.0.0 kuotc.staff.plenarykcg.com
 0.0.0.0 library.arihantmbainstitute.ac.in
@@ -131,7 +137,6 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 newvideo.link
-0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
@@ -140,9 +145,9 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
-0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 redappletravel.com
@@ -157,8 +162,8 @@
 0.0.0.0 shadon.net
 0.0.0.0 shalouxt.top
 0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
+0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
@@ -228,4 +233,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 222
+# Number of entries: 227
