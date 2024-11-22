@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,555
-# Updated: 11/21/2024  11:42 (11:42 AM CST)
+# Domains: 20,567
+# Updated: 11/21/2024  16:47 (4:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1482,6 +1482,7 @@
 0.0.0.0 addroid.com
 0.0.0.0 addroplet.com
 0.0.0.0 addservicemedia.com
+0.0.0.0 addshoppers.s3.amazonaws.com
 0.0.0.0 addthiscdn.com
 0.0.0.0 addthis.com
 0.0.0.0 addthisedge.com
@@ -6584,6 +6585,7 @@
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazonadvertising.com
+0.0.0.0 amazon-tam-match.dotomi.com
 0.0.0.0 ambestbrandcom.in
 0.0.0.0 ambientdigitalgroup.com
 0.0.0.0 ambientplatform.vn
@@ -7415,6 +7417,7 @@
 0.0.0.0 bannerx.onlyadd.com
 0.0.0.0 banneryear.io
 0.0.0.0 bannieres.wdmedia.net
+0.0.0.0 banrsaa.dealeron.com
 0.0.0.0 bapa215.top
 0.0.0.0 baradvertisingusa.com
 0.0.0.0 barcindia.in
@@ -8783,6 +8786,7 @@
 0.0.0.0 commission-junction.net
 0.0.0.0 commissionjunction.net
 0.0.0.0 commissionkings.ag
+0.0.0.0 commoninja.com
 0.0.0.0 communicationcrafts.in
 0.0.0.0 compassionmedia.com
 0.0.0.0 completemediainc.com
@@ -9001,6 +9005,7 @@
 0.0.0.0 cp.bunte.de
 0.0.0.0 cp.businessinsider.de
 0.0.0.0 cp.businessinsider.es
+0.0.0.0 cp.cadenaser.com
 0.0.0.0 cp.caranddriver.com
 0.0.0.0 cp.chip.de
 0.0.0.0 cp.clima.com
@@ -9008,6 +9013,7 @@
 0.0.0.0 cp.connect.de
 0.0.0.0 cp.connect-living.de
 0.0.0.0 cp.cosmopolitan.com
+0.0.0.0 cp.dasinvestment.com
 0.0.0.0 cp.das-pta-magazin.de
 0.0.0.0 cp.deine-tierwelt.de
 0.0.0.0 cp.derwesten.de
@@ -10810,6 +10816,7 @@
 0.0.0.0 freewheel2018.tv
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel-live.fuse.tv
+0.0.0.0 freewheel-match.dotomi.com
 0.0.0.0 freewheel.tv
 0.0.0.0 freexmedia.de
 0.0.0.0 frequencyads.com
@@ -16860,6 +16867,7 @@
 0.0.0.0 ru7mee8nhmz8.ru
 0.0.0.0 ruamupr.com
 0.0.0.0 rubanners.com
+0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 rubiconproject.mobi
 0.0.0.0 rubiconproject.net
@@ -17435,6 +17443,7 @@
 0.0.0.0 shopliftr.com
 0.0.0.0 shoplove.com
 0.0.0.0 shopmsg.me
+0.0.0.0 shop.pe
 0.0.0.0 shop-pop.com
 0.0.0.0 shop-pop.com.herokudns.com
 0.0.0.0 shoptwitchcdn.com
@@ -17707,6 +17716,7 @@
 0.0.0.0 socioshout.com
 0.0.0.0 socital.com
 0.0.0.0 socius.co
+0.0.0.0 socy.pro
 0.0.0.0 softcube.com
 0.0.0.0 softonicads.com
 0.0.0.0 softwaredefinedappdelivery.com
@@ -19732,6 +19742,7 @@
 0.0.0.0 webcampromo.com
 0.0.0.0 webcampromotions.com
 0.0.0.0 web-cardinal.com
+0.0.0.0 webchannel-content.eservice.emarsys.net
 0.0.0.0 web.cinetux.nu
 0.0.0.0 webclients.net
 0.0.0.0 webcontentassessor.com
@@ -19928,6 +19939,7 @@
 0.0.0.0 widget.starfieldtech.com
 0.0.0.0 widgets.thereviewsplace.com
 0.0.0.0 widgets.tree.com
+0.0.0.0 widgets.upstart.com
 0.0.0.0 widgets.vinaudit.com
 0.0.0.0 widgets.wp.com
 0.0.0.0 widgets.xsellco.com
