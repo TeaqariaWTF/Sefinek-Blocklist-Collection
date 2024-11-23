@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-11-23 01:43:06 (UTC)                      !
+! Last updated: 2024-11-23 02:49:07 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -23,6 +23,7 @@
 ||alien-training.com^
 ||amoamosss.com^
 ||aosafrica.co.za^
+||api.52kkg.com^
 ||api.ewfiles.net^
 ||arcsystem.rodopibg.net^
 ||armanayegh.com^
@@ -128,7 +129,6 @@
 ||municipiodomaio.cv^
 ||namthaibinh.net^
 ||newvideo.link^
-||noithaticon.vn^
 ||ns.smallsrv.com^
 ||odoo.kseibitools.com^
 ||osecweb.ir^
@@ -154,18 +154,17 @@
 ||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||sirault.be^
-||soft.110route.com^
 ||softcatalog.ru^
 ||soportegira.net^
 ||sos.vivi.sg^
 ||soyjak.download^
+||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||support.clz.kr^
 ||swaceapp.com^
 ||taodianla.com^
 ||tecni-soft.com^
 ||tecunonline.com^
-||telegram-app.vip^
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
@@ -190,16 +189,17 @@
 ||www.atordeg.com.br^
 ||www.aviationchartersolutions.com^
 ||www.beiletoys.com^
+||www.bkzj.wang^
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
 ||www.chrismccaw.net^
 ||www.clavity.me^
 ||www.globallaborsupply.com^
 ||www.grupodulcemar.pe^
-||www.hseda.com^
 ||www.info-track-del.com^
 ||www.ingonherbal.com^
 ||www.medises.co.kr^
+||www.netsolution.it^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.qqqmy.com^
@@ -216,5 +216,6 @@
 ||xiangshunjy.com^
 ||xkobeimparatu.net^
 ||ywxww.net^
+||z.shavsl.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 211
+! Number of entries: 212

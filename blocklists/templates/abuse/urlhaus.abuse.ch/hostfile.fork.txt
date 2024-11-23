@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-23 01:43:06 (UTC)                      #
+# Last updated: 2024-11-23 02:49:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,6 +23,7 @@
 0.0.0.0 alien-training.com
 0.0.0.0 amoamosss.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
@@ -128,7 +129,6 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 newvideo.link
-0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 osecweb.ir
@@ -154,18 +154,17 @@
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 soyjak.download
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 support.clz.kr
 0.0.0.0 swaceapp.com
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegram-app.vip
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -190,16 +189,17 @@
 0.0.0.0 www.atordeg.com.br
 0.0.0.0 www.aviationchartersolutions.com
 0.0.0.0 www.beiletoys.com
+0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clavity.me
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
-0.0.0.0 www.hseda.com
 0.0.0.0 www.info-track-del.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
@@ -216,5 +216,6 @@
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xkobeimparatu.net
 0.0.0.0 ywxww.net
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 211
+# Number of entries: 212

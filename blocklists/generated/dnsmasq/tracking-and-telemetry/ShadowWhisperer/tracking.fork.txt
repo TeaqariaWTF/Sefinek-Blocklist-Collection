@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,837
-# Updated: 11/22/2024  19:43 (7:43 PM CST)
+# Domains: 95,824
+# Updated: 11/22/2024  20:12 (8:12 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5129,7 +5129,6 @@ server=/analytics.cbc.ch/
 server=/analytics.cbe.de/
 server=/analytics.cbsrv.net/
 server=/analytics.cb-technics.de/
-server=/analytics.ccgateway.net/
 server=/analytics.cc-lit.gr/
 server=/analytics.ccs.mcafee.com/
 server=/analytics.cdf.cl/
@@ -15785,7 +15784,6 @@ server=/capybara.civicsoftwarefoundation.org/
 server=/capybara.kylewinton.com/
 server=/capybara.randyhamiltonelectric.com/
 server=/car-a8.tabirai.net/
-server=/carbon-cdn.ccgateway.net/
 server=/carbonplatform.com/
 server=/carcodesms.com/
 server=/cardelconnect.cardelhomes.com/
@@ -18595,8 +18593,6 @@ server=/countrysamplermagazine-news.com/
 server=/countrysampler-news.com/
 server=/country.tryshift.com/
 server=/countryworks.com/
-server=/count-server-js-lb.global.unified-prod.sharethis.net/
-server=/count-server.sharethis.com/
 server=/count.shein.com/
 server=/count.taobao.com/
 server=/count.teddydd.me/
@@ -23841,7 +23837,6 @@ server=/euronextvigeo.com/
 server=/europcarnews.co.uk/
 server=/europe-west1-mov-prod10.cloudfunctions.net/
 server=/europe-west1-realtime-logging-228816.cloudfunctions.net/
-server=/eus-api.ccgateway.net/
 server=/ev98trk.com/
 server=/evaluateend.com/
 server=/evaluationkit.com/
@@ -27159,7 +27154,6 @@ server=/htrace.wetvinfo.com/
 server=/h.truist.com/
 server=/ht.soundware.io/
 server=/ht.thepetlabco.com/
-server=/httplogserver-lb.global.unified-prod.sharethis.net/
 server=/httptrack.com/
 server=/ht.youporn.com/
 server=/hub2.pbs.org/
@@ -31939,7 +31933,6 @@ server=/k503.theweekjunior.com/
 server=/k54nw.pw/
 server=/k5a.io/
 server=/k677.collegexpress.com/
-server=/k8s1-event-tracker-la.lb.indexww.com/
 server=/k9cc.cloud/
 server=/kaden.netoff.co.jp/
 server=/kahoona.io/
@@ -64457,7 +64450,6 @@ server=/privacy.latitudefinancial.com/
 server=/privacy.latitudefinancial.com.au/
 server=/privacy.latitudefinancial.co.nz/
 server=/privacy.latitudepay.com/
-server=/privacy-location-edge.ccgateway.net/
 server=/privacy.online.heineken.co.za/
 server=/privacy.owllabs.com/
 server=/privacy.tigerbeer.com/
@@ -68407,7 +68399,6 @@ server=/securetags.img.com.br/
 server=/securetags.maps.com/
 server=/securetags.sigsa.info/
 server=/secure.tank3pull.com/
-server=/secure.target.ihg.com/
 server=/securetarget.nedbank.co.za/
 server=/secure.team8save.com/
 server=/securetenilstats.turner.com/
@@ -69205,7 +69196,6 @@ server=/shop.josbank.com/
 server=/shop.lids.ca/
 server=/shopmetrics.com/
 server=/shopperfact.com/
-server=/shopper.shop.pe/
 server=/shoppertrak.com/
 server=/shopping.cellpure.co.jp/
 server=/shops.lids.ca/
@@ -75727,7 +75717,6 @@ server=/static.growthrx.in/
 server=/static.hubu.fm/
 server=/static.huntresscdn.com/
 server=/static.lamoda.pl/
-server=/static.mailerlite.com/
 server=/static.mdcds.com/
 server=/static-mon.yandex.net/
 server=/static.nytimes.com/
@@ -85684,7 +85673,6 @@ server=/t.admp.io/
 server=/t.affluent.academy/
 server=/tag4arm.com/
 server=/tagalys.com/
-server=/tag-api-2-1.ccgateway.net/
 server=/tag.aticdn.net/
 server=/tag.atom.gamedistribution.com/
 server=/tag.azame.net/
@@ -87572,7 +87560,6 @@ server=/tracker.pardot.nccer.org/
 server=/tracker.pcastuces.com/
 server=/tracker.penningtonpartners.co/
 server=/tracker.people.ai/
-server=/tracker.personizely.net/
 server=/tracker.poi.ca/
 server=/tracker.pracuj.pl/
 server=/tracker.pre.vr-tb.com/
