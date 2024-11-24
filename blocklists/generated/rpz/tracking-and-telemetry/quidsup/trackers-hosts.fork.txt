@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024112301 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024112401 43200 3600 259200 300
   NS  localhost.
 0i0i0i0.com CNAME .
 *.0i0i0i0.com CNAME .
@@ -2861,8 +2861,6 @@ evyy.net CNAME .
 *.evyy.net CNAME .
 ew1.reg.bigdata.ssp.samsung.com CNAME .
 *.ew1.reg.bigdata.ssp.samsung.com CNAME .
-ewoverth.buzz CNAME .
-*.ewoverth.buzz CNAME .
 ex.co CNAME .
 *.ex.co CNAME .
 exacttarget.com CNAME .
