@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-25 04:24:19 (UTC)                      #
+# Last updated: 2024-11-25 06:24:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -36,6 +36,7 @@ server=/aulist.com/
 server=/avastop.com/
 server=/avastpx.com/
 server=/aviationchartersolutions.com/
+server=/b2c5.icu/
 server=/b9a1.icu/
 server=/bhcc.com.sa/
 server=/bitkiselurunsiparis.com/
@@ -56,6 +57,7 @@ server=/data.discuz.mobi/
 server=/data.yhydl.com/
 server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
+server=/defgyma.com/
 server=/dhnconstrucciones.com.ar/
 server=/diclegrup.org/
 server=/disk.accord1key.cn/
@@ -82,6 +84,7 @@ server=/evdeultrasoneko.com/
 server=/eveezueigohehla.co/
 server=/exilum.com/
 server=/f1010.diary.lojjh.com/
+server=/fetchdesignprint.co.za/
 server=/fiestagrandefm.com/
 server=/file.blackint3.com/
 server=/file.edunet.ac/
@@ -94,9 +97,11 @@ server=/goodlabel.cn/
 server=/hailcocks.ru/
 server=/heavyequipmentsales.au/
 server=/hitman-pro.ru/
+server=/hitstation.nl/
 server=/hoteltoscanaplaza.com.co/
 server=/hr2019.vrcom7.com/
 server=/hseda.com/
+server=/huayusoft.com/
 server=/huyanhnongdo.io.vn/
 server=/ilywe.cases.pcohenlaw.com/
 server=/in-houselegal.ro/
@@ -138,7 +143,6 @@ server=/osecweb.ir/
 server=/palharesinformatica.com.br/
 server=/paonancs.cn/
 server=/park.chuitian.cn/
-server=/passagetoeastafrica.com/
 server=/pb.agnt.ru/
 server=/perfectperu.com/
 server=/pid.fly160.com/
@@ -160,11 +164,11 @@ server=/shqdown.ggzuhao.com/
 server=/sirault.be/
 server=/soft.110route.com/
 server=/softcatalog.ru/
-server=/soportegira.net/
 server=/sos.vivi.sg/
 server=/soyjak.download/
-server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
+server=/support.clz.kr/
+server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/tekwk.cases.pcohenlaw.com/
@@ -193,19 +197,21 @@ server=/www.333zz.top/
 server=/www.aqianniao.com/
 server=/www.atordeg.com.br/
 server=/www.aviationchartersolutions.com/
+server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clavity.me/
+server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
+server=/www.grupodulcemar.pe/
 server=/www.info-track-del.com/
 server=/www.ingonherbal.com/
 server=/www.medises.co.kr/
 server=/www.netsolution.it/
-server=/www.ojang.pe.kr/
+server=/www.opolis.io/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
-server=/www.saf-oil.ru/
 server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.tecunonline.com/
@@ -220,4 +226,4 @@ server=/xkobeimparatu.net/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 214
+# Number of entries: 220
