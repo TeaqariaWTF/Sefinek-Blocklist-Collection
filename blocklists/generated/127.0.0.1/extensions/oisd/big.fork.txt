@@ -1,9 +1,9 @@
-# Version: 202411252007
+# Version: 202411252207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 138436
-# Last modified: 2024-11-25T20:07:31+0000
+! Entries: 138392
+# Last modified: 2024-11-25T22:07:04+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -270,7 +270,6 @@
 127.0.0.1 0dm.de
 127.0.0.1 0e60f44219d730f21219d0271225b36b.net
 127.0.0.1 0eade9dd8d.com
-127.0.0.1 0efghij.com
 127.0.0.1 0f253aba7e.205f21070c.com
 127.0.0.1 0f269944ac.9c98029b1e.com
 127.0.0.1 0f461325bf56c3e1b9.com
@@ -2007,7 +2006,6 @@
 127.0.0.1 2a3fa3df2e.3d285d98de.com
 127.0.0.1 2a4722f5ee.com
 127.0.0.1 2a4snhmtm.de
-127.0.0.1 2a5137a12a3e2f399b0e0414f208a142.online
 127.0.0.1 2a6d9e5059.com
 127.0.0.1 2a6ks2.blow.harrisretreat.com
 127.0.0.1 2aa1110514.69d11079bf.com
@@ -2833,7 +2831,6 @@
 127.0.0.1 440440688980429-dot-wetransfer-auth-file-344.appspot.com
 127.0.0.1 4406fd3cbb.fad1ef26a9.com
 127.0.0.1 440t1jcs6utnip.xyz
-127.0.0.1 4412ed1088.9bdf800214.com
 127.0.0.1 442fc29954.com
 127.0.0.1 444422.ru
 127.0.0.1 4449ae38c2.ee3d8d5c76.com
@@ -4948,6 +4945,7 @@
 127.0.0.1 9b9812f859.7a9eb57b9d.com
 127.0.0.1 9bar.top
 127.0.0.1 9bbbabcb26.com
+127.0.0.1 9bdf800214.com
 127.0.0.1 9bet938.com
 127.0.0.1 9bf9309f6f.com
 127.0.0.1 9bff4acb16.051e57adf3.com
@@ -15542,7 +15540,6 @@
 127.0.0.1 ao-mall.com
 127.0.0.1 ao.city24.lv
 127.0.0.1 ao.pe
-127.0.0.1 ao1123kas.top
 127.0.0.1 aoalmfwinbsstec23.com
 127.0.0.1 aoao11211iis.top
 127.0.0.1 aobao.com
@@ -25550,7 +25547,6 @@
 127.0.0.1 bujynaslvjlmf.com
 127.0.0.1 bukfjs17hds.b-cdn.net
 127.0.0.1 bukshiunchair.shop
-127.0.0.1 bukul.ru
 127.0.0.1 bukwnlpk4k.ru
 127.0.0.1 bulbbait.com
 127.0.0.1 bulbcrook.com
@@ -27403,7 +27399,6 @@
 127.0.0.1 carte-dacces.fr
 127.0.0.1 carte-expiration.fr
 127.0.0.1 carte-mobilite-imclusion.fr
-127.0.0.1 carte-regularisation.fr
 127.0.0.1 carte-sim.wf
 127.0.0.1 carte-vitaleameli.fr
 127.0.0.1 carteassistance.fr
@@ -29468,7 +29463,6 @@
 127.0.0.1 chemico.biz
 127.0.0.1 cheminnovabv.com
 127.0.0.1 chemise-polo.fr
-127.0.0.1 chemisepolo.fr
 127.0.0.1 chemistry11.honor.es
 127.0.0.1 chemitug.net
 127.0.0.1 chemlite.com.my
@@ -29924,7 +29918,6 @@
 127.0.0.1 chronopost-xpress.fr
 127.0.0.1 chronopost.casa
 127.0.0.1 chronopost.cheap
-127.0.0.1 chronopost.hair
 127.0.0.1 chronopost.kaufen
 127.0.0.1 chronopost24h.fr
 127.0.0.1 chronopostacheminementcolis.fr
@@ -35670,7 +35663,6 @@
 127.0.0.1 cwsone.in
 127.0.0.1 cwt.citywire.info
 127.0.0.1 cwuaxtqahvk.com
-127.0.0.1 cwvfikunas.com
 127.0.0.1 cwwgqu.xyz
 127.0.0.1 cx.v5cam.com
 127.0.0.1 cx6.lastxxxmovies.com
@@ -39074,7 +39066,6 @@
 127.0.0.1 detmm.com
 127.0.0.1 detour.click
 127.0.0.1 detourgame.com
-127.0.0.1 detowing.com
 127.0.0.1 detox-bio.fr
 127.0.0.1 detox-kit.com
 127.0.0.1 detox.shengen.ru
@@ -39408,7 +39399,6 @@
 127.0.0.1 dhlmy.com
 127.0.0.1 dhlp.ink
 127.0.0.1 dhlpe.top
-127.0.0.1 dhlpostes.bond
 127.0.0.1 dhlpostes.vip
 127.0.0.1 dhlpostig.top
 127.0.0.1 dhls.ink
@@ -41660,7 +41650,6 @@
 127.0.0.1 double.net
 127.0.0.1 doubleadsclick.com
 127.0.0.1 doubleadserve.com
-127.0.0.1 doublebangers.com
 127.0.0.1 doubleclic.com
 127.0.0.1 doubleclick-cn.net
 127.0.0.1 doubleclick.ctfile.com
@@ -45923,7 +45912,6 @@
 127.0.0.1 estafetatasm.top
 127.0.0.1 estafetatasp.top
 127.0.0.1 estafetatass.top
-127.0.0.1 estafetatast.top
 127.0.0.1 estafetatasw.top
 127.0.0.1 estafetatasz.top
 127.0.0.1 estafetavac.top
@@ -46988,7 +46976,6 @@
 127.0.0.1 exitexchange.com
 127.0.0.1 exitfuel.com
 127.0.0.1 exitintel.com
-127.0.0.1 exitlife.xyz
 127.0.0.1 exitostudio.com.br
 127.0.0.1 exitsplash.s3.amazonaws.com
 127.0.0.1 exity.info
@@ -56237,7 +56224,6 @@
 127.0.0.1 gov.dhmjaackmejobgr.work
 127.0.0.1 gov.dhygr.buzz
 127.0.0.1 gov.digital-marketing-courses-gr.click
-127.0.0.1 gov.digitalpeacedgr.com
 127.0.0.1 gov.dijegr.info
 127.0.0.1 gov.diymgr.com
 127.0.0.1 gov.dkjhgr.site
@@ -56269,7 +56255,6 @@
 127.0.0.1 gov.eltangr.buzz
 127.0.0.1 gov.emkgr.info
 127.0.0.1 gov.enhigr.buzz
-127.0.0.1 gov.equitersgr.com
 127.0.0.1 gov.eqynmudfzgr.info
 127.0.0.1 gov.esfbhz-eergr.com
 127.0.0.1 gov.euqbsmg8gr.com
@@ -56370,7 +56355,6 @@
 127.0.0.1 gov.imfgr.buzz
 127.0.0.1 gov.ingr.fr
 127.0.0.1 gov.insgr.buzz
-127.0.0.1 gov.instantupgr.com
 127.0.0.1 gov.invigr.com
 127.0.0.1 gov.ironykibbekniggr.sbs
 127.0.0.1 gov.iufgr.sbs
@@ -59611,7 +59595,6 @@
 127.0.0.1 health-medi.de
 127.0.0.1 health-metrics-api.setapp.com
 127.0.0.1 health-official.ru
-127.0.0.1 health-order.com
 127.0.0.1 health-wants.gl.at.ply.gg
 127.0.0.1 health4life.ru
 127.0.0.1 healthageing.com
@@ -59912,7 +59895,6 @@
 127.0.0.1 help-rio.top
 127.0.0.1 help-support1.at.ua
 127.0.0.1 help-trendmicro.com
-127.0.0.1 help-vik.top
 127.0.0.1 help-vin.top
 127.0.0.1 help-vit.top
 127.0.0.1 help-viv.top
@@ -60027,7 +60009,6 @@
 127.0.0.1 henwilkson.com
 127.0.0.1 heoads.b-cdn.net
 127.0.0.1 heoidln.com
-127.0.0.1 heonlinedoctoratesok.live
 127.0.0.1 hep.com
 127.0.0.1 hepagedeforfaitmobilesok.live
 127.0.0.1 heparlorne.org
@@ -61827,7 +61808,6 @@
 127.0.0.1 hsi2i.fun
 127.0.0.1 hskctjuticq.com
 127.0.0.1 hskj.net
-127.0.0.1 hsklyftbctlrud.com
 127.0.0.1 hskujw2.com
 127.0.0.1 hslibrary.com
 127.0.0.1 hsnsdqd.cn
@@ -65718,7 +65698,6 @@
 127.0.0.1 ipva2024-detransp.com
 127.0.0.1 ipvertnet.com
 127.0.0.1 ipvplasticos.com
-127.0.0.1 iq.lutrineextant.com
 127.0.0.1 iq.sixaxisllc.com
 127.0.0.1 iq7grexsvo.ru
 127.0.0.1 iqbalandsons.com
@@ -65972,7 +65951,6 @@
 127.0.0.1 issuedindiscreetcounsel.com
 127.0.0.1 istagram.store
 127.0.0.1 istanbul-hairtransplant.com
-127.0.0.1 istanbul.ae
 127.0.0.1 istanbulklinik.com
 127.0.0.1 istarthere.com
 127.0.0.1 istartsurf.com
@@ -67106,7 +67084,6 @@
 127.0.0.1 jgsajfggv.xyz
 127.0.0.1 jguery.online
 127.0.0.1 jgvkxp.xyz
-127.0.0.1 jgygtf.click
 127.0.0.1 jgzn.contest.printondemandmerchandise.com
 127.0.0.1 jh0ybbi2x3qi.live
 127.0.0.1 jh6nn9.shet.eveshamairporttransfers.co.uk
@@ -70395,7 +70372,6 @@
 127.0.0.1 ktureukworekto.com
 127.0.0.1 ktva.112.2o7.net
 127.0.0.1 ktvjpmi.xyz
-127.0.0.1 ktvtxir.xyz
 127.0.0.1 ktwwzqdx.xyz
 127.0.0.1 ktxtr.com
 127.0.0.1 ktzvyiia.xyz
@@ -73946,7 +73922,6 @@
 127.0.0.1 loadsurprise.com
 127.0.0.1 loadtime.org
 127.0.0.1 loafsmash.com
-127.0.0.1 loagoara.com
 127.0.0.1 loagoshy.net
 127.0.0.1 loaiza.xyz
 127.0.0.1 loaizaza.xyz
@@ -74682,7 +74657,6 @@
 127.0.0.1 londopas.com
 127.0.0.1 loneday.com
 127.0.0.1 lonelybulb.com
-127.0.0.1 lonelyc.us
 127.0.0.1 lonelyfix.com
 127.0.0.1 lonelyflavor.com
 127.0.0.1 lonelypersons.com
@@ -75558,6 +75532,7 @@
 127.0.0.1 lutlook.fr
 127.0.0.1 lutoorgourgi.com
 127.0.0.1 lutrbr.xyz
+127.0.0.1 lutrineextant.com
 127.0.0.1 lutz-fleischwaren.com
 127.0.0.1 lutz-fleischwaren.eu
 127.0.0.1 lutzandco.de
@@ -81214,7 +81189,6 @@
 127.0.0.1 moncompte-ameli.com
 127.0.0.1 moncompte-blank.fr
 127.0.0.1 moncompte-info.fr
-127.0.0.1 moncomptebnpppfimmobilier.fr
 127.0.0.1 moncomptefacturation.fr
 127.0.0.1 moncompteformation-cdc.fr
 127.0.0.1 moncomptelaposte.fr
@@ -86978,7 +86952,6 @@
 127.0.0.1 nyspeech.com
 127.0.0.1 nysun.com.112.2o7.net
 127.0.0.1 nytbglobe.112.2o7.net
-127.0.0.1 nytetyewr.top
 127.0.0.1 nytglobe.112.2o7.net
 127.0.0.1 nythglobe.112.2o7.net
 127.0.0.1 nytimesglobal.112.2o7.net
@@ -87618,7 +87591,6 @@
 127.0.0.1 office-crash.ddns.net
 127.0.0.1 office-drive.live
 127.0.0.1 office-online.fr
-127.0.0.1 office-support.fr
 127.0.0.1 office.org
 127.0.0.1 office1266.fun
 127.0.0.1 office356.fr
@@ -90163,7 +90135,6 @@
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overcooked-construction.com
 127.0.0.1 overcrowdsillyturret.com
-127.0.0.1 overcrummythrift.com
 127.0.0.1 overdates.com
 127.0.0.1 overdonealthough.com
 127.0.0.1 overedaxive-nonameraness.net
@@ -93520,7 +93491,6 @@
 127.0.0.1 pipedream.wistia.com
 127.0.0.1 pipenv.org
 127.0.0.1 pipeofferear.com
-127.0.0.1 pipeoverwhelm.com
 127.0.0.1 piper.amocrm.ru
 127.0.0.1 pipermuseum.com
 127.0.0.1 pipeschannels.com
@@ -94606,7 +94576,6 @@
 127.0.0.1 polyh-nce.com
 127.0.0.1 polyhedrao.com
 127.0.0.1 polyhedrao.network
-127.0.0.1 polyhiadira.network
 127.0.0.1 polymerplanet.com
 127.0.0.1 polymorphicads.jp
 127.0.0.1 polz-emploi.fr
@@ -95092,13 +95061,11 @@
 127.0.0.1 post1-cy.top
 127.0.0.1 posta-mdi.shop
 127.0.0.1 posta-post.ink
-127.0.0.1 posta-romana.vip
 127.0.0.1 posta-rs.help
 127.0.0.1 posta-rs4.top
 127.0.0.1 posta-rs7.shop
 127.0.0.1 posta-rse.shop
 127.0.0.1 posta-tr.top
-127.0.0.1 posta.best
 127.0.0.1 posta.ink
 127.0.0.1 posta.news
 127.0.0.1 posta5.top
@@ -98569,7 +98536,6 @@
 127.0.0.1 qiqdpeovkobj.com
 127.0.0.1 qiqiww.com
 127.0.0.1 qiqpq7vl7l8f.live
-127.0.0.1 qirkgwfpspt.com
 127.0.0.1 qirls.info
 127.0.0.1 qisa.xyz
 127.0.0.1 qislvfqqp.com
@@ -103577,7 +103543,6 @@
 127.0.0.1 rum.marquardmedia.hu
 127.0.0.1 rum.perfops.net
 127.0.0.1 rum.uptime.com
-127.0.0.1 rumendia.com
 127.0.0.1 rumerog.com
 127.0.0.1 rumkhprg.com
 127.0.0.1 rummageengineneedle.com
@@ -114279,7 +114244,6 @@
 127.0.0.1 stemcommunty.com
 127.0.0.1 stemcreate.net
 127.0.0.1 steme.ru
-127.0.0.1 stemmedgerres.click
 127.0.0.1 stemredeem.com
 127.0.0.1 stemsshutdown.com
 127.0.0.1 stenadewy.pro
@@ -126743,7 +126707,6 @@
 127.0.0.1 uspssanjkz.top
 127.0.0.1 uspssaomxc.top
 127.0.0.1 uspssavs.top
-127.0.0.1 uspssbxkcb.top
 127.0.0.1 uspssearch.com
 127.0.0.1 uspsservice.name
 127.0.0.1 uspsservices.life
@@ -126801,7 +126764,6 @@
 127.0.0.1 uspswhry.top
 127.0.0.1 uspswlrf.top
 127.0.0.1 uspswnra.top
-127.0.0.1 uspswnrc.top
 127.0.0.1 uspswnre.top
 127.0.0.1 uspswnrh.top
 127.0.0.1 uspswnri.top
@@ -126820,7 +126782,6 @@
 127.0.0.1 uspswsklkx.top
 127.0.0.1 uspsxcjkzkx.top
 127.0.0.1 uspsxcjmvb.top
-127.0.0.1 uspsxcvjb.top
 127.0.0.1 uspsxdhjxkc.top
 127.0.0.1 uspsxgsnn.top
 127.0.0.1 uspsxhjdmf.top
@@ -126829,7 +126790,6 @@
 127.0.0.1 uspsxjkdlf.top
 127.0.0.1 uspsxjlndf.top
 127.0.0.1 uspsxjlvjv.top
-127.0.0.1 uspsxkzxnc.top
 127.0.0.1 uspsxmlzs.top
 127.0.0.1 uspsxss.com
 127.0.0.1 uspsxva.com
@@ -126866,7 +126826,6 @@
 127.0.0.1 uspszxc.top
 127.0.0.1 uspszxolkw.top
 127.0.0.1 uspszxpaq.top
-127.0.0.1 uspszxpty.top
 127.0.0.1 uspuyesnoj.top
 127.0.0.1 uspzss.top
 127.0.0.1 usqgw2bvlxf1.live
@@ -130154,7 +130113,6 @@
 127.0.0.1 w3facility.org
 127.0.0.1 w3i.com
 127.0.0.1 w3larabii4.page.link
-127.0.0.1 w3nhid8w6qhc.live
 127.0.0.1 w3plywbd72pf.com
 127.0.0.1 w454n74qw.com
 127.0.0.1 w4h5ae.ru
@@ -137204,7 +137162,6 @@
 127.0.0.1 z.ysshj.cn
 127.0.0.1 z0000g.yorkvillemarketing.net
 127.0.0.1 z00yy6tg2.com
-127.0.0.1 z0326e3cp6wo.live
 127.0.0.1 z1.chezhuzhinan.com
 127.0.0.1 z1.cnzz.com
 127.0.0.1 z1.cwbaike.com
@@ -137688,7 +137645,6 @@
 127.0.0.1 zgsqnyb.com
 127.0.0.1 zgsxhx.com
 127.0.0.1 zgsysz.com
-127.0.0.1 zgtcar.com
 127.0.0.1 zgunion.cn
 127.0.0.1 zgwvcv.icu
 127.0.0.1 zgyhw.mobi
