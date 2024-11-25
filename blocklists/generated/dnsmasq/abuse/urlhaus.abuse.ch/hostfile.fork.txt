@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-25 01:44:05 (UTC)                      #
+# Last updated: 2024-11-25 02:58:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -29,6 +29,7 @@ server=/aosafrica.co.za/
 server=/api.52kkg.com/
 server=/api.ewfiles.net/
 server=/arcsystem.rodopibg.net/
+server=/armanayegh.com/
 server=/assetoutdoor.shop/
 server=/aulist.com/
 server=/aviationchartersolutions.com/
@@ -95,10 +96,10 @@ server=/goodlabel.cn/
 server=/hailcocks.ru/
 server=/heavyequipmentsales.au/
 server=/hitman-pro.ru/
-server=/hitstation.nl/
 server=/hoteltoscanaplaza.com.co/
 server=/hr2019.vrcom7.com/
 server=/hseda.com/
+server=/huayusoft.com/
 server=/huyanhnongdo.io.vn/
 server=/ilywe.cases.pcohenlaw.com/
 server=/in-houselegal.ro/
@@ -114,7 +115,6 @@ server=/jointings.org/
 server=/jtpdev.co.uk/
 server=/karer.by/
 server=/karoonpc.com/
-server=/kiemthehuyenlong.com/
 server=/klingdow.com/
 server=/klingdownload.com/
 server=/kymogadget.com/
@@ -136,6 +136,7 @@ server=/ns.smallsrv.com/
 server=/odoo.kseibitools.com/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
+server=/paonancs.cn/
 server=/park.chuitian.cn/
 server=/passagetoeastafrica.com/
 server=/pb.agnt.ru/
@@ -165,7 +166,6 @@ server=/soyjak.download/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
-server=/support.clz.kr/
 server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
@@ -191,6 +191,7 @@ server=/waffl.dev/
 server=/websutility.in/
 server=/winyardbuilding.nz/
 server=/wogc.cases.pcohenlaw.com/
+server=/www.aqianniao.com/
 server=/www.atordeg.com.br/
 server=/www.aviationchartersolutions.com/
 server=/www.beiletoys.com/
@@ -199,7 +200,6 @@ server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clavity.me/
-server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.grupodulcemar.pe/
 server=/www.hseda.com/
@@ -224,6 +224,5 @@ server=/xiangshunjy.com/
 server=/xinhgai.tv/
 server=/xkobeimparatu.net/
 server=/ywxww.net/
-server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 220
+# Number of entries: 219
