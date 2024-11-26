@@ -1,9 +1,9 @@
-# Version: 202411260207
+# Version: 202411260406
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 138421
-# Last modified: 2024-11-26T02:07:00+0000
+! Entries: 138355
+# Last modified: 2024-11-26T04:06:49+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -369,7 +369,6 @@
 127.0.0.1 1-remont.com
 127.0.0.1 1-se.com
 127.0.0.1 1.07swz.com
-127.0.0.1 1.0x004.top
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.11130.com.cn
 127.0.0.1 1.11467.com
@@ -976,7 +975,6 @@
 127.0.0.1 167.sub-75-203-78.myvzw.com
 127.0.0.1 1675450967.rsc.cdn77.org
 127.0.0.1 16755.dialer.lincassa.com
-127.0.0.1 167a376b78.f19893fb1c.com
 127.0.0.1 168-233.dedicado.com.uy
 127.0.0.1 168-gov.info
 127.0.0.1 168.112.2o7.net
@@ -2775,6 +2773,7 @@
 127.0.0.1 410shotgunshells.com
 127.0.0.1 4111ae9ec0.com
 127.0.0.1 411medias.com
+127.0.0.1 4125ce3497.com
 127.0.0.1 4151.biz
 127.0.0.1 4151.tv
 127.0.0.1 4164d5b6eb.com
@@ -4641,7 +4640,6 @@
 127.0.0.1 8cc2kj.blow.harrisretreat.com
 127.0.0.1 8cc514abf6.a9579899d4.com
 127.0.0.1 8cc5ff581a88.bitsngo.net
-127.0.0.1 8ced271921.com
 127.0.0.1 8chj9.com
 127.0.0.1 8chuyenphongthe.com
 127.0.0.1 8cnd.com
@@ -4752,7 +4750,6 @@
 127.0.0.1 9135fec6cb.f026a8e109.com
 127.0.0.1 914c3a3b5c.com
 127.0.0.1 915.com
-127.0.0.1 91588ba267.4125ce3497.com
 127.0.0.1 917295-dot-oaao-274308.uc.r.appspot.com
 127.0.0.1 917776a2.ngrok.io
 127.0.0.1 9179ef7ec3.6778056ac3.com
@@ -11792,7 +11789,6 @@
 127.0.0.1 agric-ministry.com.ng
 127.0.0.1 agricole-assistance.fr
 127.0.0.1 agricole-service.fr
-127.0.0.1 agricoleregional2023.fr
 127.0.0.1 agriculturaltacticautobiography.com
 127.0.0.1 agriculturalventures.com
 127.0.0.1 agriculturealso.com
@@ -11969,7 +11965,6 @@
 127.0.0.1 aidaicn.com
 127.0.0.1 aidata.io
 127.0.0.1 aidbd.org
-127.0.0.1 aiddoscnc2.aisysmddos.com
 127.0.0.1 aide-caf.fr
 127.0.0.1 aide-carte.fr
 127.0.0.1 aide-centre.fr
@@ -16244,7 +16239,6 @@
 127.0.0.1 app1e.top
 127.0.0.1 app1e.xyz
 127.0.0.1 app1e03ds.ddnslive.com
-127.0.0.1 app1e0n.repl.co
 127.0.0.1 app1e0n.top
 127.0.0.1 app1e11928b98dff30e8a6d00500de2e32d.rdm-connect.kbconnect.io
 127.0.0.1 app1e12n051n215n01n.myddns.me
@@ -17321,7 +17315,6 @@
 127.0.0.1 arteryeligiblecatchy.com
 127.0.0.1 artevinesor.com
 127.0.0.1 arteviveearplug.com
-127.0.0.1 artgalleryxshop98765.shop
 127.0.0.1 arthalo.com
 127.0.0.1 arthcorp.com
 127.0.0.1 arthoodie.com
@@ -17633,7 +17626,6 @@
 127.0.0.1 asics-outlet.fr
 127.0.0.1 asicsfr.fr
 127.0.0.1 asicsgel.de
-127.0.0.1 asicsoutlet.fr
 127.0.0.1 asicsoutletfrance.fr
 127.0.0.1 asicsoutletfrances.fr
 127.0.0.1 asicsrunningau.com
@@ -20659,7 +20651,6 @@
 127.0.0.1 basket.southernkilns.com
 127.0.0.1 basketautryfrance.fr
 127.0.0.1 basketballbelieve.com
-127.0.0.1 basketballroom.com
 127.0.0.1 basketballshameless.com
 127.0.0.1 basketexceptionfeasible.com
 127.0.0.1 basketglobe.fr
@@ -24594,7 +24585,6 @@
 127.0.0.1 bozicuiwatch.com
 127.0.0.1 bp-training.com
 127.0.0.1 bpath.com
-127.0.0.1 bpbfymv.xyz
 127.0.0.1 bpce-financements.fr
 127.0.0.1 bpce-lt.fr
 127.0.0.1 bpce-pretpersonnel.fr
@@ -26722,7 +26712,6 @@
 127.0.0.1 caluanieoxidizeusa.com
 127.0.0.1 caluaniesale.com
 127.0.0.1 caluaniesales.com
-127.0.0.1 calumniatory.fun
 127.0.0.1 calunaieoxidize.com
 127.0.0.1 calvali.com
 127.0.0.1 calvarychapelmacomb.com
@@ -31118,7 +31107,6 @@
 127.0.0.1 cloud-deployments.org
 127.0.0.1 cloud-folder.org
 127.0.0.1 cloud-miner.de
-127.0.0.1 cloud-miner.eu
 127.0.0.1 cloud-ovh.fr
 127.0.0.1 cloud-pack.org
 127.0.0.1 cloud-stats.info
@@ -33725,7 +33713,6 @@
 127.0.0.1 cosmote-gr.biz
 127.0.0.1 cosplaydesign.com
 127.0.0.1 cossfood.com
-127.0.0.1 cosstorefrance.fr
 127.0.0.1 cost-calculator.com
 127.0.0.1 costala4paper.co.za
 127.0.0.1 costaluz.info
@@ -42213,7 +42200,6 @@
 127.0.0.1 driverturbo.com
 127.0.0.1 drivespa.com
 127.0.0.1 drivespa.ru
-127.0.0.1 drivethrough.top
 127.0.0.1 drivetransfer.com
 127.0.0.1 drivewayilluminatedconstitute.com
 127.0.0.1 drivewayperrydrought.com
@@ -43144,7 +43130,6 @@
 127.0.0.1 e4e22ee6-8612-40d8-bcf3-807b81c7a3bf-00-3uo2bnnyb3akz.worf.replit.dev
 127.0.0.1 e4fef4ffec.f494c28901.com
 127.0.0.1 e5019.e2.akamaiedge.net
-127.0.0.1 e59f087ae4.com
 127.0.0.1 e5asyhilodice.com
 127.0.0.1 e61wl4hvygsm.live
 127.0.0.1 e6644fec96.7b98c550d1.com
@@ -44242,7 +44227,6 @@
 127.0.0.1 eighteenprofit.com
 127.0.0.1 eightgroup.com
 127.0.0.1 eighthgenerationst.shop
-127.0.0.1 eightjj8ht.top
 127.0.0.1 eightjs8sr.top
 127.0.0.1 eightkk8pn.top
 127.0.0.1 eightkk8sr.top
@@ -47328,7 +47312,6 @@
 127.0.0.1 ezg-iy.com
 127.0.0.1 ezgds.112.2o7.net
 127.0.0.1 ezgreets.aavalue.com
-127.0.0.1 ezhefg9gbhgh10.com
 127.0.0.1 ezidygd.com
 127.0.0.1 ezjhhapcoe.com
 127.0.0.1 ezloss.com
@@ -47431,6 +47414,7 @@
 127.0.0.1 f17583a90e.3feea3f6d1.com
 127.0.0.1 f1851c0962.com
 127.0.0.1 f18d369ca1.9d4e58e3a9.com
+127.0.0.1 f19893fb1c.com
 127.0.0.1 f1acebook.com
 127.0.0.1 f1e4fcff2b.27640ea29d.com
 127.0.0.1 f1nancier.com
@@ -49129,7 +49113,6 @@
 127.0.0.1 fibrehighness.com
 127.0.0.1 fibremarine.com.au
 127.0.0.1 fibrilono.top
-127.0.0.1 fic-gov.com
 127.0.0.1 ficas.eu
 127.0.0.1 ficeconsultores.com
 127.0.0.1 ficheauto.fr
@@ -50903,7 +50886,6 @@
 127.0.0.1 fortune-yakata.com
 127.0.0.1 fortuneadvert.com
 127.0.0.1 fortuneinfosys.com
-127.0.0.1 fortuneo-bank.fr
 127.0.0.1 fortuneobqu.fr
 127.0.0.1 fortuneofr.fr
 127.0.0.1 fortuneopretimmo.fr
@@ -52534,7 +52516,6 @@
 127.0.0.1 g7-site.fr
 127.0.0.1 g7-taxis-paris.fr
 127.0.0.1 g7-taxis.fr
-127.0.0.1 g7contact.fr
 127.0.0.1 g7paris.fr
 127.0.0.1 g7paristaxi.fr
 127.0.0.1 g7taxi-reservations.fr
@@ -53386,7 +53367,6 @@
 127.0.0.1 gdhzpmh.com
 127.0.0.1 gdicoou.com
 127.0.0.1 gdiscord.com
-127.0.0.1 gdityagx.motorcycles
 127.0.0.1 gdkhjdl.godaddysites.com
 127.0.0.1 gdl.i9dhjx.ru
 127.0.0.1 gdl.zmqdez.ru
@@ -56130,7 +56110,6 @@
 127.0.0.1 gov.allegr.ru
 127.0.0.1 gov.allinbloomgr.com
 127.0.0.1 gov.amenzingr.com
-127.0.0.1 gov.antonopoulosgr.com
 127.0.0.1 gov.aocgr.buzz
 127.0.0.1 gov.apex-engr.com
 127.0.0.1 gov.app-development-training-near-me-gr.click
@@ -56187,7 +56166,6 @@
 127.0.0.1 gov.cheatgr.com
 127.0.0.1 gov.chrimatistirio-gr.online
 127.0.0.1 gov.cl12inventgr.today
-127.0.0.1 gov.clothesgr.com
 127.0.0.1 gov.cndgr.buzz
 127.0.0.1 gov.colosseum-gr.ru
 127.0.0.1 gov.construction-metallique-industrielle-ecgr.com
@@ -56456,7 +56434,6 @@
 127.0.0.1 gov.lukgr.sbs
 127.0.0.1 gov.lxwtgr.buzz
 127.0.0.1 gov.lywsgr.info
-127.0.0.1 gov.maguigr.shop
 127.0.0.1 gov.maiengr.com
 127.0.0.1 gov.mailmngr.com
 127.0.0.1 gov.marektygr.com
@@ -56545,7 +56522,6 @@
 127.0.0.1 gov.phone-uhgr.xyz
 127.0.0.1 gov.pkgr.buzz
 127.0.0.1 gov.plateiagr.org
-127.0.0.1 gov.pleasureingr.com
 127.0.0.1 gov.pntggr.buzz
 127.0.0.1 gov.postfvgr.info
 127.0.0.1 gov.postpendingr.top
@@ -56607,7 +56583,6 @@
 127.0.0.1 gov.rrwgr.buzz
 127.0.0.1 gov.rsdgr.sbs
 127.0.0.1 gov.rthgr.buzz
-127.0.0.1 gov.rtygfgr.com
 127.0.0.1 gov.rubiessalongr.com
 127.0.0.1 gov.ruogr.buzz
 127.0.0.1 gov.rxalgr.buzz
@@ -56677,7 +56652,6 @@
 127.0.0.1 gov.tbfgr.buzz
 127.0.0.1 gov.technosolutionsgr.com
 127.0.0.1 gov.text-messaging-services-ox-gr.click
-127.0.0.1 gov.tflgr.com
 127.0.0.1 gov.tfngr.buzz
 127.0.0.1 gov.tgngr.sbs
 127.0.0.1 gov.th1gr.com
@@ -58063,7 +58037,6 @@
 127.0.0.1 guccishoesforcheap.info
 127.0.0.1 guchihyfa.pro
 127.0.0.1 guckoash.net
-127.0.0.1 gucluklertetekiseyaoyun.xyz
 127.0.0.1 gud8.com
 127.0.0.1 gudangbanner.com
 127.0.0.1 guddimirai.duckdns.org
@@ -60581,7 +60554,6 @@
 127.0.0.1 hipnoticrec.biz
 127.0.0.1 hipparenting.com
 127.0.0.1 hippie-pets.com
-127.0.0.1 hippieverkoop.com
 127.0.0.1 hippobulse.com
 127.0.0.1 hiprofitnetworks.com
 127.0.0.1 hipub.hiwit.org
@@ -64642,7 +64614,6 @@
 127.0.0.1 ingameads.gameloft.com
 127.0.0.1 ingamesads.gameloft.com
 127.0.0.1 ingbank-be.com
-127.0.0.1 ingbk-es.com
 127.0.0.1 ingeniamarcasypatentes.com
 127.0.0.1 ingenieriaglp.cl
 127.0.0.1 ingentdurn.com
@@ -72417,7 +72388,6 @@
 127.0.0.1 lettup.eu
 127.0.0.1 letudian.fr
 127.0.0.1 letzte-chance.link
-127.0.0.1 leucan3thegm6um.com
 127.0.0.1 leuden.com
 127.0.0.1 leuipe.fr
 127.0.0.1 leukemiainfo.com
@@ -73790,7 +73760,6 @@
 127.0.0.1 lnstagram.neocities.org
 127.0.0.1 lnstagram.olu.de
 127.0.0.1 lnstagram.redirectme.net
-127.0.0.1 lnstagram.repl.co
 127.0.0.1 lnstagram.rf.gd
 127.0.0.1 lnstagram.ru
 127.0.0.1 lnstagram.ru.serveo.net
@@ -81501,7 +81470,6 @@
 127.0.0.1 mooncattery.wixsite.com
 127.0.0.1 mooncrustpizza.com
 127.0.0.1 mooncup.xyz
-127.0.0.1 moonheappyr.com
 127.0.0.1 moonicorn.network
 127.0.0.1 moonjscdn.info
 127.0.0.1 moonlight-ebbandflow.com
@@ -83811,7 +83779,6 @@
 127.0.0.1 natings.com
 127.0.0.1 nationaalherbarium.com
 127.0.0.1 national-assembly.net
-127.0.0.1 national-au.net
 127.0.0.1 national500apps.com
 127.0.0.1 nationaladvancegroup.com
 127.0.0.1 nationalarguments.com
@@ -84882,7 +84849,6 @@
 127.0.0.1 newgrowth.marketing
 127.0.0.1 newgrupjoinwhtshp.a5z.club
 127.0.0.1 newgstore.com
-127.0.0.1 newhacks24.net
 127.0.0.1 newhan.shop
 127.0.0.1 newhigee.net
 127.0.0.1 newhomecfl.com
@@ -84952,7 +84918,6 @@
 127.0.0.1 news-back.com
 127.0.0.1 news-back.org
 127.0.0.1 news-back2.com
-127.0.0.1 news-balica.com
 127.0.0.1 news-bit.com
 127.0.0.1 news-buzz.cc
 127.0.0.1 news-capufu.com
@@ -87824,7 +87789,6 @@
 127.0.0.1 ogvkyxx.com
 127.0.0.1 ogvtl.top
 127.0.0.1 ogxntutl.fun
-127.0.0.1 ogxstqna.xyz
 127.0.0.1 ogznfgl.cn
 127.0.0.1 oh-polly.fr
 127.0.0.1 oh-pollyfrance.fr
@@ -90056,7 +90020,6 @@
 127.0.0.1 outlook-messagerie.fr
 127.0.0.1 outlook-noreply.fr
 127.0.0.1 outlook.adminstream.org
-127.0.0.1 outlook.best
 127.0.0.1 outlook.caltechsystems.com
 127.0.0.1 outlook.nu
 127.0.0.1 outlook.revolut-disable-email.com
@@ -92238,7 +92201,6 @@
 127.0.0.1 pediatrics.or.kr
 127.0.0.1 pedigreebulldogs.com
 127.0.0.1 pedigreetrade.ltd
-127.0.0.1 pedlujvcfd.com
 127.0.0.1 pedo.ws
 127.0.0.1 pedokinetika.si
 127.0.0.1 pedreiroemgoiania.com.br
@@ -92575,7 +92537,6 @@
 127.0.0.1 persaonwhoisablet.com
 127.0.0.1 persecutenosypajamas.com
 127.0.0.1 persecutionmachinery.com
-127.0.0.1 perseducatiuca.com
 127.0.0.1 persetoenail.com
 127.0.0.1 perseverclinic.com
 127.0.0.1 perseverehang.com
@@ -97353,7 +97314,6 @@
 127.0.0.1 ptt-govc.top
 127.0.0.1 ptt-goy.shop
 127.0.0.1 ptt-igov.top
-127.0.0.1 ptt-toolsinfo.bond
 127.0.0.1 pttcs-gov.top
 127.0.0.1 pttdi.ink
 127.0.0.1 pttfi.ink
@@ -97380,7 +97340,6 @@
 127.0.0.1 pttgovtrq.top
 127.0.0.1 pttgovtrzz.top
 127.0.0.1 pttgvohh-tr.top
-127.0.0.1 pttgvohx-tr.top
 127.0.0.1 pttgvoks-tr.top
 127.0.0.1 pttgvoss-tr.top
 127.0.0.1 pttgvozz-tr.top
@@ -97865,7 +97824,6 @@
 127.0.0.1 purchasephone.shop
 127.0.0.1 purchaserdisgustingwrestle.com
 127.0.0.1 purchasernews.com
-127.0.0.1 purchaserteddy.com
 127.0.0.1 purdasseer.com
 127.0.0.1 pure-glow.fr
 127.0.0.1 pureadexchange.com
@@ -100409,7 +100367,6 @@
 127.0.0.1 recptlinko.s3.eu-north-1.amazonaws.com
 127.0.0.1 recreativ.com
 127.0.0.1 recreativ.com.ua
-127.0.0.1 recreativ.ru
 127.0.0.1 recrec.site
 127.0.0.1 recrihertrettons.com
 127.0.0.1 recruit-gold.com
@@ -100545,7 +100502,6 @@
 127.0.0.1 redirection-servicefr.fr
 127.0.0.1 redirectionemail.fr
 127.0.0.1 redirectionreglement.fr
-127.0.0.1 redirectlinker.com
 127.0.0.1 redirectlock.com
 127.0.0.1 redirectparcel-aus.vip
 127.0.0.1 redirects.us
@@ -100712,7 +100668,6 @@
 127.0.0.1 refundradar.com
 127.0.0.1 refundsreisner.life
 127.0.0.1 refuseddissolveduniversity.com
-127.0.0.1 refusedfellow.com
 127.0.0.1 refusemovie.com
 127.0.0.1 refuserates.com
 127.0.0.1 refuteddistant.com
@@ -104507,7 +104462,6 @@
 127.0.0.1 sainsburyscampaign.org
 127.0.0.1 sainsburysclaim.co.uk
 127.0.0.1 saintbernardpuppysale.com
-127.0.0.1 saintelzearlava.com
 127.0.0.1 saintmor.com
 127.0.0.1 saintselfish.com
 127.0.0.1 sainttinyhomesforsale.com
@@ -105501,7 +105455,6 @@
 127.0.0.1 scientificstop.com
 127.0.0.1 scifimond.com
 127.0.0.1 scigb.com
-127.0.0.1 scihuns.com
 127.0.0.1 scilulustore.com
 127.0.0.1 scimedpub.com
 127.0.0.1 scincenatural.co
@@ -109520,8 +109473,6 @@
 127.0.0.1 sixfeetboot.com
 127.0.0.1 sixfootcattery.co.za
 127.0.0.1 sixft-apart.com
-127.0.0.1 sixja6sb.top
-127.0.0.1 sixjs6sr.top
 127.0.0.1 sixkk6pn.top
 127.0.0.1 sixpurpart.com
 127.0.0.1 sixroads.com
@@ -111809,7 +111760,6 @@
 127.0.0.1 spacekeeper.com
 127.0.0.1 spacemc.com
 127.0.0.1 spacemega.com
-127.0.0.1 spacenet.fun
 127.0.0.1 spacenkchristmas.com
 127.0.0.1 spacenkshop.com
 127.0.0.1 spacenkukstore.com
@@ -113865,7 +113815,6 @@
 127.0.0.1 statuses.ws
 127.0.0.1 statut-coupon.fr
 127.0.0.1 statut-lbc.fr
-127.0.0.1 statut-mon-coupon.fr
 127.0.0.1 statut-ticket.fr
 127.0.0.1 statwup.huya.com
 127.0.0.1 statwup.nimo.tv
@@ -115691,7 +115640,6 @@
 127.0.0.1 supertradeoption.com
 127.0.0.1 supertura.com
 127.0.0.1 supervisebradleyrapidly.com
-127.0.0.1 supervisegoldfish.com
 127.0.0.1 superviseshoes.com
 127.0.0.1 supervision6912305847.jp
 127.0.0.1 supervisionlanguidpersonnel.com
@@ -118354,7 +118302,6 @@
 127.0.0.1 telfar-france.fr
 127.0.0.1 telfcelfi.ink
 127.0.0.1 telggearm.com
-127.0.0.1 telgram.cyou
 127.0.0.1 telgram.info
 127.0.0.1 telgram.pro
 127.0.0.1 teliad.com
@@ -119910,7 +119857,6 @@
 127.0.0.1 tielcselc.top
 127.0.0.1 tiena.einei.line.pm
 127.0.0.1 tienbip.net
-127.0.0.1 tiendasalcapo.com
 127.0.0.1 tiendawebonline.es
 127.0.0.1 tiendientu.exchange
 127.0.0.1 tienganhgiare.com
@@ -124236,7 +124182,6 @@
 127.0.0.1 tweizai.top
 127.0.0.1 twelfthcomprehendgrape.com
 127.0.0.1 twelfthdistasteful.com
-127.0.0.1 tweljj12ht.top
 127.0.0.1 twelkk12pn.top
 127.0.0.1 twelkk12sr.top
 127.0.0.1 twelveforever.net
@@ -124668,7 +124613,6 @@
 127.0.0.1 uavejnys.xyz
 127.0.0.1 uavlab.am
 127.0.0.1 uawvmni.com
-127.0.0.1 uayyau.com
 127.0.0.1 ub-xjp.vvbrd.com
 127.0.0.1 ub.finanzfrage.net
 127.0.0.1 ub1.job592.com
@@ -125040,7 +124984,6 @@
 127.0.0.1 ukjellyfish.co.uk
 127.0.0.1 ukkiftx.icu
 127.0.0.1 uklidovka.eu
-127.0.0.1 uklifejv.cyou
 127.0.0.1 ukloxmchcdnn.com
 127.0.0.1 ukmlastityty.info
 127.0.0.1 ukmlastitytyeastf.com
@@ -126418,7 +126361,6 @@
 127.0.0.1 usmatch-com.weebly.com
 127.0.0.1 usmilcentralplatfo.com
 127.0.0.1 usmilitarycorps.com
-127.0.0.1 usmilitarydefense.org
 127.0.0.1 usmilleave.com
 127.0.0.1 usmilleavedepartment.com
 127.0.0.1 usmilservice-gov.com
@@ -126797,7 +126739,6 @@
 127.0.0.1 uspswlrf.top
 127.0.0.1 uspswnra.top
 127.0.0.1 uspswnre.top
-127.0.0.1 uspswnrh.top
 127.0.0.1 uspswnri.top
 127.0.0.1 uspswnro.top
 127.0.0.1 uspswnrv.top
@@ -126826,17 +126767,14 @@
 127.0.0.1 uspsxvnldlf.top
 127.0.0.1 uspsxzhjx.top
 127.0.0.1 uspsxzhkzx.top
-127.0.0.1 uspsxzks.top
 127.0.0.1 uspsxzzww.top
 127.0.0.1 uspsyjd.top
 127.0.0.1 uspsyv.top
 127.0.0.1 uspsyyikkd.top
 127.0.0.1 uspsyyios.top
-127.0.0.1 uspsyyiua.top
 127.0.0.1 uspsyyiud.top
 127.0.0.1 uspsyyiuf.top
 127.0.0.1 uspsyyiuh.top
-127.0.0.1 uspsyyiuj.top
 127.0.0.1 uspsyyiuo.top
 127.0.0.1 uspsyyiup.top
 127.0.0.1 uspsyyius.top
@@ -131672,7 +131610,6 @@
 127.0.0.1 wgona.click
 127.0.0.1 wgoto.xyz
 127.0.0.1 wgqdqvtn.baby
-127.0.0.1 wgqdqvtn.pink
 127.0.0.1 wgttjk.cn
 127.0.0.1 wgwuhauaqcrx.com
 127.0.0.1 wh.giftd.tech
@@ -132731,7 +132668,6 @@
 127.0.0.1 witty-hill-0844cfd0f.4.azurestaticapps.net
 127.0.0.1 wittyfunplay.shop
 127.0.0.1 wittyhealthy.com
-127.0.0.1 wittyhurteh.buzz
 127.0.0.1 wittypopcorn.com
 127.0.0.1 wittyvideos.com
 127.0.0.1 witwi.fr
@@ -135860,7 +135796,6 @@
 127.0.0.1 yarbitsshal.page.link
 127.0.0.1 yarlnk.com
 127.0.0.1 yarrdex.ru
-127.0.0.1 yasambaglantilaryaratici.xyz
 127.0.0.1 yasaminkavgaveodulleri.xyz
 127.0.0.1 yasamtarzdunyayidogrutani.xyz
 127.0.0.1 yasarkemalplatformu.org
@@ -137418,7 +137353,6 @@
 127.0.0.1 zbfiupq.cn
 127.0.0.1 zbiso.com
 127.0.0.1 zbjpsy.com
-127.0.0.1 zboa9irfs2bv.live
 127.0.0.1 zbwp6ghm.com
 127.0.0.1 zc11m.csb.app
 127.0.0.1 zcaappcthktx.com
