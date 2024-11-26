@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-26 12:38:07 (UTC)                      #
+# Last updated: 2024-11-26 14:13:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,7 +26,6 @@ server=/alien-training.com/
 server=/amoamosss.com/
 server=/annadegismen.com/
 server=/aosafrica.co.za/
-server=/api.52kkg.com/
 server=/api.ewfiles.net/
 server=/arcsystem.rodopibg.net/
 server=/armanayegh.com/
@@ -38,7 +37,6 @@ server=/b9a1.icu/
 server=/bill.drillmmcsnk.top/
 server=/bitkiselurunsiparis.com/
 server=/buscascolegios.diit.cl/
-server=/by.haory.cn/
 server=/cajgtus.com/
 server=/cat.xiaojiji.nl/
 server=/catbaparadisehotel.com.vn/
@@ -73,8 +71,6 @@ server=/dow.andylab.cn/
 server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
-server=/down.qqfarmer.com.cn/
-server=/download.caihong.com/
 server=/download.haozip.com/
 server=/download.innovare.no/
 server=/download.suxiazai.com/
@@ -106,6 +102,7 @@ server=/hr2019.vrcom7.com/
 server=/hseda.com/
 server=/huayusoft.com/
 server=/huyanhnongdo.io.vn/
+server=/imtoken8.cc/
 server=/in-houselegal.ro/
 server=/info-track-del.com/
 server=/ini.sh-pp.com/
@@ -141,16 +138,16 @@ server=/ns.smallsrv.com/
 server=/odoo.kseibitools.com/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
-server=/paonancs.cn/
 server=/park.chuitian.cn/
 server=/passagetoeastafrica.com/
 server=/pb.agnt.ru/
 server=/perfectperu.com/
+server=/pid.fly160.com/
 server=/pns.org.pk/
 server=/protechasia.com/
-server=/qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
+server=/redappletravel.com/
 server=/reifenquick.de/
 server=/reisdevs.com/
 server=/reusable-flex.com/
@@ -204,7 +201,6 @@ server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clavity.me/
-server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.grupodulcemar.pe/
 server=/www.hseda.com/
@@ -217,6 +213,7 @@ server=/www.opolis.io/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
 server=/www.saf-oil.ru/
+server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
@@ -230,4 +227,4 @@ server=/xkobeimparatu.net/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 224
+# Number of entries: 221
