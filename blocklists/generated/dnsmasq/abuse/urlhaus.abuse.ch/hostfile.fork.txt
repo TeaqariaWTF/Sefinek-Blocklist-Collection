@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-27 10:19:06 (UTC)                      #
+# Last updated: 2024-11-27 12:38:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -44,7 +44,6 @@ server=/bitkiselurunsiparis.com/
 server=/blaekindustry.com/
 server=/buscascolegios.diit.cl/
 server=/cajgtus.com/
-server=/cat.xiaojiji.nl/
 server=/catbaparadisehotel.com.vn/
 server=/cd06e.asset.tradingvein.xyz/
 server=/cdaonline.com.ar/
@@ -57,7 +56,6 @@ server=/cmgtrading.eu/
 server=/cnc.carteldesinaloa.ru/
 server=/coach.028csc.com/
 server=/coadymarine.com/
-server=/conn.masjesu.zip/
 server=/crystalpvp.ru/
 server=/cst.cases.pcohenlaw.com/
 server=/cvinetwork.org/
@@ -95,20 +93,20 @@ server=/eveezueigohehla.co/
 server=/exilum.com/
 server=/fegg.ru/
 server=/file.blackint3.com/
+server=/file.edunet.ac/
 server=/files5.uludagbilisim.com/
 server=/fiorinet.dsqueen.xyz/
 server=/fish.hackbiji.cc/
 server=/ftp.ywxww.net/
 server=/funletters.net/
 server=/gawx.florenda.com/
-server=/goodlabel.cn/
 server=/heavyequipmentsales.au/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
 server=/hoteltoscanaplaza.com.co/
-server=/hr2019.vrcom7.com/
 server=/hseda.com/
 server=/huayusoft.com/
+server=/huyanhnongdo.io.vn/
 server=/imtoken8.cc/
 server=/in-houselegal.ro/
 server=/info-track-del.com/
@@ -134,7 +132,6 @@ server=/livetrack.in/
 server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
 server=/mbsngradnja.com/
-server=/meeweb.com/
 server=/mertvinc.com.tr/
 server=/microsecurityupdate.com/
 server=/microsoft-auth-network.cc/
@@ -172,13 +169,13 @@ server=/sageskills-uk.com/
 server=/samsung-work.com/
 server=/sbelegi.com.br/
 server=/sbv.pushswroller.eu/
-server=/sec.xiaojiji.nl/
 server=/secure.cloudtechnologiesusa.com/
 server=/ser.nrovn.xyz/
 server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/shqdown.ggzuhao.com/
 server=/sirault.be/
+server=/soft.110route.com/
 server=/softcatalog.ru/
 server=/soportegira.net/
 server=/sos.vivi.sg/
@@ -198,6 +195,7 @@ server=/thekattykitty.com/
 server=/thismediatribe.com/
 server=/tianyinsoft.top/
 server=/travelwithmanta.co.za/
+server=/treinamento.convenio.to.gov.br/
 server=/twizt.net/
 server=/ukr-netdigitalhub.pro/
 server=/unicorpbrunei.com/
@@ -209,7 +207,6 @@ server=/utorrent-backup-server.top/
 server=/valseg.com.br/
 server=/voievodulgelu.ro/
 server=/wangzha8.com/
-server=/weeatsome.com/
 server=/www.333zz.top/
 server=/www.aqianniao.com/
 server=/www.beiletoys.com/
@@ -225,6 +222,7 @@ server=/www.hseda.com/
 server=/www.info-track-del.com/
 server=/www.ingonherbal.com/
 server=/www.medises.co.kr/
+server=/www.netsolution.it/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.qqqmy.com/
@@ -250,4 +248,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 244
+# Number of entries: 242
