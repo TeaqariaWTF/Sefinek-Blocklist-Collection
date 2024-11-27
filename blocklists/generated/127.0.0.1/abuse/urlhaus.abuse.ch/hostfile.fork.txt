@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-27 01:49:09 (UTC)                      #
+# Last updated: 2024-11-27 02:59:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 127.0.0.1 00760.fate.truelance.com
 127.0.0.1 073c8.language.sebtomato.com
 127.0.0.1 123.ywxww.net
+127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
 127.0.0.1 22df8.language.sebtomato.com
@@ -33,13 +34,13 @@
 127.0.0.1 api.ewfiles.net
 127.0.0.1 arcsystem.rodopibg.net
 127.0.0.1 armanayegh.com
+127.0.0.1 aulist.com
 127.0.0.1 avastop.com
 127.0.0.1 b2c5.icu
 127.0.0.1 b9a1.icu
 127.0.0.1 bill.drillmmcsnk.top
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 buscascolegios.diit.cl
-127.0.0.1 cajgtus.com
 127.0.0.1 cat.xiaojiji.nl
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cd06e.asset.tradingvein.xyz
@@ -58,16 +59,17 @@
 127.0.0.1 cvinetwork.org
 127.0.0.1 data.discuz.mobi
 127.0.0.1 data.yhydl.com
-127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 defgyma.com
 127.0.0.1 dhnconstrucciones.com.ar
+127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dnvk1.info
+127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
@@ -99,15 +101,14 @@
 127.0.0.1 goodlabel.cn
 127.0.0.1 heavyequipmentsales.au
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hoteltoscanaplaza.com.co
 127.0.0.1 hr2019.vrcom7.com
-127.0.0.1 hseda.com
 127.0.0.1 huayusoft.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 in-houselegal.ro
 127.0.0.1 info-track-del.com
+127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 intesasanpaolo-configure-login.mywww.biz
 127.0.0.1 jahez.me
@@ -122,6 +123,7 @@
 127.0.0.1 kekzg.living.miraclesofeucharisticjesus.org
 127.0.0.1 klingdow.com
 127.0.0.1 klingdownload.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 livetrack.in
@@ -135,6 +137,7 @@
 127.0.0.1 municipiodomaio.cv
 127.0.0.1 namthaibinh.net
 127.0.0.1 noithaticon.vn
+127.0.0.1 ns.smallsrv.com
 127.0.0.1 obef.lessons.southsidechurchofchristla.org
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 okolinabeauty.com
@@ -185,6 +188,7 @@
 127.0.0.1 tecunonline.com
 127.0.0.1 telegram-app.vip
 127.0.0.1 telegramcn.co
+127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 thekattykitty.com
 127.0.0.1 thismediatribe.com
@@ -196,8 +200,8 @@
 127.0.0.1 unicorpbrunei.com
 127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 upload.vina-host.com
+127.0.0.1 utorrent-backup-server.top
 127.0.0.1 valseg.com.br
 127.0.0.1 voievodulgelu.ro
 127.0.0.1 wangzha8.com
@@ -216,6 +220,7 @@
 127.0.0.1 www.hseda.com
 127.0.0.1 www.info-track-del.com
 127.0.0.1 www.ingonherbal.com
+127.0.0.1 www.medises.co.kr
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
@@ -242,4 +247,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 236
+# Number of entries: 241

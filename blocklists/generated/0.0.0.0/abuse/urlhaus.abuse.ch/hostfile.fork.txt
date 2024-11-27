@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-27 01:49:09 (UTC)                      #
+# Last updated: 2024-11-27 02:59:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 00760.fate.truelance.com
 0.0.0.0 073c8.language.sebtomato.com
 0.0.0.0 123.ywxww.net
+0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 22df8.language.sebtomato.com
@@ -33,13 +34,13 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
+0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 b2c5.icu
 0.0.0.0 b9a1.icu
 0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 cajgtus.com
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cd06e.asset.tradingvein.xyz
@@ -58,16 +59,17 @@
 0.0.0.0 cvinetwork.org
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
-0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 defgyma.com
 0.0.0.0 dhnconstrucciones.com.ar
+0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
+0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
@@ -99,15 +101,14 @@
 0.0.0.0 goodlabel.cn
 0.0.0.0 heavyequipmentsales.au
 0.0.0.0 hitman-pro.ru
-0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
-0.0.0.0 hseda.com
 0.0.0.0 huayusoft.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
 0.0.0.0 info-track-del.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 intesasanpaolo-configure-login.mywww.biz
 0.0.0.0 jahez.me
@@ -122,6 +123,7 @@
 0.0.0.0 kekzg.living.miraclesofeucharisticjesus.org
 0.0.0.0 klingdow.com
 0.0.0.0 klingdownload.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
@@ -135,6 +137,7 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 noithaticon.vn
+0.0.0.0 ns.smallsrv.com
 0.0.0.0 obef.lessons.southsidechurchofchristla.org
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 okolinabeauty.com
@@ -185,6 +188,7 @@
 0.0.0.0 tecunonline.com
 0.0.0.0 telegram-app.vip
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 thekattykitty.com
 0.0.0.0 thismediatribe.com
@@ -196,8 +200,8 @@
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 upload.vina-host.com
+0.0.0.0 utorrent-backup-server.top
 0.0.0.0 valseg.com.br
 0.0.0.0 voievodulgelu.ro
 0.0.0.0 wangzha8.com
@@ -216,6 +220,7 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.info-track-del.com
 0.0.0.0 www.ingonherbal.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -242,4 +247,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 236
+# Number of entries: 241
