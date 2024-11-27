@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-27 02:59:05 (UTC)                      #
+# Last updated: 2024-11-27 04:24:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -36,11 +36,13 @@
 127.0.0.1 armanayegh.com
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
+127.0.0.1 avastpx.com
 127.0.0.1 b2c5.icu
 127.0.0.1 b9a1.icu
 127.0.0.1 bill.drillmmcsnk.top
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 buscascolegios.diit.cl
+127.0.0.1 cajgtus.com
 127.0.0.1 cat.xiaojiji.nl
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cd06e.asset.tradingvein.xyz
@@ -50,17 +52,16 @@
 127.0.0.1 cia.tf
 127.0.0.1 ciscocdn.com
 127.0.0.1 clavity.me
-127.0.0.1 cmgtrading.eu
 127.0.0.1 cnc.carteldesinaloa.ru
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
+127.0.0.1 conn.masjesu.zip
 127.0.0.1 crystalpvp.ru
 127.0.0.1 cst.cases.pcohenlaw.com
 127.0.0.1 cvinetwork.org
 127.0.0.1 data.discuz.mobi
 127.0.0.1 data.yhydl.com
 127.0.0.1 deauduafzgezzfgm.top
-127.0.0.1 defgyma.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
@@ -72,7 +73,6 @@
 127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
-127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
@@ -82,7 +82,6 @@
 127.0.0.1 downsexv.com
 127.0.0.1 dugmv.si
 127.0.0.1 ehkhl.lessons.southsidechurchofchristla.org
-127.0.0.1 electjimhenderson.com
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
@@ -103,6 +102,7 @@
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hoteltoscanaplaza.com.co
 127.0.0.1 hr2019.vrcom7.com
+127.0.0.1 hseda.com
 127.0.0.1 huayusoft.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
@@ -137,7 +137,6 @@
 127.0.0.1 municipiodomaio.cv
 127.0.0.1 namthaibinh.net
 127.0.0.1 noithaticon.vn
-127.0.0.1 ns.smallsrv.com
 127.0.0.1 obef.lessons.southsidechurchofchristla.org
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 okolinabeauty.com
@@ -200,6 +199,7 @@
 127.0.0.1 unicorpbrunei.com
 127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 valseg.com.br
@@ -214,10 +214,8 @@
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clavity.me
-127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.grupodulcemar.pe
-127.0.0.1 www.hseda.com
 127.0.0.1 www.info-track-del.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.medises.co.kr
@@ -228,7 +226,6 @@
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.sodiumlaurethsulfatedesyroyer.com
-127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-servizio.squirly.info
 127.0.0.1 www.syofi.com
@@ -245,6 +242,5 @@
 127.0.0.1 yew.lessons.southsidechurchofchristla.org
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 241
+# Number of entries: 237
