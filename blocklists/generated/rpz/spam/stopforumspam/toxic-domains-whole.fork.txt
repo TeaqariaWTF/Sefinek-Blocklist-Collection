@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024112601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024112701 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -52069,6 +52069,8 @@ kacycloudhosting.host CNAME .
 *.kacycloudhosting.host CNAME .
 kad15.ga CNAME .
 *.kad15.ga CNAME .
+kadepak.my.id CNAME .
+*.kadepak.my.id CNAME .
 kadlmail.ga CNAME .
 *.kadlmail.ga CNAME .
 kadlmail.gq CNAME .
@@ -57895,6 +57897,8 @@ luhman16.lavaweb.in CNAME .
 *.luhman16.lavaweb.in CNAME .
 luhorla.cf CNAME .
 *.luhorla.cf CNAME .
+luigi.biz.id CNAME .
+*.luigi.biz.id CNAME .
 luigistore.my.id CNAME .
 *.luigistore.my.id CNAME .
 luisp.store CNAME .
@@ -92617,6 +92621,8 @@ tokojudi.best CNAME .
 *.tokojudi.best CNAME .
 tokokarena.live CNAME .
 *.tokokarena.live CNAME .
+tokolama.my.id CNAME .
+*.tokolama.my.id CNAME .
 tokopulsa.shop CNAME .
 *.tokopulsa.shop CNAME .
 toksss.app CNAME .
