@@ -1,9 +1,9 @@
-# Version: 202411270606
+# Version: 202411270906
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 139278
-# Last modified: 2024-11-27T06:06:40+0000
+! Entries: 139281
+# Last modified: 2024-11-27T09:06:51+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -39603,6 +39603,7 @@
 127.0.0.1 dhcmni6m2kkyw.cloudfront.net
 127.0.0.1 dhcp-232-249-59-5.metro86.ru
 127.0.0.1 dhdservices.com.au
+127.0.0.1 dheirzeh.com
 127.0.0.1 dhg-group.com
 127.0.0.1 dhgdp.cn
 127.0.0.1 dhgywazgeek0d.cloudfront.net
@@ -127943,6 +127944,7 @@
 127.0.0.1 ux782mkgx.com
 127.0.0.1 uxconnect.org
 127.0.0.1 uxfmuptkvsqvj.com
+127.0.0.1 uxieks.com
 127.0.0.1 uxip.meizu.com
 127.0.0.1 uxlvk.cn
 127.0.0.1 uxngqd.cn
@@ -139119,6 +139121,7 @@
 127.0.0.1 zumfzaamdxaw.com
 127.0.0.1 zumid.xyz
 127.0.0.1 zumkoshapsret.com
+127.0.0.1 zumneojf.icu
 127.0.0.1 zumobi.com
 127.0.0.1 zumodemarketing.com
 127.0.0.1 zumrieth.com
