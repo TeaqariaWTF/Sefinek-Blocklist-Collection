@@ -1,9 +1,9 @@
-# Version: 202411280006
+# Version: 202411280306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 139678
-# Last modified: 2024-11-28T00:06:47+0000
+! Entries: 139674
+# Last modified: 2024-11-28T03:06:27+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -56701,7 +56701,6 @@
 127.0.0.1 gov.eycngr.website
 127.0.0.1 gov.ezdfae-edfgr.com
 127.0.0.1 gov.f0tgr.com
-127.0.0.1 gov.fa28gr.com
 127.0.0.1 gov.fahsdufhorwgrigr.com
 127.0.0.1 gov.fat-removal-gr.shop
 127.0.0.1 gov.fbjrfgr.cn
@@ -56714,7 +56713,6 @@
 127.0.0.1 gov.fhygr.buzz
 127.0.0.1 gov.fingr.buzz
 127.0.0.1 gov.fleetone-emgr.com
-127.0.0.1 gov.flpgr.top
 127.0.0.1 gov.fmwkgr.one
 127.0.0.1 gov.fowgr.info
 127.0.0.1 gov.foxhspwuegr.info
@@ -117543,7 +117541,6 @@
 127.0.0.1 synchroparomologyauditable.monster
 127.0.0.1 synconnector.com
 127.0.0.1 syncordisconsulting.com
-127.0.0.1 syncpanel-resolve.dev
 127.0.0.1 syncplusconfig.s3.amazonaws.com
 127.0.0.1 syncrohost.de
 127.0.0.1 syncscheduler.com
@@ -119316,7 +119313,6 @@
 127.0.0.1 telegramx.pro
 127.0.0.1 telegramz.org
 127.0.0.1 telegramz.top
-127.0.0.1 telegran.click
 127.0.0.1 telegran.cyou
 127.0.0.1 telegranm.vip
 127.0.0.1 telegrann.net
