@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-28 12:40:08 (UTC)                      #
+# Last updated: 2024-11-28 14:14:15 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -18,6 +18,7 @@
 0.0.0.0 7zip10-2024.top
 0.0.0.0 7zlp112024.top
 0.0.0.0 7zlp2024.shop
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 accountsubflix.net
@@ -31,15 +32,16 @@
 0.0.0.0 amoamosss.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
-0.0.0.0 api.ewfiles.net
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
 0.0.0.0 aulist.com
+0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blaekindustry.com
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 by.haory.cn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 chromeupdates.com
@@ -59,6 +61,7 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
+0.0.0.0 defgyma.com
 0.0.0.0 delivery-pending82538-ca-ups.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
@@ -68,9 +71,13 @@
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
+0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
+0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
@@ -99,7 +106,6 @@
 0.0.0.0 heavyequipmentsales.au
 0.0.0.0 help874-reschedule-ups-now.com
 0.0.0.0 hitman-pro.ru
-0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hpaiw.cases.pcohenlaw.com
 0.0.0.0 hr2019.vrcom7.com
@@ -119,6 +125,7 @@
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jtpdev.co.uk
 0.0.0.0 karer.by
@@ -161,6 +168,7 @@
 0.0.0.0 pixelcaze.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qppwq.lessons.southsidechurchofchristla.org
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 rd.chuitian.cn
@@ -182,10 +190,10 @@
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 ship-ups-service-pending6356.com
+0.0.0.0 shopping-nice.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sodiumlaurethsulfatedesyroyer.com
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 softupdate.app
 0.0.0.0 soportegira.net
@@ -199,8 +207,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegram-app.vip
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 thekattykitty.com
@@ -216,6 +222,7 @@
 0.0.0.0 update.vlnguba.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-action5394-required7-now.com
+0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
@@ -228,7 +235,6 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 worldwide-ship-ups-order5847.com
 0.0.0.0 www.333zz.top
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
@@ -270,4 +276,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 264
+# Number of entries: 270
