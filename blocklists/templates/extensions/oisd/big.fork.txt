@@ -1,9 +1,9 @@
-# Version: 202411272108
+# Version: 202411280006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 139680
-# Last modified: 2024-11-27T21:08:02+0000
+! Entries: 139678
+# Last modified: 2024-11-28T00:06:47+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -98239,7 +98239,6 @@
 0.0.0.0 ptt-govc.top
 0.0.0.0 ptt-goy.shop
 0.0.0.0 ptt-igov.top
-0.0.0.0 pttb-grv.icu
 0.0.0.0 pttcs-gov.top
 0.0.0.0 pttdi.ink
 0.0.0.0 pttfi.ink
@@ -119319,7 +119318,6 @@
 0.0.0.0 telegramz.top
 0.0.0.0 telegran.click
 0.0.0.0 telegran.cyou
-0.0.0.0 telegranm.net
 0.0.0.0 telegranm.vip
 0.0.0.0 telegrann.net
 0.0.0.0 telegraph.mefound.com
