@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-28 20:23:35 (UTC)                      #
+# Last updated: 2024-11-28 22:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,8 +9,8 @@
 0.0.0.0 00760.fate.truelance.com
 0.0.0.0 073c8.language.sebtomato.com
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 185-177-25-101.ip.club-srv.com
 0.0.0.0 2.haory.cn
 0.0.0.0 22df8.language.sebtomato.com
 0.0.0.0 360down7.miiyun.cn
@@ -18,6 +18,7 @@
 0.0.0.0 7zip10-2024.top
 0.0.0.0 7zlp112024.top
 0.0.0.0 7zlp2024.shop
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 accountsubflix.net
@@ -41,8 +42,6 @@
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blaekindustry.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 by.haory.cn
-0.0.0.0 cajgtus.com
 0.0.0.0 casacoimbramaputo.com
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cheat.underground-cheat.com
@@ -58,6 +57,7 @@
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cst.cases.pcohenlaw.com
 0.0.0.0 cvinetwork.org
+0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
@@ -67,7 +67,6 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
 0.0.0.0 do-dear.com
@@ -76,8 +75,10 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
+0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 drumev.eu
 0.0.0.0 ehkhl.lessons.southsidechurchofchristla.org
@@ -102,6 +103,7 @@
 0.0.0.0 hailcocks.ru
 0.0.0.0 heavyequipmentsales.au
 0.0.0.0 help874-reschedule-ups-now.com
+0.0.0.0 hfox.cat
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
@@ -112,7 +114,6 @@
 0.0.0.0 id389-package-customs-ups.com
 0.0.0.0 id728-client-ca-ups.com
 0.0.0.0 ijxm.lessons.southsidechurchofchristla.org
-0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
 0.0.0.0 info-track-del.com
 0.0.0.0 ini.sh-pp.com
@@ -129,10 +130,9 @@
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 kekzg.living.miraclesofeucharisticjesus.org
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 klingdow.com
 0.0.0.0 klingdownload.com
-0.0.0.0 lengyouddos.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
@@ -155,7 +155,6 @@
 0.0.0.0 okolinabeauty.com
 0.0.0.0 opporeno8.com
 0.0.0.0 order6473-ups-schedule-now.com
-0.0.0.0 osecweb.ir
 0.0.0.0 package-delay92-ups.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
@@ -242,7 +241,6 @@
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
-0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hseda.com
 0.0.0.0 www.info-track-del.com
 0.0.0.0 www.ingonherbal.com
@@ -261,7 +259,6 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 x02.eu
 0.0.0.0 xiangshunjy.com
@@ -272,5 +269,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
-0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 267
+# Number of entries: 263
