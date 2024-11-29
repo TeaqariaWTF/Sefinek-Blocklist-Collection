@@ -1,12 +1,11 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-29 01:49:11 (UTC)                      #
+# Last updated: 2024-11-29 03:04:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 185-177-25-101.ip.club-srv.com
@@ -24,7 +23,6 @@
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 aiiaiafrzrueuedur.net
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amoamosss.com
 0.0.0.0 aosafrica.co.za
@@ -77,6 +75,7 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
+0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 drumev.eu
@@ -86,14 +85,12 @@
 0.0.0.0 electrum-xrp.net
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
-0.0.0.0 epanpano.com
 0.0.0.0 eveezueigohehla.co
 0.0.0.0 exilum.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fish.hackbiji.cc
-0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
 0.0.0.0 gawx.florenda.com
 0.0.0.0 getsolara.space
@@ -116,6 +113,7 @@
 0.0.0.0 in-houselegal.ro
 0.0.0.0 info-track-del.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 international-ups-ship5274-ca.com
 0.0.0.0 intesasanpaolo-configure-login.mywww.biz
 0.0.0.0 issue8653-ups-ground-ca.com
@@ -144,6 +142,8 @@
 0.0.0.0 municipiodomaio.cv
 0.0.0.0 namthaibinh.net
 0.0.0.0 ncyp.lessons.southsidechurchofchristla.org
+0.0.0.0 nmtsocial.uno
+0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 opporeno8.com
@@ -151,7 +151,6 @@
 0.0.0.0 osecweb.ir
 0.0.0.0 package-delay92-ups.com
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
@@ -162,6 +161,7 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 reifenquick.de
@@ -180,7 +180,6 @@
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 ship-ups-service-pending6356.com
 0.0.0.0 shopping-nice.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sodiumlaurethsulfatedesyroyer.com
 0.0.0.0 soft.110route.com
@@ -224,6 +223,7 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 worldwide-ship-ups-order5847.com
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
@@ -243,9 +243,12 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.sodiumlaurethsulfatedesyroyer.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-servizio.squirly.info
 0.0.0.0 www.tecunonline.com
+0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 www2.town.shirako.lg.jp
 0.0.0.0 wynecare.com
 0.0.0.0 x02.eu
@@ -257,4 +260,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 251
+# Number of entries: 254
