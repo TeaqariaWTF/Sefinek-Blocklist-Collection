@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-29 03:04:24 (UTC)                      #
+# Last updated: 2024-11-29 04:24:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,25 +27,24 @@
 127.0.0.1 amoamosss.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
-127.0.0.1 api.ewfiles.net
 127.0.0.1 arcsystem.rodopibg.net
 127.0.0.1 armanayegh.com
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
 127.0.0.1 avastpx.com
-127.0.0.1 bill.drillmmcsnk.top
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blaekindustry.com
 127.0.0.1 buscascolegios.diit.cl
+127.0.0.1 by.haory.cn
 127.0.0.1 cajgtus.com
 127.0.0.1 casacoimbramaputo.com
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 cdn.chuk.cz
 127.0.0.1 ch2lq.icu
+127.0.0.1 cheat.underground-cheat.com
 127.0.0.1 chpq2.icu
 127.0.0.1 chromeupdates.com
 127.0.0.1 ciscocdn.com
-127.0.0.1 clavity.me
 127.0.0.1 client-package-issue82-ups.com
 127.0.0.1 client93-id-ca-ups.com
 127.0.0.1 cmgtrading.eu
@@ -59,6 +58,7 @@
 127.0.0.1 data.yhydl.com
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
+127.0.0.1 defgyma.com
 127.0.0.1 delivery-pending82538-ca-ups.com
 127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
@@ -83,8 +83,8 @@
 127.0.0.1 electrum-bch.net
 127.0.0.1 electrum-doge.org
 127.0.0.1 electrum-xrp.net
-127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
+127.0.0.1 epanpano.com
 127.0.0.1 eveezueigohehla.co
 127.0.0.1 exilum.com
 127.0.0.1 file.blackint3.com
@@ -127,6 +127,7 @@
 127.0.0.1 karoonpc.com
 127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 klingdow.com
+127.0.0.1 klingdownload.com
 127.0.0.1 lengyouddos.com
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -152,7 +153,6 @@
 127.0.0.1 package-delay92-ups.com
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
-127.0.0.1 passagetoeastafrica.com
 127.0.0.1 pb.agnt.ru
 127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
@@ -203,12 +203,12 @@
 127.0.0.1 thismediatribe.com
 127.0.0.1 tianyinsoft.top
 127.0.0.1 travelwithmanta.co.za
-127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 twizt.net
 127.0.0.1 udp.ovhkulu.cc
 127.0.0.1 unicorpbrunei.com
 127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 ups-action5394-required7-now.com
 127.0.0.1 utorrent-backup-server.top
@@ -224,10 +224,10 @@
 127.0.0.1 worldwide-ship-ups-order5847.com
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
+127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
-127.0.0.1 www.clavity.me
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.grupodulcemar.pe
@@ -247,10 +247,12 @@
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-servizio.squirly.info
 127.0.0.1 www.tecunonline.com
+127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 www2.town.shirako.lg.jp
 127.0.0.1 wynecare.com
+127.0.0.1 wz.3911.com
 127.0.0.1 x02.eu
 127.0.0.1 xiangshunjy.com
 127.0.0.1 xinhgai.tv
@@ -260,4 +262,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 254
+# Number of entries: 256
