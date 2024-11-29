@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024112801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024112901 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -16559,6 +16559,8 @@ boogiemunsters.com CNAME .
 *.boogiemunsters.com CNAME .
 booi-casinoboost.space CNAME .
 *.booi-casinoboost.space CNAME .
+booi-casinoboost.wiki CNAME .
+*.booi-casinoboost.wiki CNAME .
 booi-casinoeuphoria.homes CNAME .
 *.booi-casinoeuphoria.homes CNAME .
 booi-casinohaven.icu CNAME .
@@ -22283,6 +22285,8 @@ clean2water.xyz CNAME .
 *.clean2water.xyz CNAME .
 cleanauthz.com CNAME .
 *.cleanauthz.com CNAME .
+cleanbeyondco.com CNAME .
+*.cleanbeyondco.com CNAME .
 cleantalkorg.ru CNAME .
 *.cleantalkorg.ru CNAME .
 cleantalkorg1.ru CNAME .
@@ -40317,6 +40321,8 @@ getx-casinowave.world CNAME .
 *.getx-casinowave.world CNAME .
 getx-epiccasino.pics CNAME .
 *.getx-epiccasino.pics CNAME .
+getx-epiccasino.rest CNAME .
+*.getx-epiccasino.rest CNAME .
 getx-fortunecasino.quest CNAME .
 *.getx-fortunecasino.quest CNAME .
 getx-fortunecasino.website CNAME .
@@ -45751,6 +45757,8 @@ hooork.com CNAME .
 *.hooork.com CNAME .
 hoopsor.online CNAME .
 *.hoopsor.online CNAME .
+hoopsori.shop CNAME .
+*.hoopsori.shop CNAME .
 hootmail.co.uk CNAME .
 *.hootmail.co.uk CNAME .
 hootspad.eu CNAME .
@@ -59107,6 +59115,8 @@ mailfake.ga CNAME .
 *.mailfake.ga CNAME .
 mailfasfe.com CNAME .
 *.mailfasfe.com CNAME .
+mailfast.pro CNAME .
+*.mailfast.pro CNAME .
 mailfattalss.space CNAME .
 *.mailfattalss.space CNAME .
 mailfavorite.com CNAME .
@@ -90293,6 +90303,8 @@ techbook.com CNAME .
 *.techbook.com CNAME .
 techbung.com CNAME .
 *.techbung.com CNAME .
+techcentraltalk.org CNAME .
+*.techcentraltalk.org CNAME .
 techclouder.tech CNAME .
 *.techclouder.tech CNAME .
 techcz.com CNAME .
@@ -98875,6 +98887,8 @@ vuhoangtelecom.com CNAME .
 *.vuhoangtelecom.com CNAME .
 vuiosi.com CNAME .
 *.vuiosi.com CNAME .
+vulkan-casinorush.site CNAME .
+*.vulkan-casinorush.site CNAME .
 vulkan-casinorush.skin CNAME .
 *.vulkan-casinorush.skin CNAME .
 vulkan-jackpotarena.space CNAME .
