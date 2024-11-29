@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-11-29 18:24:24 (UTC)                      #
+# Last updated: 2024-11-29 20:04:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,10 +13,10 @@
 127.0.0.1 2.haory.cn
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 7zip10-2024.top
+127.0.0.1 7zlp112024.top
 127.0.0.1 7zlp2024.shop
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aarzoomarine.com
-127.0.0.1 abissnet.net
 127.0.0.1 accountsubflix.net
 127.0.0.1 action-ups-required37428-now.com
 127.0.0.1 adf6.adf6.com
@@ -28,6 +28,7 @@
 127.0.0.1 amoamosss.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
+127.0.0.1 api.ewfiles.net
 127.0.0.1 arcsystem.rodopibg.net
 127.0.0.1 armanayegh.com
 127.0.0.1 aulist.com
@@ -37,6 +38,8 @@
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blaekindustry.com
 127.0.0.1 buscascolegios.diit.cl
+127.0.0.1 by.haory.cn
+127.0.0.1 cajgtus.com
 127.0.0.1 casacoimbramaputo.com
 127.0.0.1 cat.xiaojiji.nl
 127.0.0.1 cdaonline.com.ar
@@ -51,17 +54,15 @@
 127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
-127.0.0.1 conn.masjesu.zip
 127.0.0.1 crystalpvp.ru
 127.0.0.1 cvinetwork.org
 127.0.0.1 data.discuz.mobi
 127.0.0.1 data.yhydl.com
+127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
-127.0.0.1 defgyma.com
 127.0.0.1 delivery-pending82538-ca-ups.com
 127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
-127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
@@ -71,7 +72,6 @@
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
-127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.haozip.com
 127.0.0.1 download.innovare.no
@@ -105,7 +105,6 @@
 127.0.0.1 hoteltoscanaplaza.com.co
 127.0.0.1 hpaiw.cases.pcohenlaw.com
 127.0.0.1 hr2019.vrcom7.com
-127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 id389-package-customs-ups.com
 127.0.0.1 id728-client-ca-ups.com
@@ -129,8 +128,10 @@
 127.0.0.1 klingdow.com
 127.0.0.1 klingdownload.com
 127.0.0.1 lengyouddos.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
+127.0.0.1 livetrack.in
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 mbsngradnja.com
@@ -144,6 +145,7 @@
 127.0.0.1 ncyp.lessons.southsidechurchofchristla.org
 127.0.0.1 nmtsocial.uno
 127.0.0.1 noithaticon.vn
+127.0.0.1 ns.smallsrv.com
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 opporeno8.com
 127.0.0.1 order6473-ups-schedule-now.com
@@ -152,6 +154,7 @@
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 pb.agnt.ru
+127.0.0.1 pid.fly160.com
 127.0.0.1 pixelcaze.com
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
@@ -204,6 +207,7 @@
 127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 twizt.net
 127.0.0.1 udp.ovhkulu.cc
+127.0.0.1 unicorpbrunei.com
 127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
@@ -225,13 +229,13 @@
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
+127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.grupodulcemar.pe
 127.0.0.1 www.hseda.com
 127.0.0.1 www.info-track-del.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.medises.co.kr
-127.0.0.1 www.mspa-constabulary.org
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
@@ -244,9 +248,9 @@
 127.0.0.1 www.support-servizio.squirly.info
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
+127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 www2.town.shirako.lg.jp
-127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 x02.eu
 127.0.0.1 xiangshunjy.com
@@ -257,4 +261,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 251
+# Number of entries: 255
