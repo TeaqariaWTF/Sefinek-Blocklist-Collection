@@ -1,9 +1,9 @@
-# Version: 202411301807
+# Version: 202411301907
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 140563
-# Last modified: 2024-11-30T18:07:24+0000
+! Entries: 140559
+# Last modified: 2024-11-30T19:07:54+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -98459,7 +98459,6 @@
 127.0.0.1 prpmdp.xyz
 127.0.0.1 prpops.com
 127.0.0.1 prposta.cyou
-127.0.0.1 prposts.cyou
 127.0.0.1 prre.ru
 127.0.0.1 prsmqbgcl655.live
 127.0.0.1 prsspeedway.com
@@ -123569,7 +123568,6 @@
 127.0.0.1 track-chronopost.fr
 127.0.0.1 track-dark-bz.b-cdn.net
 127.0.0.1 track-oas.top
-127.0.0.1 track-ohn.top
 127.0.0.1 track-ohs.top
 127.0.0.1 track-resource.bidease.com
 127.0.0.1 track-srv.vietnamnet.vn
@@ -128444,7 +128442,6 @@
 127.0.0.1 usps-infosa.top
 127.0.0.1 usps-infosb.top
 127.0.0.1 usps-infosnb.top
-127.0.0.1 usps-infosw.top
 127.0.0.1 usps-jobs.sbs
 127.0.0.1 usps-ks.top
 127.0.0.1 usps-mydeliver.com
@@ -128583,7 +128580,6 @@
 127.0.0.1 uspsebdfmf.top
 127.0.0.1 uspseco.top
 127.0.0.1 uspsedd.top
-127.0.0.1 uspselwc.top
 127.0.0.1 uspselwz.top
 127.0.0.1 uspsewdo.top
 127.0.0.1 uspsewfu.top
