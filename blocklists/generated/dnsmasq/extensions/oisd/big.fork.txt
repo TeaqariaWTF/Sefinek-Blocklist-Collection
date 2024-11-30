@@ -1,9 +1,9 @@
-# Version: 202411300806
+# Version: 202411301006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 140463
-# Last modified: 2024-11-30T08:06:53+0000
+! Entries: 140456
+# Last modified: 2024-11-30T10:06:57+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -41484,7 +41484,6 @@ server=/dnavtbt.com/
 server=/dnckawxatc.com/
 server=/dncoding.com/
 server=/dncvietnam.com/
-server=/dnd2.icu/
 server=/dndmygr.cn/
 server=/dne6rbzy5csnc.cloudfront.net/
 server=/dnemkhkbsdbl.com/
@@ -46768,7 +46767,6 @@ server=/etxggi.cn/
 server=/etxlzx.net/
 server=/etxrr.top/
 server=/etymonsibycter.com/
-server=/etypicthawier.shop/
 server=/eu-1-id5-sync.com/
 server=/eu-adcenter.net/
 server=/eu-maps.info/
@@ -50776,7 +50774,6 @@ server=/fldes6fq.de/
 server=/fle652.net/
 server=/flea.elbertsnaturalfoods.com/
 server=/flea.welikeoliver.com/
-server=/fleaderned.com/
 server=/fleahat.com/
 server=/fleamarketfragrances.com/
 server=/flebolab.ru/
@@ -66004,7 +66001,6 @@ server=/instaspace.de/
 server=/instaspecials.com/
 server=/instegram.co/
 server=/instegram.fun/
-server=/instegram.tech/
 server=/instgram.fr/
 server=/instinct.store/
 server=/instinctiveads.com/
@@ -102193,7 +102189,6 @@ server=/refuteddistant.com/
 server=/refuzzlizing.pro/
 server=/reg-adnoc.co/
 server=/reg.ancensored.com/
-server=/regadeepxxrd.z13.web.core.windows.net/
 server=/regadspro.com/
 server=/regadsworld.com/
 server=/regainertoon.com/
@@ -125354,7 +125349,6 @@ server=/troyer11.duckdns.org/
 server=/troytempest.com/
 server=/trpool.org/
 server=/trpop.xyz/
-server=/trposts.cyou/
 server=/trq21files6468h65fdtr65g67h85deploy869.pages.dev/
 server=/trrenitalia.it/
 server=/trripwire.com/
@@ -128595,7 +128589,6 @@ server=/uspssubsidiary.com/
 server=/uspsswp.top/
 server=/uspstampost.com/
 server=/uspstd.top/
-server=/uspstfz.top/
 server=/uspstg.top/
 server=/uspstit.top/
 server=/uspstkm.top/
