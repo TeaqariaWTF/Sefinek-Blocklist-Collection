@@ -1,9 +1,9 @@
-# Version: 202411291808
+# Version: 202411300506
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 140250
-# Last modified: 2024-11-29T18:08:18+0000
+! Entries: 140249
+# Last modified: 2024-11-30T05:06:50+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -57195,7 +57195,6 @@
 0.0.0.0 gov.onitsukatigergreece-gr.com
 0.0.0.0 gov.online-business-bank-account-gr.online
 0.0.0.0 gov.online-mba-gr.click
-0.0.0.0 gov.onlinestoregr.com
 0.0.0.0 gov.onsdgr.buzz
 0.0.0.0 gov.opmmgr.com
 0.0.0.0 gov.orbigr.info

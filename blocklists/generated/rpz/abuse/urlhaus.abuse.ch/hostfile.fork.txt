@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 185-177-25-101.ip.club-srv.com CNAME .
@@ -49,6 +47,8 @@ api.52kkg.com CNAME .
 *.api.52kkg.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
+arcsystem.rodopibg.net CNAME .
+*.arcsystem.rodopibg.net CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
 aulist.com CNAME .
@@ -133,8 +133,6 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
-down.pcclear.com CNAME .
-*.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
@@ -151,8 +149,6 @@ drumev.eu CNAME .
 *.drumev.eu CNAME .
 electjimhenderson.com CNAME .
 *.electjimhenderson.com CNAME .
-elisans.novayonetim.com CNAME .
-*.elisans.novayonetim.com CNAME .
 eoufaoeuhoauengi.su CNAME .
 *.eoufaoeuhoauengi.su CNAME .
 epanpano.com CNAME .
@@ -163,8 +159,6 @@ exilum.com CNAME .
 *.exilum.com CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
-file.edunet.ac CNAME .
-*.file.edunet.ac CNAME .
 files5.uludagbilisim.com CNAME .
 *.files5.uludagbilisim.com CNAME .
 fish.hackbiji.cc CNAME .
@@ -263,8 +257,6 @@ microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
 municipiodomaio.cv CNAME .
 *.municipiodomaio.cv CNAME .
-namthaibinh.net CNAME .
-*.namthaibinh.net CNAME .
 noithaticon.vn CNAME .
 *.noithaticon.vn CNAME .
 ns.smallsrv.com CNAME .
@@ -295,6 +287,8 @@ protechasia.com CNAME .
 *.protechasia.com CNAME .
 qihdv.lessons.southsidechurchofchristla.org CNAME .
 *.qihdv.lessons.southsidechurchofchristla.org CNAME .
+qiniuyunxz.yxflzs.com CNAME .
+*.qiniuyunxz.yxflzs.com CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 *.qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 rd.chuitian.cn CNAME .
@@ -351,8 +345,6 @@ spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
 srothienhoa.com CNAME .
 *.srothienhoa.com CNAME .
-stdown.dinju.com CNAME .
-*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 subaccountflix.net CNAME .
@@ -363,8 +355,6 @@ tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
 tecunonline.com CNAME .
 *.tecunonline.com CNAME .
-telegramcn.co CNAME .
-*.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
 *.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
@@ -405,16 +395,18 @@ win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 worldwide-ship-ups-order5847.com CNAME .
 *.worldwide-ship-ups-order5847.com CNAME .
-aqianniao.com CNAME .
-*.aqianniao.com CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
 bkzj.wang CNAME .
 *.bkzj.wang CNAME .
 blackhattoolz.com CNAME .
 *.blackhattoolz.com CNAME .
+chemsky.tn CNAME .
+*.chemsky.tn CNAME .
 chrismccaw.net CNAME .
 *.chrismccaw.net CNAME .
+flechabusretiro.com.ar CNAME .
+*.flechabusretiro.com.ar CNAME .
 globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 grupodulcemar.pe CNAME .
@@ -435,6 +427,8 @@ qqqmy.com CNAME .
 *.qqqmy.com CNAME .
 saf-oil.ru CNAME .
 *.saf-oil.ru CNAME .
+starcountry.net CNAME .
+*.starcountry.net CNAME .
 sumiyuki.co.jp CNAME .
 *.sumiyuki.co.jp CNAME .
 xn--on3b15m2lco2u.com CNAME .
