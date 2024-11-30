@@ -1,9 +1,9 @@
-# Version: 202411301608
+# Version: 202411301807
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 140565
-# Last modified: 2024-11-30T16:08:46+0000
+! Entries: 140563
+# Last modified: 2024-11-30T18:07:24+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -85268,7 +85268,6 @@
 127.0.0.1 navi77.com
 127.0.0.1 navi78.ru
 127.0.0.1 navi8.com
-127.0.0.1 navi82.ru
 127.0.0.1 navi88.com
 127.0.0.1 navi99.com
 127.0.0.1 naviblue-team.com
@@ -93817,7 +93816,6 @@
 127.0.0.1 pepperunmoveddecipher.com
 127.0.0.1 peppy2lon1g1stalk.com
 127.0.0.1 pepsico.com.cn
-127.0.0.1 pepticsphene.shop
 127.0.0.1 pepzk-community.xyz
 127.0.0.1 pequotpatrick.click
 127.0.0.1 per-immobilien.at
