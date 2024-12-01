@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-01 08:24:06 (UTC)                      #
+# Last updated: 2024-12-01 10:23:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -22,6 +22,7 @@
 0.0.0.0 adf6.adf6.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
+0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 alx.studio.lacrenshawcrossing.com
 0.0.0.0 amoamosss.com
@@ -31,14 +32,18 @@
 0.0.0.0 apslline.com
 0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
+0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bot.ndascad.xyz
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 by.haory.cn
 0.0.0.0 casacoimbramaputo.com
+0.0.0.0 cat.dashabi.in
 0.0.0.0 cat.xiaojiji.nl
+0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cheat.underground-cheat.com
@@ -92,6 +97,7 @@
 0.0.0.0 fish.hackbiji.cc
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
+0.0.0.0 game-01.anonvm.wtf
 0.0.0.0 gawx.florenda.com
 0.0.0.0 goodlabel.cn
 0.0.0.0 h2.vn1-cn.dzifast.click
@@ -109,6 +115,7 @@
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
 0.0.0.0 info-track-del.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 international-ups-ship5274-ca.com
 0.0.0.0 intesasanpaolo-configure-login.mywww.biz
@@ -144,6 +151,7 @@
 0.0.0.0 ndascad.xyz
 0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
+0.0.0.0 nyhingfeng.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 order6473-ups-schedule-now.com
 0.0.0.0 osecweb.ir
@@ -152,6 +160,7 @@
 0.0.0.0 package-delay92-ups.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
+0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
@@ -160,6 +169,7 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qihdv.lessons.southsidechurchofchristla.org
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -172,6 +182,7 @@
 0.0.0.0 sbelegi.com.br
 0.0.0.0 sbv.pushswroller.eu
 0.0.0.0 schedule7254-now-ups-ca.com
+0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
@@ -179,7 +190,6 @@
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 ship-ups-service-pending6356.com
-0.0.0.0 shopping-nice.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
@@ -220,6 +230,7 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 worldwide-ship-ups-order5847.com
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -234,7 +245,6 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mspa-constabulary.org
 0.0.0.0 www.netsolution.it
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
@@ -248,8 +258,10 @@
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
+0.0.0.0 xiangshunjy.com
 0.0.0.0 xinhgai.tv
 0.0.0.0 xkobeimparatu.net
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-# Number of entries: 246
+0.0.0.0 znrq.zifwxq.cn
+# Number of entries: 258
