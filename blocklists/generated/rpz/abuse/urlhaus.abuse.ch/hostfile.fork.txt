@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -27,8 +25,6 @@ accountsubflix.net CNAME .
 *.accountsubflix.net CNAME .
 action-ups-required37428-now.com CNAME .
 *.action-ups-required37428-now.com CNAME .
-adf6.adf6.com CNAME .
-*.adf6.adf6.com CNAME .
 aefieiaehfiaehr.top CNAME .
 *.aefieiaehfiaehr.top CNAME .
 aeufoeahfouefhg.top CNAME .
@@ -41,6 +37,8 @@ alx.studio.lacrenshawcrossing.com CNAME .
 *.alx.studio.lacrenshawcrossing.com CNAME .
 amoamosss.com CNAME .
 *.amoamosss.com CNAME .
+aosafrica.co.za CNAME .
+*.aosafrica.co.za CNAME .
 api.52kkg.com CNAME .
 *.api.52kkg.com CNAME .
 api.ewfiles.net CNAME .
@@ -65,8 +63,12 @@ bot.ndascad.xyz CNAME .
 *.bot.ndascad.xyz CNAME .
 buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
+cajgtus.com CNAME .
+*.cajgtus.com CNAME .
 casacoimbramaputo.com CNAME .
 *.casacoimbramaputo.com CNAME .
+cat.dashabi.in CNAME .
+*.cat.dashabi.in CNAME .
 cat.xiaojiji.nl CNAME .
 *.cat.xiaojiji.nl CNAME .
 cat.xiaoshabi.nl CNAME .
@@ -113,8 +115,6 @@ delivery-pending82538-ca-ups.com CNAME .
 *.delivery-pending82538-ca-ups.com CNAME .
 demdi.de CNAME .
 *.demdi.de CNAME .
-dhnconstrucciones.com.ar CNAME .
-*.dhnconstrucciones.com.ar CNAME .
 diclegrup.org CNAME .
 *.diclegrup.org CNAME .
 disk.accord1key.cn CNAME .
@@ -145,14 +145,16 @@ download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.haozip.com CNAME .
 *.download.haozip.com CNAME .
-download.innovare.no CNAME .
-*.download.innovare.no CNAME .
+download.suxiazai.com CNAME .
+*.download.suxiazai.com CNAME .
 downsexv.com CNAME .
 *.downsexv.com CNAME .
 drumev.eu CNAME .
 *.drumev.eu CNAME .
 dvihz.com CNAME .
 *.dvihz.com CNAME .
+electjimhenderson.com CNAME .
+*.electjimhenderson.com CNAME .
 elisans.novayonetim.com CNAME .
 *.elisans.novayonetim.com CNAME .
 eoufaoeuhoauengi.su CNAME .
@@ -203,8 +205,6 @@ id389-package-customs-ups.com CNAME .
 *.id389-package-customs-ups.com CNAME .
 id728-client-ca-ups.com CNAME .
 *.id728-client-ca-ups.com CNAME .
-imtoken8.cc CNAME .
-*.imtoken8.cc CNAME .
 in-houselegal.ro CNAME .
 *.in-houselegal.ro CNAME .
 info-track-del.com CNAME .
@@ -267,8 +267,6 @@ microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
 mirailogin.xyz CNAME .
 *.mirailogin.xyz CNAME .
-municipiodomaio.cv CNAME .
-*.municipiodomaio.cv CNAME .
 muwc.shop CNAME .
 *.muwc.shop CNAME .
 muwc.today CNAME .
@@ -315,8 +313,6 @@ protechasia.com CNAME .
 *.protechasia.com CNAME .
 qihdv.lessons.southsidechurchofchristla.org CNAME .
 *.qihdv.lessons.southsidechurchofchristla.org CNAME .
-qiniuyunxz.yxflzs.com CNAME .
-*.qiniuyunxz.yxflzs.com CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 *.qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 raw.cardiacpure.ru CNAME .
@@ -369,14 +365,14 @@ soft.110route.com CNAME .
 *.soft.110route.com CNAME .
 softcatalog.ru CNAME .
 *.softcatalog.ru CNAME .
-soportegira.net CNAME .
-*.soportegira.net CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
 srothienhoa.com CNAME .
 *.srothienhoa.com CNAME .
+stdown.dinju.com CNAME .
+*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 subaccountflix.net CNAME .
@@ -413,16 +409,10 @@ unicorpbrunei.com CNAME .
 *.unicorpbrunei.com CNAME .
 up.maolaoban.top CNAME .
 *.up.maolaoban.top CNAME .
-update.cg100iii.com CNAME .
-*.update.cg100iii.com CNAME .
-update.vlnguba.com CNAME .
-*.update.vlnguba.com CNAME .
 upload.vina-host.com CNAME .
 *.upload.vina-host.com CNAME .
 ups-action5394-required7-now.com CNAME .
 *.ups-action5394-required7-now.com CNAME .
-usjjsjsj.com.ng CNAME .
-*.usjjsjsj.com.ng CNAME .
 utorrent-backup-server.top CNAME .
 *.utorrent-backup-server.top CNAME .
 utorrent-backup-server2.top CNAME .
@@ -463,6 +453,8 @@ ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 maxmoney.com CNAME .
 *.maxmoney.com CNAME .
+medises.co.kr CNAME .
+*.medises.co.kr CNAME .
 mspa-constabulary.org CNAME .
 *.mspa-constabulary.org CNAME .
 netsolution.it CNAME .
@@ -491,6 +483,8 @@ xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 xinhgai.tv CNAME .
 *.xinhgai.tv CNAME .
+xkobeimparatu.net CNAME .
+*.xkobeimparatu.net CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
