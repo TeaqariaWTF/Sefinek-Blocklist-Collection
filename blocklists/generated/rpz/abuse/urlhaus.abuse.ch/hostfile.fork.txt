@@ -1,8 +1,10 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024120101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024120201 43200 3600 259200 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -15,16 +17,14 @@ $TTL 300
 *.7zlp112024.top CNAME .
 7zlp2024.shop CNAME .
 *.7zlp2024.shop CNAME .
-912648.aioc.qbgxl.com CNAME .
-*.912648.aioc.qbgxl.com CNAME .
-aarzoomarine.com CNAME .
-*.aarzoomarine.com CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
 accountsubflix.net CNAME .
 *.accountsubflix.net CNAME .
 action-ups-required37428-now.com CNAME .
 *.action-ups-required37428-now.com CNAME .
+adf6.adf6.com CNAME .
+*.adf6.adf6.com CNAME .
 aefieiaehfiaehr.top CNAME .
 *.aefieiaehfiaehr.top CNAME .
 aeufoeahfouefhg.top CNAME .
@@ -61,6 +61,8 @@ bitkiselurunsiparis.com CNAME .
 *.bitkiselurunsiparis.com CNAME .
 bot.ndascad.xyz CNAME .
 *.bot.ndascad.xyz CNAME .
+botnet.arismstress.us CNAME .
+*.botnet.arismstress.us CNAME .
 buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
 cajgtus.com CNAME .
@@ -95,8 +97,6 @@ coadymarine.com CNAME .
 *.coadymarine.com CNAME .
 coindiscussion.net CNAME .
 *.coindiscussion.net CNAME .
-conn.masjesu.zip CNAME .
-*.conn.masjesu.zip CNAME .
 crystalpvp.ru CNAME .
 *.crystalpvp.ru CNAME .
 csg-app.com CNAME .
@@ -113,8 +113,8 @@ defgyma.com CNAME .
 *.defgyma.com CNAME .
 delivery-pending82538-ca-ups.com CNAME .
 *.delivery-pending82538-ca-ups.com CNAME .
-demdi.de CNAME .
-*.demdi.de CNAME .
+dhnconstrucciones.com.ar CNAME .
+*.dhnconstrucciones.com.ar CNAME .
 diclegrup.org CNAME .
 *.diclegrup.org CNAME .
 disk.accord1key.cn CNAME .
@@ -145,6 +145,8 @@ download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.haozip.com CNAME .
 *.download.haozip.com CNAME .
+download.innovare.no CNAME .
+*.download.innovare.no CNAME .
 download.suxiazai.com CNAME .
 *.download.suxiazai.com CNAME .
 downsexv.com CNAME .
@@ -177,6 +179,8 @@ ftp.ywxww.net CNAME .
 *.ftp.ywxww.net CNAME .
 funletters.net CNAME .
 *.funletters.net CNAME .
+game-01.anonvm.wtf CNAME .
+*.game-01.anonvm.wtf CNAME .
 gawx.florenda.com CNAME .
 *.gawx.florenda.com CNAME .
 goodlabel.cn CNAME .
@@ -193,6 +197,8 @@ hitman-pro.ru CNAME .
 *.hitman-pro.ru CNAME .
 hitstation.nl CNAME .
 *.hitstation.nl CNAME .
+homjh.studio.lacrenshawcrossing.com CNAME .
+*.homjh.studio.lacrenshawcrossing.com CNAME .
 hoteltoscanaplaza.com.co CNAME .
 *.hoteltoscanaplaza.com.co CNAME .
 hr2019.vrcom7.com CNAME .
@@ -205,6 +211,10 @@ id389-package-customs-ups.com CNAME .
 *.id389-package-customs-ups.com CNAME .
 id728-client-ca-ups.com CNAME .
 *.id728-client-ca-ups.com CNAME .
+importantnotice.net CNAME .
+*.importantnotice.net CNAME .
+imtoken8.cc CNAME .
+*.imtoken8.cc CNAME .
 in-houselegal.ro CNAME .
 *.in-houselegal.ro CNAME .
 info-track-del.com CNAME .
@@ -271,16 +281,12 @@ muwc.shop CNAME .
 *.muwc.shop CNAME .
 muwc.today CNAME .
 *.muwc.today CNAME .
-namthaibinh.net CNAME .
-*.namthaibinh.net CNAME .
 ndascad.xyz CNAME .
 *.ndascad.xyz CNAME .
 noithaticon.vn CNAME .
 *.noithaticon.vn CNAME .
-ns.smallsrv.com CNAME .
-*.ns.smallsrv.com CNAME .
-odoo.kseibitools.com CNAME .
-*.odoo.kseibitools.com CNAME .
+nyhingfeng.com CNAME .
+*.nyhingfeng.com CNAME .
 order6473-ups-schedule-now.com CNAME .
 *.order6473-ups-schedule-now.com CNAME .
 osecweb.ir CNAME .
@@ -293,8 +299,6 @@ package-delay92-ups.com CNAME .
 *.package-delay92-ups.com CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
-paonancs.cn CNAME .
-*.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 passagetoeastafrica.com CNAME .
@@ -305,14 +309,12 @@ perfectperu.com CNAME .
 *.perfectperu.com CNAME .
 pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
-pip.x-x-x.online CNAME .
-*.pip.x-x-x.online CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
-qihdv.lessons.southsidechurchofchristla.org CNAME .
-*.qihdv.lessons.southsidechurchofchristla.org CNAME .
+qiniuyunxz.yxflzs.com CNAME .
+*.qiniuyunxz.yxflzs.com CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 *.qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 raw.cardiacpure.ru CNAME .
@@ -363,8 +365,8 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
-softcatalog.ru CNAME .
-*.softcatalog.ru CNAME .
+soportegira.net CNAME .
+*.soportegira.net CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
@@ -409,12 +411,16 @@ unicorpbrunei.com CNAME .
 *.unicorpbrunei.com CNAME .
 up.maolaoban.top CNAME .
 *.up.maolaoban.top CNAME .
+update.cg100iii.com CNAME .
+*.update.cg100iii.com CNAME .
+update.vlnguba.com CNAME .
+*.update.vlnguba.com CNAME .
 upload.vina-host.com CNAME .
 *.upload.vina-host.com CNAME .
 ups-action5394-required7-now.com CNAME .
 *.ups-action5394-required7-now.com CNAME .
-utorrent-backup-server.top CNAME .
-*.utorrent-backup-server.top CNAME .
+usjjsjsj.com.ng CNAME .
+*.usjjsjsj.com.ng CNAME .
 utorrent-backup-server2.top CNAME .
 *.utorrent-backup-server2.top CNAME .
 utorrent-backup-server3.top CNAME .
@@ -433,8 +439,6 @@ worldwide-ship-ups-order5847.com CNAME .
 *.worldwide-ship-ups-order5847.com CNAME .
 aqianniao.com CNAME .
 *.aqianniao.com CNAME .
-beiletoys.com CNAME .
-*.beiletoys.com CNAME .
 bkzj.wang CNAME .
 *.bkzj.wang CNAME .
 blackhattoolz.com CNAME .
@@ -469,6 +473,8 @@ saf-oil.ru CNAME .
 *.saf-oil.ru CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
+sumiyuki.co.jp CNAME .
+*.sumiyuki.co.jp CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
@@ -483,8 +489,6 @@ xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 xinhgai.tv CNAME .
 *.xinhgai.tv CNAME .
-xkobeimparatu.net CNAME .
-*.xkobeimparatu.net CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
