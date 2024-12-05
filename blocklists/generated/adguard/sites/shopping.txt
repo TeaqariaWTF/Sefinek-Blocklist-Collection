@@ -11,14 +11,14 @@
 ! Title: Blocks e-commerce websites and online shopping platforms (beta)
 ! Description: Active, inactive, and parked domains. Blocks online shopping websites like Amazon, eBay, AliExpress, Etsy, Wish, and others.
 ! Expires: 1 day
-! Count: 120771
+! Count: 120774
 ! Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 ! Modified by: Nobody
 ! Source: N/A
 ! License: CC BY-NC-ND 4.0
 ! Release: AdGuard [adguard.com]
-! Version: 1733048936851
-! Last update: December 1, 2024 at 10:28 AM UTC | 2024-12-01T10:28:56.851+00:00
+! Version: 1733403162289
+! Last update: December 5, 2024 at 12:52 PM UTC | 2024-12-05T12:52:42.289+00:00
 !
 ! 〢 About:
 ! This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -120799,3 +120799,6 @@
 ||purebay.se^
 ||bikeair.se^
 ||swishdonationer.se^
+||amazonnova.se^
+||learnswish.se^
+||amazonnova.nu^
