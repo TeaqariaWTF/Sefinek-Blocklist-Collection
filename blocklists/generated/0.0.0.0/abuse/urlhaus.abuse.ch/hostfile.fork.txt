@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-05 08:29:06 (UTC)                      #
+# Last updated: 2024-12-05 10:23:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,7 +30,6 @@
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 apslline.com
-0.0.0.0 arcsystem.rodopibg.net
 0.0.0.0 armanayegh.com
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
@@ -40,14 +39,11 @@
 0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bin.elite-api.su
 0.0.0.0 bitkiselurunsiparis.com
+0.0.0.0 blogoss.fr
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 by.haory.cn
-0.0.0.0 casacoimbramaputo.com
-0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdn-downloads-now.xyz
 0.0.0.0 cdn-downloads.com
-0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 chudautu.info
 0.0.0.0 ciscocdn.com
 0.0.0.0 cmgtrading.eu
@@ -60,15 +56,16 @@
 0.0.0.0 csg-app.com
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
+0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
-0.0.0.0 defgyma.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dnvk1.info
+0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
@@ -77,7 +74,6 @@
 0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 drdavidfishbein.com
 0.0.0.0 drumev.eu
@@ -102,8 +98,8 @@
 0.0.0.0 fushishandm.info
 0.0.0.0 gawx.florenda.com
 0.0.0.0 goodlabel.cn
-0.0.0.0 hailcocks.ru
 0.0.0.0 harmeetmotors.com
+0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
@@ -129,7 +125,6 @@
 0.0.0.0 klingdownload.com
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 library.arihantmbainstitute.ac.in
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
@@ -138,7 +133,6 @@
 0.0.0.0 maisonetcites.fr
 0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
-0.0.0.0 meeweb.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
@@ -159,6 +153,7 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
+0.0.0.0 pts.group
 0.0.0.0 q8ds.net
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
@@ -177,6 +172,7 @@
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 serbubet.store
+0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
@@ -210,9 +206,11 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
+0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 valseg.com.br
 0.0.0.0 wavec2.joaophillip.dev
 0.0.0.0 win-network-checker.cc
+0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
@@ -233,6 +231,7 @@
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.oleonidas.gr
 0.0.0.0 www.opolis.io
+0.0.0.0 www.pts.group
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
@@ -247,7 +246,6 @@
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 244
+# Number of entries: 242
