@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -11,8 +13,6 @@ $TTL 300
 *.2k8u3.org CNAME .
 3434.filelu.cloud CNAME .
 *.3434.filelu.cloud CNAME .
-360down7.miiyun.cn CNAME .
-*.360down7.miiyun.cn CNAME .
 7zip10-2024.top CNAME .
 *.7zip10-2024.top CNAME .
 aarzoomarine.com CNAME .
@@ -29,8 +29,6 @@ aefieiaehfiaehr.top CNAME .
 *.aefieiaehfiaehr.top CNAME .
 aeufoeahfouefhg.top CNAME .
 *.aeufoeahfouefhg.top CNAME .
-airhobi.com CNAME .
-*.airhobi.com CNAME .
 alien-training.com CNAME .
 *.alien-training.com CNAME .
 amoamosss.com CNAME .
@@ -69,8 +67,6 @@ buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
 casacoimbramaputo.com CNAME .
 *.casacoimbramaputo.com CNAME .
-cat.dashabi.in CNAME .
-*.cat.dashabi.in CNAME .
 catbaparadisehotel.com.vn CNAME .
 *.catbaparadisehotel.com.vn CNAME .
 cdn-downloads-now.xyz CNAME .
@@ -87,6 +83,8 @@ cmgtrading.eu CNAME .
 *.cmgtrading.eu CNAME .
 coach.028csc.com CNAME .
 *.coach.028csc.com CNAME .
+coadymarine.com CNAME .
+*.coadymarine.com CNAME .
 coindiscussion.net CNAME .
 *.coindiscussion.net CNAME .
 conimagencancun.com CNAME .
@@ -97,6 +95,8 @@ crystalpvp.ru CNAME .
 *.crystalpvp.ru CNAME .
 csg-app.com CNAME .
 *.csg-app.com CNAME .
+data.discuz.mobi CNAME .
+*.data.discuz.mobi CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
 dcwblida.dz CNAME .
@@ -111,6 +111,10 @@ disk.accord1key.cn CNAME .
 *.disk.accord1key.cn CNAME .
 divvanews.com CNAME .
 *.divvanews.com CNAME .
+dl.1003b.56a.com CNAME .
+*.dl.1003b.56a.com CNAME .
+dl.aginjector.com CNAME .
+*.dl.aginjector.com CNAME .
 dl.natgo.cn CNAME .
 *.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
@@ -133,8 +137,6 @@ down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
 *.download.caihong.com CNAME .
-download.haozip.com CNAME .
-*.download.haozip.com CNAME .
 download.innovare.no CNAME .
 *.download.innovare.no CNAME .
 download.suxiazai.com CNAME .
@@ -187,8 +189,8 @@ gawx.florenda.com CNAME .
 *.gawx.florenda.com CNAME .
 goodlabel.cn CNAME .
 *.goodlabel.cn CNAME .
-h2.vn1-cn.dzifast.click CNAME .
-*.h2.vn1-cn.dzifast.click CNAME .
+hailcocks.ru CNAME .
+*.hailcocks.ru CNAME .
 harmeetmotors.com CNAME .
 *.harmeetmotors.com CNAME .
 hitman-pro.ru CNAME .
@@ -287,6 +289,10 @@ p3.zbjimg.com CNAME .
 *.p3.zbjimg.com CNAME .
 p6.zbjimg.com CNAME .
 *.p6.zbjimg.com CNAME .
+palharesinformatica.com.br CNAME .
+*.palharesinformatica.com.br CNAME .
+paonancs.cn CNAME .
+*.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 pb.agnt.ru CNAME .
@@ -367,6 +373,8 @@ subaccountflix.net CNAME .
 *.subaccountflix.net CNAME .
 support.clz.kr CNAME .
 *.support.clz.kr CNAME .
+taodianla.com CNAME .
+*.taodianla.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
 tecunonline.com CNAME .
@@ -381,8 +389,6 @@ tianyinsoft.top CNAME .
 *.tianyinsoft.top CNAME .
 travelwithmanta.co.za CNAME .
 *.travelwithmanta.co.za CNAME .
-treinamento.convenio.to.gov.br CNAME .
-*.treinamento.convenio.to.gov.br CNAME .
 twizt.net CNAME .
 *.twizt.net CNAME .
 unicorpbrunei.com CNAME .
@@ -413,8 +419,6 @@ win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 alaqalezdehar.com CNAME .
 *.alaqalezdehar.com CNAME .
-aqianniao.com CNAME .
-*.aqianniao.com CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
 bkzj.wang CNAME .
@@ -425,6 +429,8 @@ chemsky.tn CNAME .
 *.chemsky.tn CNAME .
 chrismccaw.net CNAME .
 *.chrismccaw.net CNAME .
+flechabusretiro.com.ar CNAME .
+*.flechabusretiro.com.ar CNAME .
 globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 grupodulcemar.pe CNAME .
@@ -461,8 +467,6 @@ xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
-zhikey.com CNAME .
-*.zhikey.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
 wz.3911.com CNAME .
@@ -473,7 +477,5 @@ ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
-z.shavsl.com CNAME .
-*.z.shavsl.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
