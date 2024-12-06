@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024120501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024120601 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -7689,6 +7689,8 @@ alnyus.com CNAME .
 *.alnyus.com CNAME .
 alobotanics.com CNAME .
 *.alobotanics.com CNAME .
+alocekici.net CNAME .
+*.alocekici.net CNAME .
 alociwuryrok.pro CNAME .
 *.alociwuryrok.pro CNAME .
 alocoupons.com CNAME .
@@ -12915,6 +12917,8 @@ baumhaus.me CNAME .
 *.baumhaus.me CNAME .
 bauty.online CNAME .
 *.bauty.online CNAME .
+bawsny.com CNAME .
+*.bawsny.com CNAME .
 baxima.com CNAME .
 *.baxima.com CNAME .
 baxterco.com CNAME .
@@ -20143,6 +20147,8 @@ cc-shopify.com CNAME .
 *.cc-shopify.com CNAME .
 cc.cruisehq.click CNAME .
 *.cc.cruisehq.click CNAME .
+cc.hikehub.click CNAME .
+*.cc.hikehub.click CNAME .
 cc.trycruise.click CNAME .
 *.cc.trycruise.click CNAME .
 cc.vacayly.click CNAME .
@@ -22181,6 +22187,8 @@ cksanity.com CNAME .
 *.cksanity.com CNAME .
 cktd.com CNAME .
 *.cktd.com CNAME .
+ckuer.com CNAME .
+*.ckuer.com CNAME .
 ckxoe.us CNAME .
 *.ckxoe.us CNAME .
 ckyc.com CNAME .
@@ -26795,6 +26803,8 @@ datingcon.info CNAME .
 *.datingcon.info CNAME .
 datingeco.info CNAME .
 *.datingeco.info CNAME .
+datingel.com CNAME .
+*.datingel.com CNAME .
 datingempiretop.site CNAME .
 *.datingempiretop.site CNAME .
 datingfails.com CNAME .
@@ -28727,6 +28737,8 @@ digumo.com CNAME .
 *.digumo.com CNAME .
 diide.com CNAME .
 *.diide.com CNAME .
+diigimon.com CNAME .
+*.diigimon.com CNAME .
 diigo.club CNAME .
 *.diigo.club CNAME .
 diigo.site CNAME .
@@ -33193,6 +33205,8 @@ eoffice.top CNAME .
 *.eoffice.top CNAME .
 eogaf.com CNAME .
 *.eogaf.com CNAME .
+eoilup.com CNAME .
+*.eoilup.com CNAME .
 eol.digital CNAME .
 *.eol.digital CNAME .
 eolot.site CNAME .
@@ -48127,6 +48141,8 @@ imillions.ph CNAME .
 *.imillions.ph CNAME .
 imillions.se CNAME .
 *.imillions.se CNAME .
+iminko.com CNAME .
+*.iminko.com CNAME .
 imitate.in.net CNAME .
 *.imitate.in.net CNAME .
 imitrex-sumatriptan.com CNAME .
@@ -57373,6 +57389,8 @@ lodpg.xyz CNAME .
 *.lodpg.xyz CNAME .
 loewe-hammock.com CNAME .
 *.loewe-hammock.com CNAME .
+lofiey.com CNAME .
+*.lofiey.com CNAME .
 loftfitnessschaffhausen.com CNAME .
 *.loftfitnessschaffhausen.com CNAME .
 loftnoire.com CNAME .
@@ -74413,6 +74431,8 @@ pojokcenter.tech CNAME .
 *.pojokcenter.tech CNAME .
 pok.silkwomenshirts.com CNAME .
 *.pok.silkwomenshirts.com CNAME .
+pokeline.com CNAME .
+*.pokeline.com CNAME .
 pokemonqq.com CNAME .
 *.pokemonqq.com CNAME .
 pokenoms.com CNAME .
@@ -76157,6 +76177,8 @@ prosto-videohd.ru CNAME .
 *.prosto-videohd.ru CNAME .
 prostory.store CNAME .
 *.prostory.store CNAME .
+prostpro.fun CNAME .
+*.prostpro.fun CNAME .
 protectie.date CNAME .
 *.protectie.date CNAME .
 protectrep.com CNAME .
@@ -81523,6 +81545,8 @@ rustcompany.tech CNAME .
 *.rustcompany.tech CNAME .
 rustehaged.com CNAME .
 *.rustehaged.com CNAME .
+rustetic.com CNAME .
+*.rustetic.com CNAME .
 rustoya.ru CNAME .
 *.rustoya.ru CNAME .
 rustracker.site CNAME .
@@ -86051,6 +86075,8 @@ snapunit.com CNAME .
 *.snapunit.com CNAME .
 snave.eu CNAME .
 *.snave.eu CNAME .
+snavep.com CNAME .
+*.snavep.com CNAME .
 sndae5.us CNAME .
 *.sndae5.us CNAME .
 sndcrd.com CNAME .
@@ -97205,6 +97231,8 @@ vasctechinc.com CNAME .
 *.vasctechinc.com CNAME .
 vashakarta24.com CNAME .
 *.vashakarta24.com CNAME .
+vasomin.com CNAME .
+*.vasomin.com CNAME .
 vasomly.com CNAME .
 *.vasomly.com CNAME .
 vasqa.com CNAME .
@@ -103547,6 +103575,8 @@ yk20.com CNAME .
 *.yk20.com CNAME .
 ykcpdz.us CNAME .
 *.ykcpdz.us CNAME .
+ykmov.com CNAME .
+*.ykmov.com CNAME .
 yknb.com CNAME .
 *.yknb.com CNAME .
 yko.xyz CNAME .
@@ -104653,6 +104683,8 @@ zingsingingfitness.com CNAME .
 *.zingsingingfitness.com CNAME .
 zinncwsecllats3.gq CNAME .
 *.zinncwsecllats3.gq CNAME .
+zintomex.com CNAME .
+*.zintomex.com CNAME .
 ziompozyczka.pl CNAME .
 *.ziompozyczka.pl CNAME .
 zip1.site CNAME .
