@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-06 08:28:13 (UTC)                      #
+# Last updated: 2024-12-06 10:20:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,6 +27,8 @@ server=/alien-training.com/
 server=/amoamosss.com/
 server=/anonsharing.com/
 server=/anphatnam.com/
+server=/aosafrica.co.za/
+server=/api-conect-v1.org/
 server=/api.52kkg.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
@@ -40,10 +42,10 @@ server=/azgint.com/
 server=/babayaga.ro/
 server=/berb.fitnessclub-filmfanatics.com/
 server=/bfd78.biz/
+server=/bill.drillmmcsnk.top/
 server=/bitkiselurunsiparis.com/
 server=/blogoss.fr/
 server=/buscascolegios.diit.cl/
-server=/by.haory.cn/
 server=/casacoimbramaputo.com/
 server=/catbaparadisehotel.com.vn/
 server=/cdn-downloads.com/
@@ -67,6 +69,7 @@ server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
 server=/defgyma.com/
 server=/dhnconstrucciones.com.ar/
+server=/diclegrup.org/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.aginjector.com/
@@ -112,6 +115,8 @@ server=/fushishandm.info/
 server=/gawx.florenda.com/
 server=/goodlabel.cn/
 server=/grafital.by/
+server=/h2.vn1-cn.dzifast.click/
+server=/hailcocks.ru/
 server=/harmeetmotors.com/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
@@ -123,7 +128,6 @@ server=/id728-client-ca-ups.com/
 server=/imtoken8.cc/
 server=/in-houselegal.ro/
 server=/info-track-del.com/
-server=/ini.sh-pp.com/
 server=/inspirepk.org/
 server=/jahez.me/
 server=/jasanientertainment.com/
@@ -190,7 +194,7 @@ server=/reifenquick.de/
 server=/reusable-flex.com/
 server=/safe.ywxww.net/
 server=/sbelegi.com.br/
-server=/sbv.pushswroller.eu/
+server=/sec.dashabi.in/
 server=/secure.cloudtechnologiesusa.com/
 server=/ser.nrovn.xyz/
 server=/serbubet.store/
@@ -210,7 +214,6 @@ server=/soportegira.net/
 server=/sos.vivi.sg/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/srothienhoa.com/
-server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/subaccountflix.net/
 server=/sunflowercet.edu.in/
@@ -257,8 +260,8 @@ server=/www.info-track-del.com/
 server=/www.ingonherbal.com/
 server=/www.lequipier-maroc.com/
 server=/www.maxmoney.com/
+server=/www.medises.co.kr/
 server=/www.mspa-constabulary.org/
-server=/www.netsolution.it/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.pts.group/
@@ -268,17 +271,19 @@ server=/www.reifenquick.de/
 server=/www.saf-oil.ru/
 server=/www.sodiumlaurethsulfatedesyroyer.com/
 server=/www.starcountry.net/
+server=/www.stipamana.com/
 server=/www.sumiyuki.co.jp/
 server=/www.tecunonline.com/
 server=/www.teleproservice.com/
+server=/www.totya.ir/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
+server=/xn--yh4bx88a.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
-server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 275
+# Number of entries: 280

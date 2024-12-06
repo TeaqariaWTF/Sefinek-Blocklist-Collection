@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-06 08:28:13 (UTC)                      #
+# Last updated: 2024-12-06 10:20:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,6 +27,8 @@
 127.0.0.1 amoamosss.com
 127.0.0.1 anonsharing.com
 127.0.0.1 anphatnam.com
+127.0.0.1 aosafrica.co.za
+127.0.0.1 api-conect-v1.org
 127.0.0.1 api.52kkg.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -40,10 +42,10 @@
 127.0.0.1 babayaga.ro
 127.0.0.1 berb.fitnessclub-filmfanatics.com
 127.0.0.1 bfd78.biz
+127.0.0.1 bill.drillmmcsnk.top
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 buscascolegios.diit.cl
-127.0.0.1 by.haory.cn
 127.0.0.1 casacoimbramaputo.com
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdn-downloads.com
@@ -67,6 +69,7 @@
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 defgyma.com
 127.0.0.1 dhnconstrucciones.com.ar
+127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
@@ -112,6 +115,8 @@
 127.0.0.1 gawx.florenda.com
 127.0.0.1 goodlabel.cn
 127.0.0.1 grafital.by
+127.0.0.1 h2.vn1-cn.dzifast.click
+127.0.0.1 hailcocks.ru
 127.0.0.1 harmeetmotors.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
@@ -123,7 +128,6 @@
 127.0.0.1 imtoken8.cc
 127.0.0.1 in-houselegal.ro
 127.0.0.1 info-track-del.com
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 jahez.me
 127.0.0.1 jasanientertainment.com
@@ -190,7 +194,7 @@
 127.0.0.1 reusable-flex.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 sbelegi.com.br
-127.0.0.1 sbv.pushswroller.eu
+127.0.0.1 sec.dashabi.in
 127.0.0.1 secure.cloudtechnologiesusa.com
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 serbubet.store
@@ -210,7 +214,6 @@
 127.0.0.1 sos.vivi.sg
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 srothienhoa.com
-127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 subaccountflix.net
 127.0.0.1 sunflowercet.edu.in
@@ -257,8 +260,8 @@
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.lequipier-maroc.com
 127.0.0.1 www.maxmoney.com
+127.0.0.1 www.medises.co.kr
 127.0.0.1 www.mspa-constabulary.org
-127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.pts.group
@@ -268,17 +271,19 @@
 127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.sodiumlaurethsulfatedesyroyer.com
 127.0.0.1 www.starcountry.net
+127.0.0.1 www.stipamana.com
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.teleproservice.com
+127.0.0.1 www.totya.ir
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
+127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 275
+# Number of entries: 280
