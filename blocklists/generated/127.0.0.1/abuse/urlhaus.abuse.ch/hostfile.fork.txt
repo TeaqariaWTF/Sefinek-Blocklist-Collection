@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-07 18:21:29 (UTC)                      #
+# Last updated: 2024-12-07 20:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,6 +13,7 @@
 127.0.0.1 2ig.cs.alab01.de
 127.0.0.1 3434.filelu.cloud
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 7zip10-2024.top
 127.0.0.1 889mmm.com
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aarzoomarine.com
@@ -23,18 +24,12 @@
 127.0.0.1 admin.dkpc28.tggame.xyz
 127.0.0.1 admin.dkpk10.tggame.xyz
 127.0.0.1 admin.khaz10.tggame.xyz
-127.0.0.1 admin.khbjl.tggame.xyz
-127.0.0.1 admin.khbt20.tggame.xyz
 127.0.0.1 admin.khcjnn.tggame.xyz
 127.0.0.1 admin.khhbnn.tggame.xyz
-127.0.0.1 admin.khjssc.tggame.xyz
 127.0.0.1 admin.khlhc.tggame.xyz
-127.0.0.1 admin.khpc20.tggame.xyz
 127.0.0.1 admin.khpc28.tggame.xyz
-127.0.0.1 admin.khpc32.tggame.xyz
 127.0.0.1 admin.khpcmp.tggame.xyz
 127.0.0.1 admin.khpcwp.tggame.xyz
-127.0.0.1 admin.khyxx.tggame.xyz
 127.0.0.1 admin.nfcjnn.tggame.xyz
 127.0.0.1 admin.xwpk10.tggame.xyz
 127.0.0.1 admin.zhbjl.tggame.xyz
@@ -53,18 +48,16 @@
 127.0.0.1 api.dkjssc.tggame.xyz
 127.0.0.1 api.dkpc28.tggame.xyz
 127.0.0.1 api.dkpk10.tggame.xyz
-127.0.0.1 api.dkwallet.tggame.xyz
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 api.khaz10.tggame.xyz
-127.0.0.1 api.khbjl.tggame.xyz
 127.0.0.1 api.khbt20.tggame.xyz
 127.0.0.1 api.khcjnn.tggame.xyz
 127.0.0.1 api.khhbnn.tggame.xyz
 127.0.0.1 api.khjssc.tggame.xyz
-127.0.0.1 api.khpc28.tggame.xyz
 127.0.0.1 api.khpc32.tggame.xyz
 127.0.0.1 api.khpcmp.tggame.xyz
+127.0.0.1 api.khpcwp.tggame.xyz
 127.0.0.1 api.khyxx.tggame.xyz
 127.0.0.1 api.nfhbnn.tggame.xyz
 127.0.0.1 api.xwpk10.tggame.xyz
@@ -72,6 +65,7 @@
 127.0.0.1 api.zhlhc.tggame.xyz
 127.0.0.1 api.zhpc20.tggame.xyz
 127.0.0.1 api.zhtz.tggame.xyz
+127.0.0.1 armanayegh.com
 127.0.0.1 arteflordeliz.com.br
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
@@ -80,18 +74,19 @@
 127.0.0.1 babayaga.ro
 127.0.0.1 badlarrysguitars.com
 127.0.0.1 berb.fitnessclub-filmfanatics.com
+127.0.0.1 bill.drillmmcsnk.top
 127.0.0.1 bin.elite-api.su
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
+127.0.0.1 cajgtus.com
 127.0.0.1 casacoimbramaputo.com
 127.0.0.1 cat.dashabi.in
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdn-downloads.com
 127.0.0.1 celebrity-scandals.com
 127.0.0.1 chinaapper.com
-127.0.0.1 cia.tf
 127.0.0.1 ciscocdn.com
 127.0.0.1 clientdesk.help
 127.0.0.1 clubedasluluzinhasro.com.br
@@ -125,7 +120,6 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
-127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download-695-18112-001-webdav-logicaldoc.cdn-serveri4731-ns.shop
 127.0.0.1 download-695-18112-001-webdav-logicaldoc.cdn-serveri4732-ns.shop
@@ -164,7 +158,6 @@
 127.0.0.1 ggsp.law.kimsavagelaw.com
 127.0.0.1 goodlabel.cn
 127.0.0.1 grafital.by
-127.0.0.1 greenxeonsr.info
 127.0.0.1 grupodulcemar.pe
 127.0.0.1 guanggaoban.net
 127.0.0.1 haha.ifhmodule.com
@@ -177,9 +170,6 @@
 127.0.0.1 hook.dkjssc.tggame.xyz
 127.0.0.1 hook.dkpc28.tggame.xyz
 127.0.0.1 hook.dkpk10.tggame.xyz
-127.0.0.1 hook.dkwallet.tggame.xyz
-127.0.0.1 hook.khaz10.tggame.xyz
-127.0.0.1 hook.khbt20.tggame.xyz
 127.0.0.1 hook.khcjnn.tggame.xyz
 127.0.0.1 hook.khhx20.tggame.xyz
 127.0.0.1 hook.khjssc.tggame.xyz
@@ -189,7 +179,6 @@
 127.0.0.1 hook.khpc32.tggame.xyz
 127.0.0.1 hook.khpcmp.tggame.xyz
 127.0.0.1 hook.khpcwp.tggame.xyz
-127.0.0.1 hook.khyxx.tggame.xyz
 127.0.0.1 hook.nfhbnn.tggame.xyz
 127.0.0.1 hook.xwpk10.tggame.xyz
 127.0.0.1 hook.zhbjl.tggame.xyz
@@ -200,9 +189,7 @@
 127.0.0.1 houseofcelebrations.com
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
-127.0.0.1 hunter.freshworx.com
 127.0.0.1 huyanhnongdo.io.vn
-127.0.0.1 immense.software
 127.0.0.1 ims.law.kimsavagelaw.com
 127.0.0.1 imtoken8.cc
 127.0.0.1 in-houselegal.ro
@@ -259,7 +246,6 @@
 127.0.0.1 ojang.pe.kr
 127.0.0.1 omzmao.com
 127.0.0.1 onlineshoppe.semilinktech.com
-127.0.0.1 ordonnances.org
 127.0.0.1 osecweb.ir
 127.0.0.1 p3.zbjimg.com
 127.0.0.1 p6.zbjimg.com
@@ -343,6 +329,7 @@
 127.0.0.1 wserdtfyguhij.2024-vipticket.com
 127.0.0.1 wsp1-us.com
 127.0.0.1 www.alaqalezdehar.com
+127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
@@ -365,14 +352,12 @@
 127.0.0.1 www.mspa-constabulary.org
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
-127.0.0.1 www.opolis.io
 127.0.0.1 www.pts.group
 127.0.0.1 www.puneet.ae
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.sodiumlaurethsulfatedesyroyer.com
-127.0.0.1 www.starcountry.net
 127.0.0.1 www.stipamana.com
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
@@ -390,6 +375,5 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 zhibodaohang.cc
-127.0.0.1 zipline.radium.lol
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 386
+# Number of entries: 370
