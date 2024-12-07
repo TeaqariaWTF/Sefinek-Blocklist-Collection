@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-07 10:19:06 (UTC)                      #
+# Last updated: 2024-12-07 12:34:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 123.ywxww.net
-127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2ig.cs.alab01.de
 127.0.0.1 3434.filelu.cloud
@@ -15,8 +14,16 @@
 127.0.0.1 7zip10-2024.top
 127.0.0.1 889mmm.com
 127.0.0.1 912648.aioc.qbgxl.com
+127.0.0.1 aarzoomarine.com
 127.0.0.1 abissnet.net
 127.0.0.1 adf6.adf6.com
+127.0.0.1 admin.dkjssc.tggame.xyz
+127.0.0.1 admin.khbjl.tggame.xyz
+127.0.0.1 admin.khjssc.tggame.xyz
+127.0.0.1 admin.khlhc.tggame.xyz
+127.0.0.1 admin.khpc20.tggame.xyz
+127.0.0.1 admin.khpc32.tggame.xyz
+127.0.0.1 admin.khpcwp.tggame.xyz
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
 127.0.0.1 agapi.cqjjb.cn
@@ -28,8 +35,16 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api-conect-v1.org
 127.0.0.1 api.52kkg.com
+127.0.0.1 api.dkjssc.tggame.xyz
+127.0.0.1 api.dkwallet.tggame.xyz
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 api.khhbnn.tggame.xyz
+127.0.0.1 api.khpc28.tggame.xyz
+127.0.0.1 api.khpcwp.tggame.xyz
+127.0.0.1 api.khyxx.tggame.xyz
+127.0.0.1 api.zhlhc.tggame.xyz
+127.0.0.1 api.zhpc20.tggame.xyz
 127.0.0.1 apslline.com
 127.0.0.1 armanayegh.com
 127.0.0.1 aulist.com
@@ -44,6 +59,7 @@
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 buscascolegios.diit.cl
+127.0.0.1 by.haory.cn
 127.0.0.1 casacoimbramaputo.com
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdn-downloads.com
@@ -66,6 +82,7 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 dddotx.shop
 127.0.0.1 deauduafzgezzfgm.top
+127.0.0.1 defgyma.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 diclegrup.org
 127.0.0.1 disk.accord1key.cn
@@ -84,9 +101,9 @@
 127.0.0.1 download-695-18112-001-webdav-logicaldoc.cdn-serveri4731-ns.shop
 127.0.0.1 download-695-18112-001-webdav-logicaldoc.cdn-serveri4732-ns.shop
 127.0.0.1 download-695-18112-002-webdav-logicaldoc.smartpdfcloud.com
+127.0.0.1 download.caihong.com
 127.0.0.1 download.haozip.com
 127.0.0.1 download.innovare.no
-127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 downtimedollars.com
 127.0.0.1 drdavidfishbein.com
@@ -117,12 +134,18 @@
 127.0.0.1 goodlabel.cn
 127.0.0.1 grafital.by
 127.0.0.1 guanggaoban.net
-127.0.0.1 h2.vn1-cn.dzifast.click
 127.0.0.1 haha.ifhmodule.com
 127.0.0.1 hailcocks.ru
 127.0.0.1 harmeetmotors.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
+127.0.0.1 hook.dkpc28.tggame.xyz
+127.0.0.1 hook.khhx20.tggame.xyz
+127.0.0.1 hook.khpc20.tggame.xyz
+127.0.0.1 hook.khpc32.tggame.xyz
+127.0.0.1 hook.khpcmp.tggame.xyz
+127.0.0.1 hook.khpcwp.tggame.xyz
+127.0.0.1 hook.zhtz.tggame.xyz
 127.0.0.1 hoteltoscanaplaza.com.co
 127.0.0.1 houseofcelebrations.com
 127.0.0.1 hr2019.vrcom7.com
@@ -175,6 +198,7 @@
 127.0.0.1 namthaibinh.net
 127.0.0.1 noithaticon.vn
 127.0.0.1 nooo.law.kimsavagelaw.com
+127.0.0.1 ns.smallsrv.com
 127.0.0.1 nyc-mag.com
 127.0.0.1 oarzj.trc20.kcgrocks.com
 127.0.0.1 odoo.kseibitools.com
@@ -198,7 +222,7 @@
 127.0.0.1 prtmscaup.my
 127.0.0.1 pts.group
 127.0.0.1 qiniuyunxz.yxflzs.com
-127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
+127.0.0.1 r8p.teknixstuff.com
 127.0.0.1 radioideal.com.ve
 127.0.0.1 random.tggame.xyz
 127.0.0.1 rd.chuitian.cn
@@ -231,7 +255,6 @@
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 sunflowercet.edu.in
 127.0.0.1 support.clz.kr
-127.0.0.1 taodianla.com
 127.0.0.1 technotiempo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -244,7 +267,6 @@
 127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 twizt.net
 127.0.0.1 unicorpbrunei.com
-127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
 127.0.0.1 updatestat.site
@@ -259,7 +281,6 @@
 127.0.0.1 wsp1-us.com
 127.0.0.1 www.alaqalezdehar.com
 127.0.0.1 www.aqianniao.com
-127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
@@ -288,11 +309,10 @@
 127.0.0.1 www.sodiumlaurethsulfatedesyroyer.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.stipamana.com
-127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.totya.ir
 127.0.0.1 www.xn--on3b15m2lco2u.com
-127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.zhibodaohang.cc
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
@@ -300,7 +320,6 @@
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 ywxww.net
-127.0.0.1 yzkzixun.com
 127.0.0.1 zhibodaohang.cc
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 297
+# Number of entries: 316
