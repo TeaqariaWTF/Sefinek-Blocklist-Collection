@@ -1,9 +1,9 @@
-# Version: 202412070106
+# Version: 202412071007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 125753
-# Last modified: 2024-12-07T01:06:29+0000
+! Entries: 125757
+# Last modified: 2024-12-07T10:07:16+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -3026,6 +3026,7 @@
 0.0.0.0 4safe.in
 0.0.0.0 4se.net
 0.0.0.0 4sexmail.com
+0.0.0.0 4sq.icu
 0.0.0.0 4sqt6jq.de
 0.0.0.0 4ssl.ws
 0.0.0.0 4stablestick.fr
@@ -20714,7 +20715,6 @@
 0.0.0.0 besmeargleor.com
 0.0.0.0 besocial.online
 0.0.0.0 besoes.com
-0.0.0.0 besomeeuropeancruisetestok.com
 0.0.0.0 besondere-kinder.de
 0.0.0.0 bespakerubbles.com
 0.0.0.0 bespokesandals.com
@@ -21207,6 +21207,7 @@
 0.0.0.0 bhsvlym.cn
 0.0.0.0 bhubaneswarambulance.com
 0.0.0.0 bhuiyanmart.com
+0.0.0.0 bhukkeks.com
 0.0.0.0 bhwfvfevnqg.com
 0.0.0.0 bhxgvvk.cn
 0.0.0.0 bhyddc.com
@@ -44049,6 +44050,7 @@
 0.0.0.0 f769af9bbc.a6e8080fb1.com
 0.0.0.0 f7ae2f1035.2defeeb8b2.com
 0.0.0.0 f7ds.liberation.fr
+0.0.0.0 f7j.icu
 0.0.0.0 f8260adbf8558d6.com
 0.0.0.0 f8260e364f.9a08103287.com
 0.0.0.0 f8272.com
@@ -61433,6 +61435,7 @@
 0.0.0.0 jjc55.com
 0.0.0.0 jjcwq.site
 0.0.0.0 jjhouse.fr
+0.0.0.0 jjimtya.top
 0.0.0.0 jjjj.getui.vip
 0.0.0.0 jjjkl.com
 0.0.0.0 jjlgbyd.in
@@ -69062,6 +69065,7 @@
 0.0.0.0 lv.adocean.pl
 0.0.0.0 lv.hit.gemius.pl
 0.0.0.0 lv5hj.top
+0.0.0.0 lv9qr0g0.xyz
 0.0.0.0 lvefyfj.cn
 0.0.0.0 lvehaisen.com
 0.0.0.0 lvhcqaku.com
@@ -78378,6 +78382,7 @@
 0.0.0.0 nmevhudzi.com
 0.0.0.0 nmfortworth.112.2o7.net
 0.0.0.0 nmfresno.112.2o7.net
+0.0.0.0 nmhbmfxh.icu
 0.0.0.0 nmhiltonhead.112.2o7.net
 0.0.0.0 nmidhnz.cn
 0.0.0.0 nmimatrme.com
@@ -83857,7 +83862,6 @@
 0.0.0.0 paycounter.com
 0.0.0.0 payday-loans.now-cash.com
 0.0.0.0 paydaylenderstyu.com
-0.0.0.0 paydayloaninterestdeal.com
 0.0.0.0 paydayloanrgh.com
 0.0.0.0 paydayloans2017.com
 0.0.0.0 paydayloanslowdown.com

@@ -1,9 +1,9 @@
-# Version: 202412070106
+# Version: 202412071007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 125753
-# Last modified: 2024-12-07T01:06:29+0000
+! Entries: 125757
+# Last modified: 2024-12-07T10:07:16+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -3026,6 +3026,7 @@
 127.0.0.1 4safe.in
 127.0.0.1 4se.net
 127.0.0.1 4sexmail.com
+127.0.0.1 4sq.icu
 127.0.0.1 4sqt6jq.de
 127.0.0.1 4ssl.ws
 127.0.0.1 4stablestick.fr
@@ -20714,7 +20715,6 @@
 127.0.0.1 besmeargleor.com
 127.0.0.1 besocial.online
 127.0.0.1 besoes.com
-127.0.0.1 besomeeuropeancruisetestok.com
 127.0.0.1 besondere-kinder.de
 127.0.0.1 bespakerubbles.com
 127.0.0.1 bespokesandals.com
@@ -21207,6 +21207,7 @@
 127.0.0.1 bhsvlym.cn
 127.0.0.1 bhubaneswarambulance.com
 127.0.0.1 bhuiyanmart.com
+127.0.0.1 bhukkeks.com
 127.0.0.1 bhwfvfevnqg.com
 127.0.0.1 bhxgvvk.cn
 127.0.0.1 bhyddc.com
@@ -44049,6 +44050,7 @@
 127.0.0.1 f769af9bbc.a6e8080fb1.com
 127.0.0.1 f7ae2f1035.2defeeb8b2.com
 127.0.0.1 f7ds.liberation.fr
+127.0.0.1 f7j.icu
 127.0.0.1 f8260adbf8558d6.com
 127.0.0.1 f8260e364f.9a08103287.com
 127.0.0.1 f8272.com
@@ -61433,6 +61435,7 @@
 127.0.0.1 jjc55.com
 127.0.0.1 jjcwq.site
 127.0.0.1 jjhouse.fr
+127.0.0.1 jjimtya.top
 127.0.0.1 jjjj.getui.vip
 127.0.0.1 jjjkl.com
 127.0.0.1 jjlgbyd.in
@@ -69062,6 +69065,7 @@
 127.0.0.1 lv.adocean.pl
 127.0.0.1 lv.hit.gemius.pl
 127.0.0.1 lv5hj.top
+127.0.0.1 lv9qr0g0.xyz
 127.0.0.1 lvefyfj.cn
 127.0.0.1 lvehaisen.com
 127.0.0.1 lvhcqaku.com
@@ -78378,6 +78382,7 @@
 127.0.0.1 nmevhudzi.com
 127.0.0.1 nmfortworth.112.2o7.net
 127.0.0.1 nmfresno.112.2o7.net
+127.0.0.1 nmhbmfxh.icu
 127.0.0.1 nmhiltonhead.112.2o7.net
 127.0.0.1 nmidhnz.cn
 127.0.0.1 nmimatrme.com
@@ -83857,7 +83862,6 @@
 127.0.0.1 paycounter.com
 127.0.0.1 payday-loans.now-cash.com
 127.0.0.1 paydaylenderstyu.com
-127.0.0.1 paydayloaninterestdeal.com
 127.0.0.1 paydayloanrgh.com
 127.0.0.1 paydayloans2017.com
 127.0.0.1 paydayloanslowdown.com
