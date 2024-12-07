@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024120601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024120701 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -67163,6 +67163,8 @@ newhousehunters.net CNAME .
 *.newhousehunters.net CNAME .
 newinfogroup.website CNAME .
 *.newinfogroup.website CNAME .
+newinformer.top CNAME .
+*.newinformer.top CNAME .
 newirelessnetworks.com CNAME .
 *.newirelessnetworks.com CNAME .
 newjersey-debtconsolidation.com CNAME .

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-07 16:22:05 (UTC)                      #
+# Last updated: 2024-12-07 18:21:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,6 +12,7 @@
 127.0.0.1 2.haory.cn
 127.0.0.1 2ig.cs.alab01.de
 127.0.0.1 3434.filelu.cloud
+127.0.0.1 360down7.miiyun.cn
 127.0.0.1 889mmm.com
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aarzoomarine.com
@@ -19,6 +20,7 @@
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.dkcjnn.tggame.xyz
 127.0.0.1 admin.dkjssc.tggame.xyz
+127.0.0.1 admin.dkpc28.tggame.xyz
 127.0.0.1 admin.dkpk10.tggame.xyz
 127.0.0.1 admin.khaz10.tggame.xyz
 127.0.0.1 admin.khbjl.tggame.xyz
@@ -35,6 +37,7 @@
 127.0.0.1 admin.khyxx.tggame.xyz
 127.0.0.1 admin.nfcjnn.tggame.xyz
 127.0.0.1 admin.xwpk10.tggame.xyz
+127.0.0.1 admin.zhbjl.tggame.xyz
 127.0.0.1 admin.zhtz.tggame.xyz
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
@@ -59,7 +62,6 @@
 127.0.0.1 api.khcjnn.tggame.xyz
 127.0.0.1 api.khhbnn.tggame.xyz
 127.0.0.1 api.khjssc.tggame.xyz
-127.0.0.1 api.khpc20.tggame.xyz
 127.0.0.1 api.khpc28.tggame.xyz
 127.0.0.1 api.khpc32.tggame.xyz
 127.0.0.1 api.khpcmp.tggame.xyz
@@ -72,17 +74,19 @@
 127.0.0.1 api.zhtz.tggame.xyz
 127.0.0.1 arteflordeliz.com.br
 127.0.0.1 aulist.com
+127.0.0.1 avastop.com
 127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 babayaga.ro
 127.0.0.1 badlarrysguitars.com
 127.0.0.1 berb.fitnessclub-filmfanatics.com
 127.0.0.1 bin.elite-api.su
+127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
-127.0.0.1 cajgtus.com
 127.0.0.1 casacoimbramaputo.com
+127.0.0.1 cat.dashabi.in
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdn-downloads.com
 127.0.0.1 celebrity-scandals.com
@@ -102,6 +106,7 @@
 127.0.0.1 cyberyoda.icu
 127.0.0.1 data.discuz.mobi
 127.0.0.1 data.yhydl.com
+127.0.0.1 dbasopma.me
 127.0.0.1 dcwblida.dz
 127.0.0.1 dddotx.shop
 127.0.0.1 deauduafzgezzfgm.top
@@ -168,6 +173,7 @@
 127.0.0.1 harmeetmotors.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
+127.0.0.1 hook.dkcjnn.tggame.xyz
 127.0.0.1 hook.dkjssc.tggame.xyz
 127.0.0.1 hook.dkpc28.tggame.xyz
 127.0.0.1 hook.dkpk10.tggame.xyz
@@ -218,10 +224,9 @@
 127.0.0.1 kialux.ir
 127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 klingdownload.com
+127.0.0.1 kolobrownsalesye-fong.com
 127.0.0.1 l3monrat.com
 127.0.0.1 lauracohen.com.ar
-127.0.0.1 library.arihantmbainstitute.ac.in
-127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 liveisdestiny.me
 127.0.0.1 livetrack.in
@@ -235,6 +240,7 @@
 127.0.0.1 masclauxtoitures.fr
 127.0.0.1 maxximbrasil.com
 127.0.0.1 mbsngradnja.com
+127.0.0.1 meeweb.com
 127.0.0.1 melladown.click
 127.0.0.1 memekto.lol
 127.0.0.1 memoriumloader.lol
@@ -263,11 +269,15 @@
 127.0.0.1 park.chuitian.cn
 127.0.0.1 patbunn.com
 127.0.0.1 pb.agnt.ru
+127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pns.org.pk
+127.0.0.1 protechasia.com
 127.0.0.1 prtmscaup.click
 127.0.0.1 prtmscaup.my
 127.0.0.1 pts.group
+127.0.0.1 qiniuyunxz.yxflzs.com
+127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 r8p.teknixstuff.com
 127.0.0.1 radioideal.com.ve
@@ -281,6 +291,7 @@
 127.0.0.1 safe.ywxww.net
 127.0.0.1 sbelegi.com.br
 127.0.0.1 sbv.pushswroller.eu
+127.0.0.1 secure.cloudtechnologiesusa.com
 127.0.0.1 seniorcomc.sslblindado.com
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 sfa.com.ar
@@ -305,6 +316,7 @@
 127.0.0.1 store.monsterservice.xyz
 127.0.0.1 sunflowercet.edu.in
 127.0.0.1 support.clz.kr
+127.0.0.1 taodianla.com
 127.0.0.1 technotiempo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -327,11 +339,11 @@
 127.0.0.1 valseg.com.br
 127.0.0.1 venom.likes.cash
 127.0.0.1 wa.malpraku.com
-127.0.0.1 wanfreeprogram.shop
 127.0.0.1 web.destoppelbergen.be
 127.0.0.1 wserdtfyguhij.2024-vipticket.com
 127.0.0.1 wsp1-us.com
 127.0.0.1 www.alaqalezdehar.com
+127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
@@ -347,6 +359,7 @@
 127.0.0.1 www.info-track-del.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.lequipier-maroc.com
+127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.memoriumloader.lol
 127.0.0.1 www.mspa-constabulary.org
@@ -368,6 +381,7 @@
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhibodaohang.cc
 127.0.0.1 www.zhikey.com
+127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
@@ -378,4 +392,4 @@
 127.0.0.1 zhibodaohang.cc
 127.0.0.1 zipline.radium.lol
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 372
+# Number of entries: 386

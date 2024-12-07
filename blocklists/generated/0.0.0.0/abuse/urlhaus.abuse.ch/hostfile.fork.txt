@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-07 16:22:05 (UTC)                      #
+# Last updated: 2024-12-07 18:21:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,6 +12,7 @@
 0.0.0.0 2.haory.cn
 0.0.0.0 2ig.cs.alab01.de
 0.0.0.0 3434.filelu.cloud
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 889mmm.com
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
@@ -19,6 +20,7 @@
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.dkcjnn.tggame.xyz
 0.0.0.0 admin.dkjssc.tggame.xyz
+0.0.0.0 admin.dkpc28.tggame.xyz
 0.0.0.0 admin.dkpk10.tggame.xyz
 0.0.0.0 admin.khaz10.tggame.xyz
 0.0.0.0 admin.khbjl.tggame.xyz
@@ -35,6 +37,7 @@
 0.0.0.0 admin.khyxx.tggame.xyz
 0.0.0.0 admin.nfcjnn.tggame.xyz
 0.0.0.0 admin.xwpk10.tggame.xyz
+0.0.0.0 admin.zhbjl.tggame.xyz
 0.0.0.0 admin.zhtz.tggame.xyz
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -59,7 +62,6 @@
 0.0.0.0 api.khcjnn.tggame.xyz
 0.0.0.0 api.khhbnn.tggame.xyz
 0.0.0.0 api.khjssc.tggame.xyz
-0.0.0.0 api.khpc20.tggame.xyz
 0.0.0.0 api.khpc28.tggame.xyz
 0.0.0.0 api.khpc32.tggame.xyz
 0.0.0.0 api.khpcmp.tggame.xyz
@@ -72,17 +74,19 @@
 0.0.0.0 api.zhtz.tggame.xyz
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 aulist.com
+0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 babayaga.ro
 0.0.0.0 badlarrysguitars.com
 0.0.0.0 berb.fitnessclub-filmfanatics.com
 0.0.0.0 bin.elite-api.su
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogoss.fr
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
-0.0.0.0 cajgtus.com
 0.0.0.0 casacoimbramaputo.com
+0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdn-downloads.com
 0.0.0.0 celebrity-scandals.com
@@ -102,6 +106,7 @@
 0.0.0.0 cyberyoda.icu
 0.0.0.0 data.discuz.mobi
 0.0.0.0 data.yhydl.com
+0.0.0.0 dbasopma.me
 0.0.0.0 dcwblida.dz
 0.0.0.0 dddotx.shop
 0.0.0.0 deauduafzgezzfgm.top
@@ -168,6 +173,7 @@
 0.0.0.0 harmeetmotors.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 hook.dkcjnn.tggame.xyz
 0.0.0.0 hook.dkjssc.tggame.xyz
 0.0.0.0 hook.dkpc28.tggame.xyz
 0.0.0.0 hook.dkpk10.tggame.xyz
@@ -218,10 +224,9 @@
 0.0.0.0 kialux.ir
 0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 klingdownload.com
+0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 l3monrat.com
 0.0.0.0 lauracohen.com.ar
-0.0.0.0 library.arihantmbainstitute.ac.in
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 liveisdestiny.me
 0.0.0.0 livetrack.in
@@ -235,6 +240,7 @@
 0.0.0.0 masclauxtoitures.fr
 0.0.0.0 maxximbrasil.com
 0.0.0.0 mbsngradnja.com
+0.0.0.0 meeweb.com
 0.0.0.0 melladown.click
 0.0.0.0 memekto.lol
 0.0.0.0 memoriumloader.lol
@@ -263,11 +269,15 @@
 0.0.0.0 park.chuitian.cn
 0.0.0.0 patbunn.com
 0.0.0.0 pb.agnt.ru
+0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
+0.0.0.0 protechasia.com
 0.0.0.0 prtmscaup.click
 0.0.0.0 prtmscaup.my
 0.0.0.0 pts.group
+0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 radioideal.com.ve
@@ -281,6 +291,7 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sbelegi.com.br
 0.0.0.0 sbv.pushswroller.eu
+0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sfa.com.ar
@@ -305,6 +316,7 @@
 0.0.0.0 store.monsterservice.xyz
 0.0.0.0 sunflowercet.edu.in
 0.0.0.0 support.clz.kr
+0.0.0.0 taodianla.com
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -327,11 +339,11 @@
 0.0.0.0 valseg.com.br
 0.0.0.0 venom.likes.cash
 0.0.0.0 wa.malpraku.com
-0.0.0.0 wanfreeprogram.shop
 0.0.0.0 web.destoppelbergen.be
 0.0.0.0 wserdtfyguhij.2024-vipticket.com
 0.0.0.0 wsp1-us.com
 0.0.0.0 www.alaqalezdehar.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -347,6 +359,7 @@
 0.0.0.0 www.info-track-del.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.lequipier-maroc.com
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.memoriumloader.lol
 0.0.0.0 www.mspa-constabulary.org
@@ -368,6 +381,7 @@
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhibodaohang.cc
 0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -378,4 +392,4 @@
 0.0.0.0 zhibodaohang.cc
 0.0.0.0 zipline.radium.lol
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 372
+# Number of entries: 386
