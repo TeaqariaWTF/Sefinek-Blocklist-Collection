@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-08 03:04:07 (UTC)                      !
+! Last updated: 2024-12-08 04:24:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -47,7 +47,9 @@
 ||alien-training.com^
 ||amoamosss.com^
 ||anphatnam.com^
+||aosafrica.co.za^
 ||api-conect-v1.org^
+||api.52kkg.com^
 ||api.dkjssc.tggame.xyz^
 ||api.dkpc28.tggame.xyz^
 ||api.dkpk10.tggame.xyz^
@@ -73,6 +75,7 @@
 ||api.zhpc20.tggame.xyz^
 ||api.zhtz.tggame.xyz^
 ||aquiseconstruyealgo.com^
+||armanayegh.com^
 ||arteflordeliz.com.br^
 ||assodomtogo.org^
 ||aulist.com^
@@ -88,7 +91,6 @@
 ||britishpropolisteam.com^
 ||buscascolegios.diit.cl^
 ||by.haory.cn^
-||casacoimbramaputo.com^
 ||cat.dashabi.in^
 ||catbaparadisehotel.com.vn^
 ||cdn-downloads.com^
@@ -174,10 +176,8 @@
 ||grupodulcemar.pe^
 ||guanggaoban.net^
 ||haha.ifhmodule.com^
-||hailcocks.ru^
 ||halonikah.com^
 ||haramb.net^
-||harmeetmotors.com^
 ||hitman-pro.ru^
 ||hitstation.nl^
 ||hook.dkcjnn.tggame.xyz^
@@ -253,9 +253,11 @@
 ||maniautomobiles.com^
 ||masclauxtoitures.fr^
 ||mbsngradnja.com^
+||meeweb.com^
 ||melladown.click^
 ||merchant.tggame.xyz^
 ||mertvinc.com.tr^
+||microsecurityupdate.com^
 ||mockup.worldhalalfood.com^
 ||moneyinfo.com.br^
 ||mundodosbrinquedos.app.br^
@@ -267,7 +269,6 @@
 ||njcu.info^
 ||noithaticon.vn^
 ||nooo.law.kimsavagelaw.com^
-||ns.smallsrv.com^
 ||nyc-mag.com^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
@@ -293,6 +294,7 @@
 ||proctoxl.com^
 ||promend.nl^
 ||promo.generos.store^
+||protechasia.com^
 ||prtmscaup.click^
 ||prtmscaup.my^
 ||qiniuyunxz.yxflzs.com^
@@ -336,6 +338,7 @@
 ||store.monsterservice.xyz^
 ||suaraselebes.com^
 ||support.clz.kr^
+||taodianla.com^
 ||technotiempo.com^
 ||tecni-soft.com^
 ||tecunonline.com^
@@ -383,7 +386,6 @@
 ||www.medises.co.kr^
 ||www.memoriumloader.lol^
 ||www.mspa-constabulary.org^
-||www.netsolution.it^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.qqqmy.com^
@@ -406,7 +408,6 @@
 ||www.zhibodaohang.cc^
 ||www.zhikey.com^
 ||wynecare.com^
-||wz.3911.com^
 ||xiangshunjy.com^
 ||ximonite.com^
 ||xingpai.weilay.com.cn^
@@ -417,4 +418,4 @@
 ||zipline.radium.lol^
 ||znrq.zifwxq.cn^
 ||zolatourism.com^
-! Number of entries: 411
+! Number of entries: 412

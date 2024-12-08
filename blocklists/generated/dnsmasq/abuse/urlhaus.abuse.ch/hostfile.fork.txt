@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-08 03:04:07 (UTC)                      #
+# Last updated: 2024-12-08 04:24:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -47,7 +47,9 @@ server=/airhobi.com/
 server=/alien-training.com/
 server=/amoamosss.com/
 server=/anphatnam.com/
+server=/aosafrica.co.za/
 server=/api-conect-v1.org/
+server=/api.52kkg.com/
 server=/api.dkjssc.tggame.xyz/
 server=/api.dkpc28.tggame.xyz/
 server=/api.dkpk10.tggame.xyz/
@@ -73,6 +75,7 @@ server=/api.zhlhc.tggame.xyz/
 server=/api.zhpc20.tggame.xyz/
 server=/api.zhtz.tggame.xyz/
 server=/aquiseconstruyealgo.com/
+server=/armanayegh.com/
 server=/arteflordeliz.com.br/
 server=/assodomtogo.org/
 server=/aulist.com/
@@ -88,7 +91,6 @@ server=/bravo1solucoespatrimoniais.com.br/
 server=/britishpropolisteam.com/
 server=/buscascolegios.diit.cl/
 server=/by.haory.cn/
-server=/casacoimbramaputo.com/
 server=/cat.dashabi.in/
 server=/catbaparadisehotel.com.vn/
 server=/cdn-downloads.com/
@@ -174,10 +176,8 @@ server=/greenxeonsr.info/
 server=/grupodulcemar.pe/
 server=/guanggaoban.net/
 server=/haha.ifhmodule.com/
-server=/hailcocks.ru/
 server=/halonikah.com/
 server=/haramb.net/
-server=/harmeetmotors.com/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
 server=/hook.dkcjnn.tggame.xyz/
@@ -253,9 +253,11 @@ server=/major.iric.ca/
 server=/maniautomobiles.com/
 server=/masclauxtoitures.fr/
 server=/mbsngradnja.com/
+server=/meeweb.com/
 server=/melladown.click/
 server=/merchant.tggame.xyz/
 server=/mertvinc.com.tr/
+server=/microsecurityupdate.com/
 server=/mockup.worldhalalfood.com/
 server=/moneyinfo.com.br/
 server=/mundodosbrinquedos.app.br/
@@ -267,7 +269,6 @@ server=/netwerkgoedvolk.nl/
 server=/njcu.info/
 server=/noithaticon.vn/
 server=/nooo.law.kimsavagelaw.com/
-server=/ns.smallsrv.com/
 server=/nyc-mag.com/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
@@ -293,6 +294,7 @@ server=/polarcusinternational.com/
 server=/proctoxl.com/
 server=/promend.nl/
 server=/promo.generos.store/
+server=/protechasia.com/
 server=/prtmscaup.click/
 server=/prtmscaup.my/
 server=/qiniuyunxz.yxflzs.com/
@@ -336,6 +338,7 @@ server=/storage.soowim.co.kr/
 server=/store.monsterservice.xyz/
 server=/suaraselebes.com/
 server=/support.clz.kr/
+server=/taodianla.com/
 server=/technotiempo.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
@@ -383,7 +386,6 @@ server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.memoriumloader.lol/
 server=/www.mspa-constabulary.org/
-server=/www.netsolution.it/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.qqqmy.com/
@@ -406,7 +408,6 @@ server=/www.ysbaojia.com/
 server=/www.zhibodaohang.cc/
 server=/www.zhikey.com/
 server=/wynecare.com/
-server=/wz.3911.com/
 server=/xiangshunjy.com/
 server=/ximonite.com/
 server=/xingpai.weilay.com.cn/
@@ -417,4 +418,4 @@ server=/zhibodaohang.cc/
 server=/zipline.radium.lol/
 server=/znrq.zifwxq.cn/
 server=/zolatourism.com/
-# Number of entries: 411
+# Number of entries: 412
