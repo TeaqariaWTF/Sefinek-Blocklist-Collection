@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-09 06:34:20 (UTC)                      #
+# Last updated: 2024-12-09 08:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 2ig.cs.alab01.de
@@ -49,6 +48,7 @@
 0.0.0.0 amoamosss.com
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.dkjssc.tggame.xyz
 0.0.0.0 api.dkpc28.tggame.xyz
 0.0.0.0 api.dkpk10.tggame.xyz
@@ -79,7 +79,6 @@
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 bcshoppy.com
-0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bin.elite-api.su
 0.0.0.0 bingowow.nl
 0.0.0.0 bitkiselurunsiparis.com
@@ -99,7 +98,6 @@
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 coindiscussion.net
 0.0.0.0 conimagencancun.com
 0.0.0.0 conn.masjesu.zip
@@ -118,6 +116,7 @@
 0.0.0.0 demo.pagodalabs.com.np
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diamond-service.xyz
+0.0.0.0 diclegrup.org
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
@@ -141,7 +140,6 @@
 0.0.0.0 drumev.eu
 0.0.0.0 e4l4.com
 0.0.0.0 electjimhenderson.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 ellesmerefamilyhealth.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
@@ -159,6 +157,7 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
 0.0.0.0 gachetroi.com
+0.0.0.0 gamertool.eu
 0.0.0.0 gardenworksproject.org
 0.0.0.0 gawx.florenda.com
 0.0.0.0 globesql.com
@@ -199,7 +198,6 @@
 0.0.0.0 hook.zhpc20.tggame.xyz
 0.0.0.0 hook.zhtz.tggame.xyz
 0.0.0.0 hoteltoscanaplaza.com.co
-0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 hunter.freshworx.com
 0.0.0.0 huyanhnongdo.io.vn
@@ -222,7 +220,6 @@
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 katealisonschoolng.com
-0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kmhdijogjaistimewa.org
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 kwesipharma.com
@@ -232,6 +229,7 @@
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
+0.0.0.0 lol.7hacks.click
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lp.engemarinha.com.br
 0.0.0.0 lsks.volamngayxua.net
@@ -266,12 +264,12 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 ojantrade.com
 0.0.0.0 onge.org
-0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 ordonnances.org
 0.0.0.0 osecweb.ir
 0.0.0.0 ottawablackfilm.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 partinvshipppjbb.click
@@ -286,7 +284,9 @@
 0.0.0.0 proctoxl.com
 0.0.0.0 promend.nl
 0.0.0.0 promo.generos.store
+0.0.0.0 protechasia.com
 0.0.0.0 pyats.top
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -308,7 +308,6 @@
 0.0.0.0 sbelegi.com.br
 0.0.0.0 sbv.pushswroller.eu
 0.0.0.0 sealingshop.click
-0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 sedotwcsemarangtermurah.com
 0.0.0.0 seniorcomc.sslblindado.com
@@ -317,8 +316,6 @@
 0.0.0.0 sft-cloud.ru
 0.0.0.0 shaaviprofessional.com
 0.0.0.0 share.hurui.work
-0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
@@ -333,11 +330,11 @@
 0.0.0.0 storycentral.net
 0.0.0.0 suaraselebes.com
 0.0.0.0 support.clz.kr
-0.0.0.0 taodianla.com
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treinamento.convenio.to.gov.br
@@ -407,10 +404,12 @@
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
+0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zhibodaohang.cc
 0.0.0.0 zipline.radium.lol
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zolatourism.com
 0.0.0.0 zooog.info
-# Number of entries: 407
+# Number of entries: 406
