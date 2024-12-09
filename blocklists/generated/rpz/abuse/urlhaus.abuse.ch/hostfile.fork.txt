@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -73,8 +75,6 @@ aefieiaehfiaehr.top CNAME .
 *.aefieiaehfiaehr.top CNAME .
 aeufoeahfouefhg.top CNAME .
 *.aeufoeahfouefhg.top CNAME .
-airhobi.com CNAME .
-*.airhobi.com CNAME .
 alien-training.com CNAME .
 *.alien-training.com CNAME .
 amoamosss.com CNAME .
@@ -189,6 +189,8 @@ coadymarine.com CNAME .
 *.coadymarine.com CNAME .
 coindiscussion.net CNAME .
 *.coindiscussion.net CNAME .
+conimagencancun.com CNAME .
+*.conimagencancun.com CNAME .
 conn.masjesu.zip CNAME .
 *.conn.masjesu.zip CNAME .
 covertservices.lol CNAME .
@@ -211,6 +213,8 @@ dddotx.shop CNAME .
 *.dddotx.shop CNAME .
 deauduafzgezzfgm.top CNAME .
 *.deauduafzgezzfgm.top CNAME .
+defgyma.com CNAME .
+*.defgyma.com CNAME .
 deloth2.in CNAME .
 *.deloth2.in CNAME .
 demo.pagodalabs.com.np CNAME .
@@ -229,8 +233,6 @@ dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
 dl.aigoingtokill.club CNAME .
 *.dl.aigoingtokill.club CNAME .
-dl.natgo.cn CNAME .
-*.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
 *.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
@@ -263,8 +265,6 @@ drumev.eu CNAME .
 *.drumev.eu CNAME .
 e4l4.com CNAME .
 *.e4l4.com CNAME .
-electjimhenderson.com CNAME .
-*.electjimhenderson.com CNAME .
 elisans.novayonetim.com CNAME .
 *.elisans.novayonetim.com CNAME .
 ellesmerefamilyhealth.com CNAME .
@@ -283,6 +283,8 @@ exilum.com CNAME .
 *.exilum.com CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
+file.edunet.ac CNAME .
+*.file.edunet.ac CNAME .
 files5.uludagbilisim.com CNAME .
 *.files5.uludagbilisim.com CNAME .
 fish.hackbiji.cc CNAME .
@@ -379,8 +381,6 @@ hook.zhtz.tggame.xyz CNAME .
 *.hook.zhtz.tggame.xyz CNAME .
 hoteltoscanaplaza.com.co CNAME .
 *.hoteltoscanaplaza.com.co CNAME .
-hr2019.vrcom7.com CNAME .
-*.hr2019.vrcom7.com CNAME .
 hseda.com CNAME .
 *.hseda.com CNAME .
 hunter.freshworx.com CNAME .
@@ -495,8 +495,6 @@ muwc.shop CNAME .
 *.muwc.shop CNAME .
 nabawitransport.com CNAME .
 *.nabawitransport.com CNAME .
-namthaibinh.net CNAME .
-*.namthaibinh.net CNAME .
 netwerkgoedvolk.nl CNAME .
 *.netwerkgoedvolk.nl CNAME .
 nins.in CNAME .
@@ -509,6 +507,8 @@ nonagonzone.ru CNAME .
 *.nonagonzone.ru CNAME .
 ns.smallsrv.com CNAME .
 *.ns.smallsrv.com CNAME .
+odoo.kseibitools.com CNAME .
+*.odoo.kseibitools.com CNAME .
 ojang.pe.kr CNAME .
 *.ojang.pe.kr CNAME .
 ojantrade.com CNAME .
@@ -525,8 +525,6 @@ ottawablackfilm.com CNAME .
 *.ottawablackfilm.com CNAME .
 p3.zbjimg.com CNAME .
 *.p3.zbjimg.com CNAME .
-p6.zbjimg.com CNAME .
-*.p6.zbjimg.com CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
 park.chuitian.cn CNAME .
@@ -543,6 +541,8 @@ perfectperu.com CNAME .
 *.perfectperu.com CNAME .
 plasticstrapthailand.com CNAME .
 *.plasticstrapthailand.com CNAME .
+pns.org.pk CNAME .
+*.pns.org.pk CNAME .
 polarcusinternational.com CNAME .
 *.polarcusinternational.com CNAME .
 proctoxl.com CNAME .
@@ -609,6 +609,8 @@ sfa.com.ar CNAME .
 *.sfa.com.ar CNAME .
 sft-cloud.ru CNAME .
 *.sft-cloud.ru CNAME .
+shaaviprofessional.com CNAME .
+*.shaaviprofessional.com CNAME .
 share.hurui.work CNAME .
 *.share.hurui.work CNAME .
 shell.dimitrimedia.com CNAME .
@@ -661,8 +663,6 @@ tianyinsoft.top CNAME .
 *.tianyinsoft.top CNAME .
 travelwithmanta.co.za CNAME .
 *.travelwithmanta.co.za CNAME .
-treinamento.convenio.to.gov.br CNAME .
-*.treinamento.convenio.to.gov.br CNAME .
 twizt.net CNAME .
 *.twizt.net CNAME .
 unicorpbrunei.com CNAME .
@@ -781,6 +781,8 @@ ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
+z.shavsl.com CNAME .
+*.z.shavsl.com CNAME .
 zipline.radium.lol CNAME .
 *.zipline.radium.lol CNAME .
 znrq.zifwxq.cn CNAME .
