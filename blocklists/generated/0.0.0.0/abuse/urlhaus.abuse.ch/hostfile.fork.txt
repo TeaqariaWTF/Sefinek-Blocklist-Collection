@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-09 04:23:06 (UTC)                      #
+# Last updated: 2024-12-09 06:34:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -78,7 +78,6 @@
 0.0.0.0 assodomtogo.org
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
-0.0.0.0 avastpx.com
 0.0.0.0 bcshoppy.com
 0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bin.elite-api.su
@@ -119,9 +118,10 @@
 0.0.0.0 demo.pagodalabs.com.np
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diamond-service.xyz
+0.0.0.0 disk.accord1key.cn
+0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.aigoingtokill.club
-0.0.0.0 dl.l96.org
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -134,12 +134,14 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
-0.0.0.0 download.suxiazai.com
+0.0.0.0 download.innovare.no
 0.0.0.0 downsexv.com
 0.0.0.0 downtimedollars.com
 0.0.0.0 drdavidfishbein.com
 0.0.0.0 drumev.eu
+0.0.0.0 e4l4.com
 0.0.0.0 electjimhenderson.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 ellesmerefamilyhealth.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
@@ -204,10 +206,8 @@
 0.0.0.0 ibhayi-electronics.co.za
 0.0.0.0 idiinhu.or.id
 0.0.0.0 immense.software
-0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
 0.0.0.0 infinia.ae
-0.0.0.0 info-track-del.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirecollege.co.uk
 0.0.0.0 inspirepk.org
@@ -223,7 +223,6 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 katealisonschoolng.com
 0.0.0.0 kiemthehuyenlong.com
-0.0.0.0 klingdownload.com
 0.0.0.0 kmhdijogjaistimewa.org
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 kwesipharma.com
@@ -255,6 +254,7 @@
 0.0.0.0 mundodosbrinquedos.app.br
 0.0.0.0 mundodosmetodos.com
 0.0.0.0 muwc.shop
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 netwerkgoedvolk.nl
 0.0.0.0 nins.in
@@ -286,11 +286,11 @@
 0.0.0.0 proctoxl.com
 0.0.0.0 promend.nl
 0.0.0.0 promo.generos.store
-0.0.0.0 protechasia.com
 0.0.0.0 pyats.top
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 ragestresser.xyz
 0.0.0.0 random.tggame.xyz
 0.0.0.0 rd.chuitian.cn
@@ -306,6 +306,7 @@
 0.0.0.0 s1.ttriber.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sbelegi.com.br
+0.0.0.0 sbv.pushswroller.eu
 0.0.0.0 sealingshop.click
 0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
@@ -321,6 +322,7 @@
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
+0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 srothienhoa.com
@@ -334,6 +336,7 @@
 0.0.0.0 taodianla.com
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
+0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 tengfeidn.com
 0.0.0.0 travelwithmanta.co.za
@@ -362,12 +365,12 @@
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.empowerimmigrants.com
 0.0.0.0 www.flechabusretiro.com.ar
+0.0.0.0 www.ftsengineers.com
 0.0.0.0 www.gestorea.com
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.guanggaoban.net
 0.0.0.0 www.hseda.com
-0.0.0.0 www.info-track-del.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kaisermagazine.com
 0.0.0.0 www.maxmoney.com
@@ -401,6 +404,7 @@
 0.0.0.0 www.zhibodaohang.cc
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
+0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 ywxww.net
@@ -409,4 +413,4 @@
 0.0.0.0 zipline.radium.lol
 0.0.0.0 zolatourism.com
 0.0.0.0 zooog.info
-# Number of entries: 403
+# Number of entries: 407

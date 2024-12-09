@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2431
+# Domains: 2451
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -28,6 +28,8 @@
 127.0.0.1 555sq.com.cn
 127.0.0.1 www.555sq.com.cn
 127.0.0.1 5g-update.com
+127.0.0.1 www.5g-update.com
+127.0.0.1 store.5g-update.com
 127.0.0.1 5wzgtq8dpk.com
 127.0.0.1 65spy7rgcu.com
 127.0.0.1 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -141,11 +143,16 @@
 127.0.0.1 an1.is
 127.0.0.1 andamente.pt
 127.0.0.1 www.andamente.pt
+127.0.0.1 animeshoppers.com
+127.0.0.1 www.animeshoppers.com
+127.0.0.1 store.animeshoppers.com
 127.0.0.1 anydebrid.com
 127.0.0.1 www.anydebrid.com
 127.0.0.1 anywherepastry.top
 127.0.0.1 www.anywherepastry.top
 127.0.0.1 store.anywherepastry.top
+127.0.0.1 app.identity-nexo.xborders.io
+127.0.0.1 www.app.identity-nexo.xborders.io
 127.0.0.1 app.uniwspapp.com
 127.0.0.1 www.app.uniwspapp.com
 127.0.0.1 store.app.uniwspapp.com
@@ -190,13 +197,16 @@
 127.0.0.1 store.avarik.web.app
 127.0.0.1 avatrade-services.com
 127.0.0.1 www.avatrade-services.com
-127.0.0.1 avito.booking.com-id334212.com
+127.0.0.1 store.avito.avito.www.avito.www.booking.com-id90123.info
 127.0.0.1 azfancy.com
 127.0.0.1 www.azfancy.com
 127.0.0.1 azvclothing.com
 127.0.0.1 www.azvclothing.com
 127.0.0.1 babybeddingdesign.com
 127.0.0.1 www.babybeddingdesign.com
+127.0.0.1 backend.store.eset.co.il
+127.0.0.1 www.backend.store.eset.co.il
+127.0.0.1 store.backend.store.eset.co.il
 127.0.0.1 bagsdeuter.com
 127.0.0.1 www.bagsdeuter.com
 127.0.0.1 balkeryswep.online
@@ -508,9 +518,6 @@
 127.0.0.1 czwcvfbc.page.link
 127.0.0.1 www.czwcvfbc.page.link
 127.0.0.1 store.czwcvfbc.page.link
-127.0.0.1 daftar-binomo.website
-127.0.0.1 www.daftar-binomo.website
-127.0.0.1 store.daftar-binomo.website
 127.0.0.1 dailygiftstore.com
 127.0.0.1 www.dailygiftstore.com
 127.0.0.1 store.dailygiftstore.com
@@ -654,6 +661,9 @@
 127.0.0.1 ercnnier.com
 127.0.0.1 www.ercnnier.com
 127.0.0.1 store.ercnnier.com
+127.0.0.1 eset.co.il
+127.0.0.1 www.eset.co.il
+127.0.0.1 store.eset.co.il
 127.0.0.1 esl-gaming.com
 127.0.0.1 www.esl-gaming.com
 127.0.0.1 et-reliefgc-ca.info
@@ -1194,6 +1204,9 @@
 127.0.0.1 ladamustore.com
 127.0.0.1 www.ladamustore.com
 127.0.0.1 store.ladamustore.com
+127.0.0.1 ladiesmeetnow.top
+127.0.0.1 www.ladiesmeetnow.top
+127.0.0.1 store.ladiesmeetnow.top
 127.0.0.1 lakersfanshoponline.com
 127.0.0.1 www.lakersfanshoponline.com
 127.0.0.1 store.lakersfanshoponline.com
@@ -1273,6 +1286,9 @@
 127.0.0.1 luxsgear.com
 127.0.0.1 www.luxsgear.com
 127.0.0.1 store.luxsgear.com
+127.0.0.1 m.bpfutures.top
+127.0.0.1 www.m.bpfutures.top
+127.0.0.1 store.m.bpfutures.top
 127.0.0.1 madeinusas.com
 127.0.0.1 www.madeinusas.com
 127.0.0.1 store.madeinusas.com
@@ -1324,6 +1340,8 @@
 127.0.0.1 miningco.site
 127.0.0.1 www.miningco.site
 127.0.0.1 store.miningco.site
+127.0.0.1 miningpror.top
+127.0.0.1 www.miningpror.top
 127.0.0.1 miucart.com
 127.0.0.1 www.miucart.com
 127.0.0.1 mizunsports.com
@@ -1363,7 +1381,7 @@
 127.0.0.1 www.mybestautologin567.com
 127.0.0.1 store.mybestautologin567.com
 127.0.0.1 myblogshop.top
-127.0.0.1 www.myblogshop.top
+127.0.0.1 store.myblogshop.top
 127.0.0.1 myfunfarm.com
 127.0.0.1 www.myfunfarm.com
 127.0.0.1 myhandshops.myshopify.com
@@ -1454,6 +1472,8 @@
 127.0.0.1 navi40.com
 127.0.0.1 www.navi40.com
 127.0.0.1 store.navi40.com
+127.0.0.1 navi42.ru
+127.0.0.1 www.navi42.ru
 127.0.0.1 navi45.ru
 127.0.0.1 www.navi45.ru
 127.0.0.1 navi5.com
@@ -1589,9 +1609,6 @@
 127.0.0.1 www.nosdaarte.com
 127.0.0.1 novabeds.ca
 127.0.0.1 www.novabeds.ca
-127.0.0.1 nxtgenerator.top
-127.0.0.1 www.nxtgenerator.top
-127.0.0.1 store.nxtgenerator.top
 127.0.0.1 nynextlevel.com
 127.0.0.1 nze0xw.haceroberomaste.com
 127.0.0.1 www.nze0xw.haceroberomaste.com
@@ -1707,6 +1724,7 @@
 127.0.0.1 www.pinjamanduit.lol
 127.0.0.1 pinjamanelit.top
 127.0.0.1 www.pinjamanelit.top
+127.0.0.1 www.pinjamanpedia.xyz
 127.0.0.1 pinjamanplus.com
 127.0.0.1 www.pinjamanplus.com
 127.0.0.1 www.pinjamnow.my.id
@@ -1719,6 +1737,7 @@
 127.0.0.1 pjs.outlet.com
 127.0.0.1 www.pjs.outlet.com
 127.0.0.1 store.pjs.outlet.com
+127.0.0.1 store.pn10.xyz
 127.0.0.1 polish-money-matters.blogspot.com
 127.0.0.1 www.polish-money-matters.blogspot.com
 127.0.0.1 store.polish-money-matters.blogspot.com
@@ -2288,6 +2307,7 @@
 127.0.0.1 www.venezuelabaseballjerseys.com
 127.0.0.1 verfun.com
 127.0.0.1 www.verfun.com
+127.0.0.1 verifymyweaithsimple.com
 127.0.0.1 vessisdeutschland.com
 127.0.0.1 www.vessisdeutschland.com
 127.0.0.1 store.vessisdeutschland.com
@@ -2316,8 +2336,6 @@
 127.0.0.1 visatoindia.org
 127.0.0.1 www.visatoindia.org
 127.0.0.1 store.visatoindia.org
-127.0.0.1 visoedifica.com
-127.0.0.1 www.visoedifica.com
 127.0.0.1 visumbuitenland.nl
 127.0.0.1 www.visumbuitenland.nl
 127.0.0.1 store.visumbuitenland.nl
@@ -2402,6 +2420,8 @@
 127.0.0.1 store.yhdshop.com
 127.0.0.1 yofi-yofi.com
 127.0.0.1 www.yofi-yofi.com
+127.0.0.1 yoli.my.id
+127.0.0.1 store.yoli.my.id
 127.0.0.1 youdebrid.com
 127.0.0.1 www.youdebrid.com
 127.0.0.1 yoursecrethookup.com
