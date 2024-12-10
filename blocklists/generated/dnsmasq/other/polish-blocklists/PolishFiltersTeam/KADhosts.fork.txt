@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 10 Dec 2024, 20:14 UTC+01:00
-# Version: 2024.12.10.5
+# Last modified: Tue, 10 Dec 2024, 21:25 UTC+01:00
+# Version: 2024.12.10.6
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6064,7 +6064,6 @@ server=/aromaticwave.xyz/
 server=/aromatrails.site/
 server=/aroraentertainments.com/
 server=/arrestrumors.com/
-server=/arrivalstep.store/
 server=/arriverush.online/
 server=/arrkheaven.com/
 server=/arrowemblem.com/
@@ -16535,7 +16534,6 @@ server=/help.mail-accountseu.world/
 server=/help.new-record.shop/
 server=/help.poweredsupport.com/
 server=/help.premium-x-notes.com/
-server=/helpaccessmentapro-case33843475.pages.dev/
 server=/helpcasesupporter.web.app/
 server=/helpcenter-bussinesspages.pages.dev/
 server=/helpcenters-bussinesspolicy.pages.dev/
@@ -31465,6 +31463,7 @@ server=/saltlakeherald.com/
 server=/salvatoremancarella.com/
 server=/salvitvnow.com/
 server=/salvospizzeriadelray.com/
+server=/salxndrpasntol.com/
 server=/salzpa.com/
 server=/samadhanbooks.com/
 server=/samafg.com/
@@ -31682,6 +31681,7 @@ server=/sawa-qi.com/
 server=/sawantexim.com/
 server=/sawicki-moda.pl/
 server=/saxipoe7.cfd/
+server=/saxlophonnusli.com/
 server=/saxo.actiprogz.top/
 server=/saxophoneandmusicstore.com/
 server=/saxovu.prizetracker45.com/
@@ -41877,7 +41877,6 @@ server=/www.aromaticwave.xyz/
 server=/www.aromatrails.site/
 server=/www.aroraentertainments.com/
 server=/www.arrestrumors.com/
-server=/www.arrivalstep.store/
 server=/www.arriverush.online/
 server=/www.arrkheaven.com/
 server=/www.arrowemblem.com/
@@ -52348,7 +52347,6 @@ server=/www.help.mail-accountseu.world/
 server=/www.help.new-record.shop/
 server=/www.help.poweredsupport.com/
 server=/www.help.premium-x-notes.com/
-server=/www.helpaccessmentapro-case33843475.pages.dev/
 server=/www.helpcasesupporter.web.app/
 server=/www.helpcenter-bussinesspages.pages.dev/
 server=/www.helpcenters-bussinesspolicy.pages.dev/
@@ -67237,6 +67235,7 @@ server=/www.saltlakeherald.com/
 server=/www.salvatoremancarella.com/
 server=/www.salvitvnow.com/
 server=/www.salvospizzeriadelray.com/
+server=/www.salxndrpasntol.com/
 server=/www.salzpa.com/
 server=/www.samadhanbooks.com/
 server=/www.samafg.com/
@@ -67454,6 +67453,7 @@ server=/www.sawa-qi.com/
 server=/www.sawantexim.com/
 server=/www.sawicki-moda.pl/
 server=/www.saxipoe7.cfd/
+server=/www.saxlophonnusli.com/
 server=/www.saxo.actiprogz.top/
 server=/www.saxophoneandmusicstore.com/
 server=/www.saxovu.prizetracker45.com/

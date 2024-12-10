@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-10 20:21:41 (UTC)                      #
+# Last updated: 2024-12-10 22:14:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 0xawad.xyz
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 2ig.cs.alab01.de
 0.0.0.0 360down7.miiyun.cn
@@ -39,21 +40,24 @@
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
+0.0.0.0 avastpx.com
 0.0.0.0 bcshoppy.com
 0.0.0.0 bill.drillmmcsnk.top
 0.0.0.0 bin.elite-api.su
 0.0.0.0 bitkiselurunsiparis.com
-0.0.0.0 blogoss.fr
 0.0.0.0 bnytools.xyz
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bwg-kundenservice.cfd
 0.0.0.0 by.haory.cn
 0.0.0.0 casacoimbramaputo.com
+0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 cdn-downloads.com
 0.0.0.0 cerberuscheat.net
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
+0.0.0.0 clavity.me
 0.0.0.0 client.raiden.cx
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
@@ -64,7 +68,6 @@
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
-0.0.0.0 cycleconf.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
@@ -77,12 +80,15 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.aigoingtokill.club
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
+0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -123,9 +129,11 @@
 0.0.0.0 harmeetmotors.com
 0.0.0.0 hemaniff.com
 0.0.0.0 hil.material.amstillroofing.com
+0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
+0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
@@ -146,6 +154,7 @@
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 krtopup.com
 0.0.0.0 l3monrat.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 license.bugmakerx.cn
 0.0.0.0 lieutenant-beaudry.com
 0.0.0.0 lindnerelektroanlagen.de
@@ -169,6 +178,7 @@
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 mngfilesamp.site
 0.0.0.0 muwc.shop
+0.0.0.0 myguyapp.com
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nins.in
@@ -179,7 +189,6 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 ojantrade.com
 0.0.0.0 onge.org
-0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 osecweb.ir
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
@@ -199,6 +208,7 @@
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 realark.net
@@ -212,7 +222,6 @@
 0.0.0.0 sbv.pushswroller.eu
 0.0.0.0 scan-echo.online
 0.0.0.0 sealingshop.click
-0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 selbe.ar
 0.0.0.0 seniorcomc.sslblindado.com
@@ -230,6 +239,7 @@
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 speedjc.top
 0.0.0.0 srothienhoa.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stipamana.com
@@ -240,12 +250,10 @@
 0.0.0.0 subaccountflix.net
 0.0.0.0 support.clz.kr
 0.0.0.0 t.0000o.xyz
-0.0.0.0 taodianla.com
 0.0.0.0 tasteofgoodness.info
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
@@ -254,6 +262,7 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 twizt.net
 0.0.0.0 unicorpbrunei.com
+0.0.0.0 uninstmd.bond
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
@@ -269,11 +278,13 @@
 0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
+0.0.0.0 www.clavity.me
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.ftsengineers.com
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -295,7 +306,6 @@
 0.0.0.0 www.webaap2.site
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
-0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
@@ -310,4 +320,4 @@
 0.0.0.0 zblmt.gjc1314.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zooog.info
-# Number of entries: 304
+# Number of entries: 314

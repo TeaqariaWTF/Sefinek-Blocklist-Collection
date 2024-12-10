@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-10 20:21:41 (UTC)                      !
+! Last updated: 2024-12-10 22:14:07 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -9,6 +9,7 @@
 ||0xawad.xyz^
 ||123.ywxww.net^
 ||139520.aioc.qbgxl.com^
+||1717.1000uc.com^
 ||2.haory.cn^
 ||2ig.cs.alab01.de^
 ||360down7.miiyun.cn^
@@ -39,21 +40,24 @@
 ||arteflordeliz.com.br^
 ||aulist.com^
 ||avastop.com^
+||avastpx.com^
 ||bcshoppy.com^
 ||bill.drillmmcsnk.top^
 ||bin.elite-api.su^
 ||bitkiselurunsiparis.com^
-||blogoss.fr^
 ||bnytools.xyz^
 ||buscascolegios.diit.cl^
 ||bwg-kundenservice.cfd^
 ||by.haory.cn^
 ||casacoimbramaputo.com^
+||cat.dashabi.in^
 ||catbaparadisehotel.com.vn^
+||cdn-downloads.com^
 ||cerberuscheat.net^
 ||cheat.underground-cheat.com^
 ||ciscocdn.com^
 ||cityoall.com^
+||clavity.me^
 ||client.raiden.cx^
 ||clubedasluluzinhasro.com.br^
 ||cmgtrading.eu^
@@ -64,7 +68,6 @@
 ||conn.masjesu.zip^
 ||crystalpvp.ru^
 ||csg-app.com^
-||cycleconf.com^
 ||d.wanyouxi7.com^
 ||dangtienluc.com^
 ||data.yhydl.com^
@@ -77,12 +80,15 @@
 ||disk.accord1key.cn^
 ||dl.aginjector.com^
 ||dl.aigoingtokill.club^
+||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.mvip8.ru^
+||down.pcclear.com^
+||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.haozip.com^
 ||download.innovare.no^
@@ -123,9 +129,11 @@
 ||harmeetmotors.com^
 ||hemaniff.com^
 ||hil.material.amstillroofing.com^
+||hitman-pro.ru^
 ||hitstation.nl^
 ||hoteltoscanaplaza.com.co^
 ||hr2019.vrcom7.com^
+||hseda.com^
 ||huyanhnongdo.io.vn^
 ||imtoken8.cc^
 ||in-houselegal.ro^
@@ -146,6 +154,7 @@
 ||kolobrownsalesye-fong.com^
 ||krtopup.com^
 ||l3monrat.com^
+||library.arihantmbainstitute.ac.in^
 ||license.bugmakerx.cn^
 ||lieutenant-beaudry.com^
 ||lindnerelektroanlagen.de^
@@ -169,6 +178,7 @@
 ||microsecurityupdate.com^
 ||mngfilesamp.site^
 ||muwc.shop^
+||myguyapp.com^
 ||nabawitransport.com^
 ||namthaibinh.net^
 ||nins.in^
@@ -179,7 +189,6 @@
 ||ojang.pe.kr^
 ||ojantrade.com^
 ||onge.org^
-||onlineshoppe.semilinktech.com^
 ||osecweb.ir^
 ||p3.zbjimg.com^
 ||p6.zbjimg.com^
@@ -199,6 +208,7 @@
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
+||r8p.teknixstuff.com^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
 ||realark.net^
@@ -212,7 +222,6 @@
 ||sbv.pushswroller.eu^
 ||scan-echo.online^
 ||sealingshop.click^
-||sec.dashabi.in^
 ||secure.cloudtechnologiesusa.com^
 ||selbe.ar^
 ||seniorcomc.sslblindado.com^
@@ -230,6 +239,7 @@
 ||soportegira.net^
 ||sos.vivi.sg^
 ||spaceframe.mobi.space-frame.co.za^
+||speedjc.top^
 ||srothienhoa.com^
 ||stdown.dinju.com^
 ||stipamana.com^
@@ -240,12 +250,10 @@
 ||subaccountflix.net^
 ||support.clz.kr^
 ||t.0000o.xyz^
-||taodianla.com^
 ||tasteofgoodness.info^
 ||technotiempo.com^
 ||tecni-soft.com^
 ||tecunonline.com^
-||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tianyinsoft.top^
@@ -254,6 +262,7 @@
 ||treinamento.convenio.to.gov.br^
 ||twizt.net^
 ||unicorpbrunei.com^
+||uninstmd.bond^
 ||up.maolaoban.top^
 ||update.cg100iii.com^
 ||update.vlnguba.com^
@@ -269,11 +278,13 @@
 ||www.carambis.com^
 ||www.chemsky.tn^
 ||www.chrismccaw.net^
+||www.clavity.me^
 ||www.clubedasluluzinhasro.com.br^
 ||www.flechabusretiro.com.ar^
 ||www.ftsengineers.com^
 ||www.globallaborsupply.com^
 ||www.grupodulcemar.pe^
+||www.hseda.com^
 ||www.ingonherbal.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
@@ -295,7 +306,6 @@
 ||www.webaap2.site^
 ||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
-||www.ysbaojia.com^
 ||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
@@ -310,4 +320,4 @@
 ||zblmt.gjc1314.com^
 ||znrq.zifwxq.cn^
 ||zooog.info^
-! Number of entries: 304
+! Number of entries: 314

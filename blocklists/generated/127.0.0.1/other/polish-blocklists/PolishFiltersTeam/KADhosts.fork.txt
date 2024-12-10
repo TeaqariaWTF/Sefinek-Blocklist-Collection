@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 10 Dec 2024, 20:14 UTC+01:00
-# Version: 2024.12.10.5
+# Last modified: Tue, 10 Dec 2024, 21:25 UTC+01:00
+# Version: 2024.12.10.6
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6064,7 +6064,6 @@
 127.0.0.1 aromatrails.site
 127.0.0.1 aroraentertainments.com
 127.0.0.1 arrestrumors.com
-127.0.0.1 arrivalstep.store
 127.0.0.1 arriverush.online
 127.0.0.1 arrkheaven.com
 127.0.0.1 arrowemblem.com
@@ -16535,7 +16534,6 @@
 127.0.0.1 help.new-record.shop
 127.0.0.1 help.poweredsupport.com
 127.0.0.1 help.premium-x-notes.com
-127.0.0.1 helpaccessmentapro-case33843475.pages.dev
 127.0.0.1 helpcasesupporter.web.app
 127.0.0.1 helpcenter-bussinesspages.pages.dev
 127.0.0.1 helpcenters-bussinesspolicy.pages.dev
@@ -31465,6 +31463,7 @@
 127.0.0.1 salvatoremancarella.com
 127.0.0.1 salvitvnow.com
 127.0.0.1 salvospizzeriadelray.com
+127.0.0.1 salxndrpasntol.com
 127.0.0.1 salzpa.com
 127.0.0.1 samadhanbooks.com
 127.0.0.1 samafg.com
@@ -31682,6 +31681,7 @@
 127.0.0.1 sawantexim.com
 127.0.0.1 sawicki-moda.pl
 127.0.0.1 saxipoe7.cfd
+127.0.0.1 saxlophonnusli.com
 127.0.0.1 saxo.actiprogz.top
 127.0.0.1 saxophoneandmusicstore.com
 127.0.0.1 saxovu.prizetracker45.com
@@ -41877,7 +41877,6 @@
 127.0.0.1 www.aromatrails.site
 127.0.0.1 www.aroraentertainments.com
 127.0.0.1 www.arrestrumors.com
-127.0.0.1 www.arrivalstep.store
 127.0.0.1 www.arriverush.online
 127.0.0.1 www.arrkheaven.com
 127.0.0.1 www.arrowemblem.com
@@ -52348,7 +52347,6 @@
 127.0.0.1 www.help.new-record.shop
 127.0.0.1 www.help.poweredsupport.com
 127.0.0.1 www.help.premium-x-notes.com
-127.0.0.1 www.helpaccessmentapro-case33843475.pages.dev
 127.0.0.1 www.helpcasesupporter.web.app
 127.0.0.1 www.helpcenter-bussinesspages.pages.dev
 127.0.0.1 www.helpcenters-bussinesspolicy.pages.dev
@@ -67237,6 +67235,7 @@
 127.0.0.1 www.salvatoremancarella.com
 127.0.0.1 www.salvitvnow.com
 127.0.0.1 www.salvospizzeriadelray.com
+127.0.0.1 www.salxndrpasntol.com
 127.0.0.1 www.salzpa.com
 127.0.0.1 www.samadhanbooks.com
 127.0.0.1 www.samafg.com
@@ -67454,6 +67453,7 @@
 127.0.0.1 www.sawantexim.com
 127.0.0.1 www.sawicki-moda.pl
 127.0.0.1 www.saxipoe7.cfd
+127.0.0.1 www.saxlophonnusli.com
 127.0.0.1 www.saxo.actiprogz.top
 127.0.0.1 www.saxophoneandmusicstore.com
 127.0.0.1 www.saxovu.prizetracker45.com
