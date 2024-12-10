@@ -1,9 +1,9 @@
-# Version: 202412100106
+# Version: 202412100306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 125391
-# Last modified: 2024-12-10T01:06:29+0000
+! Entries: 125389
+# Last modified: 2024-12-10T03:06:39+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -3208,7 +3208,6 @@
 0.0.0.0 53d82deb.adsl.enternet.hu
 0.0.0.0 53e91a4877.com
 0.0.0.0 53f2216e35.adfb5b0a32.com
-0.0.0.0 53ff0e58f9.com
 0.0.0.0 53kf.com
 0.0.0.0 54.pl
 0.0.0.0 54.red-80-35-69.staticip.rima-tde.net
@@ -114789,7 +114788,6 @@
 0.0.0.0 usps.com-tracknqq.top
 0.0.0.0 usps.com-tracknwo.top
 0.0.0.0 usps.com-trackpdv.top
-0.0.0.0 usps.com-tracksfc.top
 0.0.0.0 usps.com-tracktuj.top
 0.0.0.0 usps.com-trackwnd.top
 0.0.0.0 usps.com-trackwyx.top
