@@ -1,9 +1,9 @@
-# Version: 202412111007
+# Version: 202412111207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 125332
-# Last modified: 2024-12-11T10:07:12+0000
+! Entries: 125304
+# Last modified: 2024-12-11T12:07:09+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -177,9 +177,7 @@
 127.0.0.1 059e71004b.com
 127.0.0.1 05b29ae553.e68a481d7d.com
 127.0.0.1 05e11c9f6f.com
-127.0.0.1 05fbc08eac.com
 127.0.0.1 05fc725q.cn
-127.0.0.1 05pg9z.com
 127.0.0.1 06.sharedsource.org
 127.0.0.1 060583754107673-dot-wetransfer-auth-file-341.appspot.com
 127.0.0.1 060f670359.77cae4574b.com
@@ -3827,7 +3825,6 @@
 127.0.0.1 666585.xyz
 127.0.0.1 666587.xyz
 127.0.0.1 666589.xyz
-127.0.0.1 666592.xyz
 127.0.0.1 666593.xyz
 127.0.0.1 666595.xyz
 127.0.0.1 666596.xyz
@@ -3852,7 +3849,6 @@
 127.0.0.1 666674.xyz
 127.0.0.1 666679.xyz
 127.0.0.1 666683.xyz
-127.0.0.1 666684.xyz
 127.0.0.1 6666888.xyz
 127.0.0.1 66668aaa.com
 127.0.0.1 66669aaa.com
@@ -4733,7 +4729,6 @@
 127.0.0.1 91ysa.com
 127.0.0.1 91yudao.com
 127.0.0.1 921b6384ac.com
-127.0.0.1 9231c9aeaaef65735d519e48eac52200.com
 127.0.0.1 9232c9aeaaef65735d520e48eac52200.com
 127.0.0.1 9233c9aeaaef65735d521e48eac52200.com
 127.0.0.1 9244328-dot-oaao-274308.uc.r.appspot.com
@@ -6225,7 +6220,6 @@
 127.0.0.1 accessbourso.fr
 127.0.0.1 accesschase.com
 127.0.0.1 accessclark.com
-127.0.0.1 accessclips.com
 127.0.0.1 accessform.hopto.org
 127.0.0.1 accessgrant.ydns.eu
 127.0.0.1 accessheler.com
@@ -6871,7 +6865,6 @@
 127.0.0.1 ad.api.moji.com
 127.0.0.1 ad.api.youshiad.cn
 127.0.0.1 ad.api.yyapi.net
-127.0.0.1 ad.apl164.me
 127.0.0.1 ad.apl298.me
 127.0.0.1 ad.apl302.me
 127.0.0.1 ad.app-authority.com
@@ -13605,7 +13598,6 @@
 127.0.0.1 amunracasinoo.fr
 127.0.0.1 amunx.de
 127.0.0.1 amurutro.ru
-127.0.0.1 amusecity.com
 127.0.0.1 amused-ground.com
 127.0.0.1 amusedbucket.com
 127.0.0.1 amuseer.com
@@ -16258,7 +16250,6 @@
 127.0.0.1 aramco-vendormanagement.com
 127.0.0.1 aramcooiltendersprocurement.com
 127.0.0.1 aramcoprocurements-ksa.com
-127.0.0.1 aramcoprocurementsuae.com
 127.0.0.1 aramcosuppliers-ksa.com
 127.0.0.1 aramcotenderprocurement-uae.com
 127.0.0.1 aramcotenderprocurement.com
@@ -25696,7 +25687,6 @@
 127.0.0.1 cascademuscularbodyguard.com
 127.0.0.1 cascadewatchful.com
 127.0.0.1 case-good.com
-127.0.0.1 case-id-10029083854.fr
 127.0.0.1 case-te8x.vercel.app
 127.0.0.1 case-yst3.vercel.app
 127.0.0.1 caseaterallied.com
@@ -28318,7 +28308,6 @@
 127.0.0.1 ckgsrzu.com
 127.0.0.1 ckite.handipants.com
 127.0.0.1 ckitwlmqy-c.today
-127.0.0.1 ckqebz.cn
 127.0.0.1 ckr.cc
 127.0.0.1 ckre.net
 127.0.0.1 ckrf1.com
@@ -37634,7 +37623,6 @@
 127.0.0.1 diswontchose.com
 127.0.0.1 disxcord.com
 127.0.0.1 disxord.com
-127.0.0.1 disypoy4.xyz
 127.0.0.1 diszcord.com
 127.0.0.1 dit-dit-dot.com
 127.0.0.1 dit.whatsapp.net
@@ -42403,7 +42391,6 @@
 127.0.0.1 erpquipu.com
 127.0.0.1 erqtga.xyz
 127.0.0.1 err.taobao.com
-127.0.0.1 err0r-kpzjndt.pages.dev
 127.0.0.1 errantstetrole.com
 127.0.0.1 errbandsillumination.com
 127.0.0.1 errclean.com
@@ -53543,7 +53530,6 @@
 127.0.0.1 hackphat.com
 127.0.0.1 hackreleases.com
 127.0.0.1 hackrootkit.com
-127.0.0.1 hacks-land.net
 127.0.0.1 hacks.2download.eu
 127.0.0.1 hacks4.com
 127.0.0.1 hacks4apps.com
@@ -66061,7 +66047,6 @@
 127.0.0.1 lhukudauwklhd.xyz
 127.0.0.1 lhuy.com
 127.0.0.1 lhvmt5et8vq0.ru
-127.0.0.1 lhzbdvm.com
 127.0.0.1 li-dav.com
 127.0.0.1 li-dermakine.com.tr
 127.0.0.1 li-er.ru
@@ -68434,7 +68419,6 @@
 127.0.0.1 loven.ru
 127.0.0.1 lovendal.ro
 127.0.0.1 loveofffer.com
-127.0.0.1 loveoutlet.fr
 127.0.0.1 lovepiter.ru
 127.0.0.1 loveplanet.ws
 127.0.0.1 loveplaneta.ru
@@ -79369,7 +79353,6 @@
 127.0.0.1 nyutkikha.info
 127.0.0.1 nyy41uibsv5.life
 127.0.0.1 nz.com.ar
-127.0.0.1 nz.compress.to
 127.0.0.1 nzasa.ddns.net
 127.0.0.1 nzezn.com
 127.0.0.1 nzfcvv.xyz
@@ -83492,7 +83475,6 @@
 127.0.0.1 pass-check.online
 127.0.0.1 pass-connect-societegenerale.fr
 127.0.0.1 pass-connecte.fr
-127.0.0.1 pass-connecting.fr
 127.0.0.1 pass-connexion.fr
 127.0.0.1 pass-credit-mutuelle.fr
 127.0.0.1 pass-nepal.org.np
@@ -85774,7 +85756,6 @@
 127.0.0.1 plaza-l1o0nni-p1aza.com
 127.0.0.1 plazaimmobilier.fr
 127.0.0.1 plclever.weebly.com
-127.0.0.1 plcs.ir
 127.0.0.1 pldev.112.2o7.net
 127.0.0.1 ple-emploi.fr
 127.0.0.1 pleadsbox.com
@@ -91282,7 +91263,6 @@
 127.0.0.1 rec.detik.com
 127.0.0.1 recadastrocreditcard.epizy.com
 127.0.0.1 recalledmesnarl.com
-127.0.0.1 recalledriddle.com
 127.0.0.1 recallhealing.co.il
 127.0.0.1 recantgetawayassimilate.com
 127.0.0.1 recargasjogos.com
@@ -92266,7 +92246,6 @@
 127.0.0.1 repmedic.com
 127.0.0.1 repocket.com
 127.0.0.1 repologia.com.de
-127.0.0.1 repondeursfr.fr
 127.0.0.1 reporo.net
 127.0.0.1 report-download.com
 127.0.0.1 report-ps.meettech.net
@@ -95525,7 +95504,6 @@
 127.0.0.1 santuao.xyz
 127.0.0.1 santuariopalacehotel.com.br
 127.0.0.1 sanuk-france.fr
-127.0.0.1 sanukshoesfrance.fr
 127.0.0.1 sanuniversity.com
 127.0.0.1 sanya1.com
 127.0.0.1 saoe.com
@@ -100805,7 +100783,6 @@
 127.0.0.1 smuggeralapa.com
 127.0.0.1 smugismanaxon.com
 127.0.0.1 smugmugincflickrprodudction.112.2o7.net
-127.0.0.1 smusxath.reviews-sec.com
 127.0.0.1 smutserver.com
 127.0.0.1 smutstone.com
 127.0.0.1 smuz.nl
@@ -101862,7 +101839,6 @@
 127.0.0.1 space-high.com
 127.0.0.1 space-nodes.com
 127.0.0.1 spacead.pl
-127.0.0.1 spaceclie.brunor0v.beget.tech
 127.0.0.1 spacecodec.com
 127.0.0.1 spacedart.com
 127.0.0.1 spacedone.com
@@ -103066,7 +103042,6 @@
 127.0.0.1 stat.detelefoongids.nl
 127.0.0.1 stat.devote.se
 127.0.0.1 stat.dongqiudi.com
-127.0.0.1 stat.doxod.net
 127.0.0.1 stat.duokanbox.com
 127.0.0.1 stat.dyna.ultraweb.hu
 127.0.0.1 stat.dziennik.pl
@@ -105537,7 +105512,6 @@
 127.0.0.1 support-poste.fr
 127.0.0.1 support-qonto.fr
 127.0.0.1 support-servizio.squirly.info
-127.0.0.1 support-spotify.fr
 127.0.0.1 support-upr.fr
 127.0.0.1 support-v2.sweetwaternow.com
 127.0.0.1 support-widget.userlocal.jp
@@ -114332,7 +114306,6 @@
 127.0.0.1 uploadvirus.com
 127.0.0.1 uploadwire.com
 127.0.0.1 uplog.inews.qq.com
-127.0.0.1 uplucarioon.com
 127.0.0.1 uplus.kr
 127.0.0.1 upmhxp.gow.englishwoodlands.co.uk
 127.0.0.1 upnews18.com
@@ -125223,7 +125196,6 @@
 127.0.0.1 zvvlbf.xyz
 127.0.0.1 zvvqprcjjnh.com
 127.0.0.1 zvwhrc.com
-127.0.0.1 zvxwvny.cn
 127.0.0.1 zwaar.net
 127.0.0.1 zwariowane.pl
 127.0.0.1 zwartemarktpistool.com

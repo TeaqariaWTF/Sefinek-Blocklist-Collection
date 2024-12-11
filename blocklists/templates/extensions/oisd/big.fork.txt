@@ -1,9 +1,9 @@
-# Version: 202412111007
+# Version: 202412111207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 125332
-# Last modified: 2024-12-11T10:07:12+0000
+! Entries: 125304
+# Last modified: 2024-12-11T12:07:09+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -177,9 +177,7 @@
 0.0.0.0 059e71004b.com
 0.0.0.0 05b29ae553.e68a481d7d.com
 0.0.0.0 05e11c9f6f.com
-0.0.0.0 05fbc08eac.com
 0.0.0.0 05fc725q.cn
-0.0.0.0 05pg9z.com
 0.0.0.0 06.sharedsource.org
 0.0.0.0 060583754107673-dot-wetransfer-auth-file-341.appspot.com
 0.0.0.0 060f670359.77cae4574b.com
@@ -3827,7 +3825,6 @@
 0.0.0.0 666585.xyz
 0.0.0.0 666587.xyz
 0.0.0.0 666589.xyz
-0.0.0.0 666592.xyz
 0.0.0.0 666593.xyz
 0.0.0.0 666595.xyz
 0.0.0.0 666596.xyz
@@ -3852,7 +3849,6 @@
 0.0.0.0 666674.xyz
 0.0.0.0 666679.xyz
 0.0.0.0 666683.xyz
-0.0.0.0 666684.xyz
 0.0.0.0 6666888.xyz
 0.0.0.0 66668aaa.com
 0.0.0.0 66669aaa.com
@@ -4733,7 +4729,6 @@
 0.0.0.0 91ysa.com
 0.0.0.0 91yudao.com
 0.0.0.0 921b6384ac.com
-0.0.0.0 9231c9aeaaef65735d519e48eac52200.com
 0.0.0.0 9232c9aeaaef65735d520e48eac52200.com
 0.0.0.0 9233c9aeaaef65735d521e48eac52200.com
 0.0.0.0 9244328-dot-oaao-274308.uc.r.appspot.com
@@ -6225,7 +6220,6 @@
 0.0.0.0 accessbourso.fr
 0.0.0.0 accesschase.com
 0.0.0.0 accessclark.com
-0.0.0.0 accessclips.com
 0.0.0.0 accessform.hopto.org
 0.0.0.0 accessgrant.ydns.eu
 0.0.0.0 accessheler.com
@@ -6871,7 +6865,6 @@
 0.0.0.0 ad.api.moji.com
 0.0.0.0 ad.api.youshiad.cn
 0.0.0.0 ad.api.yyapi.net
-0.0.0.0 ad.apl164.me
 0.0.0.0 ad.apl298.me
 0.0.0.0 ad.apl302.me
 0.0.0.0 ad.app-authority.com
@@ -13605,7 +13598,6 @@
 0.0.0.0 amunracasinoo.fr
 0.0.0.0 amunx.de
 0.0.0.0 amurutro.ru
-0.0.0.0 amusecity.com
 0.0.0.0 amused-ground.com
 0.0.0.0 amusedbucket.com
 0.0.0.0 amuseer.com
@@ -16258,7 +16250,6 @@
 0.0.0.0 aramco-vendormanagement.com
 0.0.0.0 aramcooiltendersprocurement.com
 0.0.0.0 aramcoprocurements-ksa.com
-0.0.0.0 aramcoprocurementsuae.com
 0.0.0.0 aramcosuppliers-ksa.com
 0.0.0.0 aramcotenderprocurement-uae.com
 0.0.0.0 aramcotenderprocurement.com
@@ -25696,7 +25687,6 @@
 0.0.0.0 cascademuscularbodyguard.com
 0.0.0.0 cascadewatchful.com
 0.0.0.0 case-good.com
-0.0.0.0 case-id-10029083854.fr
 0.0.0.0 case-te8x.vercel.app
 0.0.0.0 case-yst3.vercel.app
 0.0.0.0 caseaterallied.com
@@ -28318,7 +28308,6 @@
 0.0.0.0 ckgsrzu.com
 0.0.0.0 ckite.handipants.com
 0.0.0.0 ckitwlmqy-c.today
-0.0.0.0 ckqebz.cn
 0.0.0.0 ckr.cc
 0.0.0.0 ckre.net
 0.0.0.0 ckrf1.com
@@ -37634,7 +37623,6 @@
 0.0.0.0 diswontchose.com
 0.0.0.0 disxcord.com
 0.0.0.0 disxord.com
-0.0.0.0 disypoy4.xyz
 0.0.0.0 diszcord.com
 0.0.0.0 dit-dit-dot.com
 0.0.0.0 dit.whatsapp.net
@@ -42403,7 +42391,6 @@
 0.0.0.0 erpquipu.com
 0.0.0.0 erqtga.xyz
 0.0.0.0 err.taobao.com
-0.0.0.0 err0r-kpzjndt.pages.dev
 0.0.0.0 errantstetrole.com
 0.0.0.0 errbandsillumination.com
 0.0.0.0 errclean.com
@@ -53543,7 +53530,6 @@
 0.0.0.0 hackphat.com
 0.0.0.0 hackreleases.com
 0.0.0.0 hackrootkit.com
-0.0.0.0 hacks-land.net
 0.0.0.0 hacks.2download.eu
 0.0.0.0 hacks4.com
 0.0.0.0 hacks4apps.com
@@ -66061,7 +66047,6 @@
 0.0.0.0 lhukudauwklhd.xyz
 0.0.0.0 lhuy.com
 0.0.0.0 lhvmt5et8vq0.ru
-0.0.0.0 lhzbdvm.com
 0.0.0.0 li-dav.com
 0.0.0.0 li-dermakine.com.tr
 0.0.0.0 li-er.ru
@@ -68434,7 +68419,6 @@
 0.0.0.0 loven.ru
 0.0.0.0 lovendal.ro
 0.0.0.0 loveofffer.com
-0.0.0.0 loveoutlet.fr
 0.0.0.0 lovepiter.ru
 0.0.0.0 loveplanet.ws
 0.0.0.0 loveplaneta.ru
@@ -79369,7 +79353,6 @@
 0.0.0.0 nyutkikha.info
 0.0.0.0 nyy41uibsv5.life
 0.0.0.0 nz.com.ar
-0.0.0.0 nz.compress.to
 0.0.0.0 nzasa.ddns.net
 0.0.0.0 nzezn.com
 0.0.0.0 nzfcvv.xyz
@@ -83492,7 +83475,6 @@
 0.0.0.0 pass-check.online
 0.0.0.0 pass-connect-societegenerale.fr
 0.0.0.0 pass-connecte.fr
-0.0.0.0 pass-connecting.fr
 0.0.0.0 pass-connexion.fr
 0.0.0.0 pass-credit-mutuelle.fr
 0.0.0.0 pass-nepal.org.np
@@ -85774,7 +85756,6 @@
 0.0.0.0 plaza-l1o0nni-p1aza.com
 0.0.0.0 plazaimmobilier.fr
 0.0.0.0 plclever.weebly.com
-0.0.0.0 plcs.ir
 0.0.0.0 pldev.112.2o7.net
 0.0.0.0 ple-emploi.fr
 0.0.0.0 pleadsbox.com
@@ -91282,7 +91263,6 @@
 0.0.0.0 rec.detik.com
 0.0.0.0 recadastrocreditcard.epizy.com
 0.0.0.0 recalledmesnarl.com
-0.0.0.0 recalledriddle.com
 0.0.0.0 recallhealing.co.il
 0.0.0.0 recantgetawayassimilate.com
 0.0.0.0 recargasjogos.com
@@ -92266,7 +92246,6 @@
 0.0.0.0 repmedic.com
 0.0.0.0 repocket.com
 0.0.0.0 repologia.com.de
-0.0.0.0 repondeursfr.fr
 0.0.0.0 reporo.net
 0.0.0.0 report-download.com
 0.0.0.0 report-ps.meettech.net
@@ -95525,7 +95504,6 @@
 0.0.0.0 santuao.xyz
 0.0.0.0 santuariopalacehotel.com.br
 0.0.0.0 sanuk-france.fr
-0.0.0.0 sanukshoesfrance.fr
 0.0.0.0 sanuniversity.com
 0.0.0.0 sanya1.com
 0.0.0.0 saoe.com
@@ -100805,7 +100783,6 @@
 0.0.0.0 smuggeralapa.com
 0.0.0.0 smugismanaxon.com
 0.0.0.0 smugmugincflickrprodudction.112.2o7.net
-0.0.0.0 smusxath.reviews-sec.com
 0.0.0.0 smutserver.com
 0.0.0.0 smutstone.com
 0.0.0.0 smuz.nl
@@ -101862,7 +101839,6 @@
 0.0.0.0 space-high.com
 0.0.0.0 space-nodes.com
 0.0.0.0 spacead.pl
-0.0.0.0 spaceclie.brunor0v.beget.tech
 0.0.0.0 spacecodec.com
 0.0.0.0 spacedart.com
 0.0.0.0 spacedone.com
@@ -103066,7 +103042,6 @@
 0.0.0.0 stat.detelefoongids.nl
 0.0.0.0 stat.devote.se
 0.0.0.0 stat.dongqiudi.com
-0.0.0.0 stat.doxod.net
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.dziennik.pl
@@ -105537,7 +105512,6 @@
 0.0.0.0 support-poste.fr
 0.0.0.0 support-qonto.fr
 0.0.0.0 support-servizio.squirly.info
-0.0.0.0 support-spotify.fr
 0.0.0.0 support-upr.fr
 0.0.0.0 support-v2.sweetwaternow.com
 0.0.0.0 support-widget.userlocal.jp
@@ -114332,7 +114306,6 @@
 0.0.0.0 uploadvirus.com
 0.0.0.0 uploadwire.com
 0.0.0.0 uplog.inews.qq.com
-0.0.0.0 uplucarioon.com
 0.0.0.0 uplus.kr
 0.0.0.0 upmhxp.gow.englishwoodlands.co.uk
 0.0.0.0 upnews18.com
@@ -125223,7 +125196,6 @@
 0.0.0.0 zvvlbf.xyz
 0.0.0.0 zvvqprcjjnh.com
 0.0.0.0 zvwhrc.com
-0.0.0.0 zvxwvny.cn
 0.0.0.0 zwaar.net
 0.0.0.0 zwariowane.pl
 0.0.0.0 zwartemarktpistool.com
