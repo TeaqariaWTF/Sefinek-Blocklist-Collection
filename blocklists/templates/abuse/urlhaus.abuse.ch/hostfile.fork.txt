@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-12 20:24:06 (UTC)                      #
+# Last updated: 2024-12-12 22:19:47 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
@@ -22,7 +23,6 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
-0.0.0.0 alien-training.com
 0.0.0.0 anphatnam.com
 0.0.0.0 anythingspam2hde.xyz
 0.0.0.0 aosafrica.co.za
@@ -45,26 +45,26 @@
 0.0.0.0 bwg-kundenservice.cfd
 0.0.0.0 by.haory.cn
 0.0.0.0 casacoimbramaputo.com
-0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdn-downloads.com
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 chinaapper.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
+0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 coindiscussion.net
 0.0.0.0 conimagencancun.com
 0.0.0.0 conn.masjesu.zip
+0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 cuenta-ntflx.com
 0.0.0.0 cycleconf.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
-0.0.0.0 dddotx.shop
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deloth2.in
 0.0.0.0 dev.cyberark-igiwax.com
@@ -78,12 +78,12 @@
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
@@ -113,7 +113,6 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
 0.0.0.0 furryporn.top
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 globesql.com
 0.0.0.0 go1.sigmasb.com
@@ -139,7 +138,6 @@
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
-0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keikochio.com
 0.0.0.0 keyser-api.eu
@@ -162,11 +160,11 @@
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
+0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
 0.0.0.0 meeweb.com
 0.0.0.0 melbornstromp.lat
 0.0.0.0 mertvinc.com.tr
-0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 muwc.shop
 0.0.0.0 myguyapp.com
@@ -180,6 +178,7 @@
 0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 osecweb.ir
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 p6.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
@@ -211,12 +210,14 @@
 0.0.0.0 send-producing-recipes-moss.trycloudfare.com
 0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
+0.0.0.0 service.bugmakerx.cn
 0.0.0.0 sfa.com.ar
 0.0.0.0 sft-cloud.ru
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
@@ -232,7 +233,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 t.0000o.xyz
 0.0.0.0 taodianla.com
-0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 temirtau-adm.ru
@@ -252,7 +252,6 @@
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 valseg.com.br
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.333zz.top
@@ -276,6 +275,7 @@
 0.0.0.0 www.mva.by
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
@@ -286,7 +286,7 @@
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
-0.0.0.0 www.witrin.hu
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
