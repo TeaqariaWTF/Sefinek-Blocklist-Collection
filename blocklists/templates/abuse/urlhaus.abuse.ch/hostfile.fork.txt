@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-12 03:04:35 (UTC)                      #
+# Last updated: 2024-12-12 04:22:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,6 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
-0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
@@ -25,6 +24,7 @@
 0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 anythingspam2hde.xyz
+0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
@@ -82,16 +82,15 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
+0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
 0.0.0.0 downsexv.com
 0.0.0.0 dragonhack.shop
 0.0.0.0 drdavidfishbein.com
 0.0.0.0 e4l4.com
-0.0.0.0 electjimhenderson.com
 0.0.0.0 electrum.trading
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 ellesmerefamilyhealth.com
@@ -127,7 +126,6 @@
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 in-houselegal.ro
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
@@ -141,8 +139,8 @@
 0.0.0.0 klipcatepiu0.shop
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 l3monrat.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 license.bugmakerx.cn
+0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
@@ -164,6 +162,7 @@
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 muwc.shop
 0.0.0.0 myguyapp.com
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nins.in
 0.0.0.0 noithaticon.vn
@@ -198,12 +197,14 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sbv.pushswroller.eu
+0.0.0.0 scan-echo.online
 0.0.0.0 scure3glbcubnksur.info
 0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 selbe.ar
 0.0.0.0 send-producing-recipes-moss.trycloudfare.com
+0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 service.bugmakerx.cn
 0.0.0.0 sfa.com.ar
 0.0.0.0 sft-cloud.ru
@@ -214,18 +215,16 @@
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 speedjc.top
 0.0.0.0 srothienhoa.com
-0.0.0.0 stipamana.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 store.monsterservice.xyz
-0.0.0.0 storycentral.net
 0.0.0.0 stressor.su
 0.0.0.0 support.clz.kr
 0.0.0.0 t.0000o.xyz
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
-0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -279,7 +278,6 @@
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.stipamana.com
 0.0.0.0 www.sumiyuki.co.jp
-0.0.0.0 www.tecunonline.com
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
@@ -295,4 +293,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 289
+# Number of entries: 287
