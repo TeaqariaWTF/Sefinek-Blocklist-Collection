@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-12 16:29:06 (UTC)                      #
+# Last updated: 2024-12-12 18:34:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,9 +10,11 @@
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
+127.0.0.1 7zip10-2024.top
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aarzoomarine.com
 127.0.0.1 abissnet.net
+127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
@@ -26,6 +28,7 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
 127.0.0.1 api.co-operativefinance.com
+127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 apslline.com
 127.0.0.1 aquafusion.com.co
@@ -34,7 +37,6 @@
 127.0.0.1 asg.material.amstillroofing.com
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
-127.0.0.1 betterwebspacetest.com
 127.0.0.1 bin.elite-api.su
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
@@ -56,7 +58,6 @@
 127.0.0.1 coindiscussion.net
 127.0.0.1 conimagencancun.com
 127.0.0.1 conn.masjesu.zip
-127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
 127.0.0.1 cuenta-ntflx.com
 127.0.0.1 cycleconf.com
@@ -65,12 +66,14 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 dddotx.shop
 127.0.0.1 deauduafzgezzfgm.top
+127.0.0.1 defgyma.com
 127.0.0.1 deloth2.in
 127.0.0.1 dev.cyberark-igiwax.com
 127.0.0.1 device.redirec.com
 127.0.0.1 devmode.ink
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 diclegrup.org
+127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
@@ -81,7 +84,7 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
-127.0.0.1 down.pcclear.com
+127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.haozip.com
 127.0.0.1 download.innovare.no
@@ -120,7 +123,6 @@
 127.0.0.1 hailcocks.ru
 127.0.0.1 haramb.net
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hoteltoscanaplaza.com.co
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
@@ -129,7 +131,6 @@
 127.0.0.1 in-houselegal.ro
 127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
-127.0.0.1 internetguardiansec.com
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jeffdahlke.com
@@ -142,10 +143,12 @@
 127.0.0.1 keikochio.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 kiemthehuyenlong.com
+127.0.0.1 klipcatepiu0.shop
 127.0.0.1 kolobrownsalesye-fong.com
 127.0.0.1 l3monrat.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 license.bugmakerx.cn
+127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 livetrack.in
 127.0.0.1 loeghaiofiehfihf.to
@@ -164,6 +167,7 @@
 127.0.0.1 melbornstromp.lat
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsecurityupdate.com
+127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 muwc.shop
 127.0.0.1 myguyapp.com
 127.0.0.1 nabawitransport.com
@@ -210,7 +214,6 @@
 127.0.0.1 seniorcomc.sslblindado.com
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 servergate.org
-127.0.0.1 service.bugmakerx.cn
 127.0.0.1 sfa.com.ar
 127.0.0.1 sft-cloud.ru
 127.0.0.1 shell.dimitrimedia.com
@@ -235,7 +238,6 @@
 127.0.0.1 technotiempo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
-127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tianyinsoft.top
@@ -244,22 +246,21 @@
 127.0.0.1 twizt.net
 127.0.0.1 unicorpbrunei.com
 127.0.0.1 uninstmd.bond
+127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 updatee-facebok.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
-127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
-127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.333zz.top
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
-127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.carambis.com
 127.0.0.1 www.chemsky.tn
@@ -273,15 +274,14 @@
 127.0.0.1 www.hootech.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
-127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.mva.by
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
-127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.saf-oil.ru
+127.0.0.1 www.speak-a-message.com
 127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.stipamana.com
@@ -292,6 +292,7 @@
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
+127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
@@ -303,4 +304,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 297
+# Number of entries: 298
