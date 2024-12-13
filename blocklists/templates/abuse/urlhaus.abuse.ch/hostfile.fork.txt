@@ -1,18 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-13 08:22:07 (UTC)                      #
+# Last updated: 2024-12-13 10:19:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
+0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
+0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -26,7 +28,6 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.co-operativefinance.com
-0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 apslline.com
 0.0.0.0 aquafusion.com.co
@@ -42,7 +43,6 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 casacoimbramaputo.com
-0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdn-downloads.com
 0.0.0.0 cheat.underground-cheat.com
@@ -64,7 +64,6 @@
 0.0.0.0 dcwblida.dz
 0.0.0.0 dddotx.shop
 0.0.0.0 deauduafzgezzfgm.top
-0.0.0.0 defgyma.com
 0.0.0.0 deloth2.in
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
@@ -121,8 +120,8 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hoteltoscanaplaza.com.co
+0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
 0.0.0.0 ini.sh-pp.com
@@ -138,17 +137,16 @@
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
-0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 klipcatepiu0.shop
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 l3monrat.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 license.bugmakerx.cn
 0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 maisonetcites.fr
@@ -173,6 +171,7 @@
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
@@ -185,6 +184,7 @@
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 reddemon.xyz
@@ -198,10 +198,10 @@
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
-0.0.0.0 ser.nrovn.xyz
 0.0.0.0 servergate.org
-0.0.0.0 service.bugmakerx.cn
 0.0.0.0 sft-cloud.ru
+0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
@@ -210,13 +210,11 @@
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srothienhoa.com
 0.0.0.0 status.mycompliancereports.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 store.monsterservice.xyz
 0.0.0.0 storycentral.net
 0.0.0.0 support.clz.kr
-0.0.0.0 t.0000o.xyz
-0.0.0.0 taodianla.com
-0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -243,10 +241,11 @@
 0.0.0.0 valseg.com.br
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.333zz.top
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.bluebytenetwork222.win
+0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -256,10 +255,10 @@
 0.0.0.0 www.goalvaidclub.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.mva.by
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -271,12 +270,12 @@
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.stipamana.com
 0.0.0.0 www.sumiyuki.co.jp
-0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -284,5 +283,6 @@
 0.0.0.0 yhgger.top
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 # Number of entries: 279
