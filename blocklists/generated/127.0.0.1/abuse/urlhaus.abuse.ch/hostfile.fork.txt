@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-13 03:04:08 (UTC)                      #
+# Last updated: 2024-12-13 04:22:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,6 +23,8 @@
 127.0.0.1 ai-kling.online
 127.0.0.1 airhobi.com
 127.0.0.1 alien-training.com
+127.0.0.1 anphatnam.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -33,21 +35,19 @@
 127.0.0.1 asg.material.amstillroofing.com
 127.0.0.1 aulist.com
 127.0.0.1 autoiwc.ru
-127.0.0.1 avastop.com
 127.0.0.1 avastpx.com
 127.0.0.1 betterwebspacetest.com
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
-127.0.0.1 cajgtus.com
 127.0.0.1 casacoimbramaputo.com
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdn-downloads.com
 127.0.0.1 cheat.underground-cheat.com
+127.0.0.1 chinaapper.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 cityoall.com
-127.0.0.1 clubedasluluzinhasro.com.br
 127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
@@ -90,10 +90,8 @@
 127.0.0.1 dragonhack.shop
 127.0.0.1 drdavidfishbein.com
 127.0.0.1 e4l4.com
-127.0.0.1 electjimhenderson.com
 127.0.0.1 electrum.trading
 127.0.0.1 elisans.novayonetim.com
-127.0.0.1 ellesmerefamilyhealth.com
 127.0.0.1 emptyservices.xyz
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
@@ -113,7 +111,6 @@
 127.0.0.1 globesql.com
 127.0.0.1 goalvaidclub.com
 127.0.0.1 grupodulcemar.pe
-127.0.0.1 h2.vn1-cn.dzifast.click
 127.0.0.1 haramb.net
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
@@ -137,6 +134,7 @@
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 kiemthehuyenlong.com
+127.0.0.1 klipcatepiu0.shop
 127.0.0.1 kolobrownsalesye-fong.com
 127.0.0.1 l3monrat.com
 127.0.0.1 library.arihantmbainstitute.ac.in
@@ -181,6 +179,7 @@
 127.0.0.1 pla.material.amstillroofing.com
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
+127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
@@ -207,7 +206,6 @@
 127.0.0.1 soportegira.net
 127.0.0.1 sos.vivi.sg
 127.0.0.1 spaceframe.mobi.space-frame.co.za
-127.0.0.1 speedjc.top
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 srothienhoa.com
 127.0.0.1 status.mycompliancereports.com
@@ -217,8 +215,6 @@
 127.0.0.1 storycentral.net
 127.0.0.1 support.clz.kr
 127.0.0.1 t.0000o.xyz
-127.0.0.1 taodianla.com
-127.0.0.1 technotiempo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
@@ -248,6 +244,7 @@
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
+127.0.0.1 www.carambis.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clubedasluluzinhasro.com.br
@@ -262,7 +259,6 @@
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.mva.by
 127.0.0.1 www.netsolution.it
-127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
@@ -276,6 +272,7 @@
 127.0.0.1 www.totya.ir
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.zhikey.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
@@ -284,4 +281,5 @@
 127.0.0.1 ylmcbeta-invite.bugmakerx.cn
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-# Number of entries: 278
+127.0.0.1 znrq.zifwxq.cn
+# Number of entries: 276

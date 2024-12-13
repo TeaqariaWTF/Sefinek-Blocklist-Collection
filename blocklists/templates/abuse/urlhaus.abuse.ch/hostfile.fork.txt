@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-13 03:04:08 (UTC)                      #
+# Last updated: 2024-12-13 04:22:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,6 +23,8 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
+0.0.0.0 anphatnam.com
+0.0.0.0 aosafrica.co.za
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
@@ -33,21 +35,19 @@
 0.0.0.0 asg.material.amstillroofing.com
 0.0.0.0 aulist.com
 0.0.0.0 autoiwc.ru
-0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 betterwebspacetest.com
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogoss.fr
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
-0.0.0.0 cajgtus.com
 0.0.0.0 casacoimbramaputo.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdn-downloads.com
 0.0.0.0 cheat.underground-cheat.com
+0.0.0.0 chinaapper.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
-0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -90,10 +90,8 @@
 0.0.0.0 dragonhack.shop
 0.0.0.0 drdavidfishbein.com
 0.0.0.0 e4l4.com
-0.0.0.0 electjimhenderson.com
 0.0.0.0 electrum.trading
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 ellesmerefamilyhealth.com
 0.0.0.0 emptyservices.xyz
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
@@ -113,7 +111,6 @@
 0.0.0.0 globesql.com
 0.0.0.0 goalvaidclub.com
 0.0.0.0 grupodulcemar.pe
-0.0.0.0 h2.vn1-cn.dzifast.click
 0.0.0.0 haramb.net
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
@@ -137,6 +134,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kiemthehuyenlong.com
+0.0.0.0 klipcatepiu0.shop
 0.0.0.0 kolobrownsalesye-fong.com
 0.0.0.0 l3monrat.com
 0.0.0.0 library.arihantmbainstitute.ac.in
@@ -181,6 +179,7 @@
 0.0.0.0 pla.material.amstillroofing.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -207,7 +206,6 @@
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 speedjc.top
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srothienhoa.com
 0.0.0.0 status.mycompliancereports.com
@@ -217,8 +215,6 @@
 0.0.0.0 storycentral.net
 0.0.0.0 support.clz.kr
 0.0.0.0 t.0000o.xyz
-0.0.0.0 taodianla.com
-0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -248,6 +244,7 @@
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -262,7 +259,6 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mva.by
 0.0.0.0 www.netsolution.it
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
@@ -276,6 +272,7 @@
 0.0.0.0 www.totya.ir
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -284,4 +281,5 @@
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-# Number of entries: 278
+0.0.0.0 znrq.zifwxq.cn
+# Number of entries: 276
