@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-15 18:26:06 (UTC)                      !
+! Last updated: 2024-12-15 20:21:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -24,6 +24,7 @@
 ||ai-kling.online^
 ||airhobi.com^
 ||alien-training.com^
+||anphatnam.com^
 ||aosafrica.co.za^
 ||api.52kkg.com^
 ||api.co-operativefinance.com^
@@ -31,6 +32,7 @@
 ||api.hostize.com^
 ||aquafusion.com.co^
 ||armanayegh.com^
+||arteflordeliz.com.br^
 ||atendimento-pj.com^
 ||aulist.com^
 ||avastop.com^
@@ -40,6 +42,7 @@
 ||box.loaders.live^
 ||buscascolegios.diit.cl^
 ||by.haory.cn^
+||cajgtus.com^
 ||casacoimbramaputo.com^
 ||cat.dashabi.in^
 ||catbaparadisehotel.com.vn^
@@ -48,13 +51,14 @@
 ||chinaapper.com^
 ||ciscocdn.com^
 ||cityoall.com^
+||clubedasluluzinhasro.com.br^
 ||cmgtrading.eu^
 ||coach.028csc.com^
 ||coadymarine.com^
 ||coindiscussion.net^
 ||com-animus.app^
+||conimagencancun.com^
 ||conn.masjesu.zip^
-||crystalpvp.ru^
 ||csg-app.com^
 ||cuenta-ntflx.com^
 ||dangtienluc.com^
@@ -81,7 +85,6 @@
 ||down.qqfarmer.com.cn^
 ||download.emailorganizer.com^
 ||download.haozip.com^
-||download.innovare.no^
 ||download.suxiazai.com^
 ||downsexv.com^
 ||dragonhack.shop^
@@ -104,8 +107,6 @@
 ||gachetroi.com^
 ||gawx.florenda.com^
 ||globesql.com^
-||goalvaidclub.com^
-||goodlabel.cn^
 ||grupodulcemar.pe^
 ||gxgsxy.info^
 ||haramb.net^
@@ -127,12 +128,15 @@
 ||jointings.org^
 ||jrqh-hk.com^
 ||jtpdev.co.uk^
+||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
 ||kiltone.top^
+||l3monrat.com^
 ||lamartesana.info^
 ||library.arihantmbainstitute.ac.in^
 ||license.bugmakerx.cn^
+||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||livetrack.in^
 ||loeghaiofiehfihf.to^
@@ -146,17 +150,16 @@
 ||mbsngradnja.com^
 ||mertvinc.com.tr^
 ||microsecurityupdate.com^
-||microsoft-auth-network.cc^
 ||mondiale-relaissupport.com^
 ||mta132.bentonwhite.com^
 ||muwc.shop^
+||myguyapp.com^
 ||nabawitransport.com^
 ||namthaibinh.net^
 ||nilsenfk.biz^
 ||noithaticon.vn^
 ||ns.smallsrv.com^
 ||odoo.kseibitools.com^
-||ojang.pe.kr^
 ||onlineshoppe.semilinktech.com^
 ||osecweb.ir^
 ||p3.zbjimg.com^
@@ -172,6 +175,7 @@
 ||poucette.info^
 ||prajapatisamaj.info^
 ||qiniuyunxz.yxflzs.com^
+||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||r8p.teknixstuff.com^
@@ -186,29 +190,33 @@
 ||secure.cloudtechnologiesusa.com^
 ||security-service-api-link.cc^
 ||seniorcomc.sslblindado.com^
-||service.bugmakerx.cn^
+||ser.nrovn.xyz^
 ||sfa.com.ar^
 ||sft-cloud.ru^
 ||shell.dimitrimedia.com^
+||shqdown.ggzuhao.com^
 ||sirault.be^
 ||softcatalog.ru^
 ||soportegira.net^
 ||sos.vivi.sg^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||srothienhoa.com^
 ||status.mycompliancereports.com^
 ||stdown.dinju.com^
 ||stipamana.com^
 ||storage.soowim.co.kr^
 ||storycentral.net^
-||support.clz.kr^
+||t-me.cloud^
+||t-me.lol^
+||t-me.xyz^
 ||t.0000o.xyz^
 ||t.hxhk.cc^
 ||taodianla.com^
+||tax.diia.me^
 ||technotiempo.com^
 ||tecni-soft.com^
 ||tecunonline.com^
+||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tianyinsoft.top^
@@ -216,6 +224,7 @@
 ||treinamento.convenio.to.gov.br^
 ||trogirarea.com^
 ||twizt.net^
+||unicorpbrunei.com^
 ||update.cg100iii.com^
 ||update.vlnguba.com^
 ||update.volam2005pk.com^
@@ -224,11 +233,11 @@
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
+||utorrent-backup-server5.top^
 ||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vhxhm.riders.50kfor50years.com^
 ||vitantgroup.com^
-||win-network-checker.cc^
 ||www.aqianniao.com^
 ||www.beiletoys.com^
 ||www.bkzj.wang^
@@ -249,18 +258,17 @@
 ||www.medises.co.kr^
 ||www.mva.by^
 ||www.netsolution.it^
-||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.saf-oil.ru^
 ||www.speak-a-message.com^
+||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.stipamana.com^
 ||www.sumiyuki.co.jp^
 ||www.tecunonline.com^
 ||www.totya.ir^
-||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
@@ -278,4 +286,4 @@
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
 ||zqe.riders.50kfor50years.com^
-! Number of entries: 272
+! Number of entries: 280
