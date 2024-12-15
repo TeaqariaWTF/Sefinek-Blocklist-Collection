@@ -1,9 +1,9 @@
-# Version: 202412150306
+# Version: 202412150406
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 124135
-# Last modified: 2024-12-15T03:06:47+0000
+! Entries: 124134
+# Last modified: 2024-12-15T04:06:50+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -18715,7 +18715,6 @@
 0.0.0.0 backfiremountslippery.com
 0.0.0.0 backfirestomachreasoning.com
 0.0.0.0 backforward.bid
-0.0.0.0 backgroundcheck.live
 0.0.0.0 backgroundcocoaenslave.com
 0.0.0.0 backinghinge.shop
 0.0.0.0 backinmotionmassage.com
