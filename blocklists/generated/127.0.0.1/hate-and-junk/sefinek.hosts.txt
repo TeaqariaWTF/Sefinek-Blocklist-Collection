@@ -11,14 +11,14 @@
 # Title: Blocks websites promoting racism, hate speech, and extremist ideologies
 # Description: Active, inactive, and parked domains. Includes websites promoting racism, white supremacy, xenophobia, homophobia, antisemitism, islamophobia, and other forms of hate speech and extremist ideologies, such as neo-Nazism and fascism.
 # Expires: 1 day
-# Count: 7078
+# Count: 7079
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 127.0.0.1 before each domain
-# Version: 1729332686853
-# Last update: October 19, 2024 at 10:11 AM UTC | 2024-10-19T10:11:26.853+00:00
+# Version: 1734258438908
+# Last update: December 15, 2024 at 10:27 AM UTC | 2024-12-15T10:27:18.908+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -7106,3 +7106,4 @@
 127.0.0.1 stop-antisemitisme.com
 127.0.0.1 virgosupremacy.com
 127.0.0.1 overovaniepovodupenazi.sk
+127.0.0.1 drievkonazimu.sk
