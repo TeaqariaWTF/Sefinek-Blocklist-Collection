@@ -1,9 +1,9 @@
-# Version: 202412151607
+# Version: 202412151739
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 124876
-# Last modified: 2024-12-15T16:07:03+0000
+! Entries: 124864
+# Last modified: 2024-12-15T17:39:10+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -6738,7 +6738,6 @@ server=/ad-count.jp/
 server=/ad-creative.projectcarmen.com/
 server=/ad-creatives-public.commondatastorage.googleapis.com/
 server=/ad-delivery.net/
-server=/ad-emailcamel.com/
 server=/ad-emea.doubleclick.net/
 server=/ad-exchange.toast.com/
 server=/ad-feeds.com/
@@ -20782,7 +20781,6 @@ server=/bestcond1tions.com/
 server=/bestcontentitem.top/
 server=/bestcontentservice.top/
 server=/bestcontentuse.top/
-server=/bestcontentweb.top/
 server=/bestconvertor.club/
 server=/bestcook.hu/
 server=/bestcounterfeitbills.com/
@@ -21911,7 +21909,6 @@ server=/blackforti-cards.com/
 server=/blackfriday-shoe.top/
 server=/blackfriday2021.us/
 server=/blackgamezone.com/
-server=/blackgerman.net/
 server=/blackhagga.duckdns.org/
 server=/blackhat.be/
 server=/blackhathackers.com/
@@ -37800,7 +37797,6 @@ server=/dls2s.appsflyer.com/
 server=/dlsccrd.com/
 server=/dlscord-app.info/
 server=/dlscord.app/
-server=/dlscord.cam/
 server=/dlscord.com/
 server=/dlscord.fr/
 server=/dlscord.online/
@@ -38254,7 +38250,6 @@ server=/dokaboka.com/
 server=/dokar-stone.ru/
 server=/dokawd.cn/
 server=/dokfrl.xyz/
-server=/dokitchencabinetaceok.com/
 server=/dokseptaufa.com/
 server=/doktester.orgfree.com/
 server=/doktolib.fr/
@@ -54292,7 +54287,6 @@ server=/heardsoppy.com/
 server=/hearforpower.org/
 server=/hearing-aid.live/
 server=/hearing-aids.live/
-server=/hearing-aidssites.sale/
 server=/hearingaid.live/
 server=/hearingaidpurch.com/
 server=/hearingaids.live/
@@ -71623,7 +71617,6 @@ server=/menhs.com/
 server=/menispirfly.com/
 server=/menkaox.xyz/
 server=/menopauseaid.com/
-server=/menorpreco.we.bs/
 server=/menotepoer.com/
 server=/menssexguide.com/
 server=/mensstore.ru/
@@ -73696,7 +73689,6 @@ server=/molhodealface.duckdns.org/
 server=/molie.chat/
 server=/molinolatebaida.com/
 server=/mollesscar.top/
-server=/molliseana.ru/
 server=/mollusk.forwardmx.io/
 server=/mollusk.working.actor/
 server=/moloco.com/
@@ -74523,7 +74515,6 @@ server=/mrmnd.com/
 server=/mrmserve.com/
 server=/mroax.xyz/
 server=/mroft.fztattoo.cn/
-server=/mrqnhlaokbuwsuc.com/
 server=/mrquayhu.com/
 server=/mrrow-ver.de/
 server=/mrrvmp.com/
@@ -80824,7 +80815,6 @@ server=/onvacationbolivia.com/
 server=/onverforrinho.com/
 server=/onvictinitor.com/
 server=/onvid.lflink.com/
-server=/onvloexwbauglif.ru/
 server=/onwardclick.com/
 server=/onwasrv.com/
 server=/onwenlad.wixsite.com/
@@ -88188,7 +88178,6 @@ server=/psy-ufa.ru/
 server=/psychdegree.xyz/
 server=/psychedelicarithmetic.com/
 server=/psychedelicchess.com/
-server=/psychicreadingsuse.com/
 server=/psycho-bunny.fr/
 server=/psychologicalpaperworkimplant.com/
 server=/psychologydegrees.live/
@@ -122395,7 +122384,6 @@ server=/y2sysagetf.com/
 server=/y2sysv81v.com/
 server=/y3.ifengimg.com/
 server=/y3mpywhmem7t.live/
-server=/y3o62f.focot.focus-outdoors.com/
 server=/y3wfoz.postal.gameplansession.com/
 server=/y494.wdsu.com/
 server=/y512hr.onl.onlinetrees.co.uk/

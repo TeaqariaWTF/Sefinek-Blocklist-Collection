@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-15 16:24:07 (UTC)                      #
+# Last updated: 2024-12-15 18:26:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -31,7 +31,7 @@
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
-0.0.0.0 arteflordeliz.com.br
+0.0.0.0 atendimento-pj.com
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
@@ -41,13 +41,13 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 casacoimbramaputo.com
+0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdn-downloads.com
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 chinaapper.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
-0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -95,6 +95,7 @@
 0.0.0.0 eveezueigohehla.co
 0.0.0.0 exilum.com
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fileshare.seite.me
 0.0.0.0 florentineholding.com
@@ -106,9 +107,11 @@
 0.0.0.0 goalvaidclub.com
 0.0.0.0 goodlabel.cn
 0.0.0.0 grupodulcemar.pe
+0.0.0.0 gxgsxy.info
 0.0.0.0 haramb.net
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 homeservicephiladelphia.info
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 huyanhnongdo.io.vn
@@ -127,6 +130,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kiltone.top
+0.0.0.0 lamartesana.info
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 license.bugmakerx.cn
 0.0.0.0 linkvilleplayers.org
@@ -146,12 +150,14 @@
 0.0.0.0 mondiale-relaissupport.com
 0.0.0.0 mta132.bentonwhite.com
 0.0.0.0 muwc.shop
-0.0.0.0 myguyapp.com
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
+0.0.0.0 nilsenfk.biz
 0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
+0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 osecweb.ir
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
@@ -163,9 +169,9 @@
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
-0.0.0.0 protechasia.com
+0.0.0.0 poucette.info
+0.0.0.0 prajapatisamaj.info
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
@@ -180,11 +186,11 @@
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
-0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service.bugmakerx.cn
+0.0.0.0 sfa.com.ar
 0.0.0.0 sft-cloud.ru
 0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 soft.110route.com
+0.0.0.0 sirault.be
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
@@ -198,11 +204,11 @@
 0.0.0.0 storycentral.net
 0.0.0.0 support.clz.kr
 0.0.0.0 t.0000o.xyz
+0.0.0.0 t.hxhk.cc
 0.0.0.0 taodianla.com
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
@@ -210,8 +216,6 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trogirarea.com
 0.0.0.0 twizt.net
-0.0.0.0 unicorpbrunei.com
-0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
@@ -220,7 +224,6 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vhxhm.riders.50kfor50years.com
@@ -251,6 +254,7 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
+0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.stipamana.com
 0.0.0.0 www.sumiyuki.co.jp
@@ -274,4 +278,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zqe.riders.50kfor50years.com
-# Number of entries: 268
+# Number of entries: 272
