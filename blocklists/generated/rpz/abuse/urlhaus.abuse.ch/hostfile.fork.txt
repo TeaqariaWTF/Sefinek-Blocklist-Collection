@@ -11,6 +11,8 @@ $TTL 300
 *.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
+7zip10-2024.top CNAME .
+*.7zip10-2024.top CNAME .
 888online.asia CNAME .
 *.888online.asia CNAME .
 912648.aioc.qbgxl.com CNAME .
@@ -45,16 +47,14 @@ api.52kkg.com CNAME .
 *.api.52kkg.com CNAME .
 api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
+api.ewfiles.net CNAME .
+*.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
 *.api.hostize.com CNAME .
-aquafusion.com.co CNAME .
-*.aquafusion.com.co CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
 arteflordeliz.com.br CNAME .
 *.arteflordeliz.com.br CNAME .
-aulist.com CNAME .
-*.aulist.com CNAME .
 avastop.com CNAME .
 *.avastop.com CNAME .
 avastpx.com CNAME .
@@ -79,6 +79,8 @@ cdn-downloads.com CNAME .
 *.cdn-downloads.com CNAME .
 cheat.underground-cheat.com CNAME .
 *.cheat.underground-cheat.com CNAME .
+chinaapper.com CNAME .
+*.chinaapper.com CNAME .
 ciscocdn.com CNAME .
 *.ciscocdn.com CNAME .
 cityoall.com CNAME .
@@ -95,8 +97,6 @@ coindiscussion.net CNAME .
 *.coindiscussion.net CNAME .
 com-animus.app CNAME .
 *.com-animus.app CNAME .
-conimagencancun.com CNAME .
-*.conimagencancun.com CNAME .
 conn.masjesu.zip CNAME .
 *.conn.masjesu.zip CNAME .
 crystalpvp.ru CNAME .
@@ -171,6 +171,8 @@ electjimhenderson.com CNAME .
 *.electjimhenderson.com CNAME .
 elisans.novayonetim.com CNAME .
 *.elisans.novayonetim.com CNAME .
+ellesmerefamilyhealth.com CNAME .
+*.ellesmerefamilyhealth.com CNAME .
 eoufaoeuhoauengi.su CNAME .
 *.eoufaoeuhoauengi.su CNAME .
 epanpano.com CNAME .
@@ -209,14 +211,10 @@ haramb.net CNAME .
 *.haramb.net CNAME .
 hitman-pro.ru CNAME .
 *.hitman-pro.ru CNAME .
-hitstation.nl CNAME .
-*.hitstation.nl CNAME .
 hoteltoscanaplaza.com.co CNAME .
 *.hoteltoscanaplaza.com.co CNAME .
 hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
-hseda.com CNAME .
-*.hseda.com CNAME .
 huyanhnongdo.io.vn CNAME .
 *.huyanhnongdo.io.vn CNAME .
 imtoken8.cc CNAME .
@@ -249,8 +247,6 @@ karoonpc.com CNAME .
 *.karoonpc.com CNAME .
 keyser-api.eu CNAME .
 *.keyser-api.eu CNAME .
-kiemthehuyenlong.com CNAME .
-*.kiemthehuyenlong.com CNAME .
 kiltone.top CNAME .
 *.kiltone.top CNAME .
 l3monrat.com CNAME .
@@ -373,6 +369,8 @@ shqdown.ggzuhao.com CNAME .
 *.shqdown.ggzuhao.com CNAME .
 sirault.be CNAME .
 *.sirault.be CNAME .
+soft.110route.com CNAME .
+*.soft.110route.com CNAME .
 soportegira.net CNAME .
 *.soportegira.net CNAME .
 sos.vivi.sg CNAME .
@@ -421,8 +419,6 @@ twizt.net CNAME .
 *.twizt.net CNAME .
 unicorpbrunei.com CNAME .
 *.unicorpbrunei.com CNAME .
-up.maolaoban.top CNAME .
-*.up.maolaoban.top CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
 update.vlnguba.com CNAME .
@@ -431,6 +427,8 @@ update.volam2005pk.com CNAME .
 *.update.volam2005pk.com CNAME .
 upload.vina-host.com CNAME .
 *.upload.vina-host.com CNAME .
+utorrent-backup-server.top CNAME .
+*.utorrent-backup-server.top CNAME .
 utorrent-backup-server2.top CNAME .
 *.utorrent-backup-server2.top CNAME .
 utorrent-backup-server3.top CNAME .
@@ -459,6 +457,8 @@ blackhattoolz.com CNAME .
 *.blackhattoolz.com CNAME .
 bluebytenetwork222.win CNAME .
 *.bluebytenetwork222.win CNAME .
+carambis.com CNAME .
+*.carambis.com CNAME .
 chemsky.tn CNAME .
 *.chemsky.tn CNAME .
 chrismccaw.net CNAME .
@@ -469,6 +469,8 @@ globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 hootech.com CNAME .
 *.hootech.com CNAME .
+hseda.com CNAME .
+*.hseda.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 maxmoney.com CNAME .
@@ -487,10 +489,10 @@ saf-oil.ru CNAME .
 *.saf-oil.ru CNAME .
 speak-a-message.com CNAME .
 *.speak-a-message.com CNAME .
-sporcketngearforu.com CNAME .
-*.sporcketngearforu.com CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
+sumiyuki.co.jp CNAME .
+*.sumiyuki.co.jp CNAME .
 totya.ir CNAME .
 *.totya.ir CNAME .
 witrin.hu CNAME .
