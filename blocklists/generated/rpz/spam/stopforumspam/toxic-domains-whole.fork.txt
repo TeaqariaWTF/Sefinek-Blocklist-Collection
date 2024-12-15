@@ -2325,6 +2325,8 @@ $TTL 300
 *.3d-scanner-sr.com CNAME .
 3day.us CNAME .
 *.3day.us CNAME .
+3dcityground.online CNAME .
+*.3dcityground.online CNAME .
 3dcollection.ru CNAME .
 *.3dcollection.ru CNAME .
 3dgit.info CNAME .
@@ -76387,6 +76389,8 @@ protonmauil.com CNAME .
 *.protonmauil.com CNAME .
 protonmil.com CNAME .
 *.protonmil.com CNAME .
+protonwwwmail.com CNAME .
+*.protonwwwmail.com CNAME .
 provable.bet CNAME .
 *.provable.bet CNAME .
 provamail.com CNAME .
