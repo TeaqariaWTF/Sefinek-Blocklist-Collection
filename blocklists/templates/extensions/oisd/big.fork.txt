@@ -1,9 +1,9 @@
-# Version: 202412161008
+# Version: 202412161108
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 124880
-# Last modified: 2024-12-16T10:08:11+0000
+! Entries: 124876
+# Last modified: 2024-12-16T11:08:40+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -22695,7 +22695,6 @@
 0.0.0.0 bookforall1.bookforall.ru
 0.0.0.0 bookhacks.com
 0.0.0.0 booking-tables.com
-0.0.0.0 booking.com.id25106619.top
 0.0.0.0 bookingbuddy.com
 0.0.0.0 bookinghotel.fr
 0.0.0.0 bookingss.fr
@@ -91998,7 +91997,6 @@
 0.0.0.0 repybblica.it
 0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 reqdfit.com
-0.0.0.0 request.report
 0.0.0.0 requestbin.net
 0.0.0.0 requestburglaracheless.com
 0.0.0.0 requestcatcher.com
@@ -114336,7 +114334,6 @@
 0.0.0.0 usps.com-trackgix.top
 0.0.0.0 usps.com-trackgna.top
 0.0.0.0 usps.com-trackhal.top
-0.0.0.0 usps.com-trackidp.top
 0.0.0.0 usps.com-trackiiz.top
 0.0.0.0 usps.com-tracking-helpnko.cc
 0.0.0.0 usps.com-tracking-helptom.cc
@@ -114367,7 +114364,6 @@
 0.0.0.0 usps.com-trackvbw.top
 0.0.0.0 usps.com-trackvkt.top
 0.0.0.0 usps.com-trackvoi.top
-0.0.0.0 usps.com-trackwil.top
 0.0.0.0 usps.com-trackxgj.top
 0.0.0.0 usps.com-trackxrz.top
 0.0.0.0 usps.com-trackzyy.top

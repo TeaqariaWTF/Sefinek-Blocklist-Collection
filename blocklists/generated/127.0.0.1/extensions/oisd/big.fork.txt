@@ -1,9 +1,9 @@
-# Version: 202412161008
+# Version: 202412161108
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 124880
-# Last modified: 2024-12-16T10:08:11+0000
+! Entries: 124876
+# Last modified: 2024-12-16T11:08:40+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -22695,7 +22695,6 @@
 127.0.0.1 bookforall1.bookforall.ru
 127.0.0.1 bookhacks.com
 127.0.0.1 booking-tables.com
-127.0.0.1 booking.com.id25106619.top
 127.0.0.1 bookingbuddy.com
 127.0.0.1 bookinghotel.fr
 127.0.0.1 bookingss.fr
@@ -91998,7 +91997,6 @@
 127.0.0.1 repybblica.it
 127.0.0.1 reqde.sooplive.co.kr
 127.0.0.1 reqdfit.com
-127.0.0.1 request.report
 127.0.0.1 requestbin.net
 127.0.0.1 requestburglaracheless.com
 127.0.0.1 requestcatcher.com
@@ -114336,7 +114334,6 @@
 127.0.0.1 usps.com-trackgix.top
 127.0.0.1 usps.com-trackgna.top
 127.0.0.1 usps.com-trackhal.top
-127.0.0.1 usps.com-trackidp.top
 127.0.0.1 usps.com-trackiiz.top
 127.0.0.1 usps.com-tracking-helpnko.cc
 127.0.0.1 usps.com-tracking-helptom.cc
@@ -114367,7 +114364,6 @@
 127.0.0.1 usps.com-trackvbw.top
 127.0.0.1 usps.com-trackvkt.top
 127.0.0.1 usps.com-trackvoi.top
-127.0.0.1 usps.com-trackwil.top
 127.0.0.1 usps.com-trackxgj.top
 127.0.0.1 usps.com-trackxrz.top
 127.0.0.1 usps.com-trackzyy.top
