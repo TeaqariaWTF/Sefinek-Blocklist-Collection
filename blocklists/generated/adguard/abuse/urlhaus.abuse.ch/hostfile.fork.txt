@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-16 06:34:09 (UTC)                      !
+! Last updated: 2024-12-16 08:27:34 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -18,6 +18,7 @@
 ||abissnet.net^
 ||adf6.adf6.com^
 ||admin.aishangzhua.com^
+||adobe-acrobat.com^
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
 ||agapi.cqjjb.cn^
@@ -38,6 +39,7 @@
 ||avastop.com^
 ||avastpx.com^
 ||bitkiselurunsiparis.com^
+||blogoss.fr^
 ||botnet.baidunc.online^
 ||buscascolegios.diit.cl^
 ||by.haory.cn^
@@ -45,6 +47,7 @@
 ||casacoimbramaputo.com^
 ||catbaparadisehotel.com.vn^
 ||cdn-downloads.com^
+||cheat.underground-cheat.com^
 ||chinaapper.com^
 ||ciscocdn.com^
 ||cityoall.com^
@@ -59,6 +62,7 @@
 ||crystalpvp.ru^
 ||csg-app.com^
 ||cuenta-ntflx.com^
+||cyprecoofamerica.com^
 ||dangtienluc.com^
 ||data.yhydl.com^
 ||dcwblida.dz^
@@ -68,9 +72,9 @@
 ||device.redirec.com^
 ||dhnconstrucciones.com.ar^
 ||diclegrup.org^
+||divvanews.com^
 ||dl.aginjector.com^
 ||dl.natgo.cn^
-||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||document.diiap.me^
@@ -89,6 +93,9 @@
 ||drdavidfishbein.com^
 ||e4l4.com^
 ||electjimhenderson.com^
+||elektrum.world^
+||elisans.novayonetim.com^
+||ellesmerefamilyhealth.com^
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
 ||eveezueigohehla.co^
@@ -96,6 +103,7 @@
 ||file.blackint3.com^
 ||file.edunet.ac^
 ||files5.uludagbilisim.com^
+||fileshare.seite.me^
 ||florentineholding.com^
 ||ftp.ywxww.net^
 ||funletters.net^
@@ -108,6 +116,7 @@
 ||haramb.net^
 ||hbuv.riders.50kfor50years.com^
 ||hitman-pro.ru^
+||hitstation.nl^
 ||homeservicephiladelphia.info^
 ||hoteltoscanaplaza.com.co^
 ||hr2019.vrcom7.com^
@@ -132,13 +141,11 @@
 ||l3monrat.com^
 ||lamartesana.info^
 ||library.arihantmbainstitute.ac.in^
-||license.bugmakerx.cn^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||livetrack.in^
 ||loeghaiofiehfihf.to^
 ||lol.7hacks.click^
-||lol.eye-network.ru^
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
 ||m.gutousoft.com^
@@ -154,7 +161,9 @@
 ||myguyapp.com^
 ||nabawitransport.com^
 ||namthaibinh.net^
+||naubeautylus.ch^
 ||nilsenfk.biz^
+||noithaticon.vn^
 ||ns.smallsrv.com^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
@@ -170,8 +179,10 @@
 ||pns.org.pk^
 ||poucette.info^
 ||prajapatisamaj.info^
+||proship.ae^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
+||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||r8p.teknixstuff.com^
@@ -183,22 +194,19 @@
 ||reusable-flex.com^
 ||safe.ywxww.net^
 ||scan-echo.online^
+||scure2glbcubnk.es^
+||sec.dashabi.in^
 ||security-service-api-link.cc^
 ||seniorcomc.sslblindado.com^
 ||ser.nrovn.xyz^
-||service.bugmakerx.cn^
 ||sfa.com.ar^
-||sft-cloud.ru^
 ||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
-||sirault.be^
 ||soft.110route.com^
 ||softcatalog.ru^
 ||soportegira.net^
 ||sos.vivi.sg^
-||spaceframe.mobi.space-frame.co.za^
 ||srothienhoa.com^
-||status.mycompliancereports.com^
 ||stdown.dinju.com^
 ||stipamana.com^
 ||storage.soowim.co.kr^
@@ -214,6 +222,7 @@
 ||technotiempo.com^
 ||tecni-soft.com^
 ||tecunonline.com^
+||telegram-autification.lol^
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
@@ -235,12 +244,12 @@
 ||valseg.com.br^
 ||vhxhm.riders.50kfor50years.com^
 ||wcjp.riders.50kfor50years.com^
+||win-network-checker.cc^
 ||www.aqianniao.com^
 ||www.beiletoys.com^
 ||www.bkzj.wang^
 ||www.blackhattoolz.com^
 ||www.bluebytenetwork222.win^
-||www.carambis.com^
 ||www.chemsky.tn^
 ||www.chrismccaw.net^
 ||www.clubedasluluzinhasro.com.br^
@@ -273,10 +282,12 @@
 ||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
+||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
 ||ylmcbeta-invite.bugmakerx.cn^
 ||ywxww.net^
 ||yxf.riders.50kfor50years.com^
 ||yzkzixun.com^
-! Number of entries: 273
+||znrq.zifwxq.cn^
+! Number of entries: 284
