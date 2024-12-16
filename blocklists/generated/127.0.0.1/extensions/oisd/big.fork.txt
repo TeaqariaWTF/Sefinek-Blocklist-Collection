@@ -1,9 +1,9 @@
-# Version: 202412160139
+# Version: 202412160307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 124929
-# Last modified: 2024-12-16T01:39:33+0000
+! Entries: 124924
+# Last modified: 2024-12-16T03:07:48+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -28339,7 +28339,6 @@
 127.0.0.1 clarity.abacast.com
 127.0.0.1 clarity.ms
 127.0.0.1 clarium.global.ssl.fastly.net
-127.0.0.1 clariveh.baby
 127.0.0.1 clarks-dk.com
 127.0.0.1 clarksboutiquesparis.fr
 127.0.0.1 claro-net-emta.aceite.fbiz.com.br
@@ -45808,7 +45807,6 @@
 127.0.0.1 find-domain-a.com
 127.0.0.1 find-it.pro
 127.0.0.1 find-lifeinsurance.com
-127.0.0.1 find-new-rides-deal.live
 127.0.0.1 find4u.net
 127.0.0.1 findaddictionhelpuse.com
 127.0.0.1 findahotelace.com
@@ -66957,7 +66955,6 @@
 127.0.0.1 lnstagram.fitness.blog
 127.0.0.1 lnstagram.gr.com
 127.0.0.1 lnstagram.help
-127.0.0.1 lnstagram.help.ig-copyrights.ml
 127.0.0.1 lnstagram.home.blog
 127.0.0.1 lnstagram.hopto.org
 127.0.0.1 lnstagram.huehue.zxy.me
@@ -92152,7 +92149,6 @@
 127.0.0.1 resolveaccnt-paypal.myddns.me
 127.0.0.1 resolvedswordlinked.com
 127.0.0.1 resolverequest.live
-127.0.0.1 resolverpad.dev
 127.0.0.1 resolvethem.com
 127.0.0.1 reson8.com
 127.0.0.1 resonance.pk
@@ -114278,7 +114274,6 @@
 127.0.0.1 usenetjunction.com
 127.0.0.1 usenpita.122.2o7.net
 127.0.0.1 useom.com
-127.0.0.1 useperfectapps.monster
 127.0.0.1 usepestcontrol.com
 127.0.0.1 user-amazon-id.com
 127.0.0.1 user-analysis.7moor.com

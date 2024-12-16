@@ -1,9 +1,9 @@
-# Version: 202412160139
+# Version: 202412160307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 124929
-# Last modified: 2024-12-16T01:39:33+0000
+! Entries: 124924
+# Last modified: 2024-12-16T03:07:48+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -28339,7 +28339,6 @@
 0.0.0.0 clarity.abacast.com
 0.0.0.0 clarity.ms
 0.0.0.0 clarium.global.ssl.fastly.net
-0.0.0.0 clariveh.baby
 0.0.0.0 clarks-dk.com
 0.0.0.0 clarksboutiquesparis.fr
 0.0.0.0 claro-net-emta.aceite.fbiz.com.br
@@ -45808,7 +45807,6 @@
 0.0.0.0 find-domain-a.com
 0.0.0.0 find-it.pro
 0.0.0.0 find-lifeinsurance.com
-0.0.0.0 find-new-rides-deal.live
 0.0.0.0 find4u.net
 0.0.0.0 findaddictionhelpuse.com
 0.0.0.0 findahotelace.com
@@ -66957,7 +66955,6 @@
 0.0.0.0 lnstagram.fitness.blog
 0.0.0.0 lnstagram.gr.com
 0.0.0.0 lnstagram.help
-0.0.0.0 lnstagram.help.ig-copyrights.ml
 0.0.0.0 lnstagram.home.blog
 0.0.0.0 lnstagram.hopto.org
 0.0.0.0 lnstagram.huehue.zxy.me
@@ -92152,7 +92149,6 @@
 0.0.0.0 resolveaccnt-paypal.myddns.me
 0.0.0.0 resolvedswordlinked.com
 0.0.0.0 resolverequest.live
-0.0.0.0 resolverpad.dev
 0.0.0.0 resolvethem.com
 0.0.0.0 reson8.com
 0.0.0.0 resonance.pk
@@ -114278,7 +114274,6 @@
 0.0.0.0 usenetjunction.com
 0.0.0.0 usenpita.122.2o7.net
 0.0.0.0 useom.com
-0.0.0.0 useperfectapps.monster
 0.0.0.0 usepestcontrol.com
 0.0.0.0 user-amazon-id.com
 0.0.0.0 user-analysis.7moor.com

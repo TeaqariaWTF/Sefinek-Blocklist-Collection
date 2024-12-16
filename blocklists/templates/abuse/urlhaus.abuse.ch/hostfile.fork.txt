@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-16 01:54:06 (UTC)                      #
+# Last updated: 2024-12-16 03:04:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
@@ -29,13 +28,11 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.co-operativefinance.com
-0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 atendimento-pj.com
 0.0.0.0 aulist.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpx.com
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogoss.fr
@@ -77,6 +74,7 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
+0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
@@ -117,6 +115,7 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
+0.0.0.0 imtoken8.cc
 0.0.0.0 in-houselegal.ro
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
@@ -163,7 +162,6 @@
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 onlineshoppe.semilinktech.com
-0.0.0.0 osecweb.ir
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
@@ -177,6 +175,8 @@
 0.0.0.0 poucette.info
 0.0.0.0 prajapatisamaj.info
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
@@ -188,6 +188,7 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 scan-echo.online
+0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service.bugmakerx.cn
@@ -197,11 +198,11 @@
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
+0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 srothienhoa.com
 0.0.0.0 status.mycompliancereports.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 stipamana.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 storycentral.net
@@ -238,6 +239,7 @@
 0.0.0.0 valseg.com.br
 0.0.0.0 vhxhm.riders.50kfor50years.com
 0.0.0.0 wcjp.riders.50kfor50years.com
+0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -261,7 +263,6 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
-0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.stipamana.com
 0.0.0.0 www.sumiyuki.co.jp
@@ -275,7 +276,6 @@
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
-0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yhgger.top
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn

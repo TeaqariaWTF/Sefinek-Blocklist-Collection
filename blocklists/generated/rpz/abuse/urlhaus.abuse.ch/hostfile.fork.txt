@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -47,8 +45,6 @@ api.52kkg.com CNAME .
 *.api.52kkg.com CNAME .
 api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
-api.hostize.com CNAME .
-*.api.hostize.com CNAME .
 aquafusion.com.co CNAME .
 *.aquafusion.com.co CNAME .
 armanayegh.com CNAME .
@@ -59,8 +55,6 @@ atendimento-pj.com CNAME .
 *.atendimento-pj.com CNAME .
 aulist.com CNAME .
 *.aulist.com CNAME .
-avastop.com CNAME .
-*.avastop.com CNAME .
 avastpx.com CNAME .
 *.avastpx.com CNAME .
 bitkiselurunsiparis.com CNAME .
@@ -143,6 +137,8 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
+down.pcclear.com CNAME .
+*.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
@@ -223,6 +219,8 @@ hseda.com CNAME .
 *.hseda.com CNAME .
 huyanhnongdo.io.vn CNAME .
 *.huyanhnongdo.io.vn CNAME .
+imtoken8.cc CNAME .
+*.imtoken8.cc CNAME .
 in-houselegal.ro CNAME .
 *.in-houselegal.ro CNAME .
 ini.sh-pp.com CNAME .
@@ -315,8 +313,6 @@ ojang.pe.kr CNAME .
 *.ojang.pe.kr CNAME .
 onlineshoppe.semilinktech.com CNAME .
 *.onlineshoppe.semilinktech.com CNAME .
-osecweb.ir CNAME .
-*.osecweb.ir CNAME .
 p3.zbjimg.com CNAME .
 *.p3.zbjimg.com CNAME .
 p6.zbjimg.com CNAME .
@@ -343,6 +339,10 @@ prajapatisamaj.info CNAME .
 *.prajapatisamaj.info CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
+qiniuyunxz.yxflzs.com CNAME .
+*.qiniuyunxz.yxflzs.com CNAME .
+qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
+*.qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 quanly.jxmienphi.net CNAME .
 *.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
@@ -365,6 +365,8 @@ safe.ywxww.net CNAME .
 *.safe.ywxww.net CNAME .
 scan-echo.online CNAME .
 *.scan-echo.online CNAME .
+secure.cloudtechnologiesusa.com CNAME .
+*.secure.cloudtechnologiesusa.com CNAME .
 security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
 ser.nrovn.xyz CNAME .
@@ -383,6 +385,8 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
+soportegira.net CNAME .
+*.soportegira.net CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
@@ -391,8 +395,6 @@ srothienhoa.com CNAME .
 *.srothienhoa.com CNAME .
 status.mycompliancereports.com CNAME .
 *.status.mycompliancereports.com CNAME .
-stdown.dinju.com CNAME .
-*.stdown.dinju.com CNAME .
 stipamana.com CNAME .
 *.stipamana.com CNAME .
 storage.soowim.co.kr CNAME .
@@ -465,6 +467,8 @@ vhxhm.riders.50kfor50years.com CNAME .
 *.vhxhm.riders.50kfor50years.com CNAME .
 wcjp.riders.50kfor50years.com CNAME .
 *.wcjp.riders.50kfor50years.com CNAME .
+win-network-checker.cc CNAME .
+*.win-network-checker.cc CNAME .
 aqianniao.com CNAME .
 *.aqianniao.com CNAME .
 beiletoys.com CNAME .
@@ -501,8 +505,6 @@ saf-oil.ru CNAME .
 *.saf-oil.ru CNAME .
 speak-a-message.com CNAME .
 *.speak-a-message.com CNAME .
-sporcketngearforu.com CNAME .
-*.sporcketngearforu.com CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
 sumiyuki.co.jp CNAME .
@@ -525,8 +527,6 @@ xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 ximonite.com CNAME .
 *.ximonite.com CNAME .
-xingpai.weilay.com.cn CNAME .
-*.xingpai.weilay.com.cn CNAME .
 xn--yh4bx88a.com CNAME .
 *.xn--yh4bx88a.com CNAME .
 yhgger.top CNAME .
