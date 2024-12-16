@@ -1,9 +1,9 @@
-# Version: 202412161408
+# Version: 202412161608
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 124880
-# Last modified: 2024-12-16T14:08:39+0000
+! Entries: 124879
+# Last modified: 2024-12-16T16:08:18+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -75774,7 +75774,6 @@
 0.0.0.0 n6579.com
 0.0.0.0 n69.com
 0.0.0.0 n78668odszx.appspot.com
-0.0.0.0 n7a.icu
 0.0.0.0 n7d.218.myftpupload.com
 0.0.0.0 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0.0.0.0 n7pusher.com
