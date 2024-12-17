@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-17 03:04:09 (UTC)                      #
+# Last updated: 2024-12-17 04:24:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
+127.0.0.1 360down7.miiyun.cn
 127.0.0.1 7zip10-2024.top
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 9x9o.com
@@ -78,6 +79,7 @@
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 diclegrup.org
 127.0.0.1 diicotsec.ru
+127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
@@ -128,7 +130,6 @@
 127.0.0.1 hansgborn.eu
 127.0.0.1 hbuv.riders.50kfor50years.com
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 home.fivegr5sb.top
 127.0.0.1 homeservicephiladelphia.info
 127.0.0.1 hoteltoscanaplaza.com.co
@@ -136,12 +137,10 @@
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jeffdahlke.com
-127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
 127.0.0.1 jtpdev.co.uk
@@ -189,8 +188,6 @@
 127.0.0.1 ojang.pe.kr
 127.0.0.1 onlineshoppe.semilinktech.com
 127.0.0.1 osecweb.ir
-127.0.0.1 p3.zbjimg.com
-127.0.0.1 p6.zbjimg.com
 127.0.0.1 page-yoda.sbs
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
@@ -218,6 +215,7 @@
 127.0.0.1 safe.ywxww.net
 127.0.0.1 sanboxland.pro
 127.0.0.1 scan-echo.online
+127.0.0.1 sec.dashabi.in
 127.0.0.1 secure.cloudtechnologiesusa.com
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sekolahalghazali.com
@@ -236,7 +234,6 @@
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 srothienhoa.com
 127.0.0.1 status.mycompliancereports.com
-127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 storycentral.net
 127.0.0.1 sufikhat.com
@@ -255,7 +252,6 @@
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tianyinsoft.top
-127.0.0.1 touduanyiyuan.bugmakerx.cn
 127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 twizt.net
 127.0.0.1 unicorpbrunei.com
@@ -293,6 +289,7 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
+127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.speak-a-message.com
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
@@ -301,7 +298,6 @@
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
-127.0.0.1 wynecare.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
@@ -311,4 +307,5 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 zexl.riders.50kfor50years.com
-# Number of entries: 305
+127.0.0.1 znrq.zifwxq.cn
+# Number of entries: 302
