@@ -29539,6 +29539,8 @@ dnspublick.com CNAME .
 *.dnspublick.com CNAME .
 dnszones.com CNAME .
 *.dnszones.com CNAME .
+do-not-respond.me CNAME .
+*.do-not-respond.me CNAME .
 do.cowsnbullz.com CNAME .
 *.do.cowsnbullz.com CNAME .
 do.hammerhandz.com CNAME .
