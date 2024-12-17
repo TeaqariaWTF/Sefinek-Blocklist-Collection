@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-17 04:24:06 (UTC)                      #
+# Last updated: 2024-12-17 06:28:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -17,7 +17,6 @@
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -28,6 +27,7 @@
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
@@ -41,7 +41,6 @@
 0.0.0.0 axpr.sectors.bowentaxlaw.com
 0.0.0.0 banthis.su
 0.0.0.0 bitkiselurunsiparis.com
-0.0.0.0 blogoss.fr
 0.0.0.0 booking-5721.com
 0.0.0.0 booking.fashion
 0.0.0.0 botnet.baidunc.online
@@ -83,14 +82,15 @@
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 do-dear.com
 0.0.0.0 docsign.coursabus.com
 0.0.0.0 document.diiap.me
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
@@ -130,6 +130,7 @@
 0.0.0.0 hansgborn.eu
 0.0.0.0 hbuv.riders.50kfor50years.com
 0.0.0.0 hitman-pro.ru
+0.0.0.0 hitstation.nl
 0.0.0.0 home.fivegr5sb.top
 0.0.0.0 homeservicephiladelphia.info
 0.0.0.0 hoteltoscanaplaza.com.co
@@ -137,10 +138,12 @@
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
@@ -181,7 +184,6 @@
 0.0.0.0 namthaibinh.net
 0.0.0.0 naubeautylus.ch
 0.0.0.0 nilsenfk.biz
-0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 nughk.riders.50kfor50years.com
 0.0.0.0 odoo.kseibitools.com
@@ -201,8 +203,6 @@
 0.0.0.0 prajapatisamaj.info
 0.0.0.0 proship.ae
 0.0.0.0 protechasia.com
-0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
@@ -230,10 +230,12 @@
 0.0.0.0 socmad.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
+0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 srothienhoa.com
 0.0.0.0 status.mycompliancereports.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 storycentral.net
 0.0.0.0 sufikhat.com
@@ -243,6 +245,7 @@
 0.0.0.0 t-me.xyz
 0.0.0.0 t.0000o.xyz
 0.0.0.0 t.hxhk.cc
+0.0.0.0 taodianla.com
 0.0.0.0 tax.diia.me
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
@@ -275,12 +278,12 @@
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
-0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.goalvaidclub.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mva.by
@@ -291,6 +294,7 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
@@ -308,4 +312,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zexl.riders.50kfor50years.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 302
+# Number of entries: 306
