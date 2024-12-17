@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-17 01:49:05 (UTC)                      #
+# Last updated: 2024-12-17 03:04:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -20,7 +20,6 @@
 127.0.0.1 adobe-acrobat.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
-127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 agrizone.ae
 127.0.0.1 ai-kling.online
 127.0.0.1 airhobi.com
@@ -28,11 +27,11 @@
 127.0.0.1 anphatnam.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
-127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
+127.0.0.1 api.hostize.com
 127.0.0.1 aquafusion.com.co
 127.0.0.1 aridekvm.us
-127.0.0.1 arteflordeliz.com.br
+127.0.0.1 armanayegh.com
 127.0.0.1 atendimento-pj.com
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
@@ -70,6 +69,7 @@
 127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dbasopma.one
+127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deloth2.in
 127.0.0.1 destinoverde.pe
@@ -81,9 +81,7 @@
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
-127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
-127.0.0.1 do-dear.com
 127.0.0.1 docsign.coursabus.com
 127.0.0.1 document.diiap.me
 127.0.0.1 dow.andylab.cn
@@ -220,7 +218,7 @@
 127.0.0.1 safe.ywxww.net
 127.0.0.1 sanboxland.pro
 127.0.0.1 scan-echo.online
-127.0.0.1 scure2glbcubnk.es
+127.0.0.1 secure.cloudtechnologiesusa.com
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sekolahalghazali.com
 127.0.0.1 seniorcomc.sslblindado.com
@@ -237,6 +235,7 @@
 127.0.0.1 sos.vivi.sg
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 srothienhoa.com
+127.0.0.1 status.mycompliancereports.com
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 storycentral.net
@@ -273,11 +272,11 @@
 127.0.0.1 wcjp.riders.50kfor50years.com
 127.0.0.1 web3-electrum.com
 127.0.0.1 win-network-checker.cc
-127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.carambis.com
+127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clubedasluluzinhasro.com.br
 127.0.0.1 www.flechabusretiro.com.ar
@@ -286,6 +285,7 @@
 127.0.0.1 www.grupodulcemar.pe
 127.0.0.1 www.hootech.com
 127.0.0.1 www.hseda.com
+127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.mva.by
 127.0.0.1 www.netsolution.it
@@ -294,7 +294,6 @@
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.speak-a-message.com
-127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.totya.ir
@@ -303,7 +302,6 @@
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
-127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
@@ -313,4 +311,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 zexl.riders.50kfor50years.com
-# Number of entries: 307
+# Number of entries: 305

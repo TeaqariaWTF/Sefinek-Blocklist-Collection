@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-17 01:49:05 (UTC)                      #
+# Last updated: 2024-12-17 03:04:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -20,7 +20,6 @@
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
-0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agrizone.ae
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
@@ -28,11 +27,11 @@
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
-0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
+0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 aridekvm.us
-0.0.0.0 arteflordeliz.com.br
+0.0.0.0 armanayegh.com
 0.0.0.0 atendimento-pj.com
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
@@ -70,6 +69,7 @@
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dbasopma.one
+0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deloth2.in
 0.0.0.0 destinoverde.pe
@@ -81,9 +81,7 @@
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
-0.0.0.0 do-dear.com
 0.0.0.0 docsign.coursabus.com
 0.0.0.0 document.diiap.me
 0.0.0.0 dow.andylab.cn
@@ -220,7 +218,7 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sanboxland.pro
 0.0.0.0 scan-echo.online
-0.0.0.0 scure2glbcubnk.es
+0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sekolahalghazali.com
 0.0.0.0 seniorcomc.sslblindado.com
@@ -237,6 +235,7 @@
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 srothienhoa.com
+0.0.0.0 status.mycompliancereports.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 storycentral.net
@@ -273,11 +272,11 @@
 0.0.0.0 wcjp.riders.50kfor50years.com
 0.0.0.0 web3-electrum.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.carambis.com
+0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
@@ -286,6 +285,7 @@
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mva.by
 0.0.0.0 www.netsolution.it
@@ -294,7 +294,6 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.speak-a-message.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
@@ -303,7 +302,6 @@
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
-0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
@@ -313,4 +311,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zexl.riders.50kfor50years.com
-# Number of entries: 307
+# Number of entries: 305

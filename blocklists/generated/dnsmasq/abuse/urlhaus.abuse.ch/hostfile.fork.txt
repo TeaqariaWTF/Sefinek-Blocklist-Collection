@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-17 01:49:05 (UTC)                      #
+# Last updated: 2024-12-17 03:04:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -20,7 +20,6 @@ server=/admin.aishangzhua.com/
 server=/adobe-acrobat.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
-server=/agapi.cqjjb.cn/
 server=/agrizone.ae/
 server=/ai-kling.online/
 server=/airhobi.com/
@@ -28,11 +27,11 @@ server=/alien-training.com/
 server=/anphatnam.com/
 server=/aosafrica.co.za/
 server=/api.52kkg.com/
-server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
+server=/api.hostize.com/
 server=/aquafusion.com.co/
 server=/aridekvm.us/
-server=/arteflordeliz.com.br/
+server=/armanayegh.com/
 server=/atendimento-pj.com/
 server=/aulist.com/
 server=/avastop.com/
@@ -70,6 +69,7 @@ server=/cyprecoofamerica.com/
 server=/dangtienluc.com/
 server=/data.yhydl.com/
 server=/dbasopma.one/
+server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
 server=/deloth2.in/
 server=/destinoverde.pe/
@@ -81,9 +81,7 @@ server=/diicotsec.ru/
 server=/divvanews.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
-server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
-server=/do-dear.com/
 server=/docsign.coursabus.com/
 server=/document.diiap.me/
 server=/dow.andylab.cn/
@@ -220,7 +218,7 @@ server=/reusable-flex.com/
 server=/safe.ywxww.net/
 server=/sanboxland.pro/
 server=/scan-echo.online/
-server=/scure2glbcubnk.es/
+server=/secure.cloudtechnologiesusa.com/
 server=/security-service-api-link.cc/
 server=/sekolahalghazali.com/
 server=/seniorcomc.sslblindado.com/
@@ -237,6 +235,7 @@ server=/softcatalog.ru/
 server=/sos.vivi.sg/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/srothienhoa.com/
+server=/status.mycompliancereports.com/
 server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/storycentral.net/
@@ -273,11 +272,11 @@ server=/valseg.com.br/
 server=/wcjp.riders.50kfor50years.com/
 server=/web3-electrum.com/
 server=/win-network-checker.cc/
-server=/www.aqianniao.com/
 server=/www.beiletoys.com/
 server=/www.bkzj.wang/
 server=/www.blackhattoolz.com/
 server=/www.carambis.com/
+server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clubedasluluzinhasro.com.br/
 server=/www.flechabusretiro.com.ar/
@@ -286,6 +285,7 @@ server=/www.goalvaidclub.com/
 server=/www.grupodulcemar.pe/
 server=/www.hootech.com/
 server=/www.hseda.com/
+server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.mva.by/
 server=/www.netsolution.it/
@@ -294,7 +294,6 @@ server=/www.opolis.io/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
 server=/www.speak-a-message.com/
-server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.tecunonline.com/
 server=/www.totya.ir/
@@ -303,7 +302,6 @@ server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
-server=/wz.3911.com/
 server=/xiangshunjy.com/
 server=/ximonite.com/
 server=/xingpai.weilay.com.cn/
@@ -313,4 +311,4 @@ server=/ylmcbeta-invite.bugmakerx.cn/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zexl.riders.50kfor50years.com/
-# Number of entries: 307
+# Number of entries: 305
