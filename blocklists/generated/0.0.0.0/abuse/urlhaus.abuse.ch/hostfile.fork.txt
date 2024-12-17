@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-17 10:19:07 (UTC)                      #
+# Last updated: 2024-12-17 12:39:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,11 +14,13 @@
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 9x9o.com
+0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
+0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agrizone.ae
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
@@ -39,6 +41,7 @@
 0.0.0.0 axpr.sectors.bowentaxlaw.com
 0.0.0.0 banthis.su
 0.0.0.0 bitkiselurunsiparis.com
+0.0.0.0 blogoss.fr
 0.0.0.0 booking-5721.com
 0.0.0.0 booking.fashion
 0.0.0.0 botnet.baidunc.online
@@ -65,6 +68,7 @@
 0.0.0.0 cuenta-ntflx.com
 0.0.0.0 cyprecoofamerica.com
 0.0.0.0 dangtienluc.com
+0.0.0.0 data.yhydl.com
 0.0.0.0 dbasopma.one
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
@@ -73,7 +77,6 @@
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 diclegrup.org
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -91,7 +94,6 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
@@ -137,18 +139,15 @@
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
-0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
-0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kiltone.top
 0.0.0.0 klarnaportal.live
 0.0.0.0 krynifbeqw.shop
@@ -158,7 +157,6 @@
 0.0.0.0 license.bugmakerx.cn
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lol.7hacks.click
 0.0.0.0 lol.eye-network.ru
@@ -218,9 +216,12 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sanboxland.pro
 0.0.0.0 scan-echo.online
+0.0.0.0 scure2glbcubnk.es
 0.0.0.0 sec.dashabi.in
+0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sekolahalghazali.com
+0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service.bugmakerx.cn
 0.0.0.0 sfa.com.ar
@@ -274,11 +275,11 @@
 0.0.0.0 wcjp.riders.50kfor50years.com
 0.0.0.0 web3-electrum.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.carambis.com
+0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
@@ -287,26 +288,25 @@
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
+0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
-0.0.0.0 www.totya.ir
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
-0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 xingpai.weilay.com.cn
+0.0.0.0 ximonite.com
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yhgger.top
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
