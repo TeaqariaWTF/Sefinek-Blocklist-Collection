@@ -1,9 +1,9 @@
-# Version: 202412171508
+# Version: 202412171908
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 124970
-# Last modified: 2024-12-17T15:08:37+0000
+! Entries: 124968
+# Last modified: 2024-12-17T19:08:58+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -114360,7 +114360,6 @@
 0.0.0.0 usps.com-trackbss.top
 0.0.0.0 usps.com-trackckt.top
 0.0.0.0 usps.com-trackdda.top
-0.0.0.0 usps.com-trackdqs.top
 0.0.0.0 usps.com-trackevo.top
 0.0.0.0 usps.com-trackgly.top
 0.0.0.0 usps.com-trackgpa.top
@@ -122529,7 +122528,6 @@
 0.0.0.0 yacht-refit.eu
 0.0.0.0 yachtbars.fun
 0.0.0.0 yachtcharterinuae.com
-0.0.0.0 yackvidette.com
 0.0.0.0 yacurlik.com
 0.0.0.0 yads.tech
 0.0.0.0 yads.yahoo.co.jp
