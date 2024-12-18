@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-18 10:21:22 (UTC)                      #
+# Last updated: 2024-12-18 12:34:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,12 +8,13 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
-0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 9x9o.com
 0.0.0.0 aarzoomarine.com
+0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
@@ -23,13 +24,15 @@
 0.0.0.0 agrizone.ae
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
-0.0.0.0 alien-training.com
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
+0.0.0.0 aquafusion.com.co
 0.0.0.0 aridekvm.us
+0.0.0.0 armanayegh.com
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 aulist.com
 0.0.0.0 avastpdr.com
@@ -44,24 +47,25 @@
 0.0.0.0 by.haory.cn
 0.0.0.0 cadirkamplari.com
 0.0.0.0 casacoimbramaputo.com
+0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-downloads.com
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 chernobyl.stressing.world
 0.0.0.0 chinaapper.com
+0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
+0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
-0.0.0.0 conimagencancun.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 cuenta-ntflx.com
 0.0.0.0 cyprecoofamerica.com
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 db14g1.com
 0.0.0.0 db14g2.com
@@ -74,12 +78,11 @@
 0.0.0.0 destinoverde.pe
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -131,6 +134,7 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 home.fivegr5sb.top
+0.0.0.0 homeservicephiladelphia.info
 0.0.0.0 hoteltoscanaplaza.com.co
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
@@ -146,18 +150,18 @@
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
-0.0.0.0 kaboum.xyz
-0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kiltone.top
 0.0.0.0 klarnaportal.live
 0.0.0.0 krynifbeqw.shop
 0.0.0.0 l3monrat.com
+0.0.0.0 lamartesana.info
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 license.bugmakerx.cn
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
+0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lol.eye-network.ru
 0.0.0.0 lostheaven.com.cn
@@ -172,6 +176,7 @@
 0.0.0.0 mbsngradnja.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mhlc.shop
+0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 midginvineco.com
 0.0.0.0 misljen.net
@@ -187,6 +192,7 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 osecweb.ir
+0.0.0.0 overboardlogist.org
 0.0.0.0 page-yoda.sbs
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
@@ -219,9 +225,9 @@
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sekolahalghazali.com
 0.0.0.0 seniorcomc.sslblindado.com
-0.0.0.0 ser.nrovn.xyz
 0.0.0.0 servers.vlrt-gap.com
 0.0.0.0 service.bugmakerx.cn
+0.0.0.0 sfa.com.ar
 0.0.0.0 sft-cloud.ru
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
@@ -232,7 +238,6 @@
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 srothienhoa.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 stop.eye-network.ru
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
@@ -250,9 +255,9 @@
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 touduanyiyuan.bugmakerx.cn
-0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 twizt.net
 0.0.0.0 unicorpbrunei.com
+0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
@@ -267,7 +272,6 @@
 0.0.0.0 web3-electrum.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 woo097878781.win
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
@@ -312,4 +316,4 @@
 0.0.0.0 zexl.riders.50kfor50years.com
 0.0.0.0 zmreb.patent.international-med.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 306
+# Number of entries: 310
