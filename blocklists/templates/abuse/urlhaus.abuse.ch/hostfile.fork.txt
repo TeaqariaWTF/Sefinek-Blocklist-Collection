@@ -1,18 +1,19 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-18 02:53:06 (UTC)                      #
+# Last updated: 2024-12-18 04:20:30 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
+0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 9x9o.com
-0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
@@ -33,7 +34,6 @@
 0.0.0.0 aquafusion.com.co
 0.0.0.0 aridekvm.us
 0.0.0.0 armanayegh.com
-0.0.0.0 arteflordeliz.com.br
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdr.com
@@ -59,6 +59,7 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
+0.0.0.0 conimagencancun.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
@@ -93,6 +94,9 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
+0.0.0.0 download.haozip.com
+0.0.0.0 download.innovare.no
+0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dragonhack.shop
 0.0.0.0 drdavidfishbein.com
@@ -128,6 +132,7 @@
 0.0.0.0 hailcocks.ru
 0.0.0.0 hansgborn.eu
 0.0.0.0 heavens.holistic-haven.shop
+0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 home.fivegr5sb.top
 0.0.0.0 homeservicephiladelphia.info
@@ -164,12 +169,10 @@
 0.0.0.0 lol.eye-network.ru
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 mapimwp.org
-0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mhlc.shop
@@ -183,6 +186,7 @@
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 naubeautylus.ch
+0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 nughk.riders.50kfor50years.com
 0.0.0.0 odoo.kseibitools.com
@@ -199,6 +203,7 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pidors.ddosit.pro
 0.0.0.0 pko-download.kagyouth.co.ke
+0.0.0.0 pns.org.pk
 0.0.0.0 prntsrcn.com
 0.0.0.0 proship.ae
 0.0.0.0 protechasia.com
@@ -208,14 +213,13 @@
 0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 raw.cardiacpure.ru
 0.0.0.0 raw.igxhost.ru
-0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 reifenquick.de
 0.0.0.0 reusable-flex.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sanboxland.pro
+0.0.0.0 scan-echo.online
 0.0.0.0 scure2glbcubnk.es
-0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sekolahalghazali.com
@@ -227,7 +231,6 @@
 0.0.0.0 sft-cloud.ru
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
-0.0.0.0 sirault.be
 0.0.0.0 socmad.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
@@ -246,6 +249,7 @@
 0.0.0.0 taodianla.com
 0.0.0.0 technotiempo.com
 0.0.0.0 tecni-soft.com
+0.0.0.0 tecunonline.com
 0.0.0.0 telegram-autification.lol
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
@@ -290,6 +294,7 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
@@ -301,7 +306,6 @@
 0.0.0.0 www.totya.ir
 0.0.0.0 www.updatee-facebok.com
 0.0.0.0 www.witrin.hu
-0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
@@ -310,11 +314,11 @@
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
+0.0.0.0 yhgger.top
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ytluo.sectors.bowentaxlaw.com
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 zexl.riders.50kfor50years.com
 0.0.0.0 zmreb.patent.international-med.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 311
+# Number of entries: 315
