@@ -1,9 +1,9 @@
-# Version: 202412181908
+# Version: 202412182208
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 125063
-# Last modified: 2024-12-18T19:08:41+0000
+! Entries: 125059
+# Last modified: 2024-12-18T22:08:10+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -40405,7 +40405,6 @@
 127.0.0.1 ebayasean.com
 127.0.0.1 ebaybanner.com
 127.0.0.1 ebayk.images.icas.io
-127.0.0.1 ebaymerchant.xyz
 127.0.0.1 ebaynonreg.112.2o7.net
 127.0.0.1 ebayreg.112.2o7.net
 127.0.0.1 ebayu.top
@@ -48241,7 +48240,6 @@
 127.0.0.1 funsuv.com
 127.0.0.1 funtoday.info
 127.0.0.1 funtravelperu.com
-127.0.0.1 funufc.fun
 127.0.0.1 funxgames.me
 127.0.0.1 funyarewesbegi.com
 127.0.0.1 funzel.info
@@ -107387,10 +107385,8 @@
 127.0.0.1 tehomercacom.112.2o7.net
 127.0.0.1 tehran-ballbearings.ir
 127.0.0.1 tehxzz.xyz
-127.0.0.1 teiagram.cafe
 127.0.0.1 teiegram.work
 127.0.0.1 teiegrma.gold
-127.0.0.1 teiegrma.market
 127.0.0.1 teinformam.ro
 127.0.0.1 teinlbw.com
 127.0.0.1 teixeirafam.com
