@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-18 04:20:30 (UTC)                      #
+# Last updated: 2024-12-18 06:29:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,6 +14,7 @@
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 9x9o.com
+0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
@@ -23,7 +24,6 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agrizone.ae
 0.0.0.0 ai-kling.online
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
@@ -33,7 +33,6 @@
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 aridekvm.us
-0.0.0.0 armanayegh.com
 0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdr.com
@@ -45,6 +44,7 @@
 0.0.0.0 booking-5721.com
 0.0.0.0 booking.fashion
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 by.haory.cn
 0.0.0.0 cadirkamplari.com
 0.0.0.0 casacoimbramaputo.com
 0.0.0.0 catbaparadisehotel.com.vn
@@ -56,6 +56,7 @@
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
 0.0.0.0 clubedasluluzinhasro.com.br
+0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
@@ -84,8 +85,10 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 do-dear.com
 0.0.0.0 docsign.coursabus.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
@@ -124,6 +127,7 @@
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 genellikle.biz
+0.0.0.0 globesql.com
 0.0.0.0 goalvaidclub.com
 0.0.0.0 goodlabel.cn
 0.0.0.0 grupobramam.com.br
@@ -154,6 +158,7 @@
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kiltone.top
 0.0.0.0 klarnaportal.live
 0.0.0.0 krynifbeqw.shop
@@ -173,10 +178,10 @@
 0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 mapimwp.org
+0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mhlc.shop
-0.0.0.0 microsecurityupdate.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 midginvineco.com
 0.0.0.0 misljen.net
@@ -191,8 +196,6 @@
 0.0.0.0 nughk.riders.50kfor50years.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
-0.0.0.0 onlineshoppe.semilinktech.com
-0.0.0.0 osecweb.ir
 0.0.0.0 page-yoda.sbs
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
@@ -200,19 +203,20 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
-0.0.0.0 pid.fly160.com
 0.0.0.0 pidors.ddosit.pro
 0.0.0.0 pko-download.kagyouth.co.ke
 0.0.0.0 pns.org.pk
 0.0.0.0 prntsrcn.com
 0.0.0.0 proship.ae
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 raw.cardiacpure.ru
 0.0.0.0 raw.igxhost.ru
+0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 reifenquick.de
 0.0.0.0 reusable-flex.com
@@ -220,6 +224,7 @@
 0.0.0.0 sanboxland.pro
 0.0.0.0 scan-echo.online
 0.0.0.0 scure2glbcubnk.es
+0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sekolahalghazali.com
@@ -231,6 +236,7 @@
 0.0.0.0 sft-cloud.ru
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
+0.0.0.0 sirault.be
 0.0.0.0 socmad.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
@@ -275,10 +281,8 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 woo097878781.win
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
-0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -299,13 +303,13 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
-0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
 0.0.0.0 www.updatee-facebok.com
 0.0.0.0 www.witrin.hu
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
@@ -318,7 +322,8 @@
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ytluo.sectors.bowentaxlaw.com
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 zexl.riders.50kfor50years.com
 0.0.0.0 zmreb.patent.international-med.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 315
+# Number of entries: 320
