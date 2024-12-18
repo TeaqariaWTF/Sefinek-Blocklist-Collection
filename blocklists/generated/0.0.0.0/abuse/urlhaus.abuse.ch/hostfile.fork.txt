@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-18 06:29:06 (UTC)                      #
+# Last updated: 2024-12-18 08:21:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -79,14 +79,12 @@
 0.0.0.0 destinoverde.pe
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
-0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
+0.0.0.0 dl.updatepush.com
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 docsign.coursabus.com
@@ -139,9 +137,7 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 home.fivegr5sb.top
-0.0.0.0 homeservicephiladelphia.info
 0.0.0.0 hoteltoscanaplaza.com.co
-0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 ig2c.icu
@@ -155,6 +151,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
+0.0.0.0 kaboum.xyz
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
@@ -196,16 +193,18 @@
 0.0.0.0 nughk.riders.50kfor50years.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
+0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 page-yoda.sbs
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
+0.0.0.0 pid.fly160.com
 0.0.0.0 pidors.ddosit.pro
 0.0.0.0 pko-download.kagyouth.co.ke
 0.0.0.0 pns.org.pk
+0.0.0.0 polovoiinspektor.shop
 0.0.0.0 prntsrcn.com
 0.0.0.0 proship.ae
 0.0.0.0 protechasia.com
@@ -223,7 +222,6 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sanboxland.pro
 0.0.0.0 scan-echo.online
-0.0.0.0 scure2glbcubnk.es
 0.0.0.0 sec.dashabi.in
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
@@ -238,7 +236,6 @@
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 socmad.com
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
@@ -283,6 +280,7 @@
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -299,7 +297,6 @@
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
-0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
@@ -315,7 +312,6 @@
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yhgger.top
@@ -326,4 +322,4 @@
 0.0.0.0 zexl.riders.50kfor50years.com
 0.0.0.0 zmreb.patent.international-med.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 320
+# Number of entries: 316

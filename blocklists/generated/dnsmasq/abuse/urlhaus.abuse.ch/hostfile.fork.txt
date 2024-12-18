@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-18 06:29:06 (UTC)                      #
+# Last updated: 2024-12-18 08:21:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -79,14 +79,12 @@ server=/deloth2.in/
 server=/destinoverde.pe/
 server=/dev.cyberark-igiwax.com/
 server=/device.redirec.com/
-server=/dhnconstrucciones.com.ar/
 server=/diclegrup.org/
 server=/diicotsec.ru/
 server=/disk.accord1key.cn/
-server=/divvanews.com/
 server=/dl.aginjector.com/
-server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
+server=/dl.updatepush.com/
 server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/docsign.coursabus.com/
@@ -139,9 +137,7 @@ server=/heavens.holistic-haven.shop/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
 server=/home.fivegr5sb.top/
-server=/homeservicephiladelphia.info/
 server=/hoteltoscanaplaza.com.co/
-server=/hr2019.vrcom7.com/
 server=/hseda.com/
 server=/huyanhnongdo.io.vn/
 server=/ig2c.icu/
@@ -155,6 +151,7 @@ server=/jobcity.com/
 server=/jointings.org/
 server=/jrqh-hk.com/
 server=/jtpdev.co.uk/
+server=/kaboum.xyz/
 server=/karer.by/
 server=/karoonpc.com/
 server=/keyser-api.eu/
@@ -196,16 +193,18 @@ server=/ns.smallsrv.com/
 server=/nughk.riders.50kfor50years.com/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
+server=/onlineshoppe.semilinktech.com/
 server=/page-yoda.sbs/
-server=/palharesinformatica.com.br/
 server=/paonancs.cn/
 server=/park.chuitian.cn/
 server=/passagetoeastafrica.com/
 server=/pb.agnt.ru/
 server=/perfectperu.com/
+server=/pid.fly160.com/
 server=/pidors.ddosit.pro/
 server=/pko-download.kagyouth.co.ke/
 server=/pns.org.pk/
+server=/polovoiinspektor.shop/
 server=/prntsrcn.com/
 server=/proship.ae/
 server=/protechasia.com/
@@ -223,7 +222,6 @@ server=/reusable-flex.com/
 server=/safe.ywxww.net/
 server=/sanboxland.pro/
 server=/scan-echo.online/
-server=/scure2glbcubnk.es/
 server=/sec.dashabi.in/
 server=/secure.cloudtechnologiesusa.com/
 server=/security-service-api-link.cc/
@@ -238,7 +236,6 @@ server=/shell.dimitrimedia.com/
 server=/shqdown.ggzuhao.com/
 server=/sirault.be/
 server=/socmad.com/
-server=/soft.110route.com/
 server=/softcatalog.ru/
 server=/soportegira.net/
 server=/sos.vivi.sg/
@@ -283,6 +280,7 @@ server=/woo097878781.win/
 server=/www.aqianniao.com/
 server=/www.bkzj.wang/
 server=/www.blackhattoolz.com/
+server=/www.carambis.com/
 server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clubedasluluzinhasro.com.br/
@@ -299,7 +297,6 @@ server=/www.medises.co.kr/
 server=/www.netsolution.it/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
-server=/www.qqqmy.com/
 server=/www.reifenquick.de/
 server=/www.saf-oil.ru/
 server=/www.speak-a-message.com/
@@ -315,7 +312,6 @@ server=/www.zhikey.com/
 server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
-server=/ximonite.com/
 server=/xingpai.weilay.com.cn/
 server=/xn--yh4bx88a.com/
 server=/yhgger.top/
@@ -326,4 +322,4 @@ server=/yzkzixun.com/
 server=/zexl.riders.50kfor50years.com/
 server=/zmreb.patent.international-med.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 320
+# Number of entries: 316
