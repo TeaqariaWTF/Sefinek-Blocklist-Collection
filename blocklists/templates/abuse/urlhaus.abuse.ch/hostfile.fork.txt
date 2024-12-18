@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-18 12:34:06 (UTC)                      #
+# Last updated: 2024-12-18 14:19:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,17 +24,18 @@
 0.0.0.0 agrizone.ae
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
+0.0.0.0 alien-training.com
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
-0.0.0.0 aquafusion.com.co
 0.0.0.0 aridekvm.us
 0.0.0.0 armanayegh.com
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 aulist.com
+0.0.0.0 avastop.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 axpr.sectors.bowentaxlaw.com
@@ -46,6 +47,7 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 cadirkamplari.com
+0.0.0.0 cajgtus.com
 0.0.0.0 casacoimbramaputo.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
@@ -56,11 +58,11 @@
 0.0.0.0 chinaapper.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
-0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
+0.0.0.0 conimagencancun.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
@@ -82,6 +84,7 @@
 0.0.0.0 diclegrup.org
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
+0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -91,6 +94,7 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
@@ -124,7 +128,6 @@
 0.0.0.0 genellikle.biz
 0.0.0.0 globesql.com
 0.0.0.0 goalvaidclub.com
-0.0.0.0 goodlabel.cn
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 hacker.kygtps.live
@@ -143,25 +146,24 @@
 0.0.0.0 imtoken8.cc
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
-0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jeffdahlke.com
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kiltone.top
 0.0.0.0 klarnaportal.live
 0.0.0.0 krynifbeqw.shop
 0.0.0.0 l3monrat.com
 0.0.0.0 lamartesana.info
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 license.bugmakerx.cn
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 livetrack.in
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lol.eye-network.ru
 0.0.0.0 lostheaven.com.cn
@@ -184,13 +186,13 @@
 0.0.0.0 mta132.bentonwhite.com
 0.0.0.0 myguyapp.com
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 naubeautylus.ch
 0.0.0.0 noithaticon.vn
 0.0.0.0 ns.smallsrv.com
 0.0.0.0 nughk.riders.50kfor50years.com
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
-0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 osecweb.ir
 0.0.0.0 overboardlogist.org
 0.0.0.0 page-yoda.sbs
@@ -220,7 +222,7 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sanboxland.pro
 0.0.0.0 scan-echo.online
-0.0.0.0 sec.dashabi.in
+0.0.0.0 scure2glbcubnk.es
 0.0.0.0 secure.cloudtechnologiesusa.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sekolahalghazali.com
@@ -233,11 +235,12 @@
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 socmad.com
+0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 srothienhoa.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 stop.eye-network.ru
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
@@ -255,6 +258,7 @@
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 touduanyiyuan.bugmakerx.cn
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 twizt.net
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 up.maolaoban.top
@@ -289,13 +293,13 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
@@ -309,6 +313,7 @@
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
+0.0.0.0 yhgger.top
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ytluo.sectors.bowentaxlaw.com
 0.0.0.0 ywxww.net
@@ -316,4 +321,4 @@
 0.0.0.0 zexl.riders.50kfor50years.com
 0.0.0.0 zmreb.patent.international-med.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 310
+# Number of entries: 315
