@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
@@ -265,6 +263,8 @@ ig2c.icu CNAME .
 *.ig2c.icu CNAME .
 imtoken8.cc CNAME .
 *.imtoken8.cc CNAME .
+ini.sh-pp.com CNAME .
+*.ini.sh-pp.com CNAME .
 inspirepk.org CNAME .
 *.inspirepk.org CNAME .
 jahez.me CNAME .
@@ -371,6 +371,8 @@ page-yoda.sbs CNAME .
 *.page-yoda.sbs CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
+paonancs.cn CNAME .
+*.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 passagetoeastafrica.com CNAME .
@@ -415,8 +417,6 @@ safe.ywxww.net CNAME .
 *.safe.ywxww.net CNAME .
 sanboxland.pro CNAME .
 *.sanboxland.pro CNAME .
-scan-echo.online CNAME .
-*.scan-echo.online CNAME .
 scure2glbcubnk.es CNAME .
 *.scure2glbcubnk.es CNAME .
 sec.dashabi.in CNAME .
@@ -433,6 +433,8 @@ ser.nrovn.xyz CNAME .
 *.ser.nrovn.xyz CNAME .
 servers.vlrt-gap.com CNAME .
 *.servers.vlrt-gap.com CNAME .
+service.bugmakerx.cn CNAME .
+*.service.bugmakerx.cn CNAME .
 sfa.com.ar CNAME .
 *.sfa.com.ar CNAME .
 sft-cloud.ru CNAME .
@@ -475,10 +477,10 @@ t.0000o.xyz CNAME .
 *.t.0000o.xyz CNAME .
 taodianla.com CNAME .
 *.taodianla.com CNAME .
+technotiempo.com CNAME .
+*.technotiempo.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
-tecunonline.com CNAME .
-*.tecunonline.com CNAME .
 telegram-autification.lol CNAME .
 *.telegram-autification.lol CNAME .
 telegramcn.co CNAME .
@@ -567,12 +569,16 @@ starcountry.net CNAME .
 *.starcountry.net CNAME .
 sumiyuki.co.jp CNAME .
 *.sumiyuki.co.jp CNAME .
+tecunonline.com CNAME .
+*.tecunonline.com CNAME .
 totya.ir CNAME .
 *.totya.ir CNAME .
 witrin.hu CNAME .
 *.witrin.hu CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
+ysbaojia.com CNAME .
+*.ysbaojia.com CNAME .
 zhikey.com CNAME .
 *.zhikey.com CNAME .
 wynecare.com CNAME .
