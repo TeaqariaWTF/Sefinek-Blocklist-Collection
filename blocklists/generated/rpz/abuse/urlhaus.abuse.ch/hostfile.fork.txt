@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -65,6 +67,8 @@ banthis.su CNAME .
 *.banthis.su CNAME .
 bitkiselurunsiparis.com CNAME .
 *.bitkiselurunsiparis.com CNAME .
+blogoss.fr CNAME .
+*.blogoss.fr CNAME .
 botnet.sharkcdn.net CNAME .
 *.botnet.sharkcdn.net CNAME .
 buscascolegios.diit.cl CNAME .
@@ -233,12 +237,12 @@ hitstation.nl CNAME .
 *.hitstation.nl CNAME .
 hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
+hseda.com CNAME .
+*.hseda.com CNAME .
 ig2c.icu CNAME .
 *.ig2c.icu CNAME .
 imtoken8.cc CNAME .
 *.imtoken8.cc CNAME .
-ini.sh-pp.com CNAME .
-*.ini.sh-pp.com CNAME .
 inspirepk.org CNAME .
 *.inspirepk.org CNAME .
 jahez.me CNAME .
@@ -311,6 +315,8 @@ mondiale-relaissupport.com CNAME .
 *.mondiale-relaissupport.com CNAME .
 mta132.bentonwhite.com CNAME .
 *.mta132.bentonwhite.com CNAME .
+muwc.shop CNAME .
+*.muwc.shop CNAME .
 myguyapp.com CNAME .
 *.myguyapp.com CNAME .
 nabawitransport.com CNAME .
@@ -327,14 +333,20 @@ odoo.kseibitools.com CNAME .
 *.odoo.kseibitools.com CNAME .
 ojang.pe.kr CNAME .
 *.ojang.pe.kr CNAME .
+onlineshoppe.semilinktech.com CNAME .
+*.onlineshoppe.semilinktech.com CNAME .
 osecweb.ir CNAME .
 *.osecweb.ir CNAME .
 overboardlogist.org CNAME .
 *.overboardlogist.org CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
+paonancs.cn CNAME .
+*.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
+passagetoeastafrica.com CNAME .
+*.passagetoeastafrica.com CNAME .
 pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 perfectperu.com CNAME .
@@ -351,6 +363,8 @@ polovoiinspektor.shop CNAME .
 *.polovoiinspektor.shop CNAME .
 prntsrcn.com CNAME .
 *.prntsrcn.com CNAME .
+protechasia.com CNAME .
+*.protechasia.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
@@ -387,6 +401,8 @@ seniorcomc.sslblindado.com CNAME .
 *.seniorcomc.sslblindado.com CNAME .
 servers.vlrt-gap.com CNAME .
 *.servers.vlrt-gap.com CNAME .
+service.bugmakerx.cn CNAME .
+*.service.bugmakerx.cn CNAME .
 sfa.com.ar CNAME .
 *.sfa.com.ar CNAME .
 sft-cloud.ru CNAME .
@@ -469,8 +485,6 @@ aqianniao.com CNAME .
 *.aqianniao.com CNAME .
 astenterprises.com.pk CNAME .
 *.astenterprises.com.pk CNAME .
-beiletoys.com CNAME .
-*.beiletoys.com CNAME .
 bkzj.wang CNAME .
 *.bkzj.wang CNAME .
 blackhattoolz.com CNAME .
@@ -489,8 +503,6 @@ globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 hootech.com CNAME .
 *.hootech.com CNAME .
-hseda.com CNAME .
-*.hseda.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 maxmoney.com CNAME .
@@ -523,6 +535,8 @@ zhikey.com CNAME .
 *.zhikey.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
+wz.3911.com CNAME .
+*.wz.3911.com CNAME .
 xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 ximonite.com CNAME .
