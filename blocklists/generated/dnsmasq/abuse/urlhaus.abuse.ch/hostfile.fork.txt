@@ -1,15 +1,15 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-19 02:54:06 (UTC)                      #
+# Last updated: 2024-12-19 04:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
-server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
 server=/2.haory.cn/
+server=/360down7.miiyun.cn/
 server=/7zip10-2024.top/
 server=/912648.aioc.qbgxl.com/
 server=/aarzoomarine.com/
@@ -29,6 +29,7 @@ server=/api.52kkg.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
+server=/aquafusion.com.co/
 server=/armanayegh.com/
 server=/arteflordeliz.com.br/
 server=/aulist.com/
@@ -99,9 +100,7 @@ server=/electrum.la/
 server=/elektrum.icu/
 server=/elektrum.sbs/
 server=/elisans.novayonetim.com/
-server=/ellesmerefamilyhealth.com/
 server=/eoufaoeuhoauengi.su/
-server=/epanpano.com/
 server=/exilum.com/
 server=/file.blackint3.com/
 server=/file.edunet.ac/
@@ -166,10 +165,10 @@ server=/myguyapp.com/
 server=/nabawitransport.com/
 server=/namthaibinh.net/
 server=/noithaticon.vn/
+server=/ns.smallsrv.com/
 server=/nsomikey.tokyo/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
-server=/onlineshoppe.semilinktech.com/
 server=/osecweb.ir/
 server=/overboardlogist.org/
 server=/palharesinformatica.com.br/
@@ -207,7 +206,6 @@ server=/shqdown.ggzuhao.com/
 server=/sirault.be/
 server=/soft.110route.com/
 server=/softcatalog.ru/
-server=/soportegira.net/
 server=/sos.vivi.sg/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/srothienhoa.com/
@@ -288,4 +286,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zmreb.patent.international-med.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 282
+# Number of entries: 280

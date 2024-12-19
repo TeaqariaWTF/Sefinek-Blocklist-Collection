@@ -1,15 +1,15 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-19 02:54:06 (UTC)                      #
+# Last updated: 2024-12-19 04:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 123.ywxww.net
-127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
+127.0.0.1 360down7.miiyun.cn
 127.0.0.1 7zip10-2024.top
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aarzoomarine.com
@@ -29,6 +29,7 @@
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 aquafusion.com.co
 127.0.0.1 armanayegh.com
 127.0.0.1 arteflordeliz.com.br
 127.0.0.1 aulist.com
@@ -99,9 +100,7 @@
 127.0.0.1 elektrum.icu
 127.0.0.1 elektrum.sbs
 127.0.0.1 elisans.novayonetim.com
-127.0.0.1 ellesmerefamilyhealth.com
 127.0.0.1 eoufaoeuhoauengi.su
-127.0.0.1 epanpano.com
 127.0.0.1 exilum.com
 127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
@@ -166,10 +165,10 @@
 127.0.0.1 nabawitransport.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 noithaticon.vn
+127.0.0.1 ns.smallsrv.com
 127.0.0.1 nsomikey.tokyo
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
-127.0.0.1 onlineshoppe.semilinktech.com
 127.0.0.1 osecweb.ir
 127.0.0.1 overboardlogist.org
 127.0.0.1 palharesinformatica.com.br
@@ -207,7 +206,6 @@
 127.0.0.1 sirault.be
 127.0.0.1 soft.110route.com
 127.0.0.1 softcatalog.ru
-127.0.0.1 soportegira.net
 127.0.0.1 sos.vivi.sg
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 srothienhoa.com
@@ -288,4 +286,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 zmreb.patent.international-med.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 282
+# Number of entries: 280

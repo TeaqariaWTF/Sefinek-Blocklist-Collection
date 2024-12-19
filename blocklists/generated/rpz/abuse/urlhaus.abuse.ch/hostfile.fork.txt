@@ -3,12 +3,12 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
 *.2.haory.cn CNAME .
+360down7.miiyun.cn CNAME .
+*.360down7.miiyun.cn CNAME .
 7zip10-2024.top CNAME .
 *.7zip10-2024.top CNAME .
 912648.aioc.qbgxl.com CNAME .
@@ -47,6 +47,8 @@ api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
 *.api.hostize.com CNAME .
+aquafusion.com.co CNAME .
+*.aquafusion.com.co CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
 arteflordeliz.com.br CNAME .
@@ -187,12 +189,8 @@ elektrum.sbs CNAME .
 *.elektrum.sbs CNAME .
 elisans.novayonetim.com CNAME .
 *.elisans.novayonetim.com CNAME .
-ellesmerefamilyhealth.com CNAME .
-*.ellesmerefamilyhealth.com CNAME .
 eoufaoeuhoauengi.su CNAME .
 *.eoufaoeuhoauengi.su CNAME .
-epanpano.com CNAME .
-*.epanpano.com CNAME .
 exilum.com CNAME .
 *.exilum.com CNAME .
 file.blackint3.com CNAME .
@@ -321,14 +319,14 @@ namthaibinh.net CNAME .
 *.namthaibinh.net CNAME .
 noithaticon.vn CNAME .
 *.noithaticon.vn CNAME .
+ns.smallsrv.com CNAME .
+*.ns.smallsrv.com CNAME .
 nsomikey.tokyo CNAME .
 *.nsomikey.tokyo CNAME .
 odoo.kseibitools.com CNAME .
 *.odoo.kseibitools.com CNAME .
 ojang.pe.kr CNAME .
 *.ojang.pe.kr CNAME .
-onlineshoppe.semilinktech.com CNAME .
-*.onlineshoppe.semilinktech.com CNAME .
 osecweb.ir CNAME .
 *.osecweb.ir CNAME .
 overboardlogist.org CNAME .
@@ -403,8 +401,6 @@ soft.110route.com CNAME .
 *.soft.110route.com CNAME .
 softcatalog.ru CNAME .
 *.softcatalog.ru CNAME .
-soportegira.net CNAME .
-*.soportegira.net CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
