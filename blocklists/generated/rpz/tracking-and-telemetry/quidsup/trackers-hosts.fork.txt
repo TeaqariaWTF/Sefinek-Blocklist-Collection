@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024121801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024121901 43200 3600 259200 300
   NS  localhost.
 0i0i0i0.com CNAME .
 *.0i0i0i0.com CNAME .
@@ -29677,8 +29677,6 @@ smetrics.moodys.com CNAME .
 *.smetrics.moodys.com CNAME .
 smetrics.morganstanley.com CNAME .
 *.smetrics.morganstanley.com CNAME .
-smetrics.motortrend.com CNAME .
-*.smetrics.motortrend.com CNAME .
 smetrics.moving.com CNAME .
 *.smetrics.moving.com CNAME .
 smetrics.mphasis.com CNAME .
@@ -29693,8 +29691,6 @@ smetrics.mutua.es CNAME .
 *.smetrics.mutua.es CNAME .
 smetrics.myspringfield.com CNAME .
 *.smetrics.myspringfield.com CNAME .
-smetrics.myvi.in CNAME .
-*.smetrics.myvi.in CNAME .
 smetrics.nab.com.au CNAME .
 *.smetrics.nab.com.au CNAME .
 smetrics.nabbroker.com.au CNAME .
@@ -29721,8 +29717,6 @@ smetrics.nba.com CNAME .
 *.smetrics.nba.com CNAME .
 smetrics.nesn.com CNAME .
 *.smetrics.nesn.com CNAME .
-smetrics.netspend.com CNAME .
-*.smetrics.netspend.com CNAME .
 smetrics.newark.com CNAME .
 *.smetrics.newark.com CNAME .
 smetrics.newbalance.com CNAME .
@@ -29747,10 +29741,6 @@ smetrics.nowtv.it CNAME .
 *.smetrics.nowtv.it CNAME .
 smetrics.nvidia.com CNAME .
 *.smetrics.nvidia.com CNAME .
-smetrics.nykaafashion.com CNAME .
-*.smetrics.nykaafashion.com CNAME .
-smetrics.nyulangone.org CNAME .
-*.smetrics.nyulangone.org CNAME .
 smetrics.o2online.de CNAME .
 *.smetrics.o2online.de CNAME .
 smetrics.oakley.com CNAME .
