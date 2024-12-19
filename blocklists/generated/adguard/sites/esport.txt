@@ -11,14 +11,14 @@
 ! Title: Blocks most sites related to e-sport
 ! Description: Active, inactive, and parked domains. Includes websites related to major e-sports tournaments, platforms for competitive gaming, and organizations such as ESL, FaceIT, The International, and Overwatch League.
 ! Expires: 1 day
-! Count: 54320
+! Count: 54322
 ! Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 ! Modified by: Nobody
 ! Source: N/A
 ! License: CC BY-NC-ND 4.0
 ! Release: AdGuard [adguard.com]
-! Version: 1733403162048
-! Last update: December 5, 2024 at 12:52 PM UTC | 2024-12-05T12:52:42.048+00:00
+! Version: 1734604162664
+! Last update: December 19, 2024 at 10:29 AM UTC | 2024-12-19T10:29:22.664+00:00
 !
 ! 〢 About:
 ! This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -54348,3 +54348,5 @@
 ||karolinernaesport.se^
 ||esport-arena.sk^
 ||esportxarena.sk^
+||fragesport.nu^
+||raiesport.ee^
