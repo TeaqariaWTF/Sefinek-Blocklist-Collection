@@ -1,9 +1,9 @@
-# Version: 202412182208
+# Version: 202412190006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 125059
-# Last modified: 2024-12-18T22:08:10+0000
+! Entries: 125058
+# Last modified: 2024-12-19T00:06:37+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -82814,7 +82814,6 @@
 0.0.0.0 palibs.tech
 0.0.0.0 palibzh.tech
 0.0.0.0 paligeri.com
-0.0.0.0 palikaralkamin.com
 0.0.0.0 palladium-boots.fr
 0.0.0.0 palladiumbootsparis.fr
 0.0.0.0 palladiumchaussures.fr
