@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-20 04:22:07 (UTC)                      #
+# Last updated: 2024-12-20 06:21:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,10 +8,9 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
-0.0.0.0 1717.1000uc.com
-0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 7zip10-2024.top
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aaahealthcareservice.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
@@ -36,6 +35,7 @@
 0.0.0.0 anphatnam.com
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
@@ -45,6 +45,7 @@
 0.0.0.0 aulist.com
 0.0.0.0 authentification-compte.com
 0.0.0.0 avastop.com
+0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
@@ -82,18 +83,18 @@
 0.0.0.0 csg-app.com
 0.0.0.0 cuenta-ntflx.com
 0.0.0.0 data.yhydl.com
+0.0.0.0 ddos.howardwang2312.com
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deloth2.in
 0.0.0.0 destinoverde.pe
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
-0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 diclegrup.org
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 diicotsec.ru
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dl.updatepush.com
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dledlank.bmcort.com
@@ -101,7 +102,6 @@
 0.0.0.0 dossier-reglements.info
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -114,7 +114,6 @@
 0.0.0.0 e4l4.com
 0.0.0.0 electjimhenderson.com
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 ellesmerefamilyhealth.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espace-medical.org
@@ -149,6 +148,7 @@
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jaamdesign.com
 0.0.0.0 jahez.me
@@ -173,6 +173,7 @@
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
+0.0.0.0 livetrack.in
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 logistics-transit.com
@@ -185,6 +186,7 @@
 0.0.0.0 mandarin.net.au
 0.0.0.0 marcanogarcia.com
 0.0.0.0 mariafgilbert.com
+0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
 0.0.0.0 me.jmitchelldayton.com
 0.0.0.0 meinelieferungverfolgen.info
@@ -223,6 +225,7 @@
 0.0.0.0 myparcel-track-find.info
 0.0.0.0 mystartherehosting.net
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 newmaintenancewebmeil.com
 0.0.0.0 newmajwebmeil.com
@@ -241,6 +244,7 @@
 0.0.0.0 pacificmont.com
 0.0.0.0 pack153queens.com
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 parcel-track-find.info
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
@@ -269,13 +273,12 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 safe.ywxww.net
-0.0.0.0 scan-echo.online
 0.0.0.0 sdlru.demo.ezra-ai.com
 0.0.0.0 securite-traitement-gouv.info
 0.0.0.0 seniorcomc.sslblindado.com
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 servers.vlrt-gap.com
 0.0.0.0 service-espace-sante.com
-0.0.0.0 service.bugmakerx.cn
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 sft-cloud.ru
@@ -283,8 +286,10 @@
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
+0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
+0.0.0.0 something.catchat.us
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
@@ -304,6 +309,7 @@
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 support-ma-commande.info
+0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 syntheticincenseonline.com
 0.0.0.0 t.0000o.xyz
@@ -329,7 +335,6 @@
 0.0.0.0 tygattisoftware.com
 0.0.0.0 ulomstore.com
 0.0.0.0 unicorpbrunei.com
-0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
@@ -361,7 +366,6 @@
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.he4v2ieq.icu
 0.0.0.0 www.hootech.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -370,7 +374,6 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
@@ -384,6 +387,7 @@
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 ximonite.com
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
 0.0.0.0 xn--espace-vitale--niveau-sms-zbc.com
@@ -397,4 +401,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zptjv.com
-# Number of entries: 391
+# Number of entries: 395
