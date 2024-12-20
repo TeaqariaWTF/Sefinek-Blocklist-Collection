@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-20 14:19:06 (UTC)                      #
+# Last updated: 2024-12-20 16:19:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,7 +19,6 @@
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -29,7 +28,6 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
-0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
@@ -37,6 +35,7 @@
 0.0.0.0 anphatnam.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
@@ -48,7 +47,6 @@
 0.0.0.0 authentification-compte.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bitkiselurunsiparis.com
@@ -67,7 +65,6 @@
 0.0.0.0 chronopost-suivi-fr.co
 0.0.0.0 ciscocdn.com
 0.0.0.0 cityoall.com
-0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -89,22 +86,22 @@
 0.0.0.0 deloth2.in
 0.0.0.0 destinoverde.pe
 0.0.0.0 dev.cyberark-igiwax.com
-0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 diicotsec.ru
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dl.updatepush.com
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dledlank.bmcort.com
-0.0.0.0 do-dear.com
 0.0.0.0 dossier-reglements.info
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -132,7 +129,6 @@
 0.0.0.0 funletters.net
 0.0.0.0 gachetroi.com
 0.0.0.0 gitrok.com
-0.0.0.0 globesql.com
 0.0.0.0 goalvaidclub.com
 0.0.0.0 goodlabel.cn
 0.0.0.0 gotintouch.shop
@@ -147,7 +143,6 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
-0.0.0.0 imtoken8.cc
 0.0.0.0 info-comptevitale.org
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 informations-colissimo.com
@@ -167,6 +162,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kiltone.top
 0.0.0.0 kliptizq.shop
 0.0.0.0 knightsinshiningarmor.net
@@ -186,7 +182,6 @@
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
-0.0.0.0 maisonetcites.fr
 0.0.0.0 makingbmw2skodahossh.net
 0.0.0.0 mandarin.net.au
 0.0.0.0 marcanogarcia.com
@@ -222,6 +217,7 @@
 0.0.0.0 mtclibraries.com
 0.0.0.0 muwc.shop
 0.0.0.0 my.upspacket.delivery
+0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
 0.0.0.0 myhermes-versand.net
@@ -253,9 +249,7 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
-0.0.0.0 pid.fly160.com
 0.0.0.0 pidors.ddosit.pro
-0.0.0.0 pns.org.pk
 0.0.0.0 polovoiinspektor.shop
 0.0.0.0 prati-moju-narudbu.com
 0.0.0.0 premiumpsychedelics.com
@@ -265,8 +259,8 @@
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 qyf.sectors.bowentaxlaw.com
+0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 raw.cardiacpure.ru
-0.0.0.0 raw.igxhost.ru
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -277,6 +271,7 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 scan-echo.online
 0.0.0.0 sdlru.demo.ezra-ai.com
+0.0.0.0 sec.dashabi.in
 0.0.0.0 securite-traitement-gouv.info
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 servers.vlrt-gap.com
@@ -290,7 +285,6 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 something.catchat.us
 0.0.0.0 soportegira.net
 0.0.0.0 sos.vivi.sg
@@ -321,10 +315,10 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 thedannymorganband.com
 0.0.0.0 tianyinsoft.top
-0.0.0.0 touduanyiyuan.bugmakerx.cn
 0.0.0.0 towerofbabble.net
 0.0.0.0 track.novapostal.org
 0.0.0.0 tracking-packages.com
@@ -357,13 +351,12 @@
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
-0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
+0.0.0.0 www.flntp.ro
 0.0.0.0 www.fornid.com
-0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.goalvaidclub.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.he4v2ieq.icu
@@ -377,7 +370,6 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
@@ -402,7 +394,6 @@
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 your-upsdelivery.info
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zptjv.com
-# Number of entries: 399
+# Number of entries: 390
