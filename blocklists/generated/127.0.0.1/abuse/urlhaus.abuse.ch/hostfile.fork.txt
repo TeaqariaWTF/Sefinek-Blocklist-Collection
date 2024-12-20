@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-20 01:34:37 (UTC)                      #
+# Last updated: 2024-12-20 02:49:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,8 +10,8 @@
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
+127.0.0.1 360down7.miiyun.cn
 127.0.0.1 7zip10-2024.top
-127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aaahealthcareservice.com
 127.0.0.1 aarzoomarine.com
 127.0.0.1 abissnet.net
@@ -55,7 +55,9 @@
 127.0.0.1 bmcort.com
 127.0.0.1 botnet.sharkcdn.net
 127.0.0.1 buscascolegios.diit.cl
+127.0.0.1 by.haory.cn
 127.0.0.1 cajgtus.com
+127.0.0.1 cat.dashabi.in
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 cdn-downloads.com
@@ -66,6 +68,7 @@
 127.0.0.1 chronopost-suivi-fr.co
 127.0.0.1 ciscocdn.com
 127.0.0.1 cityoall.com
+127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 com-animus.app
@@ -91,7 +94,6 @@
 127.0.0.1 diclegrup.org
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 diicotsec.ru
-127.0.0.1 disk.accord1key.cn
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dl.updatepush.com
@@ -103,10 +105,10 @@
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
+127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.haozip.com
-127.0.0.1 download.innovare.no
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 dragonhack.shop
@@ -121,7 +123,6 @@
 127.0.0.1 espacesantefr-assurance.com
 127.0.0.1 exilum.com
 127.0.0.1 file.blackint3.com
-127.0.0.1 file.edunet.ac
 127.0.0.1 filenjjutre.online
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 fizeteselutasitva.com
@@ -171,7 +172,6 @@
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 l3monrat.com
 127.0.0.1 lafilledemavie.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 license.bugmakerx.cn
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
@@ -247,7 +247,6 @@
 127.0.0.1 pacificmont.com
 127.0.0.1 pack153queens.com
 127.0.0.1 palharesinformatica.com.br
-127.0.0.1 paonancs.cn
 127.0.0.1 parcel-track-find.info
 127.0.0.1 park.chuitian.cn
 127.0.0.1 passagetoeastafrica.com
@@ -377,6 +376,7 @@
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
+127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.saf-oil.ru
@@ -387,6 +387,7 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.totya.ir
+127.0.0.1 www.witrin.hu
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
@@ -394,7 +395,6 @@
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
-127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
@@ -402,8 +402,10 @@
 127.0.0.1 xn--vitale-espace--niveau-0zb.com
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 yhgger.top
+127.0.0.1 ylmcbeta-invite.bugmakerx.cn
 127.0.0.1 your-upsdelivery.info
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
+127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zptjv.com
-# Number of entries: 400
+# Number of entries: 402
