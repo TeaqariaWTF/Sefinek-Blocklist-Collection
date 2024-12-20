@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-20 06:21:23 (UTC)                      #
+# Last updated: 2024-12-20 08:21:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,6 +8,7 @@
 #
 127.0.0.1 123.ywxww.net
 127.0.0.1 139520.aioc.qbgxl.com
+127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 7zip10-2024.top
 127.0.0.1 912648.aioc.qbgxl.com
@@ -33,6 +34,7 @@
 127.0.0.1 amende-stationnement-suivis.com
 127.0.0.1 amrhub.com
 127.0.0.1 anphatnam.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
@@ -67,13 +69,11 @@
 127.0.0.1 ciscocdn.com
 127.0.0.1 cityoall.com
 127.0.0.1 clubedasluluzinhasro.com.br
-127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 com-animus.app
 127.0.0.1 commande-monsuivi.info
 127.0.0.1 commande-suivre.info
-127.0.0.1 conimagencancun.com
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 consulter-mon-amende.com
 127.0.0.1 contravinf.com
@@ -83,6 +83,7 @@
 127.0.0.1 csg-app.com
 127.0.0.1 cuenta-ntflx.com
 127.0.0.1 data.yhydl.com
+127.0.0.1 dcwblida.dz
 127.0.0.1 ddos.howardwang2312.com
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deloth2.in
@@ -93,8 +94,10 @@
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 diicotsec.ru
 127.0.0.1 disk.accord1key.cn
+127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
+127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dl.updatepush.com
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dledlank.bmcort.com
@@ -107,6 +110,7 @@
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.haozip.com
+127.0.0.1 download.innovare.no
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 dragonhack.shop
@@ -123,12 +127,12 @@
 127.0.0.1 file.edunet.ac
 127.0.0.1 filenjjutre.online
 127.0.0.1 files5.uludagbilisim.com
+127.0.0.1 fitgirl-repackes.me
 127.0.0.1 fizeteselutasitva.com
 127.0.0.1 formulaire-sociale.com
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 funletters.net
 127.0.0.1 gachetroi.com
-127.0.0.1 gawx.florenda.com
 127.0.0.1 gitrok.com
 127.0.0.1 globesql.com
 127.0.0.1 goalvaidclub.com
@@ -144,6 +148,7 @@
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
+127.0.0.1 imtoken8.cc
 127.0.0.1 info-comptevitale.org
 127.0.0.1 info-paiement-ligne.com
 127.0.0.1 informations-colissimo.com
@@ -159,8 +164,8 @@
 127.0.0.1 jrqh-hk.com
 127.0.0.1 jtpdev.co.uk
 127.0.0.1 kaboum.xyz
-127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
+127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 kiltone.top
@@ -168,6 +173,7 @@
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 l3monrat.com
 127.0.0.1 lafilledemavie.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 license.bugmakerx.cn
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
@@ -226,6 +232,7 @@
 127.0.0.1 mystartherehosting.net
 127.0.0.1 nabawitransport.com
 127.0.0.1 namthaibinh.net
+127.0.0.1 neroheronero.net
 127.0.0.1 new-consigne-sms-track.com
 127.0.0.1 newmaintenancewebmeil.com
 127.0.0.1 newmajwebmeil.com
@@ -238,7 +245,6 @@
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 of1x.icu
 127.0.0.1 ojang.pe.kr
-127.0.0.1 onlineshoppe.semilinktech.com
 127.0.0.1 organisme-renouvellement.com
 127.0.0.1 overboardlogist.org
 127.0.0.1 pacificmont.com
@@ -273,7 +279,9 @@
 127.0.0.1 reusable-flex.com
 127.0.0.1 roofmanagementlnc.com
 127.0.0.1 safe.ywxww.net
+127.0.0.1 scan-echo.online
 127.0.0.1 sdlru.demo.ezra-ai.com
+127.0.0.1 sec.dashabi.in
 127.0.0.1 securite-traitement-gouv.info
 127.0.0.1 seniorcomc.sslblindado.com
 127.0.0.1 ser.nrovn.xyz
@@ -313,10 +321,8 @@
 127.0.0.1 supportameli.top
 127.0.0.1 syntheticincenseonline.com
 127.0.0.1 t.0000o.xyz
-127.0.0.1 taodianla.com
 127.0.0.1 technotiempo.com
 127.0.0.1 tecni-soft.com
-127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
@@ -335,6 +341,7 @@
 127.0.0.1 tygattisoftware.com
 127.0.0.1 ulomstore.com
 127.0.0.1 unicorpbrunei.com
+127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
@@ -360,6 +367,7 @@
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clubedasluluzinhasro.com.br
 127.0.0.1 www.flechabusretiro.com.ar
+127.0.0.1 www.flntp.ro
 127.0.0.1 www.fornid.com
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.goalvaidclub.com
@@ -374,7 +382,9 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
+127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.speak-a-message.com
+127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
@@ -385,9 +395,9 @@
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
-127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
+127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
@@ -401,4 +411,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zptjv.com
-# Number of entries: 395
+# Number of entries: 405
