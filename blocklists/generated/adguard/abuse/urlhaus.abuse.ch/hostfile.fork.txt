@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-20 02:49:25 (UTC)                      !
+! Last updated: 2024-12-20 04:22:07 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -34,10 +34,8 @@
 ||amende-stationnement-suivis.com^
 ||amrhub.com^
 ||anphatnam.com^
-||aosafrica.co.za^
 ||api.52kkg.com^
 ||api.co-operativefinance.com^
-||api.ewfiles.net^
 ||api.hostize.com^
 ||aquafusion.com.co^
 ||armanayegh.com^
@@ -56,7 +54,6 @@
 ||botnet.sharkcdn.net^
 ||buscascolegios.diit.cl^
 ||by.haory.cn^
-||cajgtus.com^
 ||cat.dashabi.in^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
@@ -68,6 +65,7 @@
 ||chronopost-suivi-fr.co^
 ||ciscocdn.com^
 ||cityoall.com^
+||clubedasluluzinhasro.com.br^
 ||cmgtrading.eu^
 ||coach.028csc.com^
 ||coadymarine.com^
@@ -84,7 +82,6 @@
 ||csg-app.com^
 ||cuenta-ntflx.com^
 ||data.yhydl.com^
-||dcwblida.dz^
 ||deauduafzgezzfgm.top^
 ||deloth2.in^
 ||destinoverde.pe^
@@ -95,6 +92,7 @@
 ||dienstmyhermes.de^
 ||diicotsec.ru^
 ||dl.aginjector.com^
+||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dl.updatepush.com^
 ||dld.jxwan.com^
@@ -123,6 +121,7 @@
 ||espacesantefr-assurance.com^
 ||exilum.com^
 ||file.blackint3.com^
+||file.edunet.ac^
 ||filenjjutre.online^
 ||files5.uludagbilisim.com^
 ||fizeteselutasitva.com^
@@ -146,12 +145,10 @@
 ||hr2019.vrcom7.com^
 ||hseda.com^
 ||huyanhnongdo.io.vn^
-||imtoken8.cc^
 ||info-comptevitale.org^
 ||info-paiement-ligne.com^
 ||informations-colissimo.com^
 ||informationversand.com^
-||ini.sh-pp.com^
 ||inspirepk.org^
 ||jaamdesign.com^
 ||jahez.me^
@@ -164,7 +161,6 @@
 ||kaboum.xyz^
 ||karer.by^
 ||karoonpc.com^
-||keyser-api.eu^
 ||keysertools.cc^
 ||kiemthehuyenlong.com^
 ||kiltone.top^
@@ -177,7 +173,6 @@
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||live-sendungsverfolgung.com^
-||livetrack.in^
 ||lnterrac-ca.rebateit.net^
 ||loeghaiofiehfihf.to^
 ||logistics-transit.com^
@@ -190,7 +185,6 @@
 ||mandarin.net.au^
 ||marcanogarcia.com^
 ||mariafgilbert.com^
-||masclauxtoitures.fr^
 ||mbsngradnja.com^
 ||me.jmitchelldayton.com^
 ||meinelieferungverfolgen.info^
@@ -206,6 +200,7 @@
 ||minu-pakk.info^
 ||minupakk.com^
 ||minupakk.net^
+||misljen.net^
 ||mississippistemacademy.org^
 ||mjsqurej.com^
 ||mkgd.demo.ezra-ai.com^
@@ -228,7 +223,6 @@
 ||myparcel-track-find.info^
 ||mystartherehosting.net^
 ||nabawitransport.com^
-||namthaibinh.net^
 ||new-consigne-sms-track.com^
 ||newmaintenancewebmeil.com^
 ||newmajwebmeil.com^
@@ -277,10 +271,8 @@
 ||safe.ywxww.net^
 ||scan-echo.online^
 ||sdlru.demo.ezra-ai.com^
-||sec.dashabi.in^
 ||securite-traitement-gouv.info^
 ||seniorcomc.sslblindado.com^
-||ser.nrovn.xyz^
 ||servers.vlrt-gap.com^
 ||service-espace-sante.com^
 ||service.bugmakerx.cn^
@@ -312,7 +304,6 @@
 ||support-abonnement.com^
 ||support-colis-info.com^
 ||support-ma-commande.info^
-||support.clz.kr^
 ||supportameli.top^
 ||syntheticincenseonline.com^
 ||t.0000o.xyz^
@@ -385,7 +376,6 @@
 ||www.sumiyuki.co.jp^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
-||www.tecunonline.com^
 ||www.totya.ir^
 ||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
@@ -394,7 +384,6 @@
 ||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
-||ximonite.com^
 ||xn--ameli--niveau-sms-tob.com^
 ||xn--espace-vitale--jours-sms-87b.com^
 ||xn--espace-vitale--niveau-sms-zbc.com^
@@ -408,4 +397,4 @@
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
 ||zptjv.com^
-! Number of entries: 402
+! Number of entries: 391

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-20 02:49:25 (UTC)                      #
+# Last updated: 2024-12-20 04:22:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -34,10 +34,8 @@
 127.0.0.1 amende-stationnement-suivis.com
 127.0.0.1 amrhub.com
 127.0.0.1 anphatnam.com
-127.0.0.1 aosafrica.co.za
 127.0.0.1 api.52kkg.com
 127.0.0.1 api.co-operativefinance.com
-127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 aquafusion.com.co
 127.0.0.1 armanayegh.com
@@ -56,7 +54,6 @@
 127.0.0.1 botnet.sharkcdn.net
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
-127.0.0.1 cajgtus.com
 127.0.0.1 cat.dashabi.in
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
@@ -68,6 +65,7 @@
 127.0.0.1 chronopost-suivi-fr.co
 127.0.0.1 ciscocdn.com
 127.0.0.1 cityoall.com
+127.0.0.1 clubedasluluzinhasro.com.br
 127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
@@ -84,7 +82,6 @@
 127.0.0.1 csg-app.com
 127.0.0.1 cuenta-ntflx.com
 127.0.0.1 data.yhydl.com
-127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deloth2.in
 127.0.0.1 destinoverde.pe
@@ -95,6 +92,7 @@
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 diicotsec.ru
 127.0.0.1 dl.aginjector.com
+127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dl.updatepush.com
 127.0.0.1 dld.jxwan.com
@@ -123,6 +121,7 @@
 127.0.0.1 espacesantefr-assurance.com
 127.0.0.1 exilum.com
 127.0.0.1 file.blackint3.com
+127.0.0.1 file.edunet.ac
 127.0.0.1 filenjjutre.online
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 fizeteselutasitva.com
@@ -146,12 +145,10 @@
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
-127.0.0.1 imtoken8.cc
 127.0.0.1 info-comptevitale.org
 127.0.0.1 info-paiement-ligne.com
 127.0.0.1 informations-colissimo.com
 127.0.0.1 informationversand.com
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 jaamdesign.com
 127.0.0.1 jahez.me
@@ -164,7 +161,6 @@
 127.0.0.1 kaboum.xyz
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
-127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 kiltone.top
@@ -177,7 +173,6 @@
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 live-sendungsverfolgung.com
-127.0.0.1 livetrack.in
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 logistics-transit.com
@@ -190,7 +185,6 @@
 127.0.0.1 mandarin.net.au
 127.0.0.1 marcanogarcia.com
 127.0.0.1 mariafgilbert.com
-127.0.0.1 masclauxtoitures.fr
 127.0.0.1 mbsngradnja.com
 127.0.0.1 me.jmitchelldayton.com
 127.0.0.1 meinelieferungverfolgen.info
@@ -206,6 +200,7 @@
 127.0.0.1 minu-pakk.info
 127.0.0.1 minupakk.com
 127.0.0.1 minupakk.net
+127.0.0.1 misljen.net
 127.0.0.1 mississippistemacademy.org
 127.0.0.1 mjsqurej.com
 127.0.0.1 mkgd.demo.ezra-ai.com
@@ -228,7 +223,6 @@
 127.0.0.1 myparcel-track-find.info
 127.0.0.1 mystartherehosting.net
 127.0.0.1 nabawitransport.com
-127.0.0.1 namthaibinh.net
 127.0.0.1 new-consigne-sms-track.com
 127.0.0.1 newmaintenancewebmeil.com
 127.0.0.1 newmajwebmeil.com
@@ -277,10 +271,8 @@
 127.0.0.1 safe.ywxww.net
 127.0.0.1 scan-echo.online
 127.0.0.1 sdlru.demo.ezra-ai.com
-127.0.0.1 sec.dashabi.in
 127.0.0.1 securite-traitement-gouv.info
 127.0.0.1 seniorcomc.sslblindado.com
-127.0.0.1 ser.nrovn.xyz
 127.0.0.1 servers.vlrt-gap.com
 127.0.0.1 service-espace-sante.com
 127.0.0.1 service.bugmakerx.cn
@@ -312,7 +304,6 @@
 127.0.0.1 support-abonnement.com
 127.0.0.1 support-colis-info.com
 127.0.0.1 support-ma-commande.info
-127.0.0.1 support.clz.kr
 127.0.0.1 supportameli.top
 127.0.0.1 syntheticincenseonline.com
 127.0.0.1 t.0000o.xyz
@@ -385,7 +376,6 @@
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
 127.0.0.1 www.tdejb.com
-127.0.0.1 www.tecunonline.com
 127.0.0.1 www.totya.ir
 127.0.0.1 www.witrin.hu
 127.0.0.1 www.xn--on3b15m2lco2u.com
@@ -394,7 +384,6 @@
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
-127.0.0.1 ximonite.com
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
@@ -408,4 +397,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zptjv.com
-# Number of entries: 402
+# Number of entries: 391
