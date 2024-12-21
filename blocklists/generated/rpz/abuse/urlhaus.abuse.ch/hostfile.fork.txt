@@ -11,6 +11,8 @@ $TTL 300
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
 *.2.haory.cn CNAME .
+360down7.miiyun.cn CNAME .
+*.360down7.miiyun.cn CNAME .
 7zip10-2024.top CNAME .
 *.7zip10-2024.top CNAME .
 912648.aioc.qbgxl.com CNAME .
@@ -57,8 +59,6 @@ anphatnam.com CNAME .
 *.anphatnam.com CNAME .
 aosafrica.co.za CNAME .
 *.aosafrica.co.za CNAME .
-api.52kkg.com CNAME .
-*.api.52kkg.com CNAME .
 api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
@@ -99,6 +99,8 @@ buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
 by.haory.cn CNAME .
 *.by.haory.cn CNAME .
+cajgtus.com CNAME .
+*.cajgtus.com CNAME .
 catbaparadisehotel.com.vn CNAME .
 *.catbaparadisehotel.com.vn CNAME .
 cdaonline.com.ar CNAME .
@@ -141,10 +143,6 @@ cp.eye-network.ru CNAME .
 *.cp.eye-network.ru CNAME .
 crystalpvp.ru CNAME .
 *.crystalpvp.ru CNAME .
-csg-app.com CNAME .
-*.csg-app.com CNAME .
-cuenta-ntflx.com CNAME .
-*.cuenta-ntflx.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
 dcwblida.dz CNAME .
@@ -187,14 +185,10 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
-down.pcclear.com CNAME .
-*.down.pcclear.com CNAME .
 download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
-download.haozip.com CNAME .
-*.download.haozip.com CNAME .
 download.innovare.no CNAME .
 *.download.innovare.no CNAME .
 download.suxiazai.com CNAME .
@@ -227,6 +221,8 @@ file-download.bytez.cloud CNAME .
 *.file-download.bytez.cloud CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
+file.edunet.ac CNAME .
+*.file.edunet.ac CNAME .
 filenjjutre.online CNAME .
 *.filenjjutre.online CNAME .
 files5.uludagbilisim.com CNAME .
@@ -319,8 +315,6 @@ keyser-api.eu CNAME .
 *.keyser-api.eu CNAME .
 keysertools.cc CNAME .
 *.keysertools.cc CNAME .
-kiemthehuyenlong.com CNAME .
-*.kiemthehuyenlong.com CNAME .
 kiltone.top CNAME .
 *.kiltone.top CNAME .
 knightsinshiningarmor.net CNAME .
@@ -367,6 +361,8 @@ marcanogarcia.com CNAME .
 *.marcanogarcia.com CNAME .
 mariafgilbert.com CNAME .
 *.mariafgilbert.com CNAME .
+masclauxtoitures.fr CNAME .
+*.masclauxtoitures.fr CNAME .
 mbsngradnja.com CNAME .
 *.mbsngradnja.com CNAME .
 me.jmitchelldayton.com CNAME .
@@ -425,6 +421,8 @@ muwc.shop CNAME .
 *.muwc.shop CNAME .
 my.upspacket.delivery CNAME .
 *.my.upspacket.delivery CNAME .
+myguyapp.com CNAME .
+*.myguyapp.com CNAME .
 myhermes-dienste.com CNAME .
 *.myhermes-dienste.com CNAME .
 myhermes-liefern.com CNAME .
@@ -493,8 +491,6 @@ pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 perfectperu.com CNAME .
 *.perfectperu.com CNAME .
-pid.fly160.com CNAME .
-*.pid.fly160.com CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
 prati-moju-narudbu.com CNAME .
@@ -555,8 +551,6 @@ sft-cloud.ru CNAME .
 *.sft-cloud.ru CNAME .
 shell.dimitrimedia.com CNAME .
 *.shell.dimitrimedia.com CNAME .
-shqdown.ggzuhao.com CNAME .
-*.shqdown.ggzuhao.com CNAME .
 simit-pagos.co CNAME .
 *.simit-pagos.co CNAME .
 sinupakk.net CNAME .
@@ -623,6 +617,8 @@ technotiempo.com CNAME .
 *.technotiempo.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
+tecunonline.com CNAME .
+*.tecunonline.com CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
@@ -633,8 +629,6 @@ thedannymorganband.com CNAME .
 *.thedannymorganband.com CNAME .
 tianyinsoft.top CNAME .
 *.tianyinsoft.top CNAME .
-touduanyiyuan.bugmakerx.cn CNAME .
-*.touduanyiyuan.bugmakerx.cn CNAME .
 towerofbabble.net CNAME .
 *.towerofbabble.net CNAME .
 track.novapostal.org CNAME .
@@ -711,8 +705,6 @@ globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 he4v2ieq.icu CNAME .
 *.he4v2ieq.icu CNAME .
-hootech.com CNAME .
-*.hootech.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 maxmoney.com CNAME .
@@ -735,20 +727,18 @@ support-info-colis.com CNAME .
 *.support-info-colis.com CNAME .
 tdejb.com CNAME .
 *.tdejb.com CNAME .
-tecunonline.com CNAME .
-*.tecunonline.com CNAME .
 totya.ir CNAME .
 *.totya.ir CNAME .
 witrin.hu CNAME .
 *.witrin.hu CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
+ysbaojia.com CNAME .
+*.ysbaojia.com CNAME .
 zhikey.com CNAME .
 *.zhikey.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
-wz.3911.com CNAME .
-*.wz.3911.com CNAME .
 xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 ximonite.com CNAME .
