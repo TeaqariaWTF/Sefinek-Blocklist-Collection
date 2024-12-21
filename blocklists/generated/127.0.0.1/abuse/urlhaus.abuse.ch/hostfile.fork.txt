@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-21 10:14:07 (UTC)                      #
+# Last updated: 2024-12-21 12:34:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -18,7 +18,6 @@
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
 127.0.0.1 adf6.adf6.com
-127.0.0.1 admin.aishangzhua.com
 127.0.0.1 adobe-acrobat.com
 127.0.0.1 adresse-confirmation.com
 127.0.0.1 aefieiaehfiaehr.top
@@ -28,6 +27,7 @@
 127.0.0.1 ai-kling.online
 127.0.0.1 aide-acheminement-info.com
 127.0.0.1 airhobi.com
+127.0.0.1 alien-training.com
 127.0.0.1 amelcarte.com
 127.0.0.1 amende-renouvellement.com
 127.0.0.1 amende-stationnement-suivis.com
@@ -90,13 +90,11 @@
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 diicotsec.ru
 127.0.0.1 disk.accord1key.cn
-127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dledlank.bmcort.com
-127.0.0.1 do-dear.com
 127.0.0.1 dossier-reglements.info
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
@@ -191,7 +189,6 @@
 127.0.0.1 mandarin.net.au
 127.0.0.1 marcanogarcia.com
 127.0.0.1 mariafgilbert.com
-127.0.0.1 masclauxtoitures.fr
 127.0.0.1 mbsngradnja.com
 127.0.0.1 me.jmitchelldayton.com
 127.0.0.1 meinelieferungverfolgen.info
@@ -221,7 +218,6 @@
 127.0.0.1 mtclibraries.com
 127.0.0.1 muwc.shop
 127.0.0.1 my.upspacket.delivery
-127.0.0.1 myguyapp.com
 127.0.0.1 myhermes-dienste.com
 127.0.0.1 myhermes-liefern.com
 127.0.0.1 myhermes-versand.net
@@ -250,6 +246,7 @@
 127.0.0.1 pack153queens.com
 127.0.0.1 pajak.tw
 127.0.0.1 palharesinformatica.com.br
+127.0.0.1 paonancs.cn
 127.0.0.1 parcel-track-find.info
 127.0.0.1 park.chuitian.cn
 127.0.0.1 passagetoeastafrica.com
@@ -276,9 +273,9 @@
 127.0.0.1 safe.ywxww.net
 127.0.0.1 scan-echo.online
 127.0.0.1 sdlru.demo.ezra-ai.com
-127.0.0.1 sec.dashabi.in
 127.0.0.1 securite-traitement-gouv.info
 127.0.0.1 seniorcomc.sslblindado.com
+127.0.0.1 ser.nrovn.xyz
 127.0.0.1 servers.vlrt-gap.com
 127.0.0.1 service-espace-sante.com
 127.0.0.1 service.bugmakerx.cn
@@ -298,7 +295,6 @@
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 spotcarservice.ru
-127.0.0.1 srothienhoa.com
 127.0.0.1 ssquar.com
 127.0.0.1 stdown.dinju.com
 127.0.0.1 stop.eye-network.ru
@@ -317,6 +313,7 @@
 127.0.0.1 supportameli.top
 127.0.0.1 syntheticincenseonline.com
 127.0.0.1 t.0000o.xyz
+127.0.0.1 taodianla.com
 127.0.0.1 teamxox.world
 127.0.0.1 technotiempo.com
 127.0.0.1 tecni-soft.com
@@ -356,12 +353,12 @@
 127.0.0.1 www.al-rasikh.com
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beautymakeup.ca
-127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clubedasluluzinhasro.com.br
+127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.flntp.ro
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.goalvaidclub.com
@@ -374,6 +371,7 @@
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
+127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.speak-a-message.com
@@ -407,4 +405,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zptjv.com
-# Number of entries: 401
+# Number of entries: 399
