@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-21 16:19:25 (UTC)                      #
+# Last updated: 2024-12-21 18:20:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,10 +15,12 @@
 0.0.0.0 7zip10-2024.top
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aaahealthcareservice.com
+0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
+0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -65,7 +67,6 @@
 0.0.0.0 chronopost-suivi-fr.co
 0.0.0.0 ciscocdn.com
 0.0.0.0 clubedasluluzinhasro.com.br
-0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
@@ -77,6 +78,7 @@
 0.0.0.0 controlpedido.info
 0.0.0.0 cp.eye-network.ru
 0.0.0.0 crystalpvp.ru
+0.0.0.0 cuenta-ntflx.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 ddos.howardwang2312.com
@@ -91,19 +93,21 @@
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dledlank.bmcort.com
+0.0.0.0 do-dear.com
 0.0.0.0 dossier-reglements.info
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
+0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
-0.0.0.0 dragonhack.shop
 0.0.0.0 drdavidfishbein.com
 0.0.0.0 e4l4.com
 0.0.0.0 electjimhenderson.com
@@ -148,6 +152,7 @@
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 ipimd.demo.ezra-ai.com
 0.0.0.0 ivhg.law.kimsavagelaw.com
 0.0.0.0 jaamdesign.com
@@ -242,7 +247,6 @@
 0.0.0.0 pacificmont.com
 0.0.0.0 pack153queens.com
 0.0.0.0 pajak.tw
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 parcel-track-find.info
 0.0.0.0 park.chuitian.cn
@@ -253,7 +257,6 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 prati-moju-narudbu.com
 0.0.0.0 premiumpsychedelics.com
-0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
@@ -284,12 +287,10 @@
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
-0.0.0.0 softcatalog.ru
+0.0.0.0 soft.110route.com
 0.0.0.0 something.catchat.us
 0.0.0.0 soportegira.net
-0.0.0.0 sos.vivi.sg
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 spotcarservice.ru
 0.0.0.0 ssquar.com
 0.0.0.0 stdown.dinju.com
@@ -319,6 +320,7 @@
 0.0.0.0 tengfeidn.com
 0.0.0.0 thedannymorganband.com
 0.0.0.0 tianyinsoft.top
+0.0.0.0 touduanyiyuan.bugmakerx.cn
 0.0.0.0 towerofbabble.net
 0.0.0.0 track.novapostal.org
 0.0.0.0 tracking-packages.com
@@ -346,7 +348,6 @@
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 wimf.demo.ezra-ai.com
 0.0.0.0 www.al-rasikh.com
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beautymakeup.ca
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
@@ -360,6 +361,7 @@
 0.0.0.0 www.goalvaidclub.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.he4v2ieq.icu
+0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
@@ -397,6 +399,7 @@
 0.0.0.0 youfirst.hradvanceportal.com
 0.0.0.0 your-upsdelivery.info
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zptjv.com
-# Number of entries: 393
+# Number of entries: 396
