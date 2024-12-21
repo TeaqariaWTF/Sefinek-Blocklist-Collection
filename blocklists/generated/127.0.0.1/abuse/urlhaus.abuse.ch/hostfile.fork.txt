@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-21 04:22:07 (UTC)                      #
+# Last updated: 2024-12-21 06:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -56,10 +56,10 @@
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 bmcort.com
-127.0.0.1 botnet.sharkcdn.net
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
 127.0.0.1 cajgtus.com
+127.0.0.1 cat.dashabi.in
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 cdn-downloads.com
@@ -96,7 +96,6 @@
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 diicotsec.ru
 127.0.0.1 disk.accord1key.cn
-127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
@@ -114,6 +113,7 @@
 127.0.0.1 download.haozip.com
 127.0.0.1 download.innovare.no
 127.0.0.1 downsexv.com
+127.0.0.1 dragonhack.shop
 127.0.0.1 drdavidfishbein.com
 127.0.0.1 e4l4.com
 127.0.0.1 electjimhenderson.com
@@ -178,9 +178,12 @@
 127.0.0.1 l3monrat.com
 127.0.0.1 lafilledemavie.com
 127.0.0.1 library.arihantmbainstitute.ac.in
+127.0.0.1 license.bugmakerx.cn
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
+127.0.0.1 linkvilleplayers.org
 127.0.0.1 live-sendungsverfolgung.com
+127.0.0.1 livetrack.in
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 logistics-transit.com
@@ -263,6 +266,7 @@
 127.0.0.1 premiumpsychedelics.com
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
+127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 r8p.teknixstuff.com
@@ -277,17 +281,21 @@
 127.0.0.1 safe.ywxww.net
 127.0.0.1 scan-echo.online
 127.0.0.1 sdlru.demo.ezra-ai.com
+127.0.0.1 sec.dashabi.in
 127.0.0.1 securite-traitement-gouv.info
 127.0.0.1 seniorcomc.sslblindado.com
+127.0.0.1 ser.nrovn.xyz
 127.0.0.1 servers.vlrt-gap.com
 127.0.0.1 service-espace-sante.com
 127.0.0.1 service.bugmakerx.cn
 127.0.0.1 servvital.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 sft-cloud.ru
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 shqdown.ggzuhao.com
 127.0.0.1 simit-pagos.co
 127.0.0.1 sinupakk.net
+127.0.0.1 sirault.be
 127.0.0.1 soft.110route.com
 127.0.0.1 softcatalog.ru
 127.0.0.1 something.catchat.us
@@ -298,7 +306,6 @@
 127.0.0.1 spotcarservice.ru
 127.0.0.1 srothienhoa.com
 127.0.0.1 ssquar.com
-127.0.0.1 stdown.dinju.com
 127.0.0.1 stop.eye-network.ru
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 suivi-colis-logistique.info
@@ -325,6 +332,7 @@
 127.0.0.1 tengfeidn.com
 127.0.0.1 thedannymorganband.com
 127.0.0.1 tianyinsoft.top
+127.0.0.1 touduanyiyuan.bugmakerx.cn
 127.0.0.1 towerofbabble.net
 127.0.0.1 track.novapostal.org
 127.0.0.1 tracking-packages.com
@@ -342,7 +350,6 @@
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
-127.0.0.1 updatee-facebok.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 ups-zolldienst.com
 127.0.0.1 ups-zollkontrolle.com
@@ -356,8 +363,10 @@
 127.0.0.1 www.al-rasikh.com
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beautymakeup.ca
+127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
 127.0.0.1 www.blackhattoolz.com
+127.0.0.1 www.carambis.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clubedasluluzinhasro.com.br
@@ -371,7 +380,6 @@
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
-127.0.0.1 www.medises.co.kr
 127.0.0.1 www.netsolution.it
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.qqqmy.com
@@ -407,4 +415,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zptjv.com
-# Number of entries: 401
+# Number of entries: 409

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-21 04:22:07 (UTC)                      #
+# Last updated: 2024-12-21 06:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -56,10 +56,10 @@
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogoss.fr
 0.0.0.0 bmcort.com
-0.0.0.0 botnet.sharkcdn.net
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 cajgtus.com
+0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-downloads.com
@@ -96,7 +96,6 @@
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
@@ -114,6 +113,7 @@
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
 0.0.0.0 downsexv.com
+0.0.0.0 dragonhack.shop
 0.0.0.0 drdavidfishbein.com
 0.0.0.0 e4l4.com
 0.0.0.0 electjimhenderson.com
@@ -178,9 +178,12 @@
 0.0.0.0 l3monrat.com
 0.0.0.0 lafilledemavie.com
 0.0.0.0 library.arihantmbainstitute.ac.in
+0.0.0.0 license.bugmakerx.cn
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
+0.0.0.0 livetrack.in
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 logistics-transit.com
@@ -263,6 +266,7 @@
 0.0.0.0 premiumpsychedelics.com
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
@@ -277,17 +281,21 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 scan-echo.online
 0.0.0.0 sdlru.demo.ezra-ai.com
+0.0.0.0 sec.dashabi.in
 0.0.0.0 securite-traitement-gouv.info
 0.0.0.0 seniorcomc.sslblindado.com
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 servers.vlrt-gap.com
 0.0.0.0 service-espace-sante.com
 0.0.0.0 service.bugmakerx.cn
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 sft-cloud.ru
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
+0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 something.catchat.us
@@ -298,7 +306,6 @@
 0.0.0.0 spotcarservice.ru
 0.0.0.0 srothienhoa.com
 0.0.0.0 ssquar.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 stop.eye-network.ru
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 suivi-colis-logistique.info
@@ -325,6 +332,7 @@
 0.0.0.0 tengfeidn.com
 0.0.0.0 thedannymorganband.com
 0.0.0.0 tianyinsoft.top
+0.0.0.0 touduanyiyuan.bugmakerx.cn
 0.0.0.0 towerofbabble.net
 0.0.0.0 track.novapostal.org
 0.0.0.0 tracking-packages.com
@@ -342,7 +350,6 @@
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
-0.0.0.0 updatee-facebok.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 ups-zollkontrolle.com
@@ -356,8 +363,10 @@
 0.0.0.0 www.al-rasikh.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beautymakeup.ca
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -371,7 +380,6 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.qqqmy.com
@@ -407,4 +415,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zptjv.com
-# Number of entries: 401
+# Number of entries: 409
