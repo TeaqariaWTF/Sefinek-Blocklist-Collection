@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 14:19:37 (UTC)                      #
+# Last updated: 2024-12-22 16:20:35 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -16,9 +16,9 @@
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aaahealthcareservice.com
 0.0.0.0 aarzoomarine.com
-0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
+0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 adresse-confirmation.com
@@ -63,7 +63,7 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 cheat.underground-cheat.com
-0.0.0.0 chernobyl.stressing.world
+0.0.0.0 chinaapper.com
 0.0.0.0 chronopost-suivi-fr.co
 0.0.0.0 ciscocdn.com
 0.0.0.0 clubedasluluzinhasro.com.br
@@ -102,7 +102,6 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -113,7 +112,6 @@
 0.0.0.0 e4l4.com
 0.0.0.0 electjimhenderson.com
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 ellesmerefamilyhealth.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -238,13 +236,11 @@
 0.0.0.0 paonancs.cn
 0.0.0.0 parcel-track-find.info
 0.0.0.0 park.chuitian.cn
-0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 pro.gestaoautomatic.top
-0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
@@ -281,9 +277,9 @@
 0.0.0.0 something.catchat.us
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 spotcarservice.ru
 0.0.0.0 ssquar.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 suivi-macommande.info
 0.0.0.0 suivre-ma-livraison.info
@@ -353,6 +349,7 @@
 0.0.0.0 www.goalvaidclub.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -392,4 +389,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 386
+# Number of entries: 383
