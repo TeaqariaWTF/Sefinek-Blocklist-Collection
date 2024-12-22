@@ -9,8 +9,6 @@ $TTL 300
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
-2.haory.cn CNAME .
-*.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 7zip10-2024.top CNAME .
@@ -61,6 +59,8 @@ amrhub.com CNAME .
 *.amrhub.com CNAME .
 anphatnam.com CNAME .
 *.anphatnam.com CNAME .
+aosafrica.co.za CNAME .
+*.aosafrica.co.za CNAME .
 api-conect-v1.digital CNAME .
 *.api-conect-v1.digital CNAME .
 api.52kkg.com CNAME .
@@ -71,10 +71,10 @@ api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
 *.api.hostize.com CNAME .
-aquafusion.com.co CNAME .
-*.aquafusion.com.co CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
+arteflordeliz.com.br CNAME .
+*.arteflordeliz.com.br CNAME .
 assu-vitale.info CNAME .
 *.assu-vitale.info CNAME .
 assuresform.com CNAME .
@@ -113,8 +113,6 @@ chinaapper.com CNAME .
 *.chinaapper.com CNAME .
 chronopost-suivi-fr.co CNAME .
 *.chronopost-suivi-fr.co CNAME .
-ciscocdn.com CNAME .
-*.ciscocdn.com CNAME .
 clubedasluluzinhasro.com.br CNAME .
 *.clubedasluluzinhasro.com.br CNAME .
 cmgtrading.eu CNAME .
@@ -139,8 +137,6 @@ cuenta-ntflx.com CNAME .
 *.cuenta-ntflx.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
-dcwblida.dz CNAME .
-*.dcwblida.dz CNAME .
 ddos.howardwang2312.com CNAME .
 *.ddos.howardwang2312.com CNAME .
 deauduafzgezzfgm.top CNAME .
@@ -203,8 +199,6 @@ e4l4.com CNAME .
 *.e4l4.com CNAME .
 electjimhenderson.com CNAME .
 *.electjimhenderson.com CNAME .
-elisans.novayonetim.com CNAME .
-*.elisans.novayonetim.com CNAME .
 ellesmerefamilyhealth.com CNAME .
 *.ellesmerefamilyhealth.com CNAME .
 eoufaoeuhoauengi.su CNAME .
@@ -327,6 +321,8 @@ linkvilleplayers.org CNAME .
 *.linkvilleplayers.org CNAME .
 live-sendungsverfolgung.com CNAME .
 *.live-sendungsverfolgung.com CNAME .
+livetrack.in CNAME .
+*.livetrack.in CNAME .
 lnterrac-ca.rebateit.net CNAME .
 *.lnterrac-ca.rebateit.net CNAME .
 loeghaiofiehfihf.to CNAME .
@@ -525,8 +521,12 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
+softcatalog.ru CNAME .
+*.softcatalog.ru CNAME .
 something.catchat.us CNAME .
 *.something.catchat.us CNAME .
+soportegira.net CNAME .
+*.soportegira.net CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
 spotcarservice.ru CNAME .
@@ -603,8 +603,6 @@ up1035rwa5zk.prodemadoutorado.org CNAME .
 *.up1035rwa5zk.prodemadoutorado.org CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
-update.vlnguba.com CNAME .
-*.update.vlnguba.com CNAME .
 update.volam2005pk.com CNAME .
 *.update.volam2005pk.com CNAME .
 upload.vina-host.com CNAME .
@@ -621,6 +619,8 @@ utorrent-backup-server2.top CNAME .
 *.utorrent-backup-server2.top CNAME .
 utorrent-backup-server3.top CNAME .
 *.utorrent-backup-server3.top CNAME .
+utorrent-backup-server4.top CNAME .
+*.utorrent-backup-server4.top CNAME .
 utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
 valseg.com.br CNAME .
@@ -639,14 +639,14 @@ win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 al-rasikh.com CNAME .
 *.al-rasikh.com CNAME .
-aqianniao.com CNAME .
-*.aqianniao.com CNAME .
 beautymakeup.ca CNAME .
 *.beautymakeup.ca CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
 bkzj.wang CNAME .
 *.bkzj.wang CNAME .
+blackhattoolz.com CNAME .
+*.blackhattoolz.com CNAME .
 chemsky.tn CNAME .
 *.chemsky.tn CNAME .
 chrismccaw.net CNAME .
@@ -683,6 +683,12 @@ tdejb.com CNAME .
 *.tdejb.com CNAME .
 totya.ir CNAME .
 *.totya.ir CNAME .
+witrin.hu CNAME .
+*.witrin.hu CNAME .
+xn--on3b15m2lco2u.com CNAME .
+*.xn--on3b15m2lco2u.com CNAME .
+ysbaojia.com CNAME .
+*.ysbaojia.com CNAME .
 zhikey.com CNAME .
 *.zhikey.com CNAME .
 wynecare.com CNAME .
@@ -693,6 +699,8 @@ xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 ximonite.com CNAME .
 *.ximonite.com CNAME .
+xingpai.weilay.com.cn CNAME .
+*.xingpai.weilay.com.cn CNAME .
 xlu.demo.ezra-ai.com CNAME .
 *.xlu.demo.ezra-ai.com CNAME .
 xn--ameli--niveau-sms-tob.com CNAME .
