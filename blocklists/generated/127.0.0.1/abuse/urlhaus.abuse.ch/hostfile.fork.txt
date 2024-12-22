@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 18:22:06 (UTC)                      #
+# Last updated: 2024-12-22 20:19:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -40,6 +40,7 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api-conect-v1.digital
 127.0.0.1 api.52kkg.com
+127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 aquafusion.com.co
@@ -56,9 +57,10 @@
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogoss.fr
 127.0.0.1 bmcort.com
+127.0.0.1 botnet.sharkcdn.net
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
-127.0.0.1 cat.dashabi.in
+127.0.0.1 cajgtus.com
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 centre-de-tri-ups.com
@@ -67,7 +69,7 @@
 127.0.0.1 chinaapper.com
 127.0.0.1 chronopost-suivi-fr.co
 127.0.0.1 ciscocdn.com
-127.0.0.1 clubedasluluzinhasro.com.br
+127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 com-animus.app
@@ -82,7 +84,6 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 ddos.howardwang2312.com
 127.0.0.1 deauduafzgezzfgm.top
-127.0.0.1 deloth2.in
 127.0.0.1 destinoverde.pe
 127.0.0.1 dev.cyberark-igiwax.com
 127.0.0.1 device.redirec.com
@@ -99,12 +100,10 @@
 127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
-127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
-127.0.0.1 download.haozip.com
 127.0.0.1 download.innovare.no
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
@@ -113,6 +112,7 @@
 127.0.0.1 e4l4.com
 127.0.0.1 electjimhenderson.com
 127.0.0.1 elisans.novayonetim.com
+127.0.0.1 ellesmerefamilyhealth.com
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
 127.0.0.1 espacesantefr-assurance.com
@@ -162,11 +162,13 @@
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
+127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 kiltone.top
 127.0.0.1 klippetamea8.shop
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 l3monrat.com
 127.0.0.1 lafilledemavie.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 license.bugmakerx.cn
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
@@ -175,6 +177,7 @@
 127.0.0.1 livetrack.in
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
+127.0.0.1 lostheaven.com.cn
 127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
@@ -233,6 +236,7 @@
 127.0.0.1 paonancs.cn
 127.0.0.1 parcel-track-find.info
 127.0.0.1 park.chuitian.cn
+127.0.0.1 passagetoeastafrica.com
 127.0.0.1 pb.agnt.ru
 127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
@@ -256,10 +260,8 @@
 127.0.0.1 securite-traitement-gouv.info
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 seniorcomc.sslblindado.com
-127.0.0.1 ser.nrovn.xyz
 127.0.0.1 servers.vlrt-gap.com
 127.0.0.1 service-espace-sante.com
-127.0.0.1 service.bugmakerx.cn
 127.0.0.1 servvital.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 sft-cloud.ru
@@ -300,17 +302,16 @@
 127.0.0.1 tracking-packages.com
 127.0.0.1 tracking-suivie.com
 127.0.0.1 trackpacking-ups.com
-127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 tricazo.com
 127.0.0.1 troop153queens.com
 127.0.0.1 twizt.net
 127.0.0.1 tygattisoftware.com
 127.0.0.1 ugh.eye-network.ru
+127.0.0.1 uii.eye-network.ru
 127.0.0.1 ulomstore.com
 127.0.0.1 up.maolaoban.top
 127.0.0.1 up1035rwa5zk.prodemadoutorado.org
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 ups-zolldienst.com
@@ -345,7 +346,6 @@
 127.0.0.1 www.goalvaidclub.com
 127.0.0.1 www.grupodulcemar.pe
 127.0.0.1 www.hootech.com
-127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
@@ -368,6 +368,7 @@
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
+127.0.0.1 ximonite.com
 127.0.0.1 xlu.demo.ezra-ai.com
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
@@ -382,4 +383,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 376
+# Number of entries: 377
