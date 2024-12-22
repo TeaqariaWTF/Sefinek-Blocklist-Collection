@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 16:20:35 (UTC)                      #
+# Last updated: 2024-12-22 18:22:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 0da30.fate.truelance.com
+127.0.0.1 123.pentaq.net
 127.0.0.1 123.ywxww.net
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
@@ -16,6 +17,7 @@
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aaahealthcareservice.com
 127.0.0.1 aarzoomarine.com
+127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
 127.0.0.1 adf6.adf6.com
@@ -35,9 +37,9 @@
 127.0.0.1 amende-stationnement-suivis.com
 127.0.0.1 amrhub.com
 127.0.0.1 anphatnam.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api-conect-v1.digital
 127.0.0.1 api.52kkg.com
-127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 aquafusion.com.co
@@ -45,7 +47,6 @@
 127.0.0.1 arteflordeliz.com.br
 127.0.0.1 assu-vitale.info
 127.0.0.1 assuresform.com
-127.0.0.1 atsukaa.thrivezest.org
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
 127.0.0.1 avastpdr.com
@@ -57,17 +58,16 @@
 127.0.0.1 bmcort.com
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
-127.0.0.1 cajgtus.com
 127.0.0.1 cat.dashabi.in
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 centre-de-tri-ups.com
 127.0.0.1 cheat.underground-cheat.com
+127.0.0.1 chernobyl.stressing.world
 127.0.0.1 chinaapper.com
 127.0.0.1 chronopost-suivi-fr.co
 127.0.0.1 ciscocdn.com
 127.0.0.1 clubedasluluzinhasro.com.br
-127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 com-animus.app
@@ -102,6 +102,7 @@
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
+127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.haozip.com
 127.0.0.1 download.innovare.no
@@ -147,7 +148,6 @@
 127.0.0.1 info-paiement-ligne.com
 127.0.0.1 informations-colissimo.com
 127.0.0.1 informationversand.com
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 ipimd.demo.ezra-ai.com
 127.0.0.1 ivhg.law.kimsavagelaw.com
@@ -162,7 +162,6 @@
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
-127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 kiltone.top
 127.0.0.1 klippetamea8.shop
 127.0.0.1 knightsinshiningarmor.net
@@ -176,7 +175,6 @@
 127.0.0.1 livetrack.in
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
-127.0.0.1 lostheaven.com.cn
 127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
@@ -210,7 +208,6 @@
 127.0.0.1 muwc.shop
 127.0.0.1 mxq.law.kimsavagelaw.com
 127.0.0.1 my.upspacket.delivery
-127.0.0.1 myguyapp.com
 127.0.0.1 myhermes-dienste.com
 127.0.0.1 myhermes-liefern.com
 127.0.0.1 myhermes-versand.net
@@ -239,7 +236,6 @@
 127.0.0.1 pb.agnt.ru
 127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
-127.0.0.1 pns.org.pk
 127.0.0.1 pro.gestaoautomatic.top
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
@@ -359,7 +355,6 @@
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.speak-a-message.com
-127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
@@ -373,8 +368,6 @@
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
-127.0.0.1 ximonite.com
-127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xlu.demo.ezra-ai.com
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
@@ -389,4 +382,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 383
+# Number of entries: 376
