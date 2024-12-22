@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 01:41:07 (UTC)                      #
+# Last updated: 2024-12-22 02:54:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,6 +19,7 @@
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
+0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adobe-acrobat.com
 0.0.0.0 adresse-confirmation.com
@@ -40,6 +41,7 @@
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
+0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
 0.0.0.0 assu-vitale.info
 0.0.0.0 assuresform.com
@@ -70,6 +72,7 @@
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 cp.eye-network.ru
+0.0.0.0 crystalpvp.ru
 0.0.0.0 cuenta-ntflx.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
@@ -124,7 +127,6 @@
 0.0.0.0 globesql.com
 0.0.0.0 goalvaidclub.com
 0.0.0.0 goodlabel.cn
-0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hacker.kygtps.live
@@ -187,6 +189,7 @@
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
 0.0.0.0 microsoft-analyse.com
+0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 minu-pakk.com
 0.0.0.0 minu-pakk.info
 0.0.0.0 minupakk.com
@@ -202,6 +205,7 @@
 0.0.0.0 muwc.shop
 0.0.0.0 mxq.law.kimsavagelaw.com
 0.0.0.0 my.upspacket.delivery
+0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
 0.0.0.0 myhermes-versand.net
@@ -223,7 +227,6 @@
 0.0.0.0 pacificmont.com
 0.0.0.0 pack153queens.com
 0.0.0.0 pajak.tw
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 parcel-track-find.info
 0.0.0.0 park.chuitian.cn
@@ -308,10 +311,11 @@
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
-0.0.0.0 ups-zollkontrolle.com
 0.0.0.0 upspacket.delivery
 0.0.0.0 uspp.certikeys.org
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
+0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 valseg.com.br
 0.0.0.0 vbjr.demo.ezra-ai.com
@@ -325,7 +329,6 @@
 0.0.0.0 www.beautymakeup.ca
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
-0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -351,7 +354,6 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.totya.ir
-0.0.0.0 www.witrin.hu
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
@@ -371,4 +373,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 365
+# Number of entries: 367

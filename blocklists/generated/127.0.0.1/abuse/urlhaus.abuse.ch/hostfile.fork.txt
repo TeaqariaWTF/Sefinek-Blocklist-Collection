@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 01:41:07 (UTC)                      #
+# Last updated: 2024-12-22 02:54:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,6 +19,7 @@
 127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
+127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 adobe-acrobat.com
 127.0.0.1 adresse-confirmation.com
@@ -40,6 +41,7 @@
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 aquafusion.com.co
 127.0.0.1 armanayegh.com
 127.0.0.1 assu-vitale.info
 127.0.0.1 assuresform.com
@@ -70,6 +72,7 @@
 127.0.0.1 consulter-mon-amende.com
 127.0.0.1 contravinf.com
 127.0.0.1 cp.eye-network.ru
+127.0.0.1 crystalpvp.ru
 127.0.0.1 cuenta-ntflx.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dcwblida.dz
@@ -124,7 +127,6 @@
 127.0.0.1 globesql.com
 127.0.0.1 goalvaidclub.com
 127.0.0.1 goodlabel.cn
-127.0.0.1 grupobramam.com.br
 127.0.0.1 grupodulcemar.pe
 127.0.0.1 guichet-bpost.com
 127.0.0.1 hacker.kygtps.live
@@ -187,6 +189,7 @@
 127.0.0.1 microprocessorbook.com
 127.0.0.1 microprocessordesignbook.com
 127.0.0.1 microsoft-analyse.com
+127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 minu-pakk.com
 127.0.0.1 minu-pakk.info
 127.0.0.1 minupakk.com
@@ -202,6 +205,7 @@
 127.0.0.1 muwc.shop
 127.0.0.1 mxq.law.kimsavagelaw.com
 127.0.0.1 my.upspacket.delivery
+127.0.0.1 myguyapp.com
 127.0.0.1 myhermes-dienste.com
 127.0.0.1 myhermes-liefern.com
 127.0.0.1 myhermes-versand.net
@@ -223,7 +227,6 @@
 127.0.0.1 pacificmont.com
 127.0.0.1 pack153queens.com
 127.0.0.1 pajak.tw
-127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
 127.0.0.1 parcel-track-find.info
 127.0.0.1 park.chuitian.cn
@@ -308,10 +311,11 @@
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 ups-zolldienst.com
-127.0.0.1 ups-zollkontrolle.com
 127.0.0.1 upspacket.delivery
 127.0.0.1 uspp.certikeys.org
 127.0.0.1 utorrent-backup-server.top
+127.0.0.1 utorrent-backup-server2.top
+127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 valseg.com.br
 127.0.0.1 vbjr.demo.ezra-ai.com
@@ -325,7 +329,6 @@
 127.0.0.1 www.beautymakeup.ca
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.bkzj.wang
-127.0.0.1 www.carambis.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
 127.0.0.1 www.clubedasluluzinhasro.com.br
@@ -351,7 +354,6 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.totya.ir
-127.0.0.1 www.witrin.hu
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
@@ -371,4 +373,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 365
+# Number of entries: 367
