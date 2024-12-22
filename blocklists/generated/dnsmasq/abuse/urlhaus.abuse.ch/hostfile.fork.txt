@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 04:24:05 (UTC)                      #
+# Last updated: 2024-12-22 06:24:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -56,12 +56,14 @@ server=/blogoss.fr/
 server=/bmcort.com/
 server=/buscascolegios.diit.cl/
 server=/by.haory.cn/
+server=/cajgtus.com/
 server=/catbaparadisehotel.com.vn/
 server=/cdaonline.com.ar/
 server=/centre-de-tri-ups.com/
 server=/cheat.underground-cheat.com/
 server=/chinaapper.com/
 server=/chronopost-suivi-fr.co/
+server=/ciscocdn.com/
 server=/clubedasluluzinhasro.com.br/
 server=/cmgtrading.eu/
 server=/coach.028csc.com/
@@ -74,6 +76,7 @@ server=/cp.eye-network.ru/
 server=/crystalpvp.ru/
 server=/cuenta-ntflx.com/
 server=/data.yhydl.com/
+server=/dcwblida.dz/
 server=/ddos.howardwang2312.com/
 server=/deauduafzgezzfgm.top/
 server=/deloth2.in/
@@ -96,6 +99,7 @@ server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
+server=/download.caihong.com/
 server=/download.emailorganizer.com/
 server=/download.haozip.com/
 server=/download.innovare.no/
@@ -124,13 +128,13 @@ server=/gawx.florenda.com/
 server=/globesql.com/
 server=/goalvaidclub.com/
 server=/goodlabel.cn/
+server=/grupobramam.com.br/
 server=/grupodulcemar.pe/
 server=/guichet-bpost.com/
 server=/hacker.kygtps.live/
 server=/hailcocks.ru/
 server=/herunterladen-spark.alesia.cloud/
 server=/hitman-pro.ru/
-server=/hitstation.nl/
 server=/hr2019.vrcom7.com/
 server=/hradvanceportal.com/
 server=/hseda.com/
@@ -155,6 +159,7 @@ server=/karer.by/
 server=/karoonpc.com/
 server=/keyser-api.eu/
 server=/keysertools.cc/
+server=/kiemthehuyenlong.com/
 server=/kiltone.top/
 server=/klippetamea8.shop/
 server=/knightsinshiningarmor.net/
@@ -203,7 +208,6 @@ server=/mta132.bentonwhite.com/
 server=/muwc.shop/
 server=/mxq.law.kimsavagelaw.com/
 server=/my.upspacket.delivery/
-server=/myguyapp.com/
 server=/myhermes-dienste.com/
 server=/myhermes-liefern.com/
 server=/myhermes-versand.net/
@@ -325,10 +329,12 @@ server=/webmail.tracking-packages.com/
 server=/wimf.demo.ezra-ai.com/
 server=/win-network-checker.cc/
 server=/www.al-rasikh.com/
+server=/www.aqianniao.com/
 server=/www.beautymakeup.ca/
 server=/www.beiletoys.com/
 server=/www.bkzj.wang/
 server=/www.blackhattoolz.com/
+server=/www.carambis.com/
 server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clubedasluluzinhasro.com.br/
@@ -347,7 +353,6 @@ server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
-server=/www.speak-a-message.com/
 server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.support-info-colis.com/
@@ -377,4 +382,4 @@ server=/your-upsdelivery.info/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 371
+# Number of entries: 376

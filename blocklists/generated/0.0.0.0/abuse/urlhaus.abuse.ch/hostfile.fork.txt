@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-22 04:24:05 (UTC)                      #
+# Last updated: 2024-12-22 06:24:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -56,12 +56,14 @@
 0.0.0.0 bmcort.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
+0.0.0.0 cajgtus.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 cheat.underground-cheat.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chronopost-suivi-fr.co
+0.0.0.0 ciscocdn.com
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
@@ -74,6 +76,7 @@
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cuenta-ntflx.com
 0.0.0.0 data.yhydl.com
+0.0.0.0 dcwblida.dz
 0.0.0.0 ddos.howardwang2312.com
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deloth2.in
@@ -96,6 +99,7 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -124,13 +128,13 @@
 0.0.0.0 globesql.com
 0.0.0.0 goalvaidclub.com
 0.0.0.0 goodlabel.cn
+0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hacker.kygtps.live
 0.0.0.0 hailcocks.ru
 0.0.0.0 herunterladen-spark.alesia.cloud
 0.0.0.0 hitman-pro.ru
-0.0.0.0 hitstation.nl
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hradvanceportal.com
 0.0.0.0 hseda.com
@@ -155,6 +159,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 kiltone.top
 0.0.0.0 klippetamea8.shop
 0.0.0.0 knightsinshiningarmor.net
@@ -203,7 +208,6 @@
 0.0.0.0 muwc.shop
 0.0.0.0 mxq.law.kimsavagelaw.com
 0.0.0.0 my.upspacket.delivery
-0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
 0.0.0.0 myhermes-versand.net
@@ -325,10 +329,12 @@
 0.0.0.0 wimf.demo.ezra-ai.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.al-rasikh.com
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beautymakeup.ca
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.bkzj.wang
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -347,7 +353,6 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
@@ -377,4 +382,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 371
+# Number of entries: 376
