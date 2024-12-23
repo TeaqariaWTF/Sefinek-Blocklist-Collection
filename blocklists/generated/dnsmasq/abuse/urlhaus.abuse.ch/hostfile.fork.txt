@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-23 01:42:06 (UTC)                      #
+# Last updated: 2024-12-23 02:54:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -87,7 +87,6 @@ server=/dienstmyhermes.de/
 server=/diicotsec.ru/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
-server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
@@ -98,7 +97,6 @@ server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
-server=/download.caihong.com/
 server=/download.emailorganizer.com/
 server=/download.haozip.com/
 server=/download.innovare.no/
@@ -227,7 +225,6 @@ server=/pb.agnt.ru/
 server=/perfectperu.com/
 server=/pro.gestaoautomatic.top/
 server=/protechasia.com/
-server=/qiniuyunxz.yxflzs.com/
 server=/qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net/
 server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
@@ -248,7 +245,6 @@ server=/seniorcomc.sslblindado.com/
 server=/ser.nrovn.xyz/
 server=/servers.vlrt-gap.com/
 server=/service-espace-sante.com/
-server=/service.bugmakerx.cn/
 server=/servvital.com/
 server=/sfa.com.ar/
 server=/sft-cloud.ru/
@@ -309,6 +305,7 @@ server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
+server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/vbjr.demo.ezra-ai.com/
 server=/vlrt-gap.com/
@@ -339,10 +336,12 @@ server=/www.reifenquick.de/
 server=/www.speak-a-message.com/
 server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
+server=/www.sumiyuki.co.jp/
 server=/www.support-info-colis.com/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.totya.ir/
+server=/www.witrin.hu/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
@@ -363,4 +362,4 @@ server=/your-upsdelivery.info/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 357
+# Number of entries: 356
