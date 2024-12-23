@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-23 12:34:26 (UTC)                      #
+# Last updated: 2024-12-23 14:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -38,6 +38,8 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api-conect-v1.digital
 127.0.0.1 api.52kkg.com
+127.0.0.1 api.co-operativefinance.com
+127.0.0.1 api.hostize.com
 127.0.0.1 aquafusion.com.co
 127.0.0.1 armanayegh.com
 127.0.0.1 arteflordeliz.com.br
@@ -46,6 +48,7 @@
 127.0.0.1 atsukaa.thrivezest.org
 127.0.0.1 aulist.com
 127.0.0.1 avastop.com
+127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
 127.0.0.1 banthis.su
 127.0.0.1 bethelkwabenya.org
@@ -94,6 +97,7 @@
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
+127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.haozip.com
@@ -142,11 +146,11 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jtpdev.co.uk
+127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 kiemthehuyenlong.com
-127.0.0.1 kiltone.top
 127.0.0.1 klippetamea8.shop
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 l3monrat.com
@@ -155,6 +159,7 @@
 127.0.0.1 license.bugmakerx.cn
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
+127.0.0.1 linkvilleplayers.org
 127.0.0.1 live-sendungsverfolgung.com
 127.0.0.1 livetrack.in
 127.0.0.1 lnterrac-ca.rebateit.net
@@ -167,6 +172,7 @@
 127.0.0.1 mandarin.net.au
 127.0.0.1 marcanogarcia.com
 127.0.0.1 mariafgilbert.com
+127.0.0.1 masclauxtoitures.fr
 127.0.0.1 mbsngradnja.com
 127.0.0.1 meinklassiker.com
 127.0.0.1 mertvinc.com.tr
@@ -191,7 +197,6 @@
 127.0.0.1 muwc.shop
 127.0.0.1 mxq.law.kimsavagelaw.com
 127.0.0.1 my.upspacket.delivery
-127.0.0.1 myguyapp.com
 127.0.0.1 myhermes-dienste.com
 127.0.0.1 myhermes-liefern.com
 127.0.0.1 myhermes-versand.net
@@ -216,6 +221,7 @@
 127.0.0.1 park.chuitian.cn
 127.0.0.1 pb.agnt.ru
 127.0.0.1 pid.fly160.com
+127.0.0.1 pns.org.pk
 127.0.0.1 pro.gestaoautomatic.top
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
@@ -235,10 +241,10 @@
 127.0.0.1 scan-echo.online
 127.0.0.1 securite-traitement-gouv.info
 127.0.0.1 security-service-api-link.cc
+127.0.0.1 seniorcomc.sslblindado.com
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 servers.vlrt-gap.com
 127.0.0.1 service-espace-sante.com
-127.0.0.1 service.bugmakerx.cn
 127.0.0.1 servvital.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 sft-cloud.ru
@@ -295,6 +301,7 @@
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
+127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 vbjr.demo.ezra-ai.com
 127.0.0.1 vlrt-gap.com
@@ -325,7 +332,6 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
-127.0.0.1 www.speak-a-message.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
@@ -347,9 +353,10 @@
 127.0.0.1 xn--mise--jours-vitale-espace-sms-pmc.com
 127.0.0.1 xn--vitale-espace--niveau-0zb.com
 127.0.0.1 xn--yh4bx88a.com
+127.0.0.1 ylmcbeta-invite.bugmakerx.cn
 127.0.0.1 youfirst.hradvanceportal.com
 127.0.0.1 your-upsdelivery.info
 127.0.0.1 ywxww.net
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 346
+# Number of entries: 353
