@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-24 01:38:06 (UTC)                      !
+! Last updated: 2024-12-24 02:42:34 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -29,6 +29,7 @@
 ||ai-kling.online^
 ||aide-acheminement-info.com^
 ||airhobi.com^
+||alien-training.com^
 ||amelcarte.com^
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
@@ -66,6 +67,7 @@
 ||clubedasluluzinhasro.com.br^
 ||cmgtrading.eu^
 ||coach.028csc.com^
+||coadymarine.com^
 ||com-animus.app^
 ||conn.masjesu.zip^
 ||consulter-mon-amende.com^
@@ -131,7 +133,6 @@
 ||hacker.kygtps.live^
 ||hailcocks.ru^
 ||hitman-pro.ru^
-||hitstation.nl^
 ||hntngln1.com^
 ||hr2019.vrcom7.com^
 ||hradvanceportal.com^
@@ -181,10 +182,8 @@
 ||mhmsoftware.com^
 ||microprocessorbook.com^
 ||microprocessordesignbook.com^
-||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||minu-pakk.com^
-||minu-pakk.info^
 ||minupakk.com^
 ||minupakk.net^
 ||misljen.net^
@@ -192,7 +191,6 @@
 ||mitgpssms.com^
 ||mjsqurej.com^
 ||mon-dossier-renouvellement.com^
-||mon-suivi-logistique.info^
 ||mondiale-relaissupport.com^
 ||monformulaire-sante.com^
 ||mta132.bentonwhite.com^
@@ -207,24 +205,24 @@
 ||nabawitransport.com^
 ||namthaibinh.net^
 ||new-consigne-sms-track.com^
+||noithaticon.vn^
 ||ns.smallsrv.com^
 ||nsomikey.tokyo^
 ||nyiragongovolcano.com^
 ||o0s.cc^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
+||onlineshoppe.semilinktech.com^
 ||organisme-renouvellement.com^
 ||pacificmont.com^
 ||pack153queens.com^
 ||palharesinformatica.com.br^
 ||paonancs.cn^
-||parcel-track-find.info^
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
 ||perfectperu.com^
 ||pid.fly160.com^
-||pns.org.pk^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
@@ -244,7 +242,6 @@
 ||sec.dashabi.in^
 ||security-service-api-link.cc^
 ||seniorcomc.sslblindado.com^
-||ser.nrovn.xyz^
 ||servers.vlrt-gap.com^
 ||service-espace-sante.com^
 ||service.bugmakerx.cn^
@@ -257,15 +254,13 @@
 ||sinupakk.net^
 ||sirault.be^
 ||soft.110route.com^
-||softcatalog.ru^
 ||solve.fizq.net^
 ||soportegira.net^
+||spaceframe.mobi.space-frame.co.za^
 ||spotcarservice.ru^
 ||ssquar.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
-||suivi-macommande.info^
-||suivre-ma-livraison.info^
 ||support-abonnement.com^
 ||support-colis-info.com^
 ||support.clz.kr^
@@ -294,14 +289,12 @@
 ||uii.eye-network.ru^
 ||ulomstore.com^
 ||up.maolaoban.top^
-||up1035rwa5zk.prodemadoutorado.org^
 ||update.cg100iii.com^
 ||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upload.vina-host.com^
 ||ups-zolldienst.com^
-||upspacket.delivery^
 ||utorrent-backup-server.top^
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
@@ -329,11 +322,11 @@
 ||www.grupodulcemar.pe^
 ||www.hootech.com^
 ||www.hseda.com^
+||www.ingonherbal.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.netsolution.it^
 ||www.ojang.pe.kr^
-||www.opolis.io^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.speak-a-message.com^
@@ -348,7 +341,6 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
-||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
 ||ximonite.com^
@@ -367,4 +359,4 @@
 ||yzkzixun.com^
 ||z.shavsl.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 361
+! Number of entries: 353
