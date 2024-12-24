@@ -7,8 +7,6 @@ $TTL 300
 *.123.ywxww.net CNAME .
 139520.aioc.qbgxl.com CNAME .
 *.139520.aioc.qbgxl.com CNAME .
-1717.1000uc.com CNAME .
-*.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
 *.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
@@ -91,8 +89,6 @@ banthis.su CNAME .
 *.banthis.su CNAME .
 bethelkwabenya.org CNAME .
 *.bethelkwabenya.org CNAME .
-bitkiselurunsiparis.com CNAME .
-*.bitkiselurunsiparis.com CNAME .
 blogoss.fr CNAME .
 *.blogoss.fr CNAME .
 bmcort.com CNAME .
@@ -127,8 +123,6 @@ coadymarine.com CNAME .
 *.coadymarine.com CNAME .
 com-animus.app CNAME .
 *.com-animus.app CNAME .
-conn.masjesu.zip CNAME .
-*.conn.masjesu.zip CNAME .
 consulter-mon-amende.com CNAME .
 *.consulter-mon-amende.com CNAME .
 contravinf.com CNAME .
@@ -141,8 +135,6 @@ cuenta-ntflx.com CNAME .
 *.cuenta-ntflx.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
-dcwblida.dz CNAME .
-*.dcwblida.dz CNAME .
 ddos.howardwang2312.com CNAME .
 *.ddos.howardwang2312.com CNAME .
 deauduafzgezzfgm.top CNAME .
@@ -163,6 +155,8 @@ diicotsec.ru CNAME .
 *.diicotsec.ru CNAME .
 disk.accord1key.cn CNAME .
 *.disk.accord1key.cn CNAME .
+divvanews.com CNAME .
+*.divvanews.com CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
 dl.natgo.cn CNAME .
@@ -173,8 +167,6 @@ dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
 dledlank.bmcort.com CNAME .
 *.dledlank.bmcort.com CNAME .
-do-dear.com CNAME .
-*.do-dear.com CNAME .
 dow.andylab.cn CNAME .
 *.dow.andylab.cn CNAME .
 down.fwqlt.com CNAME .
@@ -185,8 +177,6 @@ down.pcclear.com CNAME .
 *.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
-download.caihong.com CNAME .
-*.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
 download.haozip.com CNAME .
@@ -263,8 +253,6 @@ hitstation.nl CNAME .
 *.hitstation.nl CNAME .
 hntngln1.com CNAME .
 *.hntngln1.com CNAME .
-hr2019.vrcom7.com CNAME .
-*.hr2019.vrcom7.com CNAME .
 hradvanceportal.com CNAME .
 *.hradvanceportal.com CNAME .
 hseda.com CNAME .
@@ -339,6 +327,8 @@ m.gutousoft.com CNAME .
 *.m.gutousoft.com CNAME .
 maciejowice.dobrybip.pl CNAME .
 *.maciejowice.dobrybip.pl CNAME .
+maisonetcites.fr CNAME .
+*.maisonetcites.fr CNAME .
 makingbmw2skodahossh.net CNAME .
 *.makingbmw2skodahossh.net CNAME .
 mandarin.net.au CNAME .
@@ -445,8 +435,6 @@ pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
-protechasia.com CNAME .
-*.protechasia.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
@@ -493,8 +481,6 @@ service-espace-sante.com CNAME .
 *.service-espace-sante.com CNAME .
 servvital.com CNAME .
 *.servvital.com CNAME .
-sfa.com.ar CNAME .
-*.sfa.com.ar CNAME .
 sft-cloud.ru CNAME .
 *.sft-cloud.ru CNAME .
 shell.dimitrimedia.com CNAME .
@@ -547,8 +533,6 @@ tecunonline.com CNAME .
 *.tecunonline.com CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
-temirtau-adm.ru CNAME .
-*.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
 *.tengfeidn.com CNAME .
 thedannymorganband.com CNAME .
@@ -617,16 +601,12 @@ win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 al-rasikh.com CNAME .
 *.al-rasikh.com CNAME .
-alaqalezdehar.com CNAME .
-*.alaqalezdehar.com CNAME .
 aqianniao.com CNAME .
 *.aqianniao.com CNAME .
 atordeg.com.br CNAME .
 *.atordeg.com.br CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
-bkzj.wang CNAME .
-*.bkzj.wang CNAME .
 blackhattoolz.com CNAME .
 *.blackhattoolz.com CNAME .
 carambis.com CNAME .
@@ -643,12 +623,12 @@ hootech.com CNAME .
 *.hootech.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
-maxmoney.com CNAME .
-*.maxmoney.com CNAME .
 medises.co.kr CNAME .
 *.medises.co.kr CNAME .
 netsolution.it CNAME .
 *.netsolution.it CNAME .
+opolis.io CNAME .
+*.opolis.io CNAME .
 qqqmy.com CNAME .
 *.qqqmy.com CNAME .
 speak-a-message.com CNAME .
@@ -675,8 +655,6 @@ zhikey.com CNAME .
 *.zhikey.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
-wz.3911.com CNAME .
-*.wz.3911.com CNAME .
 xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 ximonite.com CNAME .

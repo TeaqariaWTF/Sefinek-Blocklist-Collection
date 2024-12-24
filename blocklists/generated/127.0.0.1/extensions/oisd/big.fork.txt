@@ -1,9 +1,9 @@
-# Version: 202412240407
+# Version: 202412240608
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 138417
-# Last modified: 2024-12-24T04:07:48+0000
+! Entries: 138227
+# Last modified: 2024-12-24T06:08:14+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -347,7 +347,6 @@
 127.0.0.1 0202.472607582.workers.dev
 127.0.0.1 0202.com.tw
 127.0.0.1 0203659.com
-127.0.0.1 020495384.com
 127.0.0.1 0205.vip
 127.0.0.1 020c184d.webmailonline.pages.dev
 127.0.0.1 020k365.com
@@ -755,7 +754,6 @@
 127.0.0.1 05f6d619f2ec8b83a72df963121fcc1b-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 05f9ada.wcomhost.com
 127.0.0.1 05f9ae0.wcomhost.com
-127.0.0.1 05fa754f24.com
 127.0.0.1 05fc725q.cn
 127.0.0.1 05ff107.wcomhost.com
 127.0.0.1 05j1m.mjt.lu
@@ -1145,7 +1143,6 @@
 127.0.0.1 0c041156-66b0-4a5a-98f0-02ded5cc63e8.usrfiles.com
 127.0.0.1 0c0828ygk2pg7z7yivqwe9gf0cfewvbi.ocalam.com
 127.0.0.1 0c21c8e6120224e28555bd51103e40d6-dot-gle9392420309493993.rj.r.appspot.com
-127.0.0.1 0c3zy.bsamorim.adv.br
 127.0.0.1 0c42e738-1397-4a8e-89f8-5789db3efc2b-bucket.storage.fleek.co
 127.0.0.1 0c4d4e6.wcomhost.com
 127.0.0.1 0c584d61-0ba8-48fe-8709-44323bfc47c1.htmlcomponentservice.com
@@ -3373,7 +3370,6 @@
 127.0.0.1 1835.url25fatm.com
 127.0.0.1 183621902d80.ngrok.io
 127.0.0.1 183709ef9b6572a103f79032b1586b81-dot-goff039302032323.rj.r.appspot.com
-127.0.0.1 18374d1k4rcvrypgrstrictd9758924.co.vu
 127.0.0.1 1838d78b-8b0f-4286-b93b-c7ae6f805483.usrfiles.com
 127.0.0.1 183b4625-f3f2-4ebf-9866-96f605cc6b97.usrfiles.com
 127.0.0.1 183d151a1b939c63b1f7c79514a5639d.cdn.bubble.io
@@ -7394,7 +7390,6 @@
 127.0.0.1 3659d.vip
 127.0.0.1 3659dd.cc
 127.0.0.1 3659dd.net
-127.0.0.1 3659ddd.com
 127.0.0.1 3659e.vip
 127.0.0.1 3659f.cc
 127.0.0.1 3659ff.cc
@@ -7421,7 +7416,6 @@
 127.0.0.1 3659ss.net
 127.0.0.1 3659tt.net
 127.0.0.1 3659u.com
-127.0.0.1 3659uu.cc
 127.0.0.1 3659uuu.cc
 127.0.0.1 3659uuu.com
 127.0.0.1 3659vip0.com
@@ -7779,7 +7773,6 @@
 127.0.0.1 38q47xq9twqt-1323563947.cos.ap-jakarta.myqcloud.com
 127.0.0.1 38rpav.horusian.com
 127.0.0.1 38uew3erhefvdjsdioe2u9wrefdbvhdnsc.weebly.com
-127.0.0.1 38usrs786ps.cc
 127.0.0.1 38uu-mail-att.weeblysite.com
 127.0.0.1 38w98z.duckdns.org
 127.0.0.1 38xcgubolz.s3.us-south.objectstorage.softlayer.net
@@ -8682,7 +8675,6 @@
 127.0.0.1 4164d5b6eb.com
 127.0.0.1 416ded94b79aa79b07780b770632f294.s3.amazonaws.com
 127.0.0.1 417151986f53.ngrok.io
-127.0.0.1 41786.shengwangsw.com
 127.0.0.1 417ff3a1360d7e071e8d3544049b5c0d-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 418175.cc
 127.0.0.1 4184fd2a.lacortedilisa.com
@@ -9305,7 +9297,6 @@
 127.0.0.1 4bliss.com.au
 127.0.0.1 4blvx.kmgsuwasewa.lk
 127.0.0.1 4bnwebbpichincha.webcindario.com
-127.0.0.1 4bofares.ru.com
 127.0.0.1 4bqs.com
 127.0.0.1 4br.b5b.mywebsitetransfer.com
 127.0.0.1 4briz1ua.square.site
@@ -12870,7 +12861,6 @@
 127.0.0.1 5gtower.in
 127.0.0.1 5gulx.csb.app
 127.0.0.1 5gvodafone.cz
-127.0.0.1 5gxray.com
 127.0.0.1 5gxs.org
 127.0.0.1 5h.jeansbestlawnservice.com
 127.0.0.1 5h3oyhv838.com
@@ -12896,7 +12886,6 @@
 127.0.0.1 5icim50.de
 127.0.0.1 5ihoney.com
 127.0.0.1 5ii.pl
-127.0.0.1 5ijb2r5.cn
 127.0.0.1 5ilr0.csb.app
 127.0.0.1 5imoney.com
 127.0.0.1 5ip9.com
@@ -12911,7 +12900,6 @@
 127.0.0.1 5jd2tj2idrool.com
 127.0.0.1 5juf.pages.dev
 127.0.0.1 5jvlt.qwo231sdx.club
-127.0.0.1 5jwakyaknxqwsjbdwmpqbfunbuy.wusps.xyz
 127.0.0.1 5k1jf4nl.duckdns.org
 127.0.0.1 5k6jzg.gow.englishwoodlands.co.uk
 127.0.0.1 5k9b8nmc0x8r.live
@@ -12950,7 +12938,6 @@
 127.0.0.1 5mytesthdg-b70ea4.ingress-daribow.ewp.live
 127.0.0.1 5n1iar1lb0la.allcleanbydee2.com
 127.0.0.1 5n3gg4.hbg.hebdenbridgedental.co.uk
-127.0.0.1 5n4i1se8txdutslleao.liusanjie.cc
 127.0.0.1 5nbzjneu.jimdofree.com
 127.0.0.1 5ncovjy5acpjcw.com
 127.0.0.1 5nfc.net
@@ -12969,8 +12956,6 @@
 127.0.0.1 5ok.org
 127.0.0.1 5oreba.pages.dev
 127.0.0.1 5organic.com
-127.0.0.1 5oy7nkq5jqsm.fenet.com.tr
-127.0.0.1 5oz.xyz
 127.0.0.1 5p6kde9mczjdaim3e5vmgoqokey.lspower.xyz
 127.0.0.1 5passes.com
 127.0.0.1 5pehn9.pulty.multiversemechanics.info
@@ -12985,7 +12970,6 @@
 127.0.0.1 5q2ycjb3lpuh.waterloojenniferwu.com
 127.0.0.1 5q5d.short.gy
 127.0.0.1 5q70.com
-127.0.0.1 5q7eb.website
 127.0.0.1 5qayros6.square.site
 127.0.0.1 5qb8c5.cn
 127.0.0.1 5qbqe1.lavoromi.com
@@ -13024,8 +13008,6 @@
 127.0.0.1 5ro7dj.postal.gameplansession.com
 127.0.0.1 5rrgfgd3f2d2d.blogspot.com
 127.0.0.1 5rv7nc.blow.harrisretreat.com
-127.0.0.1 5ryn9muf2v.qwo231sdx.club
-127.0.0.1 5rytyfwrhe01aho.we9ixzz.co
 127.0.0.1 5rzmd3.blow.harrisretreat.com
 127.0.0.1 5s.jeansbestlawnservice.com
 127.0.0.1 5s34y422.cn
@@ -13145,7 +13127,6 @@
 127.0.0.1 5twmjfo.mazetalaei.ir
 127.0.0.1 5ty.easy.co
 127.0.0.1 5u.com
-127.0.0.1 5u1fmsrzu2iqxpi72okc8vul8r.liusanjie.cc
 127.0.0.1 5u42wjin0vfz.live
 127.0.0.1 5u559169995.webflow.io
 127.0.0.1 5u941.com
@@ -13200,7 +13181,6 @@
 127.0.0.1 5z4tbn.nt.nativetrees.co.uk
 127.0.0.1 5zax0yz7ou.vercel.app
 127.0.0.1 5zd8kjxj.square.site
-127.0.0.1 5zjaeg.xxoht18.cn
 127.0.0.1 5znihpvb.square.site
 127.0.0.1 5zswvilfyx.wusps.xyz
 127.0.0.1 5zudk6vssys641piixafeckwbr.1qw2es2z.xyz
@@ -13219,7 +13199,6 @@
 127.0.0.1 60000000000684987321695498724.tk
 127.0.0.1 60000000000684987321695498726.tk
 127.0.0.1 600000000478569326556874699109.tk
-127.0.0.1 60000000875964635269823.tk
 127.0.0.1 600002.selcdn.ru
 127.0.0.1 6001628d3d.com
 127.0.0.1 60019.it
@@ -13273,7 +13252,6 @@
 127.0.0.1 60352d34.koldb.com.cn
 127.0.0.1 603712.pages.dev
 127.0.0.1 603solutionscobwwpincludes-jscropatt-mailingauto.weebly.com
-127.0.0.1 60409.clrpi8.8uixa9.wap.shuaihu99.com
 127.0.0.1 604431.selcdn.ru
 127.0.0.1 604f0793194e93c80a6efd364a927431-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 605009dd-3470-44fa-b290-47c41179cae1.usrfiles.com
@@ -13301,7 +13279,6 @@
 127.0.0.1 607a75f3.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com
 127.0.0.1 607d12a0bc5d446532823895929e6554-dot-lifeonline-297312.oa.r.appspot.com
 127.0.0.1 608.360-insurance.com
-127.0.0.1 608293.aguilarmotorsport.com
 127.0.0.1 609031-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 609425.selcdn.ru
 127.0.0.1 60999.cn
@@ -13313,13 +13290,11 @@
 127.0.0.1 60cyr.codesandbox.io
 127.0.0.1 60d24778.006300.cn
 127.0.0.1 60d5e2b78d50c685e437890d56cdb494-dot-spow3039.df.r.appspot.com
-127.0.0.1 60d8w.ch-leica.com
 127.0.0.1 60dfao-dot-u8ruj-7c4l2c-752rqx.appspot.com
 127.0.0.1 60dh8v.debutifyus.com
 127.0.0.1 60dhhs.com
 127.0.0.1 60gp.ovh.net
 127.0.0.1 60l.ndfl.shop
-127.0.0.1 60ocqjrj5.repuestogas.com
 127.0.0.1 60q565qe5.top
 127.0.0.1 60questions.net
 127.0.0.1 60sectech.com
@@ -13336,7 +13311,6 @@
 127.0.0.1 610207.selcdn.ru
 127.0.0.1 610220.selcdn.ru
 127.0.0.1 610225.selcdn.ru
-127.0.0.1 610243.info
 127.0.0.1 610261f33576afc4106f4d0da1f5ff30-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 610307.selcdn.ru
 127.0.0.1 610508.selcdn.ru
@@ -13371,7 +13345,6 @@
 127.0.0.1 613711.selcdn.ru
 127.0.0.1 613montreal.com
 127.0.0.1 614.155.myftpupload.com
-127.0.0.1 6145f019.ilekdfjcxm.shop
 127.0.0.1 614807.selcdn.ru
 127.0.0.1 614933-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 61494.cc
@@ -13905,7 +13878,6 @@
 127.0.0.1 65e6316a-622f-4d41-90f1-19070c790a91-00-2gqqjopsrdy7g.picard.replit.dev
 127.0.0.1 65eb2599a77394a5aef53254--polite-faloodeh-498106.netlify.app
 127.0.0.1 65ed5de2012720342.temporary.link
-127.0.0.1 65f0b9ce.0fhsdakffirer.org.cn
 127.0.0.1 65f239c4-a207-4e75-b873-7f720e4305a8.usrfiles.com
 127.0.0.1 65f92cc6-1408-4788-811f-a1533bac7000-00-3sbi9upt8umy6.kirk.replit.dev
 127.0.0.1 65f96microsoft0a65f96account.yolasite.com
@@ -13941,9 +13913,7 @@
 127.0.0.1 65vk1fba34.com
 127.0.0.1 65wenv5f.xyz
 127.0.0.1 65xferaoudk.53244ds.xyz
-127.0.0.1 65zefqkm0zckrt231c3l2uy34.kayuk.ru
 127.0.0.1 66.uralkrov.ru
-127.0.0.1 660.aweeh.works
 127.0.0.1 660019.selcdn.ru
 127.0.0.1 6600e4065dd2d5e9957c93cc1725847b.a83td.sbs
 127.0.0.1 66012dfd-b5c3-4fb2-b2e4-68ebf518b3f7.usrfiles.com
@@ -13995,7 +13965,6 @@
 127.0.0.1 6651tp.com
 127.0.0.1 66527.top
 127.0.0.1 665346b7f9308b72f04604f6--unrivaled-conkies-f2f5b1.netlify.app
-127.0.0.1 66542e64-9f4c-4687-aaa4-a858264cbc48.id.repl.co
 127.0.0.1 66543514.virtualagro.ro
 127.0.0.1 6654514154154451.hyperphp.com
 127.0.0.1 66559ba0.svyr9n.shop
@@ -14333,7 +14302,6 @@
 127.0.0.1 6829305185-hounston.pages.dev
 127.0.0.1 6836501.com
 127.0.0.1 6836588.com
-127.0.0.1 6836592.com
 127.0.0.1 68365dd.com
 127.0.0.1 68365hh.com
 127.0.0.1 68365ii.com
@@ -14375,7 +14343,6 @@
 127.0.0.1 68873827191195786736224.jamb2022.co
 127.0.0.1 688757939023441-dot-ifile-document.appspot.com
 127.0.0.1 688771-47119159.bluelabeldeals.com
-127.0.0.1 688819417915712.ga
 127.0.0.1 68883655.com
 127.0.0.1 688de7b3822de.com
 127.0.0.1 688mob.com
@@ -14467,7 +14434,6 @@
 127.0.0.1 6a71d00a-fefb-42d9-ab0f-626b9ec20830.usrfiles.com
 127.0.0.1 6a7f9bf9-8a7f-41cc-a4cc-82fead4a70d4.usrfiles.com
 127.0.0.1 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
-127.0.0.1 6ab17043.sr-aircleaner2008.com.cn
 127.0.0.1 6ab7a383-6994-4f8c-92be-b4971ebdf780.usrfiles.com
 127.0.0.1 6aba3965.hotdzk.shop
 127.0.0.1 6ac78725fd.com
@@ -14484,7 +14450,6 @@
 127.0.0.1 6atlantic.com
 127.0.0.1 6auth-session-timedout-naver.firebaseapp.com
 127.0.0.1 6auth-session-timedout-naver.web.app
-127.0.0.1 6autografiando.za.com
 127.0.0.1 6avz.com
 127.0.0.1 6b2d1c57036b2c.lhr.life
 127.0.0.1 6b421caa795d.ngrok.app
@@ -14567,7 +14532,6 @@
 127.0.0.1 6cfn83rb.square.site
 127.0.0.1 6chmes.stanishd.com
 127.0.0.1 6craqg.onl.onlinetrees.co.uk
-127.0.0.1 6ctwjbbs.tntovvers.com
 127.0.0.1 6cxlrfd.imvolleyball.org
 127.0.0.1 6cyn7-7qaaa-aaaad-qetrq-cai.raw.ic0.app
 127.0.0.1 6d05b57d8bf1df423f7de91db6a71b31-dot-gle9392420309493993.rj.r.appspot.com
@@ -14611,7 +14575,6 @@
 127.0.0.1 6ea9jxmvca.sharedwithexpose.com
 127.0.0.1 6eab5fe7.ngrok.io
 127.0.0.1 6eaca0ef.1068idc.cn
-127.0.0.1 6eb598f8.hi8lsm.shop
 127.0.0.1 6eb9591f3c0d9dd51eb58249b18152a6-dot-spow3039.df.r.appspot.com
 127.0.0.1 6eb9b6fd31d368e50a9a4c596125c700-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 6ebcc20c10b2e9de8866c707a86e1109-dot-gle9392420309493993.rj.r.appspot.com
@@ -14719,7 +14682,6 @@
 127.0.0.1 6jm2i-iaaaa-aaaad-qcr5a-cai.raw.ic0.app
 127.0.0.1 6jnb4erv.gb.net
 127.0.0.1 6jr9vw.postal.gameplansession.com
-127.0.0.1 6jrkr8lkhizp15d74q1lmq9msv50s2etx1f04of5twa8uq2am7.xyz
 127.0.0.1 6jrv37.ktt55.my.id
 127.0.0.1 6k1fsp.4.fourcrossesinn.com
 127.0.0.1 6k4sqb9egij0mkxptifc.wusps.xyz
@@ -14774,7 +14736,6 @@
 127.0.0.1 6ped2nd3yp.com
 127.0.0.1 6pnota2n0fm8pzpp85r9a7sc53jn5prk.ocalam.com
 127.0.0.1 6po4.q3rzc.villa-esplanada.ro
-127.0.0.1 6pyigimk.qwo231sdx.club
 127.0.0.1 6pznpz.com
 127.0.0.1 6q2hz7.csb.app
 127.0.0.1 6q3ygm.jik.thetreecentre.com
@@ -14797,7 +14758,6 @@
 127.0.0.1 6rjg6-ciaaa-aaaad-qeydq-cai.raw.ic0.app
 127.0.0.1 6rn05mmbct.ru
 127.0.0.1 6rtmg527q0y54bdapp1ef3tqn.smtp.codetwo.online
-127.0.0.1 6rwsonyeaohkatranggueik.my.id
 127.0.0.1 6s-chase.com
 127.0.0.1 6s40xi.betohacker.com
 127.0.0.1 6s4cutck.repuestogas.com
@@ -14827,17 +14787,14 @@
 127.0.0.1 6twz8g-5000.fc-eu-0.pitcher.csb.app
 127.0.0.1 6u2pun.jonnappa.com
 127.0.0.1 6u5io-jiaaa-aaaad-qd7la-cai.raw.ic0.app
-127.0.0.1 6ubsjlx4rttguqiedb36xqkls4jvs.qwo231sdx.club
 127.0.0.1 6uc.cc
 127.0.0.1 6uhtyl.cn
 127.0.0.1 6ujk8x9soxhm.com
 127.0.0.1 6uqfgotrc.duckdns.org
 127.0.0.1 6utkn8.deta.dev
-127.0.0.1 6utryo.cn
 127.0.0.1 6v41p4bsq.com
 127.0.0.1 6v6.work
 127.0.0.1 6vfmbabg9pc9.live
-127.0.0.1 6vhsoe44v.top
 127.0.0.1 6vjnk-riaaa-aaaad-qea3q-cai.raw.ic0.app
 127.0.0.1 6vq7pf1e4.indylatinawrds.com
 127.0.0.1 6vzpcc3l.square.site
@@ -14898,7 +14855,6 @@
 127.0.0.1 70152d10.fdf37ba85957ab3758484886.workers.dev
 127.0.0.1 7016.hu
 127.0.0.1 701agreementmail.weebly.com
-127.0.0.1 701cf59c.n61gft.shop
 127.0.0.1 702212896572924covu.co.vu
 127.0.0.1 70235login.weebly.com
 127.0.0.1 702365.com
@@ -14915,7 +14871,6 @@
 127.0.0.1 705113-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 705258594479596-dot-ifile-document.appspot.com
 127.0.0.1 7054company.github.io
-127.0.0.1 705762578244967.cocopasa.com.mx
 127.0.0.1 70595118.top
 127.0.0.1 705lawncare-1318334846.cos.ap-tokyo.myqcloud.com
 127.0.0.1 7063822f.meta-teams.pages.dev
@@ -14974,7 +14929,6 @@
 127.0.0.1 7116966.com
 127.0.0.1 711academy.com
 127.0.0.1 711b8fa77f7d944749c5f1c5be66637f-dot-solidstar-improts.uk.r.appspot.com
-127.0.0.1 7123346333.pnti.or.id
 127.0.0.1 712742.xyz
 127.0.0.1 71296d96.txat99.net
 127.0.0.1 712f35e4ae07e1bb13ff0884dcce744edb242f5d22b766c08fd87772a4.pages.dev
@@ -15045,12 +14999,10 @@
 127.0.0.1 7251.bapi.adsafeprotected.com
 127.0.0.1 72511143.huaxinsbm.com
 127.0.0.1 72519e6.tete4.my.id
-127.0.0.1 7252ae8c.76jtjr897ku.com.cn
 127.0.0.1 7253863-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 725a676c.ilekdfjcxm.shop
 127.0.0.1 72627.cc
 127.0.0.1 726704030228633-dot-wetransfer-auth-file-341.appspot.com
-127.0.0.1 726726.discoveringreligion.net
 127.0.0.1 7271711-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 72726.duckdns.org
 127.0.0.1 72753736365.com
@@ -15084,7 +15036,6 @@
 127.0.0.1 730322.cc
 127.0.0.1 7303a09a9435e14d2141-577d252383f9c1423860b10142058ad7.r27.cf2.rackcdn.com
 127.0.0.1 7305e4f19f607f0101443e6190e2691a-dot-gle9392420309493993.rj.r.appspot.com
-127.0.0.1 7308433632.mexigas.com.mx
 127.0.0.1 732930-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 732r4ygcar5mqtpiw99e.cybertruck.eu.com
 127.0.0.1 73336zubo25326.com
@@ -15126,14 +15077,12 @@
 127.0.0.1 7365vip4.com
 127.0.0.1 7365vip5.com
 127.0.0.1 7365vip88.com
-127.0.0.1 7365win.com
 127.0.0.1 7365z3.com
 127.0.0.1 7367365.com
 127.0.0.1 7368327439d6.godaddysites.com
 127.0.0.1 736d0mvetjw.life
 127.0.0.1 736db5cf6e7907dcc044dd10fe226794-dot-spow3039.df.r.appspot.com
 127.0.0.1 737-104794.weeblysite.com
-127.0.0.1 737024398465.eu-gb.cf.appdomain.cloud
 127.0.0.1 737037902638814758.weebly.com
 127.0.0.1 73718fcc95.nxcli.io
 127.0.0.1 73725722.domohost.com
@@ -15215,14 +15164,12 @@
 127.0.0.1 74587730-00ae-4852-8aee-f0e7f74ed96c.usrfiles.com
 127.0.0.1 745879.apartments
 127.0.0.1 7459.org
-127.0.0.1 745b481f.amorefantasia.dk
 127.0.0.1 745b4e1ad89467221.temporary.link
 127.0.0.1 746323.selcdn.ru
 127.0.0.1 7463yydhhfbr64737748.weebly.com
 127.0.0.1 74674login.weebly.com
 127.0.0.1 746bc1d0fd900.linguazine.com
 127.0.0.1 747247y2t.weebly.com
-127.0.0.1 747769.technip-energies.store
 127.0.0.1 747b9eaa.ngrok.io
 127.0.0.1 747dc46a4d.8428db03e3.com
 127.0.0.1 74805b128ff1bc52745f6b19735d6097-dot-656757657-306609.df.r.homelandfoundation.org
@@ -15234,7 +15181,6 @@
 127.0.0.1 74979-3102ca-039c0fa-beec4c-93ccffae.pages.dev
 127.0.0.1 7498f8e3-b213-4068-a926-09504e3eca09-00-1htezcoel0yxh.riker.replit.dev
 127.0.0.1 749948-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
-127.0.0.1 74a10173.be839ksj-q.shop
 127.0.0.1 74b6c9bebf541c17a229d921556d14a4ffd4.com.tr
 127.0.0.1 74c2d949ab74e70f6ffda64d4c101263-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 74c7974d32b08f0650fded57b6e129e7-dot-gle9392420309493993.rj.r.appspot.com
@@ -15262,7 +15208,6 @@
 127.0.0.1 752250.icu
 127.0.0.1 752264-coinbase.com
 127.0.0.1 752646-dot-river-direction-289114.appspot.com
-127.0.0.1 752881.hevapro.com
 127.0.0.1 752fe978.603ce8686ef4ed6a34b057f5.workers.dev
 127.0.0.1 752ir9crzj.8716.gencmert.com
 127.0.0.1 7530518915281032.jamb2022.co
@@ -15281,7 +15226,6 @@
 127.0.0.1 754480bd33.com
 127.0.0.1 754657689.weebly.com
 127.0.0.1 7548219088.rangiroaplongee.pf
-127.0.0.1 754846da.nd-8wjsn.cloud
 127.0.0.1 754862.cc
 127.0.0.1 7548654654343872.biz.id
 127.0.0.1 754c46.postal.gameplansession.com
@@ -15293,7 +15237,6 @@
 127.0.0.1 755a8f4a70fa9a4a75d8c085a728d51d-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 756-107694hr4g.weeblysite.com
 127.0.0.1 7561214646c2f9f66b99af2fb8f04041-dot-gle9392420309493993.rj.r.appspot.com
-127.0.0.1 7561365.com
 127.0.0.1 75616927db.6096db9a2b.com
 127.0.0.1 7562227725483538.jamb2022.co
 127.0.0.1 7563ac29.jie0kslki.cloud
@@ -15311,7 +15254,6 @@
 127.0.0.1 7577185facebookphotolog-groups-fotografias-para-la-vidakwskwidn.filesusr.com
 127.0.0.1 757jetsfans.com
 127.0.0.1 757wf.csb.app
-127.0.0.1 758408067740960013.mediawebs.co
 127.0.0.1 758468-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 75851.top
 127.0.0.1 7589e3888961c1aa2f89cb40e6eb4419-dot-gle9392420309493993.rj.r.appspot.com
@@ -15405,7 +15347,6 @@
 127.0.0.1 7685365.com
 127.0.0.1 76856743775.weebly.com
 127.0.0.1 76878login.weebly.com
-127.0.0.1 7690aed1.dzlvk5.shop
 127.0.0.1 769oods234.sgp1.digitaloceanspaces.com
 127.0.0.1 76b61c25b1.c8dd7cddbb.com
 127.0.0.1 76bacd6da03602577.temporary.link
@@ -15413,7 +15354,6 @@
 127.0.0.1 76e33fd6.qepfmq.shop
 127.0.0.1 76f37d284b3669949.temporary.link
 127.0.0.1 76f74721ab.com
-127.0.0.1 76fe647b.txat99.net
 127.0.0.1 76gmail.com
 127.0.0.1 76gogoneww.blogspot.com
 127.0.0.1 76gogoneww.blogspot.mk
@@ -15438,7 +15378,6 @@
 127.0.0.1 770tree.com
 127.0.0.1 77103de.info-commerz.com
 127.0.0.1 77163090188006048461479.jamb2022.co
-127.0.0.1 7719094ddf.com
 127.0.0.1 772268.com
 127.0.0.1 77276.com
 127.0.0.1 772991afe12549b7f3d96e7979dc6903-dot-solidstar-improts.uk.r.appspot.com
@@ -15519,7 +15458,6 @@
 127.0.0.1 7798492342.blob.core.windows.net
 127.0.0.1 77992.cc
 127.0.0.1 779a2534.cloudingrapup.pages.dev
-127.0.0.1 779bf614.sdwanwang.cn
 127.0.0.1 779z8t.postal.gameplansession.com
 127.0.0.1 779zt.csb.app
 127.0.0.1 77a173e14220d4d50e93d837a6a14f00-dot-gle9392420309493993.rj.r.appspot.com
@@ -15591,7 +15529,6 @@
 127.0.0.1 7855177.com
 127.0.0.1 7861648-dot-oaao-274308.uc.r.appspot.com
 127.0.0.1 7865.vip
-127.0.0.1 7867867833434.campingsierradegata.es
 127.0.0.1 7868d5c036.com
 127.0.0.1 786autobodyrepai.co.za
 127.0.0.1 786contracting.com
@@ -15647,7 +15584,6 @@
 127.0.0.1 78t3287.weebly.com
 127.0.0.1 78usls566ps.cc
 127.0.0.1 78usps352ps.com
-127.0.0.1 78vb16.cn
 127.0.0.1 78wqwwwh.jimdofree.com
 127.0.0.1 78xnf2yckssh.s3.us-east-2.amazonaws.com
 127.0.0.1 78yav8-vqe9890-veq9y87e-q98yv.wonopat316.workers.dev
@@ -15674,8 +15610,6 @@
 127.0.0.1 79435xmgd8qfeu7ib7zn.vercel.app
 127.0.0.1 7944bcc817.com
 127.0.0.1 795-108560ttyt.weeblysite.com
-127.0.0.1 7950.43811.wap.shuaihu99.com
-127.0.0.1 795681e3-ccec-4828-9b84-62205f2a31d3.id.repl.co
 127.0.0.1 795835.beeappropriation.top
 127.0.0.1 7966b813317d0661a48ef4d2bf1b2410-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 797016912939021-dot-b2n4y7h.uc.r.appspot.com
@@ -15698,7 +15632,6 @@
 127.0.0.1 79e6bf9b-7364-473c-9cce-248cd04742ce.id.repl.co
 127.0.0.1 79eed3e3238599e497588a718bfd219f.in
 127.0.0.1 79gmjy.blow.harrisretreat.com
-127.0.0.1 79h4jbqdnzpcryd5.lspower.xyz
 127.0.0.1 79j68qav2.com
 127.0.0.1 79k52baw2qa3.com
 127.0.0.1 79mob.com
@@ -15731,7 +15664,6 @@
 127.0.0.1 7adz8p.lavoromi.com
 127.0.0.1 7aef7639fd0ca385dfd02225ab773a37-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 7af6c61098.nxcli.io
-127.0.0.1 7agzin.com
 127.0.0.1 7aitzo5gvl32.live
 127.0.0.1 7alati.com
 127.0.0.1 7am2b3ltf.top
@@ -15770,7 +15702,6 @@
 127.0.0.1 7bjeyc.shop
 127.0.0.1 7bkzlyfvl.com
 127.0.0.1 7bm9gcx4vw.s3.us-south.objectstorage.softlayer.net
-127.0.0.1 7bniuage3rskkvlwlwyt.we9ixzz.co
 127.0.0.1 7bnkmelat.buzz
 127.0.0.1 7bpeople.com
 127.0.0.1 7brlqqqwvjmj.live
@@ -15789,7 +15720,6 @@
 127.0.0.1 7c49e61c.connectingtocontact.pages.dev
 127.0.0.1 7c4eg8zwt2g4.live
 127.0.0.1 7c53903f.adorn-insight.co.uk
-127.0.0.1 7c5454bf.learnhere.com.cn
 127.0.0.1 7c67aa3d.he11.cn
 127.0.0.1 7c6cf593.flc-adg.pages.dev
 127.0.0.1 7c89.com
@@ -15800,7 +15730,6 @@
 127.0.0.1 7car.com.cn
 127.0.0.1 7cbd216490a2.godaddysites.com
 127.0.0.1 7cc13f53-3bef-4f0c-b6d2-2ad80ffbceff.usrfiles.com
-127.0.0.1 7cc2a723ae9ef.aarkinpharma.com
 127.0.0.1 7ccce76691119919d0f919bbb262a109-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 7cd77.v.fwmrm.net
 127.0.0.1 7ce96722ba.f750eb6c66.com
@@ -15865,12 +15794,9 @@
 127.0.0.1 7e52b3b0ab95.duckdns.org
 127.0.0.1 7e52bb0df7.c5ab629aba.com
 127.0.0.1 7e6adf7598f0537d1cefedd41986024c-dot-gle9392420309493993.rj.r.appspot.com
-127.0.0.1 7e754c96.qepfmq.shop
 127.0.0.1 7e7653bd.vsdjyumne.org.cn
 127.0.0.1 7e817aee5ae20d826d5dc403941c1378-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 7e88da4e7d84265c4906c0433ffce170-dot-solidstar-improts.uk.r.appspot.com
-127.0.0.1 7e8e1c16.kjgeuwnc.shop
-127.0.0.1 7e9eaec1-6980-403b-ad59-4cc3d682d639.id.repl.co
 127.0.0.1 7ea4ae28.d23822.cn
 127.0.0.1 7ebaheom.s3-website.eu-west-2.amazonaws.com
 127.0.0.1 7ec3f64c727886c8c9edc3ce9a135cec.org
@@ -15878,7 +15804,6 @@
 127.0.0.1 7eeec32a-f507-4b31-a2d7-11ed6b3995b1.usrfiles.com
 127.0.0.1 7eg2vkd0.com
 127.0.0.1 7em4cuhsrxcukqz.qwo231sdx.club
-127.0.0.1 7eotckr.woltech24.com
 127.0.0.1 7escif0i.duckdns.org
 127.0.0.1 7euodje.s3-website.ap-northeast-2.amazonaws.com
 127.0.0.1 7evk7960wd.preview-beefreedesign.com
@@ -15969,7 +15894,6 @@
 127.0.0.1 7iuwz-uiaaa-aaaad-qdhxa-cai.raw.ic0.app
 127.0.0.1 7izvkvhb.qwo231sdx.club
 127.0.0.1 7j0hfmj.boyacentury.cn
-127.0.0.1 7j632hk.xyz
 127.0.0.1 7janm.com
 127.0.0.1 7jat5-miaaa-aaaad-qeyhq-cai.raw.ic0.app
 127.0.0.1 7jdecor.com
@@ -16038,7 +15962,6 @@
 127.0.0.1 7q5d6h5fcfsnuzlyxcbsqp6wg-gnuaar06rovb2dku64n6wvvx.glitch.me
 127.0.0.1 7q5yx2.csb.app
 127.0.0.1 7q95bx.jik.thetreecentre.com
-127.0.0.1 7qjerkk.wusps.xyz
 127.0.0.1 7r4d3.com
 127.0.0.1 7r8ln1wswth.life
 127.0.0.1 7recovery.duckdns.org
@@ -16049,7 +15972,6 @@
 127.0.0.1 7rtv.com
 127.0.0.1 7s1oyx3edu.s3.us-south.objectstorage.softlayer.net
 127.0.0.1 7s1w56s.duckdns.org
-127.0.0.1 7s3i.top
 127.0.0.1 7seeo5fxg5-qebcobk.loginform.net
 127.0.0.1 7sessions.info
 127.0.0.1 7sew9ktl.appbotbrand.com
@@ -16064,7 +15986,6 @@
 127.0.0.1 7srgwdrxaogy.live
 127.0.0.1 7starservice.com
 127.0.0.1 7starthailand.com
-127.0.0.1 7stepstomasteringyouremotions.com
 127.0.0.1 7strategy.com
 127.0.0.1 7studio.it
 127.0.0.1 7sultans.com
@@ -16094,7 +16015,6 @@
 127.0.0.1 7uihjk.yetew63579.workers.dev
 127.0.0.1 7ujk.pages.dev
 127.0.0.1 7up7.duckdns.org
-127.0.0.1 7usbmnokk1muhk1xzdd.barclayis.co
 127.0.0.1 7uwrnnswzlbt.thedsdstudio.com
 127.0.0.1 7v65ves-wiav-r-nq-bg-h8nc.vercel.app
 127.0.0.1 7vendedorbrasiljunto.com
@@ -16120,7 +16040,6 @@
 127.0.0.1 7xj.inclaim.my.id
 127.0.0.1 7xkqrp2iet6s07mcsnh.we9ixzz.co
 127.0.0.1 7xl.a4d.mywebsitetransfer.com
-127.0.0.1 7xnm58m.tokenapp.download
 127.0.0.1 7xr6qqar5udj.live
 127.0.0.1 7xsf3h.com1.z0.glb.clouddn.com
 127.0.0.1 7xuxc.xyz
@@ -16184,7 +16103,6 @@
 127.0.0.1 80436615148758386184439.jamb2022.co
 127.0.0.1 804425163224620.my.id
 127.0.0.1 8044823c9edc.godaddysites.com
-127.0.0.1 804e365.com
 127.0.0.1 804signs.com
 127.0.0.1 805228-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 805346170155952-dot-auth-sys-67322.appspot.com
@@ -16193,7 +16111,6 @@
 127.0.0.1 805b4559c4b0eb39086f57ea7cd2565b23052cd656c8e214457cb4256a.pages.dev
 127.0.0.1 805m.com
 127.0.0.1 8060b4fe-e450-401c-894c-4b849a91592d.usrfiles.com
-127.0.0.1 80658f87.bmed12.shop
 127.0.0.1 806928.selcdn.ru
 127.0.0.1 806b5a65-9b03-4d48-af00-09441e5dc61d.mailbutler.link
 127.0.0.1 8074673301.mexigas.com.mx
@@ -16220,7 +16137,6 @@
 127.0.0.1 80b5-2a01-cb1e-6f-fec6-4835-79a4-169d-f934.ngrok.io
 127.0.0.1 80ba4861-31de-48ea-9bf9-5660d7fac645.usrfiles.com
 127.0.0.1 80d42b11c9.com
-127.0.0.1 80d98812.learnhere.com.cn
 127.0.0.1 80ebb66567fb4e3fa370b6c5cde961b9.com
 127.0.0.1 80fu7ac5.cn
 127.0.0.1 80g10hb.cn
@@ -16309,7 +16225,6 @@
 127.0.0.1 81gmail.com
 127.0.0.1 820.ykilvm.xyz
 127.0.0.1 820.yuan0033.workers.dev
-127.0.0.1 820.yuan0215.eu.org
 127.0.0.1 8202.iu8.pantek88.com
 127.0.0.1 8203her928h7e4dd8305d3b0d52a2616-dot-polynomial-sum-287816.df.r.appspot.com
 127.0.0.1 820eea12fec476.lhr.life
@@ -16330,7 +16245,6 @@
 127.0.0.1 82333bb.com
 127.0.0.1 8234fbbda9e8.godaddysites.com
 127.0.0.1 82363594183b8.dksydney.com.au
-127.0.0.1 823a1dda-1908-460c-8356-880f505abde8.id.repl.co
 127.0.0.1 823pages.pages.dev
 127.0.0.1 823solutionscotwop-includesjscropsbcglobalauto.weebly.com
 127.0.0.1 8243535ccf23981b9823cccaf980db9a-dot-gle9392420309493993.rj.r.appspot.com
@@ -16353,7 +16267,6 @@
 127.0.0.1 8272828.blogspot.com
 127.0.0.1 827706784c2e85359315a8d1d019ebc5-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 8278825801.mexigas.com.mx
-127.0.0.1 827cipykvcxxdi1gfkk6ebb.qwo231sdx.club
 127.0.0.1 828239sam.com
 127.0.0.1 828af6b8ce.com
 127.0.0.1 82919210.blogspot.com
@@ -16535,7 +16448,6 @@
 127.0.0.1 854-mphfnms.weebly.com
 127.0.0.1 8541.pages.dev
 127.0.0.1 8541f3f170785d620fd649a4f5ec0bfe-dot-gle9392420309493993.rj.r.appspot.com
-127.0.0.1 85430a99.bwxt5e.shop
 127.0.0.1 8543345.weebly.com
 127.0.0.1 854444858.blogspot.com
 127.0.0.1 854444858.blogspot.com.by
@@ -16607,7 +16519,6 @@
 127.0.0.1 864feb57ruary.com
 127.0.0.1 864melita.wixsite.com
 127.0.0.1 864xyz5l0o1w5wv7oen7s8lxaios1cm-68056351004.shopifypreview.com
-127.0.0.1 86546587gut767.ga
 127.0.0.1 8662639packastridrodriguez.filesusr.com
 127.0.0.1 8664137-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 866733753735725275278836383638363638338683638.s3-us-west-1.amazonaws.com
@@ -16696,7 +16607,6 @@
 127.0.0.1 8768c916af.systeme.io
 127.0.0.1 876962-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 877679879755765.campingsierradegata.es
-127.0.0.1 877819274847-877819274847877819274847877819274847877819274847.optomaindustries.com
 127.0.0.1 8778324.weebly.com
 127.0.0.1 8778585bfdfdfgddsada9s8asd89asdasdadfsdf65sd4fsdf1sf4sd4sgs-75.webselfsite.net
 127.0.0.1 8779z-n88z.pages.dev
@@ -16754,7 +16664,6 @@
 127.0.0.1 883654.vip
 127.0.0.1 883655.vip
 127.0.0.1 883756-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
-127.0.0.1 883992f5.1966ks.cn
 127.0.0.1 884352.com
 127.0.0.1 884549654-reviewpage.pages.dev
 127.0.0.1 884785.com
@@ -16860,7 +16769,6 @@
 127.0.0.1 88ng.com
 127.0.0.1 88online.one
 127.0.0.1 88rpg.net
-127.0.0.1 88s8s9.3utilities.com
 127.0.0.1 88shu.cn
 127.0.0.1 88tm6.cc
 127.0.0.1 88tzpf.com
@@ -16932,7 +16840,6 @@
 127.0.0.1 899802516595267.kitlanchesisa.com.br
 127.0.0.1 899888.weebly.com
 127.0.0.1 89990.weebly.com
-127.0.0.1 899d1ce6.jue8hdnz.shop
 127.0.0.1 899v.com
 127.0.0.1 899yz.azurewebsites.net
 127.0.0.1 89a0961a74db891b5806c77c0ab06d3c-dot-gle9392420309493993.rj.r.appspot.com
@@ -16946,7 +16853,6 @@
 127.0.0.1 89faa17d814f7451f6ade84bf2ffa4b2-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 89fd.pbdja.workers.dev
 127.0.0.1 89gf7j90g7j70.jimdofree.com
-127.0.0.1 89gv2k.n0c.world
 127.0.0.1 89h8.com
 127.0.0.1 89ibhgf7v.top
 127.0.0.1 89kvh.cn
@@ -16978,11 +16884,9 @@
 127.0.0.1 8ab5m.qwo231sdx.club
 127.0.0.1 8ab923d1844a59d7a841dfcb1c090d0e-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 8abaqr.shop
-127.0.0.1 8ac652c9.satgrjtxcvdv.org.cn
 127.0.0.1 8ae16fe92128.azurewebsites.net
 127.0.0.1 8aea82753b.2ab91613ab.com
 127.0.0.1 8ao8ao.com
-127.0.0.1 8azw3fj4im6i.richardl.xyz
 127.0.0.1 8b0a9809d8.com
 127.0.0.1 8b1b.com
 127.0.0.1 8b1c8b069c296568cb42ee7492395ef2-dot-gle9392420309493993.rj.r.appspot.com
@@ -16990,7 +16894,6 @@
 127.0.0.1 8b2f59b83b.55ef6cccfc.com
 127.0.0.1 8b43169785c0371-5c0371d06-a7c1c9ab5bc-c8ab791300-4834.pages.dev
 127.0.0.1 8b4c.pool-auth.workers.dev
-127.0.0.1 8b5a57d2.qepfmq.shop
 127.0.0.1 8b73af1e42b0f819fc93245574e13c77.serveo.net
 127.0.0.1 8b74b.csb.app
 127.0.0.1 8b794e74248d4bcac076a15ce3a66238-dot-gle9392420309493993.rj.r.appspot.com
@@ -17004,7 +16907,6 @@
 127.0.0.1 8be504503e.com
 127.0.0.1 8be7e76e557a1164435acd45f06a.pages.dev
 127.0.0.1 8beade12.kdp-0jdo.shop
-127.0.0.1 8bef9e51.txat99.net
 127.0.0.1 8bhxw0bxjkiogbzhtkjwid.wusps.xyz
 127.0.0.1 8bit.com.br
 127.0.0.1 8bits.vercel.app
@@ -17055,12 +16957,10 @@
 127.0.0.1 8cvth-htlbps-stwr-099rt.glitch.me
 127.0.0.1 8cyup5a4vxyz8dtichasa.lspower.xyz
 127.0.0.1 8d.dnruz.ourgreatcalling.com
-127.0.0.1 8d04f04f.szzhengqian.cn
 127.0.0.1 8d07d4571bd4.ngrok.io
 127.0.0.1 8d0a0841d59488541.temporary.link
 127.0.0.1 8d0c.abooster-appspage.com
 127.0.0.1 8d0fc641-ba5e-44a4-b148-53229815edb6-00-1p33sxvch0vuk.kirk.replit.dev
-127.0.0.1 8d1f95ac-ceaf-4ee4-ad63-ce0a71e6ba55.id.repl.co
 127.0.0.1 8d2bbe8bce2919784.temporary.link
 127.0.0.1 8d3f1e2544c6c.mcwagents.com
 127.0.0.1 8d3sne.blow.harrisretreat.com
@@ -17132,7 +17032,6 @@
 127.0.0.1 8f31ace9.lgtbd.com
 127.0.0.1 8f348846.ngrok.io
 127.0.0.1 8f452ae429c014a39c30abf26224b550.crimachado.com.br
-127.0.0.1 8f59177f.nd-8wjsn.cloud
 127.0.0.1 8f67e225eae40b9c8a41da0dd7df1a2c7c37833645c0c1753046aa2fc5.pages.dev
 127.0.0.1 8f7182be9f44857628eadf93e91a71e4-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 8f761036e57e2403f26f76683548cc28-dot-spow3039.df.r.appspot.com
@@ -17285,7 +17184,6 @@
 127.0.0.1 8rkosflq1zha.duckdns.org
 127.0.0.1 8rl3-haak0t-vns7.amazingshihtzupughome.com
 127.0.0.1 8rmiw.demur3.com
-127.0.0.1 8rmsbjslxmwa.qwo231sdx.club
 127.0.0.1 8rqrk.codesandbox.io
 127.0.0.1 8rr3nsb.duckdns.org
 127.0.0.1 8rts0djxefbem.richardl.xyz
@@ -17357,7 +17255,6 @@
 127.0.0.1 8vvvvvwmetamas.top
 127.0.0.1 8vx25v.onl.onlinetrees.co.uk
 127.0.0.1 8vxqqp.wusps.xyz
-127.0.0.1 8vxuh5rzfbchwsdooxwyhwolt8d.lspower.xyz
 127.0.0.1 8vz1n.220q.cn
 127.0.0.1 8w3wzy4q.pages.dev
 127.0.0.1 8wbb86.cn
@@ -17463,7 +17360,6 @@
 127.0.0.1 909338844400.weebly.com
 127.0.0.1 909520074.com
 127.0.0.1 90964ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.eu-central-1.amazonaws.com
-127.0.0.1 90968.43811.wap.shuaihu99.com
 127.0.0.1 909986776.cavernworld.dk
 127.0.0.1 909asemidguact5oqemail22bellt66winniegarvin7732construction7732.weebly.com
 127.0.0.1 909clarkeconfigure.com
@@ -17504,7 +17400,6 @@
 127.0.0.1 9119086365.com
 127.0.0.1 91199a.xyz
 127.0.0.1 9119fa4031.com
-127.0.0.1 911af9d4.fei124970841.cn
 127.0.0.1 911m2.com
 127.0.0.1 911order.com
 127.0.0.1 911promotion.com
@@ -17548,7 +17443,6 @@
 127.0.0.1 91degreesf.com
 127.0.0.1 91df02fe64.com
 127.0.0.1 91ebdf9d6a02f73575036187e66183b6-dot-spow3039.df.r.appspot.com
-127.0.0.1 91ebf320.hxy21jc-p.cn
 127.0.0.1 91ef3b7fta0d58n851.jwespeex.co.in
 127.0.0.1 91ezj.hp.peraichi.com
 127.0.0.1 91f34fcd3ba0.ngrok.io
@@ -17606,7 +17500,6 @@
 127.0.0.1 92934e7e2b.fc9d8824d4.com
 127.0.0.1 92999c9b85c6f.pressionmax.com
 127.0.0.1 929dave.fm
-127.0.0.1 92a06321.d21213.cn
 127.0.0.1 92ab.playfabapi.com
 127.0.0.1 92aeb6d684f1be678b84059187dc159f-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 92alpha.com
@@ -17614,7 +17507,6 @@
 127.0.0.1 92b28bc6-a709-49f3-9511-7b72d7b52cc4.htmlcomponentservice.com
 127.0.0.1 92bbce960534.ngrok.io
 127.0.0.1 92binmv.qwo231sdx.club
-127.0.0.1 92bwbeb.ddns.net
 127.0.0.1 92c04d81dd.com
 127.0.0.1 92c178d4-a37c-44a6-8dc8-f2ce2a591df3.usrfiles.com
 127.0.0.1 92c26fc3.adorn-insight.co.uk
@@ -17632,7 +17524,6 @@
 127.0.0.1 9316.comalpa.cl
 127.0.0.1 93184.com
 127.0.0.1 932523298520981615.tvtrk.io
-127.0.0.1 932534.icu
 127.0.0.1 93319-coinbase.com
 127.0.0.1 934-104141ya.weeblysite.com
 127.0.0.1 934178783951476-dot-wetransfer-auth-file-341.appspot.com
@@ -17665,7 +17556,6 @@
 127.0.0.1 937e30a10b.com
 127.0.0.1 938-908-oiru.weeblysite.com
 127.0.0.1 938-mail-att.webflow.io
-127.0.0.1 9382675236--36y03828-3800.duckdns.org
 127.0.0.1 938295523674580141017928548260578675.hanefra7bikiemta.com
 127.0.0.1 938388f6f32773886.temporary.link
 127.0.0.1 9383i392109769594022.hyperphp.com
@@ -17704,7 +17594,6 @@
 127.0.0.1 943dd38de888e1d20ba3058539b12916-dot-dbenitonline.ey.r.appspot.com
 127.0.0.1 944.360-insurance.com
 127.0.0.1 94440872219598110262483.jamb2022.co
-127.0.0.1 9445734574.support-metabusiness.com
 127.0.0.1 944893debb9760702.temporary.link
 127.0.0.1 94491378508-dot-oppaiwiuwe.rj.r.appspot.com
 127.0.0.1 94510786365.com
@@ -17714,7 +17603,6 @@
 127.0.0.1 9458vip.com
 127.0.0.1 945cs.945.report
 127.0.0.1 945cs.aplatoo.com
-127.0.0.1 945scritypageshlp43checkacc.link
 127.0.0.1 9463a624aaca.godaddysites.com
 127.0.0.1 946541.pages.dev
 127.0.0.1 9473281.securefastserver.com
@@ -17795,7 +17683,6 @@
 127.0.0.1 958704.cc
 127.0.0.1 95877fdce53278834.temporary.link
 127.0.0.1 958cbdda.sieujnx.cloud
-127.0.0.1 9596466730.staging.marketgizmos.com
 127.0.0.1 959e8b95a30cfb5847fc4a3183efec08-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 959e8b95a30cfb5847fc4a3183efec08.gle9392420309493993.rj.r.appspot.com
 127.0.0.1 959jcm.postal.gameplansession.com
@@ -17830,7 +17717,6 @@
 127.0.0.1 963632.cc
 127.0.0.1 9637b54c.sibforms.com
 127.0.0.1 96382zubo66756.com
-127.0.0.1 9638vip.com
 127.0.0.1 9639655161871743-dot-my-project-45bb.ey.r.appspot.com
 127.0.0.1 963fc.com
 127.0.0.1 9645bab868c974204182705a6e7c189e-dot-gle9392420309493993.rj.r.appspot.com
@@ -18077,10 +17963,8 @@
 127.0.0.1 990verifymaillahsydb55577543verifymaillahsydb55577543.weebly.com
 127.0.0.1 991.com
 127.0.0.1 9912756187263-upsjanganloh.crabdance.com
-127.0.0.1 9913274.com
 127.0.0.1 991551-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 127.0.0.1 992351.com
-127.0.0.1 99257458.webku.buzz
 127.0.0.1 992623586359-992623586359992623586359992623586359992623586359.sapparels.com
 127.0.0.1 992878c4.ngrok.io
 127.0.0.1 992983-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -18178,7 +18062,6 @@
 127.0.0.1 998rvf.codesandbox.io
 127.0.0.1 998ssl.com
 127.0.0.1 999-cwg.pages.dev
-127.0.0.1 999-kenyon-wrath-abroad.com
 127.0.0.1 999-proxy.com
 127.0.0.1 999.360-insurance.com
 127.0.0.1 999.com
@@ -18247,7 +18130,6 @@
 127.0.0.1 99x.com
 127.0.0.1 99yh4.com
 127.0.0.1 9a0ff559d0547cd3122414bf1396b71b-dot-gle9392420309493993.rj.r.appspot.com
-127.0.0.1 9a11e0f3-c4de-437c-b8d4-971cef4bcb1c.id.repl.co
 127.0.0.1 9a14d09e.iwiowmnc-1.shop
 127.0.0.1 9a157cr.duckdns.org
 127.0.0.1 9a1d5662fd954123c027820ad549757f.uniprosupplements.com.my
@@ -18324,7 +18206,6 @@
 127.0.0.1 9c5c514b491e63fe8915d5ea017144e68c82514f5aa74b3fa6a83e52b3.pages.dev
 127.0.0.1 9c7ac768-9432-4b68-b913-7c966061e3ce.id.repl.co
 127.0.0.1 9c84e5d3-a86c-49d7-ae6d-4e2e2b226186.usrfiles.com
-127.0.0.1 9c86905f.lanfeng200909.com.cn
 127.0.0.1 9c9855c9c198acd14ca8c88da20e8ad5-dot-goff039302032323.rj.r.appspot.com
 127.0.0.1 9ca9d8ff02e4.godaddysites.com
 127.0.0.1 9casinos.fr
@@ -18361,11 +18242,9 @@
 127.0.0.1 9dav3ymavxcay9.azureedge.net
 127.0.0.1 9db1ac1992.9d8880ca57.com
 127.0.0.1 9dce2c727beb.ngrok.app
-127.0.0.1 9dd3b90d46.nxcli.net
 127.0.0.1 9de491c3-fe13-4e84-9e55-29f998292908-00-6vkrwdpnydz3.riker.replit.dev
 127.0.0.1 9de72764729cbab8ca3ec0c243ba1016-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 9df23a7c.tc4o30.shop
-127.0.0.1 9dfc791a.5vsrh8.shop
 127.0.0.1 9dffc2ed.pz-64jfkx.cloud
 127.0.0.1 9dke.inclaim.my.id
 127.0.0.1 9dkxmcoqzomj4vo7s5lm-7tkzf1bmd7kemrhen3qk-pmieh12jmy2bzeigagm1.glitch.me
@@ -18431,10 +18310,8 @@
 127.0.0.1 9fab756d.qepfmq.shop
 127.0.0.1 9fec7dd6aed57c61d9a163f872d10fe9-dot-gle9392420309493993.rj.r.appspot.com
 127.0.0.1 9ff02cad-06e2-4c7b-8c77-0f42e246ee71-00-361ixerxn72m3.worf.replit.dev
-127.0.0.1 9ft9vrv.cn
 127.0.0.1 9fuel.com
 127.0.0.1 9fum.ifeng.com
-127.0.0.1 9g5mgq.coolage.ir
 127.0.0.1 9g7s6d98h7sw98df.vercel.app
 127.0.0.1 9gg23.com
 127.0.0.1 9gjf8qpnjcyqurvifq421.qwo231sdx.club
@@ -18498,7 +18375,6 @@
 127.0.0.1 9nlblwte8sgt4bm3dcny.maherstcottage.com.au
 127.0.0.1 9npze.com
 127.0.0.1 9ny4kq30l9-sharepoint-com-b-s.s3.eu-north-1.amazonaws.com
-127.0.0.1 9nzgbugagqydyi.wusps.xyz
 127.0.0.1 9o7y.short.gy
 127.0.0.1 9oa2krbd6.top
 127.0.0.1 9ocf4t.postal.gameplansession.com
@@ -18524,11 +18400,9 @@
 127.0.0.1 9r6tvs.divinegames.in
 127.0.0.1 9r7i9bo06157.top
 127.0.0.1 9r80nx.csb.app
-127.0.0.1 9r9nrq8soy8aiol8ogtx.lspower.xyz
 127.0.0.1 9rais46a.duckdns.org
 127.0.0.1 9rando.com
 127.0.0.1 9rib57u1zu3c.live
-127.0.0.1 9rizo8acrl2utr.ga
 127.0.0.1 9roesjj.xdk8ax.cn
 127.0.0.1 9rp6ex.angell.vantagetennis.com
 127.0.0.1 9s-s9-c9-s0w-w9-s9.glitch.me
@@ -18536,7 +18410,6 @@
 127.0.0.1 9saatzxy4sj8tyv5245pjn4tcuu7ch2fmpx6gsukz.s3.eu-west-3.amazonaws.com
 127.0.0.1 9scrp622a.duckdns.org
 127.0.0.1 9sd1pbiaiulciax1kupdv60o.qwo231sdx.club
-127.0.0.1 9shmq5rpy.wusps.xyz
 127.0.0.1 9spotify.com
 127.0.0.1 9squareyards.com
 127.0.0.1 9srn4cbsqksizg6bv4y7fr6ti3.we9ixzz.co
@@ -19233,7 +19106,6 @@
 127.0.0.1 a0484562.xsph.ru
 127.0.0.1 a0484619.xsph.ru
 127.0.0.1 a0485491.xsph.ru
-127.0.0.1 a04854e8-0cca-4b74-80e6-aacb14a4a5f7.id.repl.co
 127.0.0.1 a0486131.xsph.ru
 127.0.0.1 a0487298.xsph.ru
 127.0.0.1 a0487591.xsph.ru
@@ -19246,7 +19118,6 @@
 127.0.0.1 a0489209.xsph.ru
 127.0.0.1 a0489224.xsph.ru
 127.0.0.1 a0489257.xsph.ru
-127.0.0.1 a0489475.xsph.ru
 127.0.0.1 a0490306.xsph.ru
 127.0.0.1 a0490572.xsph.ru
 127.0.0.1 a0491473.xsph.ru
@@ -19307,7 +19178,6 @@
 127.0.0.1 a0518513.xsph.ru
 127.0.0.1 a0525307.xsph.ru
 127.0.0.1 a0528893.xsph.ru
-127.0.0.1 a0532201.xsph.ru
 127.0.0.1 a0533641.xsph.ru
 127.0.0.1 a0534429.xsph.ru
 127.0.0.1 a0535868.xsph.ru
@@ -21199,7 +21069,6 @@
 127.0.0.1 acqtfeofpa.com
 127.0.0.1 acquaintance213.fun
 127.0.0.1 acquaintance423.fun
-127.0.0.1 acquaintanceexemptspinach.com
 127.0.0.1 acquaintanceunbearablecelebrated.com
 127.0.0.1 acquaintcollaboratefruitless.com
 127.0.0.1 acquaintedpostman.com
@@ -31583,7 +31452,6 @@
 127.0.0.1 asparaguspallorspoken.com
 127.0.0.1 asparaguspopcorn.com
 127.0.0.1 aspartos.com
-127.0.0.1 aspecteirs.lat
 127.0.0.1 aspectjcookbook.com
 127.0.0.1 aspectreinforce.com
 127.0.0.1 aspectsofcukorp.com
@@ -34278,7 +34146,6 @@
 127.0.0.1 battepush.com
 127.0.0.1 batterieprofessionnel.fr
 127.0.0.1 batterymart.com.au
-127.0.0.1 battle-curbe.cyou
 127.0.0.1 battle1266.fun
 127.0.0.1 battleautomobile.com
 127.0.0.1 battlefieldplay.com
@@ -42548,7 +42415,6 @@
 127.0.0.1 ciaoshopit.122.2o7.net
 127.0.0.1 ciate.ru
 127.0.0.1 ciba.count.www.iciba.com
-127.0.0.1 cibcvery.info.cibc.pl
 127.0.0.1 ciberbanner.com
 127.0.0.1 cibersexo.eu
 127.0.0.1 cibertek.fr
@@ -43360,7 +43226,6 @@
 127.0.0.1 clinicombiosolution.com
 127.0.0.1 cliniquefranceville.net
 127.0.0.1 cliniquemedicalerichelieu.com
-127.0.0.1 clinkeasiestopponent.com
 127.0.0.1 clinofoncl.com
 127.0.0.1 clipartonline.info
 127.0.0.1 clipbongda.info
@@ -45256,7 +45121,6 @@
 127.0.0.1 contributorfront.com
 127.0.0.1 contributorshaveangry.com
 127.0.0.1 contried.com
-127.0.0.1 contrivancefrontage.com
 127.0.0.1 contrlefiscal.fr
 127.0.0.1 control-tva-gouvfinance.fr
 127.0.0.1 control-zoo-dai-default.tvinteractive.tv
@@ -49892,7 +49756,6 @@
 127.0.0.1 debitcrebit669.com
 127.0.0.1 deblokgsm.free.fr
 127.0.0.1 debojuagug1sf.cloudfront.net
-127.0.0.1 debonair-brick.cyou
 127.0.0.1 debonairdust.com
 127.0.0.1 debonairtree.com
 127.0.0.1 debooij.de
@@ -50313,7 +50176,6 @@
 127.0.0.1 demandmedia.s3.amazonaws.com
 127.0.0.1 demandzoo.com
 127.0.0.1 demarche-papierfrance.fr
-127.0.0.1 demarchesfrance.fr
 127.0.0.1 demarkets.com
 127.0.0.1 demba.xyz
 127.0.0.1 demdi.de
@@ -51249,9 +51111,7 @@
 127.0.0.1 digitalfiles.org
 127.0.0.1 digitalfruition.co.uk
 127.0.0.1 digitalgroup.vn
-127.0.0.1 digitalhealthfitness.com
 127.0.0.1 digitalhomediscountptyltd.122.2o7.net
-127.0.0.1 digitalidea.cl
 127.0.0.1 digitalinsight-ltd.com
 127.0.0.1 digitalinsight.com.102.122.2o7.net
 127.0.0.1 digitalis.life
@@ -53411,7 +53271,6 @@
 127.0.0.1 drawerenter.com
 127.0.0.1 drawergypsyavalanche.com
 127.0.0.1 drawgreat.com
-127.0.0.1 drawing-feeling.cyou
 127.0.0.1 drawingright.com
 127.0.0.1 drawingsingmexican.com
 127.0.0.1 drawingwheels.com
@@ -53599,7 +53458,6 @@
 127.0.0.1 droidweb.net
 127.0.0.1 droimon20.ru
 127.0.0.1 droit-unicaen.fr
-127.0.0.1 drolenpendiz.estereomedic.homes
 127.0.0.1 drollwharf.com
 127.0.0.1 dromoicassida.com
 127.0.0.1 dromongoncol.gestaoadministrativadating.io
@@ -54741,7 +54599,6 @@
 127.0.0.1 ebankingch4-ubs.gotdns.ch
 127.0.0.1 ebat.com
 127.0.0.1 ebav.com
-127.0.0.1 ebaw.com
 127.0.0.1 ebay.com-itm.apple-iphone.live
 127.0.0.1 ebay1.112.2o7.net
 127.0.0.1 ebay839.cc
@@ -55375,7 +55232,6 @@
 127.0.0.1 egihaehefiejfjr.ws
 127.0.0.1 egisela.com
 127.0.0.1 eglaitou.com
-127.0.0.1 egldvmz.com
 127.0.0.1 eglipteepsoo.net
 127.0.0.1 eglobaltech.info
 127.0.0.1 egmgrupo.com
@@ -55433,7 +55289,6 @@
 127.0.0.1 ehutzaug.life
 127.0.0.1 ehzwq.shop
 127.0.0.1 ei.cnzz.com
-127.0.0.1 ei7.icu
 127.0.0.1 eiamcentral.art
 127.0.0.1 eiamglobal.co
 127.0.0.1 eichholz-klinik.de
@@ -55659,7 +55514,6 @@
 127.0.0.1 electrum-xvg.com
 127.0.0.1 electrum-zeta.com
 127.0.0.1 electrum-zeta.org
-127.0.0.1 electrum.la
 127.0.0.1 electrumapps.com
 127.0.0.1 electrumbase.com
 127.0.0.1 electrumbuild.com
@@ -57938,7 +57792,6 @@
 127.0.0.1 expresscartitleloans.com
 127.0.0.1 expresschronopost.fr
 127.0.0.1 expresscourier.delivery
-127.0.0.1 expresscreditcash.com
 127.0.0.1 expressdeliverycargo.com
 127.0.0.1 expressgrab.com
 127.0.0.1 expresshipping.org
@@ -58254,7 +58107,6 @@
 127.0.0.1 f2ntheage.112.2o7.net
 127.0.0.1 f2svgmvts.com
 127.0.0.1 f3010e5e7a.com
-127.0.0.1 f3277f96a7.com
 127.0.0.1 f33ad99755.8028acf188.com
 127.0.0.1 f34f-103-14-48-195.ngrok-free.app
 127.0.0.1 f361.wvtm13.com
@@ -58941,7 +58793,6 @@
 127.0.0.1 fashionablegangsterexplosion.com
 127.0.0.1 fashionandhomestyle.com
 127.0.0.1 fashiongul.com
-127.0.0.1 fashionmall4u.com
 127.0.0.1 fashionoutletonline.de
 127.0.0.1 fashionshawaii.com
 127.0.0.1 fashionstune.com
@@ -60800,7 +60651,6 @@
 127.0.0.1 floridaonthefly.com
 127.0.0.1 floridaprobaterelief.com
 127.0.0.1 floristgathering.com
-127.0.0.1 florisvanbommelsell.shop
 127.0.0.1 florisvanbommelstore.com
 127.0.0.1 florivy.com
 127.0.0.1 floroonwhun.com
@@ -62816,7 +62666,6 @@
 127.0.0.1 g1qv3lmzi5jtp2szkqem.viomil.ro
 127.0.0.1 g2.112.2o7.net
 127.0.0.1 g2.doubleclick.net
-127.0.0.1 g2546417787.com
 127.0.0.1 g29q69.nt.nativetrees.co.uk
 127.0.0.1 g2afse.com
 127.0.0.1 g2insights-cdn.azureedge.net
@@ -64015,7 +63864,6 @@
 127.0.0.1 gerbilshew.com
 127.0.0.1 gereedschaponline.net
 127.0.0.1 gerenciador.com.de
-127.0.0.1 gerente.linkpc.net
 127.0.0.1 geriguna.shop
 127.0.0.1 gerlia.shop
 127.0.0.1 germ-ac.com
@@ -67553,7 +67401,6 @@
 127.0.0.1 h05grpd9s1qfbt.xyz
 127.0.0.1 h06.xyz
 127.0.0.1 h093.net
-127.0.0.1 h0d.icu
 127.0.0.1 h0o33.cn
 127.0.0.1 h0pe1759.ddns.net
 127.0.0.1 h0w-t0-watch.net
@@ -70346,7 +70193,6 @@
 127.0.0.1 hox.hopto.org
 127.0.0.1 hoxdotye.icu
 127.0.0.1 hoyaga.xyz
-127.0.0.1 hoybgsquc.com
 127.0.0.1 hp-dy.net
 127.0.0.1 hp-offrespaques.fr
 127.0.0.1 hp.myway.com
@@ -72077,7 +71923,6 @@
 127.0.0.1 imevzbn.cn
 127.0.0.1 imf-gov.com
 127.0.0.1 imf-org.com
-127.0.0.1 imf-us.org
 127.0.0.1 imfsr.lenovomm.com
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 img-ctv.digitaluk.co.uk
@@ -72531,10 +72376,8 @@
 127.0.0.1 inctivee.com
 127.0.0.1 incubation.cense.iisc.ac.in
 127.0.0.1 incube.org
-127.0.0.1 inculcate-melt.cyou
 127.0.0.1 indahtour.com
 127.0.0.1 indas.com.au
-127.0.0.1 indebannets.com
 127.0.0.1 indebtedatrocious.com
 127.0.0.1 indecisionevasion.com
 127.0.0.1 indeeed.fr
@@ -72728,7 +72571,6 @@
 127.0.0.1 inflationbreedinghoax.com
 127.0.0.1 inflationhumanity.com
 127.0.0.1 inflationmileage.com
-127.0.0.1 inflect-glash.cyou
 127.0.0.1 inflectionhaughtyconcluded.com
 127.0.0.1 inflectionquake.com
 127.0.0.1 infles.com
@@ -73468,7 +73310,6 @@
 127.0.0.1 intermediatebelownomad.com
 127.0.0.1 intermediatelattice.com
 127.0.0.1 intermesh.net
-127.0.0.1 intern0120.com
 127.0.0.1 internal-analytics.odoo.com
 127.0.0.1 internal.750g.com
 127.0.0.1 internal.delightfulgrass-a1c0fe70.canadaeast.azurecontainerapps.io
@@ -74621,7 +74462,6 @@
 127.0.0.1 jaipheeph.com
 127.0.0.1 jaiphoaptom.net
 127.0.0.1 jaipurescortsgirls.com
-127.0.0.1 jaiuwx67.beget.tech
 127.0.0.1 jakbar.ppg.or.id
 127.0.0.1 jake.henrylawnc.com
 127.0.0.1 jaker.net
@@ -76741,7 +76581,6 @@
 127.0.0.1 kctag.net
 127.0.0.1 kcwludhiana.org
 127.0.0.1 kcxe.net
-127.0.0.1 kcxeibd.cn
 127.0.0.1 kcxghbfd.uicp.hk
 127.0.0.1 kczu-ohhuf.site
 127.0.0.1 kd882.com
@@ -77633,7 +77472,6 @@
 127.0.0.1 knittedplus.com
 127.0.0.1 knivesdrunkard.com
 127.0.0.1 knivesprincessbitterness.com
-127.0.0.1 knivesquelch.com
 127.0.0.1 knivessimulatorherein.com
 127.0.0.1 knk95.cn
 127.0.0.1 knlrfijhvch.com
@@ -81005,7 +80843,6 @@
 127.0.0.1 lnky9.top
 127.0.0.1 lnnahh.xyz
 127.0.0.1 lnnsvj.xyz
-127.0.0.1 lnqtje68g6.com
 127.0.0.1 lnstagram-accesso.gearhostpreview.com
 127.0.0.1 lnstagram-app.corroborate.xyz
 127.0.0.1 lnstagram-appeal.66ghz.com
@@ -89072,7 +88909,6 @@
 127.0.0.1 musing-hermann.101-99-92-100.plesk.page
 127.0.0.1 musing-tesla.193-239-86-216.plesk.page
 127.0.0.1 musk-project.com
-127.0.0.1 musk.plus
 127.0.0.1 muskatchefdom.com
 127.0.0.1 muskcrypto.io
 127.0.0.1 muskevent.info
@@ -91173,7 +91009,6 @@
 127.0.0.1 newlook23.sytes.net
 127.0.0.1 newlyleisure.com
 127.0.0.1 newlywedexperiments.com
-127.0.0.1 newmaintenancewebmeil.com
 127.0.0.1 newmajwebmeil.com
 127.0.0.1 newmayads.com
 127.0.0.1 newmichaelkors2013.com
@@ -92757,7 +92592,6 @@
 127.0.0.1 ntkrnlpa.cn
 127.0.0.1 ntlcgevw-u.one
 127.0.0.1 ntlysearchingf.info
-127.0.0.1 ntlzvrv.xyz
 127.0.0.1 ntmastsaultet.info
 127.0.0.1 ntoftheusysia.info
 127.0.0.1 ntoftheusysianedt.info
@@ -94517,7 +94351,6 @@
 127.0.0.1 onetechblog.tek1.top
 127.0.0.1 onetime-bonus.com
 127.0.0.1 onetk1ht.top
-127.0.0.1 onetk1pt.top
 127.0.0.1 onetk1sb.top
 127.0.0.1 onetk1vt.top
 127.0.0.1 onetoone.112.2o7.net
@@ -95547,7 +95380,6 @@
 127.0.0.1 osrrltw.cn
 127.0.0.1 osrxzucira.com
 127.0.0.1 oss-india.com
-127.0.0.1 ossbjj.com
 127.0.0.1 ossedm.com
 127.0.0.1 ossfloetteor.com
 127.0.0.1 ossgogoaton.com
@@ -95725,7 +95557,6 @@
 127.0.0.1 ourdoctors.ru
 127.0.0.1 ourdreamsanswer.info
 127.0.0.1 oureh.xyz
-127.0.0.1 ourgumpu.xyz
 127.0.0.1 ourhobby.com
 127.0.0.1 ourhotstories.com
 127.0.0.1 ourhypewords.com
@@ -97609,7 +97440,6 @@
 127.0.0.1 pbcs.realtor.com
 127.0.0.1 pbdbj.xyz
 127.0.0.1 pbdo.net
-127.0.0.1 pbfnyvl.com
 127.0.0.1 pbhdwm.cn
 127.0.0.1 pbimh.com
 127.0.0.1 pbjs-stream.bydata.com
@@ -101113,7 +100943,6 @@
 127.0.0.1 primevidcancel.fr
 127.0.0.1 primevideo-gestion.fr
 127.0.0.1 primevideo-info.fr
-127.0.0.1 primevideo-infos.fr
 127.0.0.1 primevideo-login.fr
 127.0.0.1 primevideo.pm
 127.0.0.1 primevideologin.fr
@@ -105085,7 +104914,6 @@
 127.0.0.1 redheadpublicityjug.com
 127.0.0.1 redhotdirectory.com
 127.0.0.1 redi-netflix.fr
-127.0.0.1 redi.teengirl-pics.com
 127.0.0.1 redianad.com
 127.0.0.1 redichat.com
 127.0.0.1 redington.com.de
@@ -106183,7 +106011,6 @@
 127.0.0.1 returnprocedecfl.top
 127.0.0.1 returnprocedecfx.top
 127.0.0.1 returnprocedechg.top
-127.0.0.1 returnprocededjo.top
 127.0.0.1 returnprocedehkm.top
 127.0.0.1 returnprocedehkq.top
 127.0.0.1 returnprocedelfp.top
@@ -107196,7 +107023,6 @@
 127.0.0.1 roryg.com
 127.0.0.1 rorzo.com
 127.0.0.1 rosaca-nina.net
-127.0.0.1 rosaimpexpvtltd.com
 127.0.0.1 rosaimpexpvtltdstore.ru
 127.0.0.1 rosariaproducciones.com
 127.0.0.1 rosateeshop.com
@@ -109313,7 +109139,6 @@
 127.0.0.1 saymustif.live
 127.0.0.1 saynuevoscarrosok.live
 127.0.0.1 saytospf.beget.tech
-127.0.0.1 sayyidsspintry.com
 127.0.0.1 sb-stat1.com
 127.0.0.1 sb.scorecard.research.com
 127.0.0.1 sb8.co
@@ -112328,7 +112153,6 @@
 127.0.0.1 shopeeson.com
 127.0.0.1 shopeetx.com
 127.0.0.1 shopeev.com
-127.0.0.1 shopeexpress.online
 127.0.0.1 shopehltd.com
 127.0.0.1 shopelite.co
 127.0.0.1 shopetankhv.com
@@ -114366,7 +114190,6 @@
 127.0.0.1 snookes.com
 127.0.0.1 snoopundesirable.com
 127.0.0.1 snoopy-incident.com
-127.0.0.1 snoosnoo.lol
 127.0.0.1 snooze.de
 127.0.0.1 snopsd.duckdns.org
 127.0.0.1 snorefamiliarsiege.com
@@ -114461,7 +114284,6 @@
 127.0.0.1 sochr.com
 127.0.0.1 soci-molen.web.app
 127.0.0.1 social-discovery.io
-127.0.0.1 social-moldova.md
 127.0.0.1 social-touch.com
 127.0.0.1 social.biv.sony.tv
 127.0.0.1 social.lafranceagricole.fr
@@ -117608,7 +117430,6 @@
 127.0.0.1 stevenmyersphotography.com
 127.0.0.1 stevensandersmd.com
 127.0.0.1 stevesmovies.com
-127.0.0.1 stevin.ru
 127.0.0.1 stevoodsefta.com
 127.0.0.1 stewomelettegrand.com
 127.0.0.1 stewsmall.com
@@ -118522,7 +118343,6 @@
 127.0.0.1 suiviclients-chronopost.fr
 127.0.0.1 suivicol.fr
 127.0.0.1 suivicolischronopost.fr
-127.0.0.1 suivicommande.com
 127.0.0.1 suivietcertif-mdts.fr
 127.0.0.1 suiviexpedition.fr
 127.0.0.1 suiviexpress.fr
@@ -118703,7 +118523,6 @@
 127.0.0.1 suntau.com
 127.0.0.1 suntecktts.com
 127.0.0.1 suntreebearing.com
-127.0.0.1 suntrunf.beget.tech
 127.0.0.1 sunusa.in
 127.0.0.1 sunyujia.top
 127.0.0.1 suoksm.cn
@@ -119252,7 +119071,6 @@
 127.0.0.1 sweet-bud.com
 127.0.0.1 sweet-dating-place.life
 127.0.0.1 sweet-home.dn.ua
-127.0.0.1 sweet-hot-lady.top
 127.0.0.1 sweet-leakey.212-227-209-143.plesk.page
 127.0.0.1 sweet-surprises.com
 127.0.0.1 sweet-water.org
@@ -120706,7 +120524,6 @@
 127.0.0.1 teamonkeyproductions.com
 127.0.0.1 teamproject.substack.com
 127.0.0.1 teamsconnect.com
-127.0.0.1 teamshers.com
 127.0.0.1 teamshilarious.com
 127.0.0.1 teamsmarched.com
 127.0.0.1 teamsoutspoken.com
@@ -126058,7 +125875,6 @@
 127.0.0.1 twentydruggeddumb.com
 127.0.0.1 twentysevenlooks.com
 127.0.0.1 twentytk20ht.top
-127.0.0.1 twentytk20pt.top
 127.0.0.1 twentytk20sb.top
 127.0.0.1 twest.bocaratongoldmine.info
 127.0.0.1 twevpgjeai.com
@@ -128655,7 +128471,6 @@
 127.0.0.1 variouscreativeformats.com
 127.0.0.1 variousformatscontent.com
 127.0.0.1 variouspheasantjerk.com
-127.0.0.1 varmblixt-dk.com
 127.0.0.1 varnishmosquitolocust.com
 127.0.0.1 varog.com
 127.0.0.1 varrtel.com
@@ -129499,7 +129314,6 @@
 127.0.0.1 videonews247.net
 127.0.0.1 videoplayerhub.com
 127.0.0.1 videoprime-abo.fr
-127.0.0.1 videoprime-gestion.fr
 127.0.0.1 videorvrcip.112.2o7.net
 127.0.0.1 videos-on-demand.link
 127.0.0.1 videos.allocine.fr
@@ -132234,7 +132048,6 @@
 127.0.0.1 wetransfersecureshare.mybluemix.net
 127.0.0.1 wetransferts.fr
 127.0.0.1 wetransfrt.fr
-127.0.0.1 wetryprogress.com
 127.0.0.1 wetsireoverload.com
 127.0.0.1 wettbase.de
 127.0.0.1 wetter.pushwoosh.com
@@ -134589,7 +134402,6 @@
 127.0.0.1 xcelsiusadserver.com
 127.0.0.1 xcggpt.cn
 127.0.0.1 xcggpt.com
-127.0.0.1 xcggpt.net
 127.0.0.1 xchange.duckdns.org
 127.0.0.1 xchange.ro
 127.0.0.1 xchaselgsecure.hopto.org
@@ -137072,7 +136884,6 @@
 127.0.0.1 yule8.net
 127.0.0.1 yulgang-v23.com
 127.0.0.1 yulgangweb.top
-127.0.0.1 yulidianshang.com
 127.0.0.1 yulitours.com
 127.0.0.1 yulonginvest.com.cn
 127.0.0.1 yulunanews.name
@@ -138003,7 +137814,6 @@
 127.0.0.1 zo66.com
 127.0.0.1 zoachoar.net
 127.0.0.1 zoachops.com
-127.0.0.1 zoagfst.com
 127.0.0.1 zoagreejouph.com
 127.0.0.1 zoagremo.net
 127.0.0.1 zoaheeth.com
