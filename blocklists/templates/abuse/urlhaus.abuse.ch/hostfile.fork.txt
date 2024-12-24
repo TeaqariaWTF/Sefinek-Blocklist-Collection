@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-24 20:14:06 (UTC)                      #
+# Last updated: 2024-12-24 22:19:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 0.0.0.0 123.pentaq.net
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 aaahealthcareservice.com
@@ -18,7 +17,6 @@
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
-0.0.0.0 adobe-acrobat.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -64,9 +62,7 @@
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
-0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 crazy.eye-network.ru
@@ -95,7 +91,6 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
@@ -139,7 +134,6 @@
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jaamdesign.com
 0.0.0.0 jahez.me
@@ -183,10 +177,10 @@
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
 0.0.0.0 microsoft-analyse.com
-0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
+0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -205,7 +199,6 @@
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
-0.0.0.0 ns.smallsrv.com
 0.0.0.0 nsomikey.tokyo
 0.0.0.0 nyiragongovolcano.com
 0.0.0.0 o0s.cc
@@ -228,6 +221,7 @@
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 raw.cardiacpure.ru
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -247,7 +241,6 @@
 0.0.0.0 service.bugmakerx.cn
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
-0.0.0.0 sft-cloud.ru
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
@@ -267,7 +260,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 syntheticincenseonline.com
-0.0.0.0 t.0000o.xyz
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -296,8 +288,6 @@
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
-0.0.0.0 utorrent-backup-server2.top
-0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
@@ -305,9 +295,8 @@
 0.0.0.0 vlrt-gap.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.al-rasikh.com
 0.0.0.0 www.alaqalezdehar.com
-0.0.0.0 www.atordeg.com.br
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.carambis.com
@@ -320,7 +309,6 @@
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.netsolution.it
@@ -329,16 +317,17 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
-0.0.0.0 www.tecunonline.com
+0.0.0.0 www.tdejb.com
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
+0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
@@ -352,4 +341,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 346
+# Number of entries: 335
