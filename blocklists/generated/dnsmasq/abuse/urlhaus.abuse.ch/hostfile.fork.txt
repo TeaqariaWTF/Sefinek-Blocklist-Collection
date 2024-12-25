@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-25 01:39:06 (UTC)                      #
+# Last updated: 2024-12-25 02:44:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,7 +12,6 @@ server=/2.haory.cn/
 server=/360down7.miiyun.cn/
 server=/aaahealthcareservice.com/
 server=/aarzoomarine.com/
-server=/abissnet.net/
 server=/aboverlangerung.com/
 server=/acheminement-suivis.fr/
 server=/adf6.adf6.com/
@@ -24,7 +23,6 @@ server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/aide-acheminement-info.com/
 server=/airhobi.com/
-server=/alien-training.com/
 server=/amelcarte.com/
 server=/amende-renouvellement.com/
 server=/amende-stationnement-suivis.com/
@@ -37,7 +35,6 @@ server=/api.ewfiles.net/
 server=/aquafusion.com.co/
 server=/armanayegh.com/
 server=/assuresform.com/
-server=/aulist.com/
 server=/avastop.com/
 server=/avastpdr.com/
 server=/avastpx.com/
@@ -47,10 +44,10 @@ server=/bethelkwabenya.org/
 server=/bitkiselurunsiparis.com/
 server=/bmcort.com/
 server=/buscascolegios.diit.cl/
+server=/by.haory.cn/
 server=/catbaparadisehotel.com.vn/
 server=/cdaonline.com.ar/
 server=/centre-de-tri-ups.com/
-server=/chinaapper.com/
 server=/chronopost-suivi-fr.co/
 server=/ciscocdn.com/
 server=/clubedasluluzinhasro.com.br/
@@ -90,7 +87,6 @@ server=/download.caihong.com/
 server=/download.emailorganizer.com/
 server=/download.haozip.com/
 server=/download.innovare.no/
-server=/download.suxiazai.com/
 server=/downsexv.com/
 server=/dragonhack.shop/
 server=/drdavidfishbein.com/
@@ -150,6 +146,7 @@ server=/knightsinshiningarmor.net/
 server=/l3monrat.com/
 server=/lafilledemavie.com/
 server=/library.arihantmbainstitute.ac.in/
+server=/license.bugmakerx.cn/
 server=/lieferdienste-deutsche.com/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
@@ -266,7 +263,6 @@ server=/towerofbabble.net/
 server=/tracking-packages.com/
 server=/tracking-suivie.com/
 server=/trackpacking-ups.com/
-server=/treinamento.convenio.to.gov.br/
 server=/tricazo.com/
 server=/troop153queens.com/
 server=/twizt.net/
@@ -308,15 +304,14 @@ server=/www.opolis.io/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
 server=/www.speak-a-message.com/
-server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.support-info-colis.com/
 server=/www.tdejb.com/
+server=/www.tecunonline.com/
 server=/www.totya.ir/
 server=/www.witrin.hu/
 server=/www.xn--on3b15m2lco2u.com/
-server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
 server=/xhwja.office.enewlaw.com/
@@ -336,4 +331,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
 server=/ztzb.office.enewlaw.com/
-# Number of entries: 330
+# Number of entries: 325
