@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-26 01:39:15 (UTC)                      #
+# Last updated: 2024-12-26 02:44:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
@@ -33,7 +34,6 @@
 0.0.0.0 armanayegh.com
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
@@ -43,7 +43,6 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 cagrininsesi.com
-0.0.0.0 cajgtus.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
@@ -55,7 +54,6 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
-0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 crazy.eye-network.ru
@@ -70,7 +68,6 @@
 0.0.0.0 diicotsec.ru
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -223,9 +220,7 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 spotcarservice.ru
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -233,7 +228,6 @@
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
-0.0.0.0 t.0000o.xyz
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -279,6 +273,7 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
+0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
@@ -289,7 +284,6 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
@@ -310,9 +304,10 @@
 0.0.0.0 xn--espace-vitale--niveau-sms-zbc.com
 0.0.0.0 xn--mise--jours-vitale-espace-sms-pmc.com
 0.0.0.0 xn--vitale-espace--niveau-0zb.com
+0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 ztzb.office.enewlaw.com
-# Number of entries: 309
+# Number of entries: 304

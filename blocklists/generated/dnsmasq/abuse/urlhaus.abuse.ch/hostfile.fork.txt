@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-26 01:39:15 (UTC)                      #
+# Last updated: 2024-12-26 02:44:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@ server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
 server=/2.haory.cn/
 server=/360down7.miiyun.cn/
+server=/912648.aioc.qbgxl.com/
 server=/aarzoomarine.com/
 server=/abissnet.net/
 server=/aboverlangerung.com/
@@ -33,7 +34,6 @@ server=/aquafusion.com.co/
 server=/armanayegh.com/
 server=/assuresform.com/
 server=/aulist.com/
-server=/avastop.com/
 server=/avastpdr.com/
 server=/avastpx.com/
 server=/banthis.su/
@@ -43,7 +43,6 @@ server=/bitkiselurunsiparis.com/
 server=/buscascolegios.diit.cl/
 server=/by.haory.cn/
 server=/cagrininsesi.com/
-server=/cajgtus.com/
 server=/catbaparadisehotel.com.vn/
 server=/cdaonline.com.ar/
 server=/centre-de-tri-ups.com/
@@ -55,7 +54,6 @@ server=/cmgtrading.eu/
 server=/coach.028csc.com/
 server=/coadymarine.com/
 server=/com-animus.app/
-server=/conn.masjesu.zip/
 server=/consulter-mon-amende.com/
 server=/contravinf.com/
 server=/crazy.eye-network.ru/
@@ -70,7 +68,6 @@ server=/dienstmyhermes.de/
 server=/diicotsec.ru/
 server=/divvanews.com/
 server=/dl.aginjector.com/
-server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
@@ -223,9 +220,7 @@ server=/simit-pagos.co/
 server=/sinupakk.net/
 server=/sirault.be/
 server=/soft.110route.com/
-server=/softcatalog.ru/
 server=/spaceframe.mobi.space-frame.co.za/
-server=/sporcketngearforu.com/
 server=/spotcarservice.ru/
 server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
@@ -233,7 +228,6 @@ server=/support-abonnement.com/
 server=/support-colis-info.com/
 server=/support.clz.kr/
 server=/supportameli.top/
-server=/t.0000o.xyz/
 server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
@@ -279,6 +273,7 @@ server=/www.evangelia.edu/
 server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.grupodulcemar.pe/
+server=/www.hootech.com/
 server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
@@ -289,7 +284,6 @@ server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
-server=/www.speak-a-message.com/
 server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
@@ -310,9 +304,10 @@ server=/xn--espace-vitale--jours-sms-87b.com/
 server=/xn--espace-vitale--niveau-sms-zbc.com/
 server=/xn--mise--jours-vitale-espace-sms-pmc.com/
 server=/xn--vitale-espace--niveau-0zb.com/
+server=/xn--yh4bx88a.com/
 server=/ylmcbeta-invite.bugmakerx.cn/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
 server=/ztzb.office.enewlaw.com/
-# Number of entries: 309
+# Number of entries: 304
