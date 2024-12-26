@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-26 04:20:08 (UTC)                      #
+# Last updated: 2024-12-26 06:21:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -46,6 +46,7 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 cagrininsesi.com
+0.0.0.0 cajgtus.com
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 chinaapper.com
@@ -62,12 +63,14 @@
 0.0.0.0 crazy.eye-network.ru
 0.0.0.0 crystalpvp.ru
 0.0.0.0 data.yhydl.com
+0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 diicotsec.ru
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
@@ -76,7 +79,6 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
-0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
@@ -104,6 +106,7 @@
 0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
+0.0.0.0 gitrok.com
 0.0.0.0 goodlabel.cn
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
@@ -116,7 +119,6 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
-0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 incomputersolutions.com
@@ -136,6 +138,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
+0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 l3monrat.com
 0.0.0.0 lafilledemavie.com
@@ -172,7 +175,6 @@
 0.0.0.0 mondiale-relaissupport.com
 0.0.0.0 monformulaire-sante.com
 0.0.0.0 mta132.bentonwhite.com
-0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
 0.0.0.0 myhermes-versand.net
@@ -193,6 +195,7 @@
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
+0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
@@ -217,13 +220,12 @@
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 spotcarservice.ru
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
@@ -232,9 +234,9 @@
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
+0.0.0.0 t.0000o.xyz
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
-0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -251,11 +253,11 @@
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
@@ -266,7 +268,6 @@
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.carambis.com
@@ -274,6 +275,7 @@
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.evangelia.edu
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
@@ -283,11 +285,14 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.nefislezzetlerim.com
 0.0.0.0 www.netsolution.it
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
+0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
+0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -307,9 +312,9 @@
 0.0.0.0 xn--mise--jours-vitale-espace-sms-pmc.com
 0.0.0.0 xn--vitale-espace--niveau-0zb.com
 0.0.0.0 xn--yh4bx88a.com
-0.0.0.0 ylmcbeta-invite.bugmakerx.cn
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 ztzb.office.enewlaw.com
-# Number of entries: 306
+# Number of entries: 311
