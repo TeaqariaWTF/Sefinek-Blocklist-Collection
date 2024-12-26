@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-26 16:13:06 (UTC)                      #
+# Last updated: 2024-12-26 18:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
-0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
@@ -17,7 +16,6 @@
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -31,14 +29,17 @@
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.ewfiles.net
+0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
 0.0.0.0 assuresform.com
+0.0.0.0 aulist.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 beautymakeup.ca
 0.0.0.0 bethelkwabenya.org
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
 0.0.0.0 cagrininsesi.com
@@ -77,7 +78,6 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -96,6 +96,7 @@
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fizeteselutasitva.com
+0.0.0.0 fniew.eye-network.ru
 0.0.0.0 formulaire-sociale.com
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
@@ -116,7 +117,6 @@
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 incomputersolutions.com
 0.0.0.0 info-paiement-ligne.com
@@ -131,6 +131,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
@@ -138,7 +139,7 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 l3monrat.com
 0.0.0.0 lafilledemavie.com
-0.0.0.0 license.bugmakerx.cn
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
@@ -147,11 +148,11 @@
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 macphotoeditor.shop
 0.0.0.0 mandarin.net.au
+0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mes-demarches-renouvellement.com
@@ -179,7 +180,6 @@
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
-0.0.0.0 ns.smallsrv.com
 0.0.0.0 nsomikey.tokyo
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
@@ -192,12 +192,10 @@
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
-0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 raw.cardiacpure.ru
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -207,7 +205,6 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 safe.ywxww.net
-0.0.0.0 scan-echo.online
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
@@ -223,7 +220,7 @@
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -232,14 +229,12 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
-0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
-0.0.0.0 touduanyiyuan.bugmakerx.cn
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
@@ -260,7 +255,6 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vlrt-gap.com
 0.0.0.0 wdxd.office.enewlaw.com
@@ -270,24 +264,25 @@
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.evangelia.edu
-0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.nefislezzetlerim.com
 0.0.0.0 www.netsolution.it
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
+0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
@@ -310,5 +305,7 @@
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 ztzb.office.enewlaw.com
-# Number of entries: 305
+# Number of entries: 302
