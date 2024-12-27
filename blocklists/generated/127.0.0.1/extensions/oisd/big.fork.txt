@@ -1,9 +1,9 @@
-# Version: 202412271809
+# Version: 202412272008
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137410
-# Last modified: 2024-12-27T18:09:32+0000
+! Entries: 137406
+# Last modified: 2024-12-27T20:08:53+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -21073,7 +21073,6 @@
 127.0.0.1 adblock-offer-download.com
 127.0.0.1 adblock-one-protection.com
 127.0.0.1 adblock-pro.org
-127.0.0.1 adblock-zen-download.com
 127.0.0.1 adblock-zen.com
 127.0.0.1 adblock.fr
 127.0.0.1 adblock.sina.cn
@@ -32662,7 +32661,6 @@
 127.0.0.1 bankingandfinanceconsultantsltd.com
 127.0.0.1 bankingbloatedcaptive.com
 127.0.0.1 bankingconcede.com
-127.0.0.1 bankingkind.com
 127.0.0.1 bankingok.com
 127.0.0.1 bankingpotent.com
 127.0.0.1 bankivsamare.ru
@@ -53889,7 +53887,6 @@
 127.0.0.1 eco.taobao.com
 127.0.0.1 eco50.co.uk
 127.0.0.1 ecoastandhei.org
-127.0.0.1 ecobankghanaonline.org
 127.0.0.1 ecobkbenin.com
 127.0.0.1 ecoclimat-gree.ru
 127.0.0.1 ecoconcretos.com
@@ -58824,7 +58821,6 @@
 127.0.0.1 filelandworld.com
 127.0.0.1 filelinking.com
 127.0.0.1 filelover.com
-127.0.0.1 filelu.com
 127.0.0.1 filemanage.micrsofts-file.com
 127.0.0.1 fileme.us
 127.0.0.1 fileml.com
