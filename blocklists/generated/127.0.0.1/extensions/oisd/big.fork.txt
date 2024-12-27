@@ -1,9 +1,9 @@
-# Version: 202412272008
+# Version: 202412272111
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137406
-# Last modified: 2024-12-27T20:08:53+0000
+! Entries: 137401
+# Last modified: 2024-12-27T21:11:18+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2137,7 +2137,6 @@
 127.0.0.1 1111365.net
 127.0.0.1 1111365.org
 127.0.0.1 1111365.pro
-127.0.0.1 1111365585547384.com
 127.0.0.1 1111365dh.net
 127.0.0.1 1111365wz.net
 127.0.0.1 111143121567341.duckdns.org
@@ -39569,7 +39568,6 @@
 127.0.0.1 cdgxq.com
 127.0.0.1 cdhfvrug.xyz
 127.0.0.1 cdhhbyy.cn
-127.0.0.1 cdicasup.beget.tech
 127.0.0.1 cdiscount-hard.fr
 127.0.0.1 cdiscounte.fr
 127.0.0.1 cdj-dap.s3-ap-northeast-1.amazonaws.com
@@ -82720,7 +82718,6 @@
 127.0.0.1 main.solinvictus.pw
 127.0.0.1 main.vodonet.net
 127.0.0.1 mainadv.com
-127.0.0.1 mainapiary.com
 127.0.0.1 mainbiz.or.kr
 127.0.0.1 mainclc.com
 127.0.0.1 mainclick.pl
@@ -116684,7 +116681,6 @@
 127.0.0.1 stoat.death-to-ie11.com
 127.0.0.1 stock-med.ru
 127.0.0.1 stock-trading.live
-127.0.0.1 stock.letsgoautomotive.com
 127.0.0.1 stock888.cn
 127.0.0.1 stockbook-ads.firebaseapp.com
 127.0.0.1 stockbook-ads.firebaseio.com
@@ -133642,7 +133638,6 @@
 127.0.0.1 xegluwate.com
 127.0.0.1 xehodv.xyz
 127.0.0.1 xeif.flu.cc
-127.0.0.1 xeiswhlfwiar.com
 127.0.0.1 xekmhvbb.xyz
 127.0.0.1 xel-xel-fie.com
 127.0.0.1 xelaouad.ddns.net
