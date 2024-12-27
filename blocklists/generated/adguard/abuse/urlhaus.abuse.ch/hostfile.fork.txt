@@ -1,15 +1,15 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-27 16:19:07 (UTC)                      !
+! Last updated: 2024-12-27 18:24:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
 ||123.ywxww.net^
+||139520.aioc.qbgxl.com^
 ||1717.1000uc.com^
 ||2.haory.cn^
-||360down7.miiyun.cn^
 ||912648.aioc.qbgxl.com^
 ||aarzoomarine.com^
 ||abissnet.net^
@@ -29,7 +29,9 @@
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
 ||anphatnam.com^
+||aosafrica.co.za^
 ||api.co-operativefinance.com^
+||api.ewfiles.net^
 ||api.hostize.com^
 ||aquafusion.com.co^
 ||armanayegh.com^
@@ -46,8 +48,6 @@
 ||cagrininsesi.com^
 ||cdaonline.com.ar^
 ||centre-de-tri-ups.com^
-||chinaapper.com^
-||chronopost-suivi-fr.co^
 ||ciscocdn.com^
 ||clubedasluluzinhasro.com.br^
 ||cmgtrading.eu^
@@ -77,7 +77,6 @@
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.mvip8.ru^
-||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
@@ -88,10 +87,12 @@
 ||dragonhack.shop^
 ||e4l4.com^
 ||electjimhenderson.com^
+||electrum-bch.net^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
 ||espacesantefr-assurance.com^
+||f.neko.pe^
 ||f2pverifynow.com^
 ||file.blackint3.com^
 ||file.edunet.ac^
@@ -116,7 +117,6 @@
 ||hitstation.nl^
 ||hntngln1.com^
 ||hr2019.vrcom7.com^
-||hseda.com^
 ||huyanhnongdo.io.vn^
 ||imtoken8.cc^
 ||info-paiement-ligne.com^
@@ -142,6 +142,7 @@
 ||library.arihantmbainstitute.ac.in^
 ||lieferdienste-deutsche.com^
 ||lindnerelektroanlagen.de^
+||linkvilleplayers.org^
 ||live-sendungsverfolgung.com^
 ||lnterrac-ca.rebateit.net^
 ||loeghaiofiehfihf.to^
@@ -161,6 +162,7 @@
 ||minu-pakk.com^
 ||minupakk.com^
 ||minupakk.net^
+||misljen.net^
 ||mississippistemacademy.org^
 ||mitgpssms.com^
 ||mjsqurej.com^
@@ -168,6 +170,7 @@
 ||mondiale-relaissupport.com^
 ||monformulaire-sante.com^
 ||mta132.bentonwhite.com^
+||myguyapp.com^
 ||myhermes-dienste.com^
 ||myhermes-liefern.com^
 ||myhermes-versand.net^
@@ -183,7 +186,6 @@
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||organisme-renouvellement.com^
-||palharesinformatica.com.br^
 ||paonancs.cn^
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
@@ -192,7 +194,6 @@
 ||pid.fly160.com^
 ||plutoc2.site^
 ||pns.org.pk^
-||pravo-bashkortostan.ru^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
@@ -217,15 +218,15 @@
 ||servers.vlrt-gap.com^
 ||service-espace-sante.com^
 ||servvital.com^
-||sfa.com.ar^
 ||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
 ||sinupakk.net^
 ||sirault.be^
 ||soft.110route.com^
-||soportegira.net^
+||softcatalog.ru^
 ||spaceframe.mobi.space-frame.co.za^
+||sporcketngearforu.com^
 ||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
@@ -235,12 +236,12 @@
 ||supportameli.top^
 ||t.0000o.xyz^
 ||taodianla.com^
+||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tianyinsoft.top^
-||tiffany-careers.com^
 ||towerofbabble.net^
 ||tracking-packages.com^
 ||tracking-suivie.com^
@@ -284,8 +285,8 @@
 ||www.ingonherbal.com^
 ||www.medises.co.kr^
 ||www.nefislezzetlerim.com^
+||www.netsolution.it^
 ||www.ojang.pe.kr^
-||www.opolis.io^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
@@ -294,7 +295,6 @@
 ||www.starcountry.net^
 ||www.sumiyuki.co.jp^
 ||www.support-info-colis.com^
-||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
