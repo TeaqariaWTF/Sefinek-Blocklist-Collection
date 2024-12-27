@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-27 10:19:07 (UTC)                      #
+# Last updated: 2024-12-27 12:39:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
 0.0.0.0 abissnet.net
@@ -29,8 +30,9 @@
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 anphatnam.com
-0.0.0.0 aosafrica.co.za
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
+0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
 0.0.0.0 assuresform.com
@@ -60,6 +62,7 @@
 0.0.0.0 crazy.eye-network.ru
 0.0.0.0 crystalpvp.ru
 0.0.0.0 data.yhydl.com
+0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
@@ -68,10 +71,8 @@
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
-0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
@@ -82,7 +83,6 @@
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dpc.office.enewlaw.com
 0.0.0.0 dragonhack.shop
@@ -95,7 +95,6 @@
 0.0.0.0 f.neko.pe
 0.0.0.0 f2pverifynow.com
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fizeteselutasitva.com
 0.0.0.0 fniew.eye-network.ru
@@ -105,7 +104,6 @@
 0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
-0.0.0.0 gitrok.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
@@ -116,6 +114,7 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
+0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
@@ -131,6 +130,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
@@ -181,6 +181,7 @@
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 nextgencoding.cyou
 0.0.0.0 noithaticon.vn
+0.0.0.0 ns.smallsrv.com
 0.0.0.0 nsomikey.tokyo
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
@@ -190,11 +191,10 @@
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
-0.0.0.0 perfectperu.com
+0.0.0.0 pid.fly160.com
 0.0.0.0 plutoc2.site
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
@@ -246,6 +246,7 @@
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 triptrip.melody-wave.shop
 0.0.0.0 twizt.net
@@ -270,10 +271,12 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.carambis.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
+0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
@@ -290,6 +293,7 @@
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
@@ -313,4 +317,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zushiapi.online
-# Number of entries: 307
+# Number of entries: 311
