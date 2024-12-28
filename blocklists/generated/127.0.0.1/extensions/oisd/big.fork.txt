@@ -1,9 +1,9 @@
-# Version: 202412281230
+# Version: 202412281309
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137370
-# Last modified: 2024-12-28T12:30:41+0000
+! Entries: 137367
+# Last modified: 2024-12-28T13:09:51+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -20387,7 +20387,6 @@
 127.0.0.1 ad.cl.doubleclick.net
 127.0.0.1 ad.clickotmedia.com
 127.0.0.1 ad.clicrbs.com.br
-127.0.0.1 ad.clovenetwork.com
 127.0.0.1 ad.cmvideo.cn
 127.0.0.1 ad.cn.doubleclick.net
 127.0.0.1 ad.co.doubleclick.net
@@ -91309,7 +91308,6 @@
 127.0.0.1 nosgesteclimat.fr
 127.0.0.1 nosgestesclimats.fr
 127.0.0.1 noslin.com
-127.0.0.1 noslugut.com
 127.0.0.1 nosmenu.com
 127.0.0.1 nospartenaires.com
 127.0.0.1 nosrimneck.live
@@ -130425,7 +130423,6 @@
 127.0.0.1 wdm29.com
 127.0.0.1 wdohhlagnjzi.com
 127.0.0.1 wdpp.org
-127.0.0.1 wdqrmaro.com
 127.0.0.1 wdss.top
 127.0.0.1 wdt9iaspfv3o.com
 127.0.0.1 wdxzlv.org
