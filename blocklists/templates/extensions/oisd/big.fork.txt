@@ -1,9 +1,9 @@
-# Version: 202412280209
+# Version: 202412280410
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 137388
-# Last modified: 2024-12-28T02:09:03+0000
+! Entries: 137382
+# Last modified: 2024-12-28T04:10:40+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -32889,7 +32889,6 @@
 0.0.0.0 banque-actualisations.fr
 0.0.0.0 banque-cic.fr
 0.0.0.0 banque-populaire-cyberpass-22-fevrier-2018.consei87.beget.tech
-0.0.0.0 banque-populaire-cyberplus.conseibi.beget.tech
 0.0.0.0 banque-populaire-passcyberplus-13-fevrier-2018.banquep344.beget.tech
 0.0.0.0 banque-secure.fr
 0.0.0.0 banque-socredo.fr
@@ -62007,7 +62006,6 @@
 0.0.0.0 galvanize26.fun
 0.0.0.0 galzed.com
 0.0.0.0 gam.adnxs.com
-0.0.0.0 gam3ah.com
 0.0.0.0 gam4.fr
 0.0.0.0 gamadspro.com
 0.0.0.0 gambar123.com
@@ -70062,7 +70060,6 @@
 0.0.0.0 i.zhuoyaju.com
 0.0.0.0 i0001.clarodrive.com
 0.0.0.0 i0004.clarodrive.com
-0.0.0.0 i027m.top
 0.0.0.0 i1.go2yd.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1218.photobucket.com
@@ -83507,7 +83504,6 @@
 0.0.0.0 masterzion.ddns.net
 0.0.0.0 mastodon.internalnewsletters.co
 0.0.0.0 mastodon.thrustcarbon.com
-0.0.0.0 mastraining.net
 0.0.0.0 mastsaultetra.org
 0.0.0.0 masturbaseinvegas.com
 0.0.0.0 masudel.com
@@ -97525,7 +97521,6 @@
 0.0.0.0 phongchayviet.com
 0.0.0.0 phongchitt.com
 0.0.0.0 phongthuyanlac.com
-0.0.0.0 phonicsblitz.com
 0.0.0.0 phonroid.com
 0.0.0.0 phoobsoalrie.com
 0.0.0.0 phoognol.com
@@ -121100,7 +121095,6 @@
 0.0.0.0 thrillerthreads.com
 0.0.0.0 thrillignoringexalt.com
 0.0.0.0 thrillingbeauty.com
-0.0.0.0 thrillingpairsreside.com
 0.0.0.0 thrillstwinges.top
 0.0.0.0 thrilok.com
 0.0.0.0 thrissurcalltaxi.com
