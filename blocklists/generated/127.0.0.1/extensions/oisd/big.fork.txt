@@ -1,9 +1,9 @@
-# Version: 202412290611
+# Version: 202412290810
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 137290
-# Last modified: 2024-12-29T06:11:35+0000
+! Entries: 137288
+# Last modified: 2024-12-29T08:10:06+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -21738,7 +21738,6 @@
 127.0.0.1 admin.yhuiz-4.sbs
 127.0.0.1 admin.zhbjl.tggame.xyz
 127.0.0.1 admin.zhtz.tggame.xyz
-127.0.0.1 admin1.xxxviral.my.id
 127.0.0.1 admin25.com
 127.0.0.1 admin2cash.biz
 127.0.0.1 admin3.danarimedia.com
@@ -92587,7 +92586,6 @@
 127.0.0.1 office-adr.com
 127.0.0.1 office-crash.ddns.net
 127.0.0.1 office-online.fr
-127.0.0.1 office-techs.biz
 127.0.0.1 office.enewlaw.com
 127.0.0.1 office.org
 127.0.0.1 office1266.fun
