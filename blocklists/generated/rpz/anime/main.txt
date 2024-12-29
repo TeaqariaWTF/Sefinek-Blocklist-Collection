@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024121701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024122901 43200 3600 259200 300
   NS  localhost.
 animewave.se CNAME .
 *.animewave.se CNAME .
@@ -111543,3 +111543,5 @@ animeunity.se CNAME .
 *.6anime.se CNAME .
 genkia.sk CNAME .
 *.genkia.sk CNAME .
+brightanime.se CNAME .
+*.brightanime.se CNAME .
