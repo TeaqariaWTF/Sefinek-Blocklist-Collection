@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-30 20:11:06 (UTC)                      !
+! Last updated: 2024-12-30 22:19:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -11,6 +11,7 @@
 ||1717.1000uc.com^
 ||2.haory.cn^
 ||360down7.miiyun.cn^
+||912648.aioc.qbgxl.com^
 ||abissnet.net^
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
@@ -20,6 +21,7 @@
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
 ||agapi.cqjjb.cn^
+||ai-kling.online^
 ||aide-acheminement-info.com^
 ||airhobi.com^
 ||alien-training.com^
@@ -31,7 +33,6 @@
 ||api.ewfiles.net^
 ||api.hostize.com^
 ||aquafusion.com.co^
-||armanayegh.com^
 ||assuresform.com^
 ||aulist.com^
 ||avastcxp.com^
@@ -47,7 +48,6 @@
 ||bethelkwabenya.org^
 ||bitkiselurunsiparis.com^
 ||buscascolegios.diit.cl^
-||by.haory.cn^
 ||cdaonline.com.ar^
 ||centre-de-tri-ups.com^
 ||chapasanpedro.com^
@@ -95,13 +95,12 @@
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
+||download.haozip.com^
 ||download.innovare.no^
-||download.suxiazai.com^
 ||downsexv.com^
 ||druster-master.com^
 ||e4l4.com^
 ||electjimhenderson.com^
-||electrum-bch.net^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
@@ -112,6 +111,7 @@
 ||files5.uludagbilisim.com^
 ||finatick.com^
 ||fizeteselutasitva.com^
+||flocait.com^
 ||fniew.eye-network.ru^
 ||formulaire-sociale.com^
 ||ftp.ywxww.net^
@@ -138,21 +138,21 @@
 ||informationversand.com^
 ||ini.sh-pp.com^
 ||inspirepk.org^
-||jahez.me^
 ||javierlopez.eu^
 ||jitcom.info^
 ||jobcity.com^
 ||jointings.org^
+||jrqh-hk.com^
 ||jtpdev.co.uk^
 ||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
 ||keysertools.cc^
-||kiemthehuyenlong.com^
 ||knightsinshiningarmor.net^
 ||lafilledemavie.com^
 ||library.arihantmbainstitute.ac.in^
 ||lieferdienste-deutsche.com^
+||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||live-sendungsverfolgung.com^
 ||livetrack.in^
@@ -170,7 +170,6 @@
 ||mes-demarches-renouvellement.com^
 ||microprocessorbook.com^
 ||microprocessordesignbook.com^
-||microsoft-analyse.com^
 ||mingleyou.top^
 ||minu-pakk.com^
 ||minupakk.com^
@@ -188,7 +187,7 @@
 ||myhermes-versand.net^
 ||mypackagingups.com^
 ||mystartherehosting.net^
-||nabawitransport.com^
+||namthaibinh.net^
 ||new-consigne-sms-track.com^
 ||noithaticon.vn^
 ||ns1.us5.info^
@@ -196,24 +195,21 @@
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||organisme-renouvellement.com^
-||palharesinformatica.com.br^
-||paonancs.cn^
 ||pareek.info^
 ||park.chuitian.cn^
 ||partinvshipppjbb.click^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
-||perfectperu.com^
 ||pid.fly160.com^
 ||pn.us5.info^
 ||pns.org.pk^
+||protechasia.com^
 ||prtmscaup.click^
 ||prtmscaup.my^
 ||qiniuyunxz.yxflzs.com^
-||qlqd5zqefmkcr34a.onion.sh^
-||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
+||r8p.teknixstuff.com^
 ||rb3.ftnt.io^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
@@ -235,10 +231,8 @@
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
 ||sinupakk.net^
-||sirault.be^
+||softcatalog.ru^
 ||soportegira.net^
-||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
@@ -260,6 +254,7 @@
 ||trackpacking-ups.com^
 ||treinamento.convenio.to.gov.br^
 ||tricazo.com^
+||ttss.zhengshu.xyz^
 ||twizt.net^
 ||uefy.stock.letsgoautomotive.com^
 ||unitedkingdomdiplomat.org^
@@ -273,10 +268,10 @@
 ||us5.info^
 ||usa2.info^
 ||utorrent-backup-server.top^
+||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
-||utorrent-servers.xyz^
 ||valseg.com.br^
 ||webmail.tracking-packages.com^
 ||win-network-checker.cc^
@@ -291,20 +286,19 @@
 ||www.grupodulcemar.pe^
 ||www.hootech.com^
 ||www.hseda.com^
+||www.ingonherbal.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.opolis.io^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
-||www.speak-a-message.com^
-||www.starcountry.net^
+||www.sporcketngearforu.com^
 ||www.sumiyuki.co.jp^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.webaap2.site^
-||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
@@ -323,4 +317,4 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 317
+! Number of entries: 311
