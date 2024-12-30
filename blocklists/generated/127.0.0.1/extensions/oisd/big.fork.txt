@@ -1,9 +1,9 @@
-# Version: 202412301310
+# Version: 202412301609
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 122969
-# Last modified: 2024-12-30T13:10:41+0000
+! Entries: 122962
+# Last modified: 2024-12-30T16:09:45+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2300,7 +2300,6 @@
 127.0.0.1 32652900175411plan.github.io
 127.0.0.1 327bdba97a.93d6b7d3b1.com
 127.0.0.1 329329.com
-127.0.0.1 32c4e165fa11f585d388838ac087707a.xyz
 127.0.0.1 32d1d3b9c.se
 127.0.0.1 32d39cd3fe.com
 127.0.0.1 32d3db0610.db35b0c4c1.com
@@ -15337,7 +15336,6 @@
 127.0.0.1 apia.headlines.pw
 127.0.0.1 apiads.gg.pl
 127.0.0.1 apiapple.com
-127.0.0.1 apibookprinting.com
 127.0.0.1 apicloud.ru
 127.0.0.1 apiculirackman.top
 127.0.0.1 apidata.info
@@ -15634,7 +15632,6 @@
 127.0.0.1 app1eidnsa.com
 127.0.0.1 app1eip.fortigym.com
 127.0.0.1 app1ejdaea.hopto.org
-127.0.0.1 app1ejews.ru
 127.0.0.1 app1eld-support.servepics.com
 127.0.0.1 app1empire.com
 127.0.0.1 app1emyverlfy1d.serveblog.net
@@ -18009,10 +18006,15 @@
 127.0.0.1 avasab.com
 127.0.0.1 avast-2007.com
 127.0.0.1 avast-downloads.com
-127.0.0.1 avast-france.fr
 127.0.0.1 avast.services
+127.0.0.1 avastcxp.com
+127.0.0.1 avastcxt.com
 127.0.0.1 avasters.com
+127.0.0.1 avastexodus.com
+127.0.0.1 avastmetamask.com
+127.0.0.1 avastng.com
 127.0.0.1 avastop.com
+127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
 127.0.0.1 avatariagoldhack.blogcu.com
@@ -24190,7 +24192,6 @@
 127.0.0.1 bxgroup.net
 127.0.0.1 bxjljczavv.duckdns.org
 127.0.0.1 bxjpl.cn
-127.0.0.1 bxjskqtpvhm.black
 127.0.0.1 bxjskqtpvhm.green
 127.0.0.1 bxjskqtpvhm.info
 127.0.0.1 bxjskqtpvhm.ltd
@@ -28961,6 +28962,7 @@
 127.0.0.1 cluodlfare.com
 127.0.0.1 clusif.free.fr
 127.0.0.1 cluster.adultworld.com
+127.0.0.1 cluster.xhspot.com
 127.0.0.1 cluster12-orange-casiers.fr
 127.0.0.1 cluster13-orange-casiers.fr
 127.0.0.1 cluster14-orange-casiers.fr
@@ -36263,6 +36265,7 @@
 127.0.0.1 dhlseguimiento.com
 127.0.0.1 dhm1.top
 127.0.0.1 dhn-ads-api.365scores.com
+127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dhnnbfok.icu
 127.0.0.1 dhobeynandi.com
 127.0.0.1 dhodha.com
@@ -37742,6 +37745,7 @@
 127.0.0.1 dnxlgencstz4.cloudfront.net
 127.0.0.1 dnyzbp.cn
 127.0.0.1 do-01.redteam.tf
+127.0.0.1 do-dear.com
 127.0.0.1 do.ddns.ms
 127.0.0.1 do4dude.com
 127.0.0.1 do6256x8ae75.cloudfront.net
@@ -41838,7 +41842,6 @@
 127.0.0.1 epushclick.com
 127.0.0.1 eputysolomon.com
 127.0.0.1 epvjljye.com
-127.0.0.1 epwefjppare.com
 127.0.0.1 epworthlocalboard.co.zw
 127.0.0.1 epxfjcb.xyz
 127.0.0.1 epzu4ebrmh.ivertiipolska.com.pl
@@ -63833,7 +63836,6 @@
 127.0.0.1 lagenceengineering.com
 127.0.0.1 lageny.com
 127.0.0.1 lagilapar.com
-127.0.0.1 lagpac.com
 127.0.0.1 lagriffeduweb.com
 127.0.0.1 lagxsntduepv.online
 127.0.0.1 lah1.duckdns.org
@@ -71266,7 +71268,6 @@
 127.0.0.1 mevarabon.com
 127.0.0.1 mevau.com
 127.0.0.1 mevents.trusteer.com
-127.0.0.1 meverdal.click
 127.0.0.1 mevtime.com
 127.0.0.1 mewego.com
 127.0.0.1 mewgzllnsp.com
@@ -86258,7 +86259,6 @@
 127.0.0.1 profitboosterapp.com
 127.0.0.1 profitcall.net
 127.0.0.1 profitcustomersnuff.com
-127.0.0.1 profitideas.ru
 127.0.0.1 profitpeelers.com
 127.0.0.1 profitrumour.com
 127.0.0.1 profitsence.com
@@ -93840,7 +93840,6 @@
 127.0.0.1 saudiarabianationalsuppliers.com
 127.0.0.1 saudiarabianoilcompany-ae.com
 127.0.0.1 saudiarabianow.org
-127.0.0.1 saudiarabiaoilcompany-ae.com
 127.0.0.1 saudiarabiaoilcompany.net
 127.0.0.1 saudiarabiaoilprocurement-ae.com
 127.0.0.1 saudiaramcovendorprocurements-uae.com
@@ -99456,7 +99455,6 @@
 127.0.0.1 solutin.lemsgroup.com
 127.0.0.1 solution-invest.com
 127.0.0.1 solution-solutions.com
-127.0.0.1 solution7energieqc.com
 127.0.0.1 solution911.com
 127.0.0.1 solutiongate.ca
 127.0.0.1 solutioninplastic.com
@@ -106958,7 +106956,6 @@
 127.0.0.1 ticklesign.com
 127.0.0.1 tickless-france.fr
 127.0.0.1 tickmark.org
-127.0.0.1 tickmaster.fr
 127.0.0.1 ticktake.com
 127.0.0.1 ticno.com
 127.0.0.1 ticrite.com
@@ -110923,7 +110920,6 @@
 127.0.0.1 u.ctrip.com
 127.0.0.1 u.diannaodian.com
 127.0.0.1 u.iciba.com
-127.0.0.1 u.infotrackcd.top
 127.0.0.1 u.jimdo.com
 127.0.0.1 u.lucy-anne.com
 127.0.0.1 u.meizu.com
@@ -111040,7 +111036,6 @@
 127.0.0.1 uae-op.com
 127.0.0.1 uafkcvpvvelp.com
 127.0.0.1 uahosnnx.com
-127.0.0.1 uangmu.top
 127.0.0.1 uaoaig.xyz
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 uarating.com
@@ -112631,7 +112626,6 @@
 127.0.0.1 usps.com-parceltjkuf.vip
 127.0.0.1 usps.com-parceltyrab.vip
 127.0.0.1 usps.com-parceluwqenj.vip
-127.0.0.1 usps.com-tracking-helpsenf.xyz
 127.0.0.1 usps.com-tracking-helpszy.cc
 127.0.0.1 usps.com-trackjia.top
 127.0.0.1 usps.com-trackjii.top
@@ -112646,7 +112640,6 @@
 127.0.0.1 usps.com-trackybp.top
 127.0.0.1 usps.com-xuisklkl.top
 127.0.0.1 uspsonline-safe.com
-127.0.0.1 uspw.usspaqn.top
 127.0.0.1 usqgw2bvlxf1.live
 127.0.0.1 usr.interactiveone.com
 127.0.0.1 usrfyjueaneumqx.com
@@ -116855,7 +116848,6 @@
 127.0.0.1 wexevoom.net
 127.0.0.1 wextap.com
 127.0.0.1 weyou-group.com
-127.0.0.1 wezpod.com
 127.0.0.1 wf-securelogin.com
 127.0.0.1 wfcomercial.com.br
 127.0.0.1 wfcs.lol
@@ -120060,6 +120052,7 @@
 127.0.0.1 xn--oise-mobilit-meb.fr
 127.0.0.1 xn--on3b15m2lco2u.com
 127.0.0.1 xn--os-g7s.com
+127.0.0.1 xn--p434-5fa0zkd5fya95hy29v8ga.tm
 127.0.0.1 xn--pal-5cd3fta.xn--m-0tbi.xn--lgin-55d.lovemyhost.com
 127.0.0.1 xn--papal-ouc.com
 127.0.0.1 xn--parlonscoren-keb.fr
