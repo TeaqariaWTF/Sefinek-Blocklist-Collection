@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-30 01:39:07 (UTC)                      #
+# Last updated: 2024-12-30 02:54:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 aarzoomarine.com
@@ -22,7 +23,6 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
@@ -47,6 +47,7 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 chapasanpedro.com
+0.0.0.0 chinaapper.com
 0.0.0.0 chrome-browser-download.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 clubedasluluzinhasro.com.br
@@ -73,12 +74,13 @@
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 dev.cyberark-igiwax.com
 0.0.0.0 device.redirec.com
-0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 diicotsec.ru
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dopooomogaa247247dopomoga.world
@@ -90,7 +92,6 @@
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 druster-master.com
 0.0.0.0 e4l4.com
@@ -120,7 +121,6 @@
 0.0.0.0 hailcocks.ru
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
@@ -129,7 +129,6 @@
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -145,7 +144,6 @@
 0.0.0.0 kiemthehuyenlong.com
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 lafilledemavie.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 live-sendungsverfolgung.com
@@ -198,10 +196,10 @@
 0.0.0.0 partinvshipppjbb.click
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
-0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 plutoc2.site
 0.0.0.0 pn.us5.info
+0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 prtmscaup.click
 0.0.0.0 prtmscaup.my
@@ -233,15 +231,15 @@
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
+0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
-0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
 0.0.0.0 taodianla.com
@@ -279,7 +277,6 @@
 0.0.0.0 vlrt-gap.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -327,4 +324,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 321
+# Number of entries: 318
