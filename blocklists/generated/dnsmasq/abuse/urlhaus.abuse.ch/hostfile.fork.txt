@@ -1,16 +1,18 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-30 06:23:14 (UTC)                      #
+# Last updated: 2024-12-30 08:22:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
+server=/139520.aioc.qbgxl.com/
 server=/2.haory.cn/
 server=/360down7.miiyun.cn/
 server=/912648.aioc.qbgxl.com/
 server=/aarzoomarine.com/
+server=/abissnet.net/
 server=/aboverlangerung.com/
 server=/acheminement-suivis.fr/
 server=/adf6.adf6.com/
@@ -34,14 +36,12 @@ server=/armanayegh.com/
 server=/assuresform.com/
 server=/aulist.com/
 server=/avastop.com/
-server=/avastpdr.com/
 server=/avastpx.com/
 server=/banthis.su/
 server=/bethelkwabenya.org/
 server=/bitkiselurunsiparis.com/
 server=/buscascolegios.diit.cl/
 server=/by.haory.cn/
-server=/cajgtus.com/
 server=/cdaonline.com.ar/
 server=/centre-de-tri-ups.com/
 server=/chapasanpedro.com/
@@ -118,9 +118,9 @@ server=/guichet-bpost.com/
 server=/hacker.kygtps.live/
 server=/hailcocks.ru/
 server=/hitman-pro.ru/
-server=/hitstation.nl/
 server=/hntngln1.com/
 server=/hr2019.vrcom7.com/
+server=/hseda.com/
 server=/huyanhnongdo.io.vn/
 server=/icloud.com.us5.info/
 server=/imtoken8.cc/
@@ -128,7 +128,6 @@ server=/info-paiement-ligne.com/
 server=/informations-colissimo.com/
 server=/informationversand.com/
 server=/ini.sh-pp.com/
-server=/inspirepk.org/
 server=/jahez.me/
 server=/javierlopez.eu/
 server=/jitcom.info/
@@ -156,7 +155,6 @@ server=/lsks.volamngayxua.net/
 server=/m.gutousoft.com/
 server=/maciejowice.dobrybip.pl/
 server=/mail.us5.info/
-server=/maisonetcites.fr/
 server=/mandarin.net.au/
 server=/masclauxtoitures.fr/
 server=/mbsngradnja.com/
@@ -201,7 +199,6 @@ server=/perfectperu.com/
 server=/pid.fly160.com/
 server=/plutoc2.site/
 server=/pn.us5.info/
-server=/pns.org.pk/
 server=/protechasia.com/
 server=/prtmscaup.click/
 server=/prtmscaup.my/
@@ -233,18 +230,18 @@ server=/shqdown.ggzuhao.com/
 server=/simit-pagos.co/
 server=/sinupakk.net/
 server=/sirault.be/
-server=/soft.110route.com/
+server=/softcatalog.ru/
 server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/sporcketngearforu.com/
 server=/src1.minibai.com/
-server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/support-abonnement.com/
 server=/support-colis-info.com/
 server=/support.clz.kr/
 server=/supportameli.top/
 server=/t.0000o.xyz/
+server=/t2.awagama2.org/
 server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
@@ -275,6 +272,7 @@ server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
+server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/vlrt-gap.com/
@@ -287,7 +285,6 @@ server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
 server=/www.chrismccaw.net/
 server=/www.clubedasluluzinhasro.com.br/
-server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.grupodulcemar.pe/
 server=/www.hootech.com/
@@ -309,6 +306,7 @@ server=/www.support-info-colis.com/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.webaap2.site/
+server=/www.witrin.hu/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
@@ -327,4 +325,4 @@ server=/xssvv.stock.letsgoautomotive.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 321
+# Number of entries: 319

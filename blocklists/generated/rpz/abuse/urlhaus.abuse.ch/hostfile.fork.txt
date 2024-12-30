@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 2.haory.cn CNAME .
 *.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
@@ -11,6 +13,8 @@ $TTL 300
 *.912648.aioc.qbgxl.com CNAME .
 aarzoomarine.com CNAME .
 *.aarzoomarine.com CNAME .
+abissnet.net CNAME .
+*.abissnet.net CNAME .
 aboverlangerung.com CNAME .
 *.aboverlangerung.com CNAME .
 acheminement-suivis.fr CNAME .
@@ -57,8 +61,6 @@ aulist.com CNAME .
 *.aulist.com CNAME .
 avastop.com CNAME .
 *.avastop.com CNAME .
-avastpdr.com CNAME .
-*.avastpdr.com CNAME .
 avastpx.com CNAME .
 *.avastpx.com CNAME .
 banthis.su CNAME .
@@ -71,8 +73,6 @@ buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
 by.haory.cn CNAME .
 *.by.haory.cn CNAME .
-cajgtus.com CNAME .
-*.cajgtus.com CNAME .
 cdaonline.com.ar CNAME .
 *.cdaonline.com.ar CNAME .
 centre-de-tri-ups.com CNAME .
@@ -225,12 +225,12 @@ hailcocks.ru CNAME .
 *.hailcocks.ru CNAME .
 hitman-pro.ru CNAME .
 *.hitman-pro.ru CNAME .
-hitstation.nl CNAME .
-*.hitstation.nl CNAME .
 hntngln1.com CNAME .
 *.hntngln1.com CNAME .
 hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
+hseda.com CNAME .
+*.hseda.com CNAME .
 huyanhnongdo.io.vn CNAME .
 *.huyanhnongdo.io.vn CNAME .
 icloud.com.us5.info CNAME .
@@ -245,8 +245,6 @@ informationversand.com CNAME .
 *.informationversand.com CNAME .
 ini.sh-pp.com CNAME .
 *.ini.sh-pp.com CNAME .
-inspirepk.org CNAME .
-*.inspirepk.org CNAME .
 jahez.me CNAME .
 *.jahez.me CNAME .
 javierlopez.eu CNAME .
@@ -301,8 +299,6 @@ maciejowice.dobrybip.pl CNAME .
 *.maciejowice.dobrybip.pl CNAME .
 mail.us5.info CNAME .
 *.mail.us5.info CNAME .
-maisonetcites.fr CNAME .
-*.maisonetcites.fr CNAME .
 mandarin.net.au CNAME .
 *.mandarin.net.au CNAME .
 masclauxtoitures.fr CNAME .
@@ -391,8 +387,6 @@ plutoc2.site CNAME .
 *.plutoc2.site CNAME .
 pn.us5.info CNAME .
 *.pn.us5.info CNAME .
-pns.org.pk CNAME .
-*.pns.org.pk CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
 prtmscaup.click CNAME .
@@ -455,8 +449,8 @@ sinupakk.net CNAME .
 *.sinupakk.net CNAME .
 sirault.be CNAME .
 *.sirault.be CNAME .
-soft.110route.com CNAME .
-*.soft.110route.com CNAME .
+softcatalog.ru CNAME .
+*.softcatalog.ru CNAME .
 soportegira.net CNAME .
 *.soportegira.net CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
@@ -465,8 +459,6 @@ sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
 src1.minibai.com CNAME .
 *.src1.minibai.com CNAME .
-stdown.dinju.com CNAME .
-*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 support-abonnement.com CNAME .
@@ -479,6 +471,8 @@ supportameli.top CNAME .
 *.supportameli.top CNAME .
 t.0000o.xyz CNAME .
 *.t.0000o.xyz CNAME .
+t2.awagama2.org CNAME .
+*.t2.awagama2.org CNAME .
 taodianla.com CNAME .
 *.taodianla.com CNAME .
 tecni-soft.com CNAME .
@@ -539,6 +533,8 @@ utorrent-backup-server3.top CNAME .
 *.utorrent-backup-server3.top CNAME .
 utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
+utorrent-backup-server5.top CNAME .
+*.utorrent-backup-server5.top CNAME .
 utorrent-servers.xyz CNAME .
 *.utorrent-servers.xyz CNAME .
 valseg.com.br CNAME .
@@ -561,14 +557,10 @@ chemsky.tn CNAME .
 *.chemsky.tn CNAME .
 chrismccaw.net CNAME .
 *.chrismccaw.net CNAME .
-flechabusretiro.com.ar CNAME .
-*.flechabusretiro.com.ar CNAME .
 globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 hootech.com CNAME .
 *.hootech.com CNAME .
-hseda.com CNAME .
-*.hseda.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 maxmoney.com CNAME .
@@ -595,6 +587,8 @@ tdejb.com CNAME .
 *.tdejb.com CNAME .
 webaap2.site CNAME .
 *.webaap2.site CNAME .
+witrin.hu CNAME .
+*.witrin.hu CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
