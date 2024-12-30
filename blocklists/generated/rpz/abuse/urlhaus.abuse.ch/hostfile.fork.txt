@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024122901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024123001 43200 3600 259200 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
@@ -7,16 +7,12 @@ $TTL 300
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
-2.haory.cn CNAME .
-*.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 912648.aioc.qbgxl.com CNAME .
 *.912648.aioc.qbgxl.com CNAME .
 aarzoomarine.com CNAME .
 *.aarzoomarine.com CNAME .
-abissnet.net CNAME .
-*.abissnet.net CNAME .
 aboverlangerung.com CNAME .
 *.aboverlangerung.com CNAME .
 acheminement-suivis.fr CNAME .
@@ -49,8 +45,6 @@ amende-stationnement-suivis.com CNAME .
 *.amende-stationnement-suivis.com CNAME .
 anphatnam.com CNAME .
 *.anphatnam.com CNAME .
-aogdj.stock.letsgoautomotive.com CNAME .
-*.aogdj.stock.letsgoautomotive.com CNAME .
 aosafrica.co.za CNAME .
 *.aosafrica.co.za CNAME .
 api.co-operativefinance.com CNAME .
@@ -59,12 +53,16 @@ api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
 *.api.hostize.com CNAME .
+aquafusion.com.co CNAME .
+*.aquafusion.com.co CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
 assuresform.com CNAME .
 *.assuresform.com CNAME .
 aulist.com CNAME .
 *.aulist.com CNAME .
+avastop.com CNAME .
+*.avastop.com CNAME .
 avastpdr.com CNAME .
 *.avastpdr.com CNAME .
 avastpx.com CNAME .
@@ -85,10 +83,8 @@ centre-de-tri-ups.com CNAME .
 *.centre-de-tri-ups.com CNAME .
 chapasanpedro.com CNAME .
 *.chapasanpedro.com CNAME .
-chinaapper.com CNAME .
-*.chinaapper.com CNAME .
-chpqp.events.socalpocis.org CNAME .
-*.chpqp.events.socalpocis.org CNAME .
+chrome-browser-download.com CNAME .
+*.chrome-browser-download.com CNAME .
 ciscocdn.com CNAME .
 *.ciscocdn.com CNAME .
 clubedasluluzinhasro.com.br CNAME .
@@ -151,10 +147,6 @@ divvanews.com CNAME .
 *.divvanews.com CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
-dl.natgo.cn CNAME .
-*.dl.natgo.cn CNAME .
-dl.packetstormsecurity.net CNAME .
-*.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
 do-dear.com CNAME .
@@ -167,8 +159,6 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
-down.pcclear.com CNAME .
-*.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
@@ -257,12 +247,16 @@ informations-colissimo.com CNAME .
 *.informations-colissimo.com CNAME .
 informationversand.com CNAME .
 *.informationversand.com CNAME .
+ini.sh-pp.com CNAME .
+*.ini.sh-pp.com CNAME .
 inspirepk.org CNAME .
 *.inspirepk.org CNAME .
 jahez.me CNAME .
 *.jahez.me CNAME .
 javierlopez.eu CNAME .
 *.javierlopez.eu CNAME .
+jitcom.info CNAME .
+*.jitcom.info CNAME .
 jobcity.com CNAME .
 *.jobcity.com CNAME .
 jointings.org CNAME .
@@ -291,8 +285,6 @@ lieferdienste-deutsche.com CNAME .
 *.lieferdienste-deutsche.com CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
-linkvilleplayers.org CNAME .
-*.linkvilleplayers.org CNAME .
 live-sendungsverfolgung.com CNAME .
 *.live-sendungsverfolgung.com CNAME .
 livetrack.in CNAME .
@@ -305,6 +297,8 @@ lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
 lsks.volamngayxua.net CNAME .
 *.lsks.volamngayxua.net CNAME .
+m.gutousoft.com CNAME .
+*.m.gutousoft.com CNAME .
 maciejowice.dobrybip.pl CNAME .
 *.maciejowice.dobrybip.pl CNAME .
 mail.us5.info CNAME .
@@ -379,6 +373,10 @@ organisme-renouvellement.com CNAME .
 *.organisme-renouvellement.com CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
+paonancs.cn CNAME .
+*.paonancs.cn CNAME .
+pareek.info CNAME .
+*.pareek.info CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 partinvshipppjbb.click CNAME .
@@ -395,8 +393,6 @@ plutoc2.site CNAME .
 *.plutoc2.site CNAME .
 pn.us5.info CNAME .
 *.pn.us5.info CNAME .
-pravo-bashkortostan.ru CNAME .
-*.pravo-bashkortostan.ru CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
 prtmscaup.click CNAME .
@@ -439,6 +435,8 @@ security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
 seniorcomc.sslblindado.com CNAME .
 *.seniorcomc.sslblindado.com CNAME .
+ser.nrovn.xyz CNAME .
+*.ser.nrovn.xyz CNAME .
 servers.vlrt-gap.com CNAME .
 *.servers.vlrt-gap.com CNAME .
 service-espace-sante.com CNAME .
@@ -457,14 +455,10 @@ sinupakk.net CNAME .
 *.sinupakk.net CNAME .
 sirault.be CNAME .
 *.sirault.be CNAME .
-soft.110route.com CNAME .
-*.soft.110route.com CNAME .
 softcatalog.ru CNAME .
 *.softcatalog.ru CNAME .
 soportegira.net CNAME .
 *.soportegira.net CNAME .
-spaceframe.mobi.space-frame.co.za CNAME .
-*.spaceframe.mobi.space-frame.co.za CNAME .
 sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
 src1.minibai.com CNAME .
@@ -477,16 +471,18 @@ support-abonnement.com CNAME .
 *.support-abonnement.com CNAME .
 support-colis-info.com CNAME .
 *.support-colis-info.com CNAME .
+support.clz.kr CNAME .
+*.support.clz.kr CNAME .
 supportameli.top CNAME .
 *.supportameli.top CNAME .
+t.0000o.xyz CNAME .
+*.t.0000o.xyz CNAME .
 taodianla.com CNAME .
 *.taodianla.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
 tecunonline.com CNAME .
 *.tecunonline.com CNAME .
-telegramcn.co CNAME .
-*.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
 *.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
@@ -531,6 +527,8 @@ us5.info CNAME .
 *.us5.info CNAME .
 usa2.info CNAME .
 *.usa2.info CNAME .
+utorrent-backup-server.top CNAME .
+*.utorrent-backup-server.top CNAME .
 utorrent-backup-server2.top CNAME .
 *.utorrent-backup-server2.top CNAME .
 utorrent-backup-server3.top CNAME .
@@ -593,6 +591,8 @@ tdejb.com CNAME .
 *.tdejb.com CNAME .
 webaap2.site CNAME .
 *.webaap2.site CNAME .
+witrin.hu CNAME .
+*.witrin.hu CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
@@ -621,15 +621,11 @@ xn--vitale-espace--niveau-0zb.com CNAME .
 *.xn--vitale-espace--niveau-0zb.com CNAME .
 xn--yh4bx88a.com CNAME .
 *.xn--yh4bx88a.com CNAME .
-xof.stock.letsgoautomotive.com CNAME .
-*.xof.stock.letsgoautomotive.com CNAME .
-yawk.stock.letsgoautomotive.com CNAME .
-*.yawk.stock.letsgoautomotive.com CNAME .
+xssvv.stock.letsgoautomotive.com CNAME .
+*.xssvv.stock.letsgoautomotive.com CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
-zushiapi.online CNAME .
-*.zushiapi.online CNAME .

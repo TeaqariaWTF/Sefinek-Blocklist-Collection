@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2024-12-29 22:16:33 (UTC)                      !
+! Last updated: 2024-12-30 01:39:07 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -9,11 +9,9 @@
 ||123.ywxww.net^
 ||139520.aioc.qbgxl.com^
 ||1717.1000uc.com^
-||2.haory.cn^
 ||360down7.miiyun.cn^
 ||912648.aioc.qbgxl.com^
 ||aarzoomarine.com^
-||abissnet.net^
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
 ||adf6.adf6.com^
@@ -30,14 +28,15 @@
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
 ||anphatnam.com^
-||aogdj.stock.letsgoautomotive.com^
 ||aosafrica.co.za^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
 ||api.hostize.com^
+||aquafusion.com.co^
 ||armanayegh.com^
 ||assuresform.com^
 ||aulist.com^
+||avastop.com^
 ||avastpdr.com^
 ||avastpx.com^
 ||banthis.su^
@@ -48,8 +47,7 @@
 ||cdaonline.com.ar^
 ||centre-de-tri-ups.com^
 ||chapasanpedro.com^
-||chinaapper.com^
-||chpqp.events.socalpocis.org^
+||chrome-browser-download.com^
 ||ciscocdn.com^
 ||clubedasluluzinhasro.com.br^
 ||cmgtrading.eu^
@@ -81,15 +79,12 @@
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.aginjector.com^
-||dl.natgo.cn^
-||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||dopooomogaa247247dopomoga.world^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.mvip8.ru^
-||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
@@ -134,9 +129,11 @@
 ||info-paiement-ligne.com^
 ||informations-colissimo.com^
 ||informationversand.com^
+||ini.sh-pp.com^
 ||inspirepk.org^
 ||jahez.me^
 ||javierlopez.eu^
+||jitcom.info^
 ||jobcity.com^
 ||jointings.org^
 ||jrqh-hk.com^
@@ -151,13 +148,13 @@
 ||library.arihantmbainstitute.ac.in^
 ||lieferdienste-deutsche.com^
 ||lindnerelektroanlagen.de^
-||linkvilleplayers.org^
 ||live-sendungsverfolgung.com^
 ||livetrack.in^
 ||lnterrac-ca.rebateit.net^
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
+||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||mail.us5.info^
 ||maisonetcites.fr^
@@ -195,6 +192,8 @@
 ||ojang.pe.kr^
 ||organisme-renouvellement.com^
 ||palharesinformatica.com.br^
+||paonancs.cn^
+||pareek.info^
 ||park.chuitian.cn^
 ||partinvshipppjbb.click^
 ||passagetoeastafrica.com^
@@ -203,7 +202,6 @@
 ||pid.fly160.com^
 ||plutoc2.site^
 ||pn.us5.info^
-||pravo-bashkortostan.ru^
 ||protechasia.com^
 ||prtmscaup.click^
 ||prtmscaup.my^
@@ -225,6 +223,7 @@
 ||scan-echo.online^
 ||security-service-api-link.cc^
 ||seniorcomc.sslblindado.com^
+||ser.nrovn.xyz^
 ||servers.vlrt-gap.com^
 ||service-espace-sante.com^
 ||servvital.com^
@@ -234,21 +233,20 @@
 ||simit-pagos.co^
 ||sinupakk.net^
 ||sirault.be^
-||soft.110route.com^
 ||softcatalog.ru^
 ||soportegira.net^
-||spaceframe.mobi.space-frame.co.za^
 ||sporcketngearforu.com^
 ||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||support-abonnement.com^
 ||support-colis-info.com^
+||support.clz.kr^
 ||supportameli.top^
+||t.0000o.xyz^
 ||taodianla.com^
 ||tecni-soft.com^
 ||tecunonline.com^
-||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tianyinsoft.top^
@@ -271,6 +269,7 @@
 ||ups-zolldienst.com^
 ||us5.info^
 ||usa2.info^
+||utorrent-backup-server.top^
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
@@ -286,6 +285,7 @@
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
 ||www.chrismccaw.net^
+||www.clubedasluluzinhasro.com.br^
 ||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.grupodulcemar.pe^
@@ -308,6 +308,7 @@
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.webaap2.site^
+||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
@@ -322,10 +323,8 @@
 ||xn--mise--jours-vitale-espace-sms-pmc.com^
 ||xn--vitale-espace--niveau-0zb.com^
 ||xn--yh4bx88a.com^
-||xof.stock.letsgoautomotive.com^
-||yawk.stock.letsgoautomotive.com^
+||xssvv.stock.letsgoautomotive.com^
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-||zushiapi.online^
-! Number of entries: 322
+! Number of entries: 321

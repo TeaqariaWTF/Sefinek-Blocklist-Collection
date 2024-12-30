@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2024122901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2024123001 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -40689,6 +40689,8 @@ gg2srxzj.com CNAME .
 *.gg2srxzj.com CNAME .
 gga30.com CNAME .
 *.gga30.com CNAME .
+ggamess.42web.io CNAME .
+*.ggamess.42web.io CNAME .
 ggbags.info CNAME .
 *.ggbags.info CNAME .
 ggbh.com CNAME .
@@ -82521,6 +82523,8 @@ salle-poker-en-ligne.com CNAME .
 *.salle-poker-en-ligne.com CNAME .
 salmingacademy.com CNAME .
 *.salmingacademy.com CNAME .
+salomon-outlet.fr CNAME .
+*.salomon-outlet.fr CNAME .
 salon-krasoty-moskvichka.ru CNAME .
 *.salon-krasoty-moskvichka.ru CNAME .
 saloninnovation.com CNAME .
