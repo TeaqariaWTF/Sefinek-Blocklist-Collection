@@ -1,9 +1,9 @@
-# Version: 202412300809
+# Version: 202412300910
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 122927
-# Last modified: 2024-12-30T08:09:42+0000
+! Entries: 122919
+# Last modified: 2024-12-30T09:10:00+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -8342,7 +8342,6 @@
 127.0.0.1 admission.net
 127.0.0.1 admissionassistant.com
 127.0.0.1 admissiondemeanourusage.com
-127.0.0.1 admissionmining.com
 127.0.0.1 admissionreceipt.com
 127.0.0.1 admit.pkigoscorp.com
 127.0.0.1 admitboutiqueparagraph.com
@@ -15644,7 +15643,6 @@
 127.0.0.1 app2.salesmanago.pl
 127.0.0.1 app2ads.com
 127.0.0.1 app2up.info
-127.0.0.1 app4.letitbefaster.website
 127.0.0.1 app4u.today
 127.0.0.1 appads.in
 127.0.0.1 appannie.com
@@ -60124,7 +60122,6 @@
 127.0.0.1 jetbluecom2.112.2o7.net
 127.0.0.1 jetbluepkgcs.112.2o7.net
 127.0.0.1 jetbux.ir
-127.0.0.1 jetcashadvance.com
 127.0.0.1 jetha4.postal.gameplansession.com
 127.0.0.1 jethomepage.com
 127.0.0.1 jetkingncsc.online
@@ -65105,7 +65102,6 @@
 127.0.0.1 lib1.biz
 127.0.0.1 lib2.biz
 127.0.0.1 lib2.md.chula.ac.th
-127.0.0.1 libaa.com
 127.0.0.1 libange.free.fr
 127.0.0.1 libaya.square7.ch
 127.0.0.1 libbitcoin.info
@@ -75260,7 +75256,6 @@
 127.0.0.1 naturalhealthsource.club
 127.0.0.1 naturalistsbumpmystic.com
 127.0.0.1 naturally-yours.co.za
-127.0.0.1 naturallyedaciousedacious.com
 127.0.0.1 naturallyorange.com
 127.0.0.1 naturalpart.com
 127.0.0.1 naturalpower.me
@@ -76786,7 +76781,6 @@
 127.0.0.1 njlnetwork.org
 127.0.0.1 njmbgc.cn
 127.0.0.1 njmhklddv.xyz
-127.0.0.1 njmpacc.com
 127.0.0.1 njmvc.112.2o7.net
 127.0.0.1 njpablo.ddns.net
 127.0.0.1 njprfirm.com
@@ -91075,7 +91069,6 @@
 127.0.0.1 rgmayedyahatevqyuc.com
 127.0.0.1 rgoupama.fr
 127.0.0.1 rgrd.xyz
-127.0.0.1 rguxbwbj.xyz
 127.0.0.1 rgwnbdygfh.com
 127.0.0.1 rgyun.com
 127.0.0.1 rh.qq.com
@@ -112606,7 +112599,6 @@
 127.0.0.1 usps.com-trackume.top
 127.0.0.1 usps.com-trackuty.top
 127.0.0.1 usps.com-trackvll.top
-127.0.0.1 usps.com-trackvod.top
 127.0.0.1 usps.com-trackwpv.top
 127.0.0.1 usps.com-trackwzn.top
 127.0.0.1 usps.com-trackxla.top

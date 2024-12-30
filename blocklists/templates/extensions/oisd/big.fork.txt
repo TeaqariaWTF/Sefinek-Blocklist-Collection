@@ -1,9 +1,9 @@
-# Version: 202412300809
+# Version: 202412300910
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 122927
-# Last modified: 2024-12-30T08:09:42+0000
+! Entries: 122919
+# Last modified: 2024-12-30T09:10:00+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -8342,7 +8342,6 @@
 0.0.0.0 admission.net
 0.0.0.0 admissionassistant.com
 0.0.0.0 admissiondemeanourusage.com
-0.0.0.0 admissionmining.com
 0.0.0.0 admissionreceipt.com
 0.0.0.0 admit.pkigoscorp.com
 0.0.0.0 admitboutiqueparagraph.com
@@ -15644,7 +15643,6 @@
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app2ads.com
 0.0.0.0 app2up.info
-0.0.0.0 app4.letitbefaster.website
 0.0.0.0 app4u.today
 0.0.0.0 appads.in
 0.0.0.0 appannie.com
@@ -60124,7 +60122,6 @@
 0.0.0.0 jetbluecom2.112.2o7.net
 0.0.0.0 jetbluepkgcs.112.2o7.net
 0.0.0.0 jetbux.ir
-0.0.0.0 jetcashadvance.com
 0.0.0.0 jetha4.postal.gameplansession.com
 0.0.0.0 jethomepage.com
 0.0.0.0 jetkingncsc.online
@@ -65105,7 +65102,6 @@
 0.0.0.0 lib1.biz
 0.0.0.0 lib2.biz
 0.0.0.0 lib2.md.chula.ac.th
-0.0.0.0 libaa.com
 0.0.0.0 libange.free.fr
 0.0.0.0 libaya.square7.ch
 0.0.0.0 libbitcoin.info
@@ -75260,7 +75256,6 @@
 0.0.0.0 naturalhealthsource.club
 0.0.0.0 naturalistsbumpmystic.com
 0.0.0.0 naturally-yours.co.za
-0.0.0.0 naturallyedaciousedacious.com
 0.0.0.0 naturallyorange.com
 0.0.0.0 naturalpart.com
 0.0.0.0 naturalpower.me
@@ -76786,7 +76781,6 @@
 0.0.0.0 njlnetwork.org
 0.0.0.0 njmbgc.cn
 0.0.0.0 njmhklddv.xyz
-0.0.0.0 njmpacc.com
 0.0.0.0 njmvc.112.2o7.net
 0.0.0.0 njpablo.ddns.net
 0.0.0.0 njprfirm.com
@@ -91075,7 +91069,6 @@
 0.0.0.0 rgmayedyahatevqyuc.com
 0.0.0.0 rgoupama.fr
 0.0.0.0 rgrd.xyz
-0.0.0.0 rguxbwbj.xyz
 0.0.0.0 rgwnbdygfh.com
 0.0.0.0 rgyun.com
 0.0.0.0 rh.qq.com
@@ -112606,7 +112599,6 @@
 0.0.0.0 usps.com-trackume.top
 0.0.0.0 usps.com-trackuty.top
 0.0.0.0 usps.com-trackvll.top
-0.0.0.0 usps.com-trackvod.top
 0.0.0.0 usps.com-trackwpv.top
 0.0.0.0 usps.com-trackwzn.top
 0.0.0.0 usps.com-trackxla.top
