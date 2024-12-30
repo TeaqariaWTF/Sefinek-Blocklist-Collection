@@ -1,9 +1,9 @@
-# Version: 202412301810
+# Version: 202412301909
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 122955
-# Last modified: 2024-12-30T18:10:26+0000
+! Entries: 122953
+# Last modified: 2024-12-30T19:09:56+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -100809,7 +100809,6 @@
 127.0.0.1 staemcomnmunity.com
 127.0.0.1 staemcomrnunity.ru
 127.0.0.1 staemcomunity.ru
-127.0.0.1 staemcomunnutty.com
 127.0.0.1 staemconmunity.com
 127.0.0.1 staempowered.com
 127.0.0.1 staff.plenarykcg.com
@@ -107028,7 +107027,6 @@
 127.0.0.1 tihealth.com
 127.0.0.1 tiiepofl.xyz
 127.0.0.1 tiiny.me
-127.0.0.1 tiiny.site
 127.0.0.1 tik.website
 127.0.0.1 tiketmaster.fr
 127.0.0.1 tikgeeker.com
