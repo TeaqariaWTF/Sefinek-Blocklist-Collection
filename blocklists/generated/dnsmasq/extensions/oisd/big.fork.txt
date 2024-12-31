@@ -1,9 +1,9 @@
-# Version: 202412310108
+# Version: 202412310208
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 122932
-# Last modified: 2024-12-31T01:08:38+0000
+! Entries: 122927
+# Last modified: 2024-12-31T02:08:58+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -10962,7 +10962,6 @@ server=/adwods.com/
 server=/adwords.google.com/
 server=/adwords.google.sk/
 server=/adwordsmarket.com/
-server=/adworkplace.net/
 server=/adworld.club/
 server=/adworld.co.za/
 server=/adworld.com.tr/
@@ -22432,7 +22431,6 @@ server=/bogeyandbirdie.com/
 server=/bogoloaner.click/
 server=/bogosiom.beget.tech/
 server=/bogrodius.com/
-server=/bogtrmjz.xyz/
 server=/bogus-disk.com/
 server=/bohecingrid.wixsite.com/
 server=/bohemiadaily.com/
@@ -42400,7 +42398,6 @@ server=/etstemizlik.com/
 server=/ettc-online.com/
 server=/ettilt.com/
 server=/etu-amse.fr/
-server=/etu-creteil.fr/
 server=/etu-nantes.fr/
 server=/etu-unistra.fr/
 server=/etui8.cn/
@@ -54353,7 +54350,6 @@ server=/hiddenseet.com/
 server=/hiddentonicformula.com/
 server=/hide.su/
 server=/hidemembershipprofane.com/
-server=/hidfolobena.xyz/
 server=/hidgfbsitnc.fun/
 server=/hidingenious.com/
 server=/hidner.com/
@@ -116079,7 +116075,6 @@ server=/wealthsgraphis.com/
 server=/wealthyblessman.kozow.com/
 server=/wealthyjamesbond.ddns.net/
 server=/wealthyonsethelpless.com/
-server=/weanyergravely.com/
 server=/weaponsnondescriptperceive.com/
 server=/wearbald.care/
 server=/wearehealthinsurance.com/

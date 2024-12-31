@@ -1,9 +1,9 @@
-# Version: 202412310108
+# Version: 202412310208
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 122932
-# Last modified: 2024-12-31T01:08:38+0000
+! Entries: 122927
+# Last modified: 2024-12-31T02:08:58+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -10962,7 +10962,6 @@
 0.0.0.0 adwords.google.com
 0.0.0.0 adwords.google.sk
 0.0.0.0 adwordsmarket.com
-0.0.0.0 adworkplace.net
 0.0.0.0 adworld.club
 0.0.0.0 adworld.co.za
 0.0.0.0 adworld.com.tr
@@ -22432,7 +22431,6 @@
 0.0.0.0 bogoloaner.click
 0.0.0.0 bogosiom.beget.tech
 0.0.0.0 bogrodius.com
-0.0.0.0 bogtrmjz.xyz
 0.0.0.0 bogus-disk.com
 0.0.0.0 bohecingrid.wixsite.com
 0.0.0.0 bohemiadaily.com
@@ -42400,7 +42398,6 @@
 0.0.0.0 ettc-online.com
 0.0.0.0 ettilt.com
 0.0.0.0 etu-amse.fr
-0.0.0.0 etu-creteil.fr
 0.0.0.0 etu-nantes.fr
 0.0.0.0 etu-unistra.fr
 0.0.0.0 etui8.cn
@@ -54353,7 +54350,6 @@
 0.0.0.0 hiddentonicformula.com
 0.0.0.0 hide.su
 0.0.0.0 hidemembershipprofane.com
-0.0.0.0 hidfolobena.xyz
 0.0.0.0 hidgfbsitnc.fun
 0.0.0.0 hidingenious.com
 0.0.0.0 hidner.com
@@ -116079,7 +116075,6 @@
 0.0.0.0 wealthyblessman.kozow.com
 0.0.0.0 wealthyjamesbond.ddns.net
 0.0.0.0 wealthyonsethelpless.com
-0.0.0.0 weanyergravely.com
 0.0.0.0 weaponsnondescriptperceive.com
 0.0.0.0 wearbald.care
 0.0.0.0 wearehealthinsurance.com
