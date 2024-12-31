@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-31 08:23:22 (UTC)                      #
+# Last updated: 2024-12-31 10:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -51,6 +51,7 @@ server=/bethelkwabenya.org/
 server=/bitkiselurunsiparis.com/
 server=/buscascolegios.diit.cl/
 server=/by.haory.cn/
+server=/cajgtus.com/
 server=/cdaonline.com.ar/
 server=/cdn1.klipbazyxui.shop/
 server=/centre-de-tri-ups.com/
@@ -86,7 +87,6 @@ server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
-server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/dow.andylab.cn/
@@ -103,6 +103,7 @@ server=/downsexv.com/
 server=/e4l4.com/
 server=/eclope-grossiste.ma/
 server=/electjimhenderson.com/
+server=/elisans.novayonetim.com/
 server=/eoufaoeuhoauengi.su/
 server=/epanpano.com/
 server=/espacesantefr-assurance.com/
@@ -223,7 +224,6 @@ server=/renouvellement-espace-vitale-ameli.com/
 server=/reusable-flex.com/
 server=/roofmanagementlnc.com/
 server=/safe.ywxww.net/
-server=/savecoupons.store/
 server=/scan-echo.online/
 server=/security-service-api-link.cc/
 server=/seniorcomc.sslblindado.com/
@@ -284,7 +284,9 @@ server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
+server=/vividpulse.pro/
 server=/webmail.tracking-packages.com/
+server=/win-network-checker.cc/
 server=/www.alaqalezdehar.com/
 server=/www.aqianniao.com/
 server=/www.beiletoys.com/
@@ -317,6 +319,7 @@ server=/www.zhikey.com/
 server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
+server=/ximonite.com/
 server=/xingpai.weilay.com.cn/
 server=/xn--ameli--niveau-sms-tob.com/
 server=/xn--espace-vitale--jours-sms-87b.com/
@@ -328,4 +331,5 @@ server=/xssvv.stock.letsgoautomotive.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 322
+server=/zylocraft.pro/
+# Number of entries: 326

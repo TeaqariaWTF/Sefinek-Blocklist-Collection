@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-31 08:23:22 (UTC)                      #
+# Last updated: 2024-12-31 10:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -51,6 +51,7 @@
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
+0.0.0.0 cajgtus.com
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn1.klipbazyxui.shop
 0.0.0.0 centre-de-tri-ups.com
@@ -86,7 +87,6 @@
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
@@ -103,6 +103,7 @@
 0.0.0.0 e4l4.com
 0.0.0.0 eclope-grossiste.ma
 0.0.0.0 electjimhenderson.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -223,7 +224,6 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 safe.ywxww.net
-0.0.0.0 savecoupons.store
 0.0.0.0 scan-echo.online
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
@@ -284,7 +284,9 @@
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
+0.0.0.0 vividpulse.pro
 0.0.0.0 webmail.tracking-packages.com
+0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
@@ -317,6 +319,7 @@
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
@@ -328,4 +331,5 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 322
+0.0.0.0 zylocraft.pro
+# Number of entries: 326

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-31 08:23:22 (UTC)                      #
+# Last updated: 2024-12-31 10:14:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -51,6 +51,7 @@
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 by.haory.cn
+127.0.0.1 cajgtus.com
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 cdn1.klipbazyxui.shop
 127.0.0.1 centre-de-tri-ups.com
@@ -86,7 +87,6 @@
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
-127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
@@ -103,6 +103,7 @@
 127.0.0.1 e4l4.com
 127.0.0.1 eclope-grossiste.ma
 127.0.0.1 electjimhenderson.com
+127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
 127.0.0.1 espacesantefr-assurance.com
@@ -223,7 +224,6 @@
 127.0.0.1 reusable-flex.com
 127.0.0.1 roofmanagementlnc.com
 127.0.0.1 safe.ywxww.net
-127.0.0.1 savecoupons.store
 127.0.0.1 scan-echo.online
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 seniorcomc.sslblindado.com
@@ -284,7 +284,9 @@
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
+127.0.0.1 vividpulse.pro
 127.0.0.1 webmail.tracking-packages.com
+127.0.0.1 win-network-checker.cc
 127.0.0.1 www.alaqalezdehar.com
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
@@ -317,6 +319,7 @@
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
+127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
@@ -328,4 +331,5 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 322
+127.0.0.1 zylocraft.pro
+# Number of entries: 326
