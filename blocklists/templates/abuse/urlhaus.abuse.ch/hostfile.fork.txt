@@ -1,14 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-31 04:22:22 (UTC)                      #
+# Last updated: 2024-12-31 06:23:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
-0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
@@ -24,6 +22,7 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
+0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
@@ -49,7 +48,6 @@
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
-0.0.0.0 cajgtus.com
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn1.klipbazyxui.shop
 0.0.0.0 centre-de-tri-ups.com
@@ -93,6 +91,7 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -203,7 +202,6 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
-0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 prtmscaup.click
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -222,6 +220,7 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 safe.ywxww.net
+0.0.0.0 scan-echo.online
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
@@ -235,16 +234,13 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solve.vwglq.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
-0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
 0.0.0.0 t2.awagama2.org
@@ -280,12 +276,11 @@
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 webmail.tracking-packages.com
-0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chrismccaw.net
-0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
@@ -305,6 +300,7 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.webaap2.site
+0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
@@ -323,4 +319,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 317
+# Number of entries: 313

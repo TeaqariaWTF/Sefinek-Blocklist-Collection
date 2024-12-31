@@ -1,14 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2024-12-31 04:22:22 (UTC)                      #
+# Last updated: 2024-12-31 06:23:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
-server=/139520.aioc.qbgxl.com/
-server=/1717.1000uc.com/
 server=/2.haory.cn/
 server=/360down7.miiyun.cn/
 server=/912648.aioc.qbgxl.com/
@@ -24,6 +22,7 @@ server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/aide-acheminement-info.com/
 server=/airhobi.com/
+server=/alien-training.com/
 server=/amelcarte.com/
 server=/amende-renouvellement.com/
 server=/amende-stationnement-suivis.com/
@@ -49,7 +48,6 @@ server=/banthis.su/
 server=/bethelkwabenya.org/
 server=/buscascolegios.diit.cl/
 server=/by.haory.cn/
-server=/cajgtus.com/
 server=/cdaonline.com.ar/
 server=/cdn1.klipbazyxui.shop/
 server=/centre-de-tri-ups.com/
@@ -93,6 +91,7 @@ server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
+server=/download.caihong.com/
 server=/download.emailorganizer.com/
 server=/download.haozip.com/
 server=/download.innovare.no/
@@ -203,7 +202,6 @@ server=/partinvshipppjbb.click/
 server=/passagetoeastafrica.com/
 server=/pb.agnt.ru/
 server=/perfectperu.com/
-server=/pns.org.pk/
 server=/protechasia.com/
 server=/prtmscaup.click/
 server=/qiniuyunxz.yxflzs.com/
@@ -222,6 +220,7 @@ server=/renouvellement-espace-vitale-ameli.com/
 server=/reusable-flex.com/
 server=/roofmanagementlnc.com/
 server=/safe.ywxww.net/
+server=/scan-echo.online/
 server=/security-service-api-link.cc/
 server=/seniorcomc.sslblindado.com/
 server=/ser.nrovn.xyz/
@@ -235,16 +234,13 @@ server=/simit-pagos.co/
 server=/sinupakk.net/
 server=/sirault.be/
 server=/soft.110route.com/
-server=/softcatalog.ru/
 server=/solve.vwglq.com/
 server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
-server=/src1.minibai.com/
 server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/support-abonnement.com/
 server=/support-colis-info.com/
-server=/support.clz.kr/
 server=/supportameli.top/
 server=/t.0000o.xyz/
 server=/t2.awagama2.org/
@@ -280,12 +276,11 @@ server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/webmail.tracking-packages.com/
-server=/win-network-checker.cc/
 server=/www.alaqalezdehar.com/
+server=/www.aqianniao.com/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.chrismccaw.net/
-server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.grupodulcemar.pe/
 server=/www.hootech.com/
@@ -305,6 +300,7 @@ server=/www.support-info-colis.com/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.webaap2.site/
+server=/www.witrin.hu/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
@@ -323,4 +319,4 @@ server=/xssvv.stock.letsgoautomotive.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 317
+# Number of entries: 313
