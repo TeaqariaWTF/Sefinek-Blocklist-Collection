@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-01 12:32:27 (UTC)                      #
+# Last updated: 2025-01-01 14:12:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
-0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
@@ -29,8 +28,10 @@
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
+0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 assuresform.com
@@ -59,6 +60,7 @@
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
+0.0.0.0 coadymarine.com
 0.0.0.0 com-animus.app
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
@@ -74,9 +76,9 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
-0.0.0.0 do-dear.com
 0.0.0.0 docu-signer.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
@@ -91,7 +93,7 @@
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
 0.0.0.0 eclope-grossiste.ma
-0.0.0.0 elisans.novayonetim.com
+0.0.0.0 electjimhenderson.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -111,6 +113,7 @@
 0.0.0.0 gawx.florenda.com
 0.0.0.0 goatstuff.shop
 0.0.0.0 goatstuff.store
+0.0.0.0 goodlabel.cn
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
@@ -132,6 +135,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
@@ -191,7 +195,6 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
-0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
 0.0.0.0 pid.fly160.com
@@ -200,7 +203,6 @@
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r8p.teknixstuff.com
 0.0.0.0 rb3.ftnt.io
@@ -231,6 +233,7 @@
 0.0.0.0 softcatalog.ru
 0.0.0.0 solve.vwglq.com
 0.0.0.0 soportegira.net
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
@@ -241,6 +244,7 @@
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
 0.0.0.0 t2.awagama2.org
+0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -297,6 +301,7 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
@@ -304,7 +309,6 @@
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.webaap2.site
 0.0.0.0 www.witrin.hu
-0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
@@ -318,10 +322,9 @@
 0.0.0.0 xn--espace-vitale--niveau-sms-zbc.com
 0.0.0.0 xn--mise--jours-vitale-espace-sms-pmc.com
 0.0.0.0 xn--vitale-espace--niveau-0zb.com
-0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zaoqm.chain.buyclosersonline.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zylocraft.pro
-# Number of entries: 318
+# Number of entries: 321
