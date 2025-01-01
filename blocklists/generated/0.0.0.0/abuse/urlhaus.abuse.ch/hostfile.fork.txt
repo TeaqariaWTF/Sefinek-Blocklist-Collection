@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-01 20:09:08 (UTC)                      #
+# Last updated: 2025-01-01 22:19:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,7 +15,6 @@
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
-0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
@@ -29,6 +28,8 @@
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
@@ -60,17 +61,17 @@
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
-0.0.0.0 com-animus.app
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 cqda.chain.buyclosersonline.com
 0.0.0.0 crystalpvp.ru
 0.0.0.0 data.yhydl.com
+0.0.0.0 datagov.info
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deduhko2.klipzyroloo.shop
-0.0.0.0 dhnconstrucciones.com.ar
+0.0.0.0 device.redirec.com
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -82,6 +83,7 @@
 0.0.0.0 docu-signer.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -93,6 +95,7 @@
 0.0.0.0 e4l4.com
 0.0.0.0 eclope-grossiste.ma
 0.0.0.0 electjimhenderson.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -120,7 +123,7 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
-0.0.0.0 hr2019.vrcom7.com
+0.0.0.0 hostel99.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
@@ -145,7 +148,6 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 ksmarjaa.cloud
 0.0.0.0 lafilledemavie.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
@@ -154,10 +156,9 @@
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 macphotoeditor.shop
-0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
@@ -165,12 +166,10 @@
 0.0.0.0 mes-demarches-renouvellement.com
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
-0.0.0.0 microsoft-analyse.com
 0.0.0.0 mingleyou.top
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
-0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -198,7 +197,6 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
-0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -231,10 +229,13 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 solve.vwglq.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
@@ -246,6 +247,7 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiffany-careers.com
@@ -260,7 +262,6 @@
 0.0.0.0 ttss.zhengshu.xyz
 0.0.0.0 twizt.net
 0.0.0.0 ugbhe.chain.buyclosersonline.com
-0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
@@ -272,7 +273,6 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vividpulse.pro
@@ -288,16 +288,17 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
+0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.speak-a-message.com
-0.0.0.0 www.sporcketngearforu.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
@@ -311,7 +312,6 @@
 0.0.0.0 wz.3911.com
 0.0.0.0 x1.klipzynigou.shop
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
