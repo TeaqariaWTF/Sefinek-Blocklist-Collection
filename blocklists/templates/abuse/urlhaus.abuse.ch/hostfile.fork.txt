@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-01 18:24:06 (UTC)                      #
+# Last updated: 2025-01-01 20:09:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -16,6 +16,7 @@
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
+0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -28,7 +29,6 @@
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
 0.0.0.0 armanayegh.com
@@ -70,11 +70,14 @@
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deduhko2.klipzyroloo.shop
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
+0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 docu-signer.com
 0.0.0.0 dow.andylab.cn
@@ -105,9 +108,11 @@
 0.0.0.0 funletters.net
 0.0.0.0 furryporn.top
 0.0.0.0 fwg.stock.letsgoautomotive.com
+0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 goatstuff.shop
 0.0.0.0 goatstuff.store
+0.0.0.0 goodlabel.cn
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
@@ -122,6 +127,7 @@
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -149,7 +155,6 @@
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 macphotoeditor.shop
 0.0.0.0 maisonetcites.fr
@@ -165,6 +170,7 @@
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
+0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -185,17 +191,22 @@
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
+0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
+0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -213,17 +224,16 @@
 0.0.0.0 serverl.org
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
+0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solve.vwglq.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 support-abonnement.com
@@ -252,6 +262,7 @@
 0.0.0.0 ugbhe.chain.buyclosersonline.com
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upih.stock.letsgoautomotive.com
@@ -269,6 +280,7 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
@@ -276,17 +288,17 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
-0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
+0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
+0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -309,6 +321,7 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zaoqm.chain.buyclosersonline.com
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zylocraft.pro
 0.0.0.0 zzz.hnyzh.co
-# Number of entries: 305
+# Number of entries: 318

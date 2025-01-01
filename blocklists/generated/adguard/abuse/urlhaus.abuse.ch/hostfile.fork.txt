@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-01 18:24:06 (UTC)                      !
+! Last updated: 2025-01-01 20:09:08 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -16,6 +16,7 @@
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
 ||adf6.adf6.com^
+||admin.aishangzhua.com^
 ||adresse-confirmation.com^
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
@@ -28,7 +29,6 @@
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
 ||aosafrica.co.za^
-||api.ewfiles.net^
 ||api.hostize.com^
 ||aquafusion.com.co^
 ||armanayegh.com^
@@ -70,11 +70,14 @@
 ||dcwblida.dz^
 ||deauduafzgezzfgm.top^
 ||deduhko2.klipzyroloo.shop^
+||dhnconstrucciones.com.ar^
 ||dienstmyhermes.de^
 ||disk.accord1key.cn^
 ||divvanews.com^
+||dl.aginjector.com^
 ||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
+||dld.jxwan.com^
 ||do-dear.com^
 ||docu-signer.com^
 ||dow.andylab.cn^
@@ -105,9 +108,11 @@
 ||funletters.net^
 ||furryporn.top^
 ||fwg.stock.letsgoautomotive.com^
+||gachetroi.com^
 ||gawx.florenda.com^
 ||goatstuff.shop^
 ||goatstuff.store^
+||goodlabel.cn^
 ||grupobramam.com.br^
 ||grupodulcemar.pe^
 ||guichet-bpost.com^
@@ -122,6 +127,7 @@
 ||info-paiement-ligne.com^
 ||informations-colissimo.com^
 ||informationversand.com^
+||ini.sh-pp.com^
 ||inspirepk.org^
 ||jahez.me^
 ||javierlopez.eu^
@@ -149,7 +155,6 @@
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
-||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||macphotoeditor.shop^
 ||maisonetcites.fr^
@@ -165,6 +170,7 @@
 ||minu-pakk.com^
 ||minupakk.com^
 ||minupakk.net^
+||misljen.net^
 ||mississippistemacademy.org^
 ||mitgpssms.com^
 ||mjsqurej.com^
@@ -185,17 +191,22 @@
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||organisme-renouvellement.com^
+||osecweb.ir^
 ||palharesinformatica.com.br^
 ||paonancs.cn^
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
 ||perfectperu.com^
+||pid.fly160.com^
 ||pns.org.pk^
 ||protechasia.com^
+||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
+||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
+||rb3.ftnt.io^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
 ||rebateit.net^
@@ -213,17 +224,16 @@
 ||serverl.org^
 ||service-espace-sante.com^
 ||servvital.com^
+||sfa.com.ar^
 ||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
 ||sinupakk.net^
 ||sirault.be^
 ||soft.110route.com^
-||softcatalog.ru^
 ||solve.vwglq.com^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||src1.minibai.com^
 ||storage.soowim.co.kr^
 ||support-abonnement.com^
@@ -252,6 +262,7 @@
 ||ugbhe.chain.buyclosersonline.com^
 ||up.maolaoban.top^
 ||update.cg100iii.com^
+||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upih.stock.letsgoautomotive.com^
@@ -269,6 +280,7 @@
 ||win-network-checker.cc^
 ||www.alaqalezdehar.com^
 ||www.aqianniao.com^
+||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
 ||www.chrismccaw.net^
@@ -276,17 +288,17 @@
 ||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.grupodulcemar.pe^
-||www.hootech.com^
 ||www.hseda.com^
 ||www.maxmoney.com^
-||www.medises.co.kr^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
+||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
 ||www.speak-a-message.com^
 ||www.sporcketngearforu.com^
 ||www.starcountry.net^
+||www.sumiyuki.co.jp^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
 ||www.tecunonline.com^
@@ -309,6 +321,7 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||zaoqm.chain.buyclosersonline.com^
+||znrq.zifwxq.cn^
 ||zylocraft.pro^
 ||zzz.hnyzh.co^
-! Number of entries: 305
+! Number of entries: 318
