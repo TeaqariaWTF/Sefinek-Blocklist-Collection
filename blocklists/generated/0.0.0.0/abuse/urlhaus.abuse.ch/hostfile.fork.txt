@@ -1,14 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-01 08:24:20 (UTC)                      #
+# Last updated: 2025-01-01 10:14:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 2.haory.cn
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
@@ -38,6 +38,7 @@
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
+0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
@@ -46,6 +47,7 @@
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 by.haory.cn
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn1.klipbazyxui.shop
@@ -80,18 +82,17 @@
 0.0.0.0 docu-signer.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
+0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
 0.0.0.0 eclope-grossiste.ma
 0.0.0.0 electjimhenderson.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -132,6 +133,7 @@
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
+0.0.0.0 jrqh-hk.com
 0.0.0.0 jtpdev.co.uk
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
@@ -224,22 +226,20 @@
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 solve.vwglq.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
-0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
 0.0.0.0 t2.awagama2.org
@@ -293,16 +293,18 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
+0.0.0.0 www.webaap2.site
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
@@ -324,4 +326,4 @@
 0.0.0.0 zaoqm.chain.buyclosersonline.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zylocraft.pro
-# Number of entries: 318
+# Number of entries: 320
