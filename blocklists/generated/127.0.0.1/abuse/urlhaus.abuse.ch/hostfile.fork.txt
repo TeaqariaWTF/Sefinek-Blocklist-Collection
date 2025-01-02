@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-02 01:39:05 (UTC)                      #
+# Last updated: 2025-01-02 02:44:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,9 +27,9 @@
 127.0.0.1 amelcarte.com
 127.0.0.1 amende-renouvellement.com
 127.0.0.1 amende-stationnement-suivis.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
-127.0.0.1 api.hostize.com
 127.0.0.1 aquafusion.com.co
 127.0.0.1 armanayegh.com
 127.0.0.1 arteflordeliz.com.br
@@ -64,7 +64,6 @@
 127.0.0.1 consulter-mon-amende.com
 127.0.0.1 contravinf.com
 127.0.0.1 cqda.chain.buyclosersonline.com
-127.0.0.1 data.yhydl.com
 127.0.0.1 datagov.info
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
@@ -82,6 +81,7 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
+127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
@@ -119,6 +119,7 @@
 127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
 127.0.0.1 hostel99.com
+127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
@@ -148,13 +149,16 @@
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 live-sendungsverfolgung.com
+127.0.0.1 livetrack.in
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m-global.hksty.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 macphotoeditor.shop
+127.0.0.1 maisonetcites.fr
 127.0.0.1 mandarin.net.au
 127.0.0.1 masclauxtoitures.fr
 127.0.0.1 mbsngradnja.com
@@ -194,11 +198,14 @@
 127.0.0.1 park.chuitian.cn
 127.0.0.1 passagetoeastafrica.com
 127.0.0.1 pb.agnt.ru
+127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pns.org.pk
+127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
+127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rb3.ftnt.io
 127.0.0.1 rd.chuitian.cn
@@ -220,6 +227,7 @@
 127.0.0.1 servvital.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
+127.0.0.1 shqdown.ggzuhao.com
 127.0.0.1 simit-pagos.co
 127.0.0.1 sinupakk.net
 127.0.0.1 sirault.be
@@ -240,6 +248,7 @@
 127.0.0.1 t.0000o.xyz
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
+127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
@@ -264,6 +273,7 @@
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
+127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
@@ -290,13 +300,13 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
+127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.speak-a-message.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
-127.0.0.1 www.webaap2.site
 127.0.0.1 www.witrin.hu
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
@@ -311,10 +321,11 @@
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
 127.0.0.1 xn--mise--jours-vitale-espace-sms-pmc.com
 127.0.0.1 xn--vitale-espace--niveau-0zb.com
+127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 zaoqm.chain.buyclosersonline.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zylocraft.pro
 127.0.0.1 zzz.hnyzh.co
-# Number of entries: 311
+# Number of entries: 322
