@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-02 02:44:18 (UTC)                      #
+# Last updated: 2025-01-02 04:23:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,6 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
-0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
@@ -30,8 +29,8 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
+0.0.0.0 api.hostize.com
 0.0.0.0 aquafusion.com.co
-0.0.0.0 armanayegh.com
 0.0.0.0 arteflordeliz.com.br
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
@@ -64,6 +63,8 @@
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 cqda.chain.buyclosersonline.com
+0.0.0.0 crystalpvp.ru
+0.0.0.0 data.yhydl.com
 0.0.0.0 datagov.info
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
@@ -74,7 +75,7 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 docu-signer.com
@@ -236,9 +237,7 @@
 0.0.0.0 solve.vwglq.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 stream.atc-labs.com
 0.0.0.0 support-abonnement.com
@@ -282,7 +281,6 @@
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -328,4 +326,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zylocraft.pro
 0.0.0.0 zzz.hnyzh.co
-# Number of entries: 322
+# Number of entries: 320

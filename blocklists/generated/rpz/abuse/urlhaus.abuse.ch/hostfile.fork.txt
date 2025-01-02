@@ -7,8 +7,6 @@ $TTL 300
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
-2.haory.cn CNAME .
-*.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 912648.aioc.qbgxl.com CNAME .
@@ -49,10 +47,10 @@ api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
+api.hostize.com CNAME .
+*.api.hostize.com CNAME .
 aquafusion.com.co CNAME .
 *.aquafusion.com.co CNAME .
-armanayegh.com CNAME .
-*.armanayegh.com CNAME .
 arteflordeliz.com.br CNAME .
 *.arteflordeliz.com.br CNAME .
 assuresform.com CNAME .
@@ -117,6 +115,10 @@ contravinf.com CNAME .
 *.contravinf.com CNAME .
 cqda.chain.buyclosersonline.com CNAME .
 *.cqda.chain.buyclosersonline.com CNAME .
+crystalpvp.ru CNAME .
+*.crystalpvp.ru CNAME .
+data.yhydl.com CNAME .
+*.data.yhydl.com CNAME .
 datagov.info CNAME .
 *.datagov.info CNAME .
 dcwblida.dz CNAME .
@@ -137,8 +139,8 @@ divvanews.com CNAME .
 *.divvanews.com CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
-dl.natgo.cn CNAME .
-*.dl.natgo.cn CNAME .
+dl.packetstormsecurity.net CNAME .
+*.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
 do-dear.com CNAME .
@@ -461,12 +463,8 @@ soportegira.net CNAME .
 *.soportegira.net CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
-sporcketngearforu.com CNAME .
-*.sporcketngearforu.com CNAME .
 src1.minibai.com CNAME .
 *.src1.minibai.com CNAME .
-stdown.dinju.com CNAME .
-*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 stream.atc-labs.com CNAME .
@@ -553,8 +551,6 @@ win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 alaqalezdehar.com CNAME .
 *.alaqalezdehar.com CNAME .
-aqianniao.com CNAME .
-*.aqianniao.com CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
 blackhattoolz.com CNAME .

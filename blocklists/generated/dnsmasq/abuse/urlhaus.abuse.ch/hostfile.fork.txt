@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-02 02:44:18 (UTC)                      #
+# Last updated: 2025-01-02 04:23:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,6 @@
 server=/123.ywxww.net/
 server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
-server=/2.haory.cn/
 server=/360down7.miiyun.cn/
 server=/912648.aioc.qbgxl.com/
 server=/abissnet.net/
@@ -30,8 +29,8 @@ server=/amende-stationnement-suivis.com/
 server=/aosafrica.co.za/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
+server=/api.hostize.com/
 server=/aquafusion.com.co/
-server=/armanayegh.com/
 server=/arteflordeliz.com.br/
 server=/assuresform.com/
 server=/aulist.com/
@@ -64,6 +63,8 @@ server=/conn.masjesu.zip/
 server=/consulter-mon-amende.com/
 server=/contravinf.com/
 server=/cqda.chain.buyclosersonline.com/
+server=/crystalpvp.ru/
+server=/data.yhydl.com/
 server=/datagov.info/
 server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
@@ -74,7 +75,7 @@ server=/dienstmyhermes.de/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.aginjector.com/
-server=/dl.natgo.cn/
+server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/docu-signer.com/
@@ -236,9 +237,7 @@ server=/softcatalog.ru/
 server=/solve.vwglq.com/
 server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
-server=/sporcketngearforu.com/
 server=/src1.minibai.com/
-server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/stream.atc-labs.com/
 server=/support-abonnement.com/
@@ -282,7 +281,6 @@ server=/vividpulse.pro/
 server=/webmail.tracking-packages.com/
 server=/win-network-checker.cc/
 server=/www.alaqalezdehar.com/
-server=/www.aqianniao.com/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
@@ -328,4 +326,4 @@ server=/zaoqm.chain.buyclosersonline.com/
 server=/znrq.zifwxq.cn/
 server=/zylocraft.pro/
 server=/zzz.hnyzh.co/
-# Number of entries: 322
+# Number of entries: 320
