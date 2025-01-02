@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-02 08:23:07 (UTC)                      #
+# Last updated: 2025-01-02 10:09:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,7 +12,6 @@
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
-0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
@@ -47,12 +46,12 @@
 0.0.0.0 awakka-aws3.zoho-documents.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 cajgtus.com
+0.0.0.0 by.haory.cn
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
+0.0.0.0 chernobyl.stressing.world
 0.0.0.0 chinaapper.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 clubedasluluzinhasro.com.br
@@ -97,7 +96,6 @@
 0.0.0.0 electjimhenderson.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
-0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
 0.0.0.0 f2pverifynow.com
 0.0.0.0 fbi.eye-network.ru
@@ -148,7 +146,6 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 ksmarjaa.cloud
 0.0.0.0 lafilledemavie.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
@@ -164,7 +161,6 @@
 0.0.0.0 macphotoeditor.shop
 0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
-0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mes-demarches-renouvellement.com
@@ -226,10 +222,10 @@
 0.0.0.0 scan-echo.online
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 serverl.org
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
-0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
@@ -241,7 +237,7 @@
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
-0.0.0.0 stdown.dinju.com
+0.0.0.0 src1.minibai.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 stream.atc-labs.com
 0.0.0.0 support-abonnement.com
@@ -252,6 +248,7 @@
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiffany-careers.com
@@ -272,6 +269,7 @@
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
@@ -283,18 +281,15 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.clubedasluluzinhasro.com.br
-0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -302,6 +297,7 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
@@ -329,4 +325,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zylocraft.pro
 0.0.0.0 zzz.hnyzh.co
-# Number of entries: 323
+# Number of entries: 319
