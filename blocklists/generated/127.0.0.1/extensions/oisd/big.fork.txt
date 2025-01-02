@@ -1,9 +1,9 @@
-# Version: 202501020909
+# Version: 202501021209
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 123462
-# Last modified: 2025-01-02T09:09:17+0000
+! Entries: 123463
+# Last modified: 2025-01-02T12:09:59+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -39160,6 +39160,7 @@
 127.0.0.1 ds-aksb-a.akamaihd.net
 127.0.0.1 ds.11st.co.kr
 127.0.0.1 ds.jlbksy.com
+127.0.0.1 ds.macellan.online
 127.0.0.1 ds.moviegoat.com
 127.0.0.1 ds.onet.pl
 127.0.0.1 ds.ruanwengfa.com
