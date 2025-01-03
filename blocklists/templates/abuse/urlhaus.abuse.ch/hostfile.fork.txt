@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-03 01:38:06 (UTC)                      #
+# Last updated: 2025-01-03 02:47:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -20,6 +20,7 @@
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
+0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
@@ -44,7 +45,6 @@
 0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 book-captcha.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
@@ -75,6 +75,7 @@
 0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
@@ -96,7 +97,6 @@
 0.0.0.0 f2pverifynow.com
 0.0.0.0 fbi.eye-network.ru
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fizeteselutasitva.com
 0.0.0.0 formulaire-sociale.com
@@ -112,6 +112,7 @@
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hacker.kygtps.live
+0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hostel99.com
@@ -152,6 +153,7 @@
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
+0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
@@ -180,7 +182,6 @@
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
-0.0.0.0 noithaticon.vn
 0.0.0.0 nouuu.eye-network.ru
 0.0.0.0 obm.catching.fishingrealinvestments.com
 0.0.0.0 odoo.kseibitools.com
@@ -232,6 +233,7 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
+0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -264,7 +266,6 @@
 0.0.0.0 vig.chain.buyclosersonline.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -278,9 +279,7 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
-0.0.0.0 www.opolis.io
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.speak-a-message.com
@@ -291,13 +290,14 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.webaap2.site
+0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
+0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
-0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
 0.0.0.0 xn--espace-vitale--niveau-sms-zbc.com
