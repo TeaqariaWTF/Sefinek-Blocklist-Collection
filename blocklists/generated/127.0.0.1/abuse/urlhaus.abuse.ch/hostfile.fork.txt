@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-03 10:11:06 (UTC)                      #
+# Last updated: 2025-01-03 12:30:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -40,6 +40,7 @@
 127.0.0.1 avastng.com
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
+127.0.0.1 avastpdr.com
 127.0.0.1 banthis.su
 127.0.0.1 bethelkwabenya.org
 127.0.0.1 book-captcha.com
@@ -50,7 +51,6 @@
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 centre-de-tri-ups.com
 127.0.0.1 chernobyl.stressing.world
-127.0.0.1 chinaapper.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
@@ -59,7 +59,6 @@
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 consulter-mon-amende.com
 127.0.0.1 contravinf.com
-127.0.0.1 crystalpvp.ru
 127.0.0.1 data.yhydl.com
 127.0.0.1 datagov.info
 127.0.0.1 dcwblida.dz
@@ -84,7 +83,6 @@
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 e4l4.com
-127.0.0.1 electjimhenderson.com
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 espacesantefr-assurance.com
@@ -113,7 +111,6 @@
 127.0.0.1 hostel99.com
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
-127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 info-paiement-ligne.com
 127.0.0.1 informations-colissimo.com
@@ -136,7 +133,6 @@
 127.0.0.1 lev-tolstoi.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
-127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 live-sendungsverfolgung.com
 127.0.0.1 livetrack.in
@@ -182,6 +178,8 @@
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 organisme-renouvellement.com
+127.0.0.1 osecweb.ir
+127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
 127.0.0.1 pb.agnt.ru
@@ -305,4 +303,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zzz.hnyzh.co
-# Number of entries: 299
+# Number of entries: 297
