@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-03 18:24:05 (UTC)                      !
+! Last updated: 2025-01-03 20:12:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -9,9 +9,7 @@
 ||123.ywxww.net^
 ||139520.aioc.qbgxl.com^
 ||1717.1000uc.com^
-||2.haory.cn^
 ||360down7.miiyun.cn^
-||3ktamthaitu.com^
 ||912648.aioc.qbgxl.com^
 ||abissnet.net^
 ||aboverlangerung.com^
@@ -24,6 +22,7 @@
 ||agapi.cqjjb.cn^
 ||ai-kling.online^
 ||aide-acheminement-info.com^
+||airhobi.com^
 ||alien-training.com^
 ||amelcarte.com^
 ||amende-renouvellement.com^
@@ -34,6 +33,7 @@
 ||api.hostize.com^
 ||armanayegh.com^
 ||assuresform.com^
+||aulist.com^
 ||avastcxp.com^
 ||avastcxt.com^
 ||avastexodus.com^
@@ -45,6 +45,7 @@
 ||avastpx.com^
 ||banthis.su^
 ||bethelkwabenya.org^
+||bitkiselurunsiparis.com^
 ||book-captcha.com^
 ||buscascolegios.diit.cl^
 ||by.haory.cn^
@@ -77,8 +78,11 @@
 ||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
+||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
+||down.mvip8.ru^
+||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
@@ -111,7 +115,6 @@
 ||hitstation.nl^
 ||hntngln1.com^
 ||hostel99.com^
-||hr2019.vrcom7.com^
 ||hseda.com^
 ||huyanhnongdo.io.vn^
 ||imtoken8.cc^
@@ -125,6 +128,7 @@
 ||jobcity.com^
 ||jointings.org^
 ||jrqh-hk.com^
+||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
 ||keysertools.cc^
@@ -144,6 +148,7 @@
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
+||lwaziacademy.com^
 ||m-global.hksty.net^
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
@@ -182,9 +187,7 @@
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||organisme-renouvellement.com^
-||osecweb.ir^
 ||palharesinformatica.com.br^
-||paonancs.cn^
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
@@ -195,6 +198,7 @@
 ||qlqd5zqefmkcr34a.onion.sh^
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanlyphongnet.com^
+||rb3.ftnt.io^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
 ||rebateit.net^
@@ -205,6 +209,7 @@
 ||safe.ywxww.net^
 ||scan-echo.online^
 ||security-service-api-link.cc^
+||seniorcomc.sslblindado.com^
 ||ser.nrovn.xyz^
 ||service-espace-sante.com^
 ||servvital.com^
@@ -215,10 +220,10 @@
 ||sinupakk.net^
 ||sirault.be^
 ||soft.110route.com^
+||softcatalog.ru^
 ||solve.vwglq.com^
-||spaceframe.mobi.space-frame.co.za^
+||soportegira.net^
 ||sporcketngearforu.com^
-||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||stream.atc-labs.com^
@@ -229,7 +234,6 @@
 ||taodianla.com^
 ||tecni-soft.com^
 ||tecunonline.com^
-||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tianyinsoft.top^
@@ -264,7 +268,6 @@
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
 ||www.chrismccaw.net^
-||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.grupodulcemar.pe^
 ||www.hootech.com^
@@ -273,11 +276,11 @@
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.ojang.pe.kr^
-||www.opolis.io^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.speak-a-message.com^
 ||www.sporcketngearforu.com^
+||www.starcountry.net^
 ||www.sumiyuki.co.jp^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
@@ -286,9 +289,11 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
+||wynecare.com^
 ||wz.3911.com^
 ||xanaxspoofer.com^
 ||xiangshunjy.com^
+||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--ameli--niveau-sms-tob.com^
 ||xn--espace-vitale--jours-sms-87b.com^
@@ -300,4 +305,4 @@
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
 ||zzz.hnyzh.co^
-! Number of entries: 294
+! Number of entries: 299
