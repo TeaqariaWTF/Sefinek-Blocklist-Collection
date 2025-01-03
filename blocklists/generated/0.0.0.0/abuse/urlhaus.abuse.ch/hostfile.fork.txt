@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-03 16:24:05 (UTC)                      #
+# Last updated: 2025-01-03 18:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 3ktamthaitu.com
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
@@ -33,7 +34,6 @@
 0.0.0.0 api.hostize.com
 0.0.0.0 armanayegh.com
 0.0.0.0 assuresform.com
-0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -45,7 +45,6 @@
 0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 book-captcha.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 by.haory.cn
@@ -80,17 +79,15 @@
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.mvip8.ru
-0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
+0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
 0.0.0.0 f2pverifynow.com
 0.0.0.0 fbi.eye-network.ru
@@ -128,7 +125,6 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
-0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
@@ -149,7 +145,9 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m-global.hksty.net
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
+0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
@@ -176,7 +174,9 @@
 0.0.0.0 mypackagingups.com
 0.0.0.0 mystartherehosting.net
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
+0.0.0.0 noithaticon.vn
 0.0.0.0 nouuu.eye-network.ru
 0.0.0.0 obm.catching.fishingrealinvestments.com
 0.0.0.0 odoo.kseibitools.com
@@ -189,14 +189,12 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
+0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
-0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -207,7 +205,6 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 scan-echo.online
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
@@ -218,9 +215,7 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solve.vwglq.com
-0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
@@ -254,8 +249,10 @@
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
+0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vig.chain.buyclosersonline.com
@@ -267,6 +264,7 @@
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
@@ -280,16 +278,18 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
+0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
-0.0.0.0 www.webaap2.site
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 wz.3911.com
+0.0.0.0 xanaxspoofer.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
 0.0.0.0 xn--espace-vitale--niveau-sms-zbc.com
