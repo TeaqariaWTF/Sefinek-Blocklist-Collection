@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-04 14:09:05 (UTC)                      !
+! Last updated: 2025-01-04 16:22:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -15,7 +15,6 @@
 ||abissnet.net^
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
-||adf6.adf6.com^
 ||admin.aishangzhua.com^
 ||adresse-confirmation.com^
 ||advanced-ipscanner.com^
@@ -30,16 +29,19 @@
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
 ||aosafrica.co.za^
+||api.accueil-coinbase.com^
+||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
 ||api.hostize.com^
+||api.information-binance.com^
+||api.information-coinbase.com^
+||api.rappel-coinbase.com^
 ||apx.house.zionanakwenze.com^
 ||armanayegh.com^
 ||assuresform.com^
-||aulist.com^
 ||avastcxp.com^
 ||avastcxt.com^
-||avastexodus.com^
 ||avastmetamask.com^
 ||avastng.com^
 ||avastop.com^
@@ -53,21 +55,23 @@
 ||book-captcha.com^
 ||buscascolegios.diit.cl^
 ||by.haory.cn^
-||cajgtus.com^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
 ||cdn.ps5.zip^
 ||centre-de-tri-ups.com^
 ||chinaapper.com^
 ||ciscocdn.com^
-||cmgtrading.eu^
 ||coach.028csc.com^
 ||coadymarine.com^
+||coinbase.connexion-monwallet.com^
 ||com-animus.app^
+||compte-coinbase.com^
 ||conn.masjesu.zip^
+||connexion-monwallet.com^
 ||consulter-mon-amende.com^
 ||contravinf.com^
 ||crystalpvp.ru^
+||csg-app.com^
 ||data.yhydl.com^
 ||dcwblida.dz^
 ||deauduafzgezzfgm.top^
@@ -82,9 +86,9 @@
 ||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
+||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
-||download.caihong.com^
 ||download.emailorganizer.com^
 ||download.haozip.com^
 ||download.suxiazai.com^
@@ -120,8 +124,10 @@
 ||hseda.com^
 ||huyanhnongdo.io.vn^
 ||imrz.slot.buyaiphoneonline.com^
+||imtoken8.cc^
 ||info-paiement-ligne.com^
 ||information-binance.com^
+||information-coinbase.com^
 ||informations-colissimo.com^
 ||informationversand.com^
 ||ini.sh-pp.com^
@@ -143,7 +149,9 @@
 ||le.codingdrunk.in^
 ||lev-tolstoi.com^
 ||leyamond.com^
+||library.arihantmbainstitute.ac.in^
 ||lieferdienste-deutsche.com^
+||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||live-sendungsverfolgung.com^
 ||livetrack.in^
@@ -153,6 +161,7 @@
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
 ||lwaziacademy.com^
+||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||maisonetcites.fr^
 ||mandarin.net.au^
@@ -201,11 +210,13 @@
 ||pid.fly160.com^
 ||pns.org.pk^
 ||protechasia.com^
+||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||qpc.slot.buyaiphoneonline.com^
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
+||rappel-coinbase.com^
 ||raw.igxhost.ru^
 ||rb3.ftnt.io^
 ||rd.chuitian.cn^
@@ -223,7 +234,6 @@
 ||service-espace-sante.com^
 ||servvital.com^
 ||sfa.com.ar^
-||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
 ||sinupakk.net^
@@ -234,7 +244,6 @@
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
 ||sporcketngearforu.com^
-||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||support-abonnement.com^
@@ -245,6 +254,7 @@
 ||t3.awagama.org^
 ||taodianla.com^
 ||tecni-soft.com^
+||tecunonline.com^
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
@@ -261,18 +271,19 @@
 ||twizt.net^
 ||up.maolaoban.top^
 ||update.cg100iii.com^
-||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upload.vina-host.com^
 ||ups-zolldienst.com^
 ||utorrent-backup-server.top^
+||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
 ||utorrent-servers.xyz^
 ||valseg.com.br^
 ||webmail.tracking-packages.com^
+||wildsolace.net^
 ||win-network-checker.cc^
 ||www.alaqalezdehar.com^
 ||www.aqianniao.com^
@@ -293,7 +304,7 @@
 ||www.reifenquick.de^
 ||www.speak-a-message.com^
 ||www.sporcketngearforu.com^
-||www.sumiyuki.co.jp^
+||www.starcountry.net^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
 ||www.tecunonline.com^
@@ -301,7 +312,6 @@
 ||www.witrin.hu^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
-||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
 ||xanaxspoofer.com^
@@ -318,4 +328,4 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 312
+! Number of entries: 322
