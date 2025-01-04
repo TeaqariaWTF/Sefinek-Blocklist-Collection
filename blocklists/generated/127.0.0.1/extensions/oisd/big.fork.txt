@@ -1,9 +1,9 @@
-# Version: 202501032208
+# Version: 202501040007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
 ! Entries: 123718
-# Last modified: 2025-01-03T22:08:56+0000
+# Last modified: 2025-01-04T00:07:32+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1870,7 +1870,6 @@
 127.0.0.1 24hourcanadianpharmacyreview.ru
 127.0.0.1 24hourdentistlondon.co.uk
 127.0.0.1 24hourstrade.com
-127.0.0.1 24hstatic.com
 127.0.0.1 24in.ru
 127.0.0.1 24log.com
 127.0.0.1 24log.de
@@ -6978,6 +6977,7 @@
 127.0.0.1 ad-universe.com
 127.0.0.1 ad-unpack.com
 127.0.0.1 ad-up.com
+127.0.0.1 ad-us.24hstatic.com
 127.0.0.1 ad-visor.com
 127.0.0.1 ad-vortex.com
 127.0.0.1 ad-w-a-r-e.com
@@ -42851,6 +42851,7 @@
 127.0.0.1 ev.stellarlabs.ai
 127.0.0.1 ev.tpocdm.com
 127.0.0.1 ev2.api.bdg.com
+127.0.0.1 eva-ad.24hstatic.com
 127.0.0.1 evacommuniceert.nl
 127.0.0.1 evagriusponticus.net
 127.0.0.1 evakark.xyz
@@ -46054,7 +46055,6 @@
 127.0.0.1 fiwyjar.cn
 127.0.0.1 fix-abnehmen.com
 127.0.0.1 fix-files.com
-127.0.0.1 fix-live.tech
 127.0.0.1 fix.hpplay.cn
 127.0.0.1 fixbonus.com
 127.0.0.1 fixckjets-faceb0ok.emochila.com
@@ -78437,6 +78437,7 @@
 127.0.0.1 nuwealthmedia.com
 127.0.0.1 nuwerk.monsterboard.nl
 127.0.0.1 nuxzin.cloud
+127.0.0.1 nv-ad.24hstatic.com
 127.0.0.1 nv-gboy.googlecode.com
 127.0.0.1 nv3tosjqd.com
 127.0.0.1 nvapi.feeldmc.com
@@ -107817,7 +107818,6 @@
 127.0.0.1 timepopsci.122.2o7.net
 127.0.0.1 timeq.uz
 127.0.0.1 timerealsimple.112.2o7.net
-127.0.0.1 timersbedbug.com
 127.0.0.1 timesaround.com
 127.0.0.1 timesaver.dlcodes.com
 127.0.0.1 timespctenbest.122.2o7.net
