@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-04 18:19:05 (UTC)                      #
+# Last updated: 2025-01-04 20:14:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,10 +12,11 @@
 127.0.0.1 2.haory.cn
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 3ktamthaitu.com
-127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
+127.0.0.1 academy-112.ladinomusic.com
 127.0.0.1 acheminement-suivis.fr
+127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 adresse-confirmation.com
 127.0.0.1 advanced-ipscanner.com
@@ -33,15 +34,12 @@
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
-127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.information-coinbase.com
 127.0.0.1 apx.house.zionanakwenze.com
 127.0.0.1 armanayegh.com
 127.0.0.1 assuresform.com
-127.0.0.1 aulist.com
-127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
 127.0.0.1 avastexodus.com
 127.0.0.1 avastmetamask.com
@@ -63,9 +61,10 @@
 127.0.0.1 centre-de-tri-ups.com
 127.0.0.1 chinaapper.com
 127.0.0.1 ciscocdn.com
+127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
-127.0.0.1 coadymarine.com
 127.0.0.1 coinbase.connexion-monwallet.com
+127.0.0.1 collection-designs-112.crystal-awards-trophies.com
 127.0.0.1 com-animus.app
 127.0.0.1 compte-coinbase.com
 127.0.0.1 conn.masjesu.zip
@@ -78,13 +77,11 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
-127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 digitalarmor.cyou
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
-127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
@@ -95,20 +92,20 @@
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
-127.0.0.1 download.haozip.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
+127.0.0.1 dtor-fs-1.xyz
 127.0.0.1 due.center
 127.0.0.1 e4l4.com
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 emd.slot.buyaiphoneonline.com
+127.0.0.1 energy-112-connect.heavenandearthenergy.com
 127.0.0.1 eoufaoeuhoauengi.su
-127.0.0.1 epanpano.com
 127.0.0.1 espacesantefr-assurance.com
+127.0.0.1 et-fs-1.xyz
 127.0.0.1 f2pverifynow.com
 127.0.0.1 fexe-tmp-1.top
 127.0.0.1 file.blackint3.com
-127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 fizeteselutasitva.com
 127.0.0.1 formulaire-sociale.com
@@ -137,16 +134,13 @@
 127.0.0.1 informations-colissimo.com
 127.0.0.1 informationversand.com
 127.0.0.1 ini.sh-pp.com
-127.0.0.1 inspirepk.org
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
 127.0.0.1 judgesink.xyz
-127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
-127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 knightsinshiningarmor.net
@@ -154,7 +148,6 @@
 127.0.0.1 lafilledemavie.com
 127.0.0.1 lev-tolstoi.com
 127.0.0.1 leyamond.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -164,7 +157,9 @@
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 lwaziacademy.com
+127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 maisonetcites.fr
 127.0.0.1 mandarin.net.au
@@ -172,6 +167,7 @@
 127.0.0.1 mbsngradnja.com
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 mes-demarches-renouvellement.com
+127.0.0.1 microffice-fs-1.xyz
 127.0.0.1 microprocessorbook.com
 127.0.0.1 microprocessordesignbook.com
 127.0.0.1 microsoft-auth-network.cc
@@ -202,6 +198,7 @@
 127.0.0.1 oktoberfestoutfit.com
 127.0.0.1 organisme-renouvellement.com
 127.0.0.1 osecweb.ir
+127.0.0.1 ot-fs-1.xyz
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
@@ -210,6 +207,7 @@
 127.0.0.1 perfectperu.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pns.org.pk
+127.0.0.1 ppt-fs-1.xyz
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
@@ -259,6 +257,7 @@
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
+127.0.0.1 test.molex.cloud
 127.0.0.1 tianyinsoft.top
 127.0.0.1 tiffany-careers.com
 127.0.0.1 towerofbabble.net
@@ -272,6 +271,7 @@
 127.0.0.1 twizt.net
 127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 upload.vina-host.com
@@ -284,13 +284,18 @@
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 webmail.tracking-packages.com
+127.0.0.1 wildsolace.net
 127.0.0.1 win-network-checker.cc
+127.0.0.1 wiso-fs-1.top
+127.0.0.1 wt-fs-1.xyz
+127.0.0.1 wt-tmp-1.top
 127.0.0.1 www.alaqalezdehar.com
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
+127.0.0.1 www.fexe-tmp-1.top
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.grupodulcemar.pe
@@ -303,13 +308,13 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
-127.0.0.1 www.speak-a-message.com
 127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
+127.0.0.1 www.webaap2.site
 127.0.0.1 www.witrin.hu
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
@@ -330,4 +335,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 324
+# Number of entries: 329
