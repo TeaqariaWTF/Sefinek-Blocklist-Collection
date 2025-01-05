@@ -1,10 +1,8 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025010401 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025010501 43200 3600 259200 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -25,8 +23,6 @@ acheminement-suivis.fr CNAME .
 *.acheminement-suivis.fr CNAME .
 adf6.adf6.com CNAME .
 *.adf6.adf6.com CNAME .
-admin.aishangzhua.com CNAME .
-*.admin.aishangzhua.com CNAME .
 adresse-confirmation.com CNAME .
 *.adresse-confirmation.com CNAME .
 advanced-ipscanner.com CNAME .
@@ -37,6 +33,8 @@ aeufoeahfouefhg.top CNAME .
 *.aeufoeahfouefhg.top CNAME .
 agapi.cqjjb.cn CNAME .
 *.agapi.cqjjb.cn CNAME .
+ai-kling.online CNAME .
+*.ai-kling.online CNAME .
 aide-acheminement-info.com CNAME .
 *.aide-acheminement-info.com CNAME .
 airhobi.com CNAME .
@@ -55,8 +53,6 @@ api.accueil-coinbase.com CNAME .
 *.api.accueil-coinbase.com CNAME .
 api.aide-coinbase.com CNAME .
 *.api.aide-coinbase.com CNAME .
-api.co-operativefinance.com CNAME .
-*.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
@@ -83,8 +79,6 @@ avastmetamask.com CNAME .
 *.avastmetamask.com CNAME .
 avastng.com CNAME .
 *.avastng.com CNAME .
-avastop.com CNAME .
-*.avastop.com CNAME .
 avastpdq.com CNAME .
 *.avastpdq.com CNAME .
 avastpdr.com CNAME .
@@ -99,14 +93,10 @@ bitkiselurunsiparis.com CNAME .
 *.bitkiselurunsiparis.com CNAME .
 bladeglass.icu CNAME .
 *.bladeglass.icu CNAME .
-book-captcha.com CNAME .
-*.book-captcha.com CNAME .
 buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
 by.haory.cn CNAME .
 *.by.haory.cn CNAME .
-cajgtus.com CNAME .
-*.cajgtus.com CNAME .
 catbaparadisehotel.com.vn CNAME .
 *.catbaparadisehotel.com.vn CNAME .
 cdaonline.com.ar CNAME .
@@ -123,6 +113,8 @@ cmgtrading.eu CNAME .
 *.cmgtrading.eu CNAME .
 coach.028csc.com CNAME .
 *.coach.028csc.com CNAME .
+coadymarine.com CNAME .
+*.coadymarine.com CNAME .
 coinbase.connexion-monwallet.com CNAME .
 *.coinbase.connexion-monwallet.com CNAME .
 collection-designs-112.crystal-awards-trophies.com CNAME .
@@ -145,8 +137,6 @@ csg-app.com CNAME .
 *.csg-app.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
-dcwblida.dz CNAME .
-*.dcwblida.dz CNAME .
 deauduafzgezzfgm.top CNAME .
 *.deauduafzgezzfgm.top CNAME .
 device.redirec.com CNAME .
@@ -185,6 +175,8 @@ download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
+download.haozip.com CNAME .
+*.download.haozip.com CNAME .
 download.suxiazai.com CNAME .
 *.download.suxiazai.com CNAME .
 downsexv.com CNAME .
@@ -233,8 +225,6 @@ gachetroi.com CNAME .
 *.gachetroi.com CNAME .
 gawx.florenda.com CNAME .
 *.gawx.florenda.com CNAME .
-ggxfk.slot.buyaiphoneonline.com CNAME .
-*.ggxfk.slot.buyaiphoneonline.com CNAME .
 goodlabel.cn CNAME .
 *.goodlabel.cn CNAME .
 grupobramam.com.br CNAME .
@@ -287,6 +277,8 @@ jrqh-hk.com CNAME .
 *.jrqh-hk.com CNAME .
 judgesink.xyz CNAME .
 *.judgesink.xyz CNAME .
+karer.by CNAME .
+*.karer.by CNAME .
 karoonpc.com CNAME .
 *.karoonpc.com CNAME .
 keyser-api.eu CNAME .
@@ -297,12 +289,10 @@ kiemthehuyenlong.com CNAME .
 *.kiemthehuyenlong.com CNAME .
 knightsinshiningarmor.net CNAME .
 *.knightsinshiningarmor.net CNAME .
-lab.mgix.fr CNAME .
-*.lab.mgix.fr CNAME .
 lafilledemavie.com CNAME .
 *.lafilledemavie.com CNAME .
-lev-tolstoi.com CNAME .
-*.lev-tolstoi.com CNAME .
+le.codingdrunk.in CNAME .
+*.le.codingdrunk.in CNAME .
 leyamond.com CNAME .
 *.leyamond.com CNAME .
 library.arihantmbainstitute.ac.in CNAME .
@@ -311,22 +301,22 @@ lieferdienste-deutsche.com CNAME .
 *.lieferdienste-deutsche.com CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
-linkvilleplayers.org CNAME .
-*.linkvilleplayers.org CNAME .
 live-sendungsverfolgung.com CNAME .
 *.live-sendungsverfolgung.com CNAME .
 livetrack.in CNAME .
 *.livetrack.in CNAME .
-lmlm.demo.ezra-ai.com CNAME .
-*.lmlm.demo.ezra-ai.com CNAME .
 lnterrac-ca.rebateit.net CNAME .
 *.lnterrac-ca.rebateit.net CNAME .
 loeghaiofiehfihf.to CNAME .
 *.loeghaiofiehfihf.to CNAME .
+lol.theeyefirewall.su CNAME .
+*.lol.theeyefirewall.su CNAME .
 lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
 lsks.volamngayxua.net CNAME .
 *.lsks.volamngayxua.net CNAME .
+ltitd.slot.buyaiphoneonline.com CNAME .
+*.ltitd.slot.buyaiphoneonline.com CNAME .
 lwaziacademy.com CNAME .
 *.lwaziacademy.com CNAME .
 m.gutousoft.com CNAME .
@@ -377,8 +367,8 @@ monformulaire-sante.com CNAME .
 *.monformulaire-sante.com CNAME .
 mta132.bentonwhite.com CNAME .
 *.mta132.bentonwhite.com CNAME .
-mwa.slot.buyaiphoneonline.com CNAME .
-*.mwa.slot.buyaiphoneonline.com CNAME .
+myguyapp.com CNAME .
+*.myguyapp.com CNAME .
 myhermes-dienste.com CNAME .
 *.myhermes-dienste.com CNAME .
 myhermes-liefern.com CNAME .
@@ -395,10 +385,8 @@ namthaibinh.net CNAME .
 *.namthaibinh.net CNAME .
 new-consigne-sms-track.com CNAME .
 *.new-consigne-sms-track.com CNAME .
-nouuu.eye-network.ru CNAME .
-*.nouuu.eye-network.ru CNAME .
-obm.catching.fishingrealinvestments.com CNAME .
-*.obm.catching.fishingrealinvestments.com CNAME .
+noithaticon.vn CNAME .
+*.noithaticon.vn CNAME .
 odoo.kseibitools.com CNAME .
 *.odoo.kseibitools.com CNAME .
 ojang.pe.kr CNAME .
@@ -425,20 +413,22 @@ perfectperu.com CNAME .
 *.perfectperu.com CNAME .
 pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
+pje.slot.buyaiphoneonline.com CNAME .
+*.pje.slot.buyaiphoneonline.com CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
 ppt-fs-1.xyz CNAME .
 *.ppt-fs-1.xyz CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
-qiniuyunxz.yxflzs.com CNAME .
-*.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
 qpc.slot.buyaiphoneonline.com CNAME .
 *.qpc.slot.buyaiphoneonline.com CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 *.qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
+quanly.jxmienphi.net CNAME .
+*.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
 *.quanlyphongnet.com CNAME .
 rappel-coinbase.com CNAME .
@@ -489,8 +479,6 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
-softcatalog.ru CNAME .
-*.softcatalog.ru CNAME .
 solve.jrqr.org CNAME .
 *.solve.jrqr.org CNAME .
 soportegira.net CNAME .
@@ -501,8 +489,6 @@ sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
 src1.minibai.com CNAME .
 *.src1.minibai.com CNAME .
-stdown.dinju.com CNAME .
-*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 support-abonnement.com CNAME .
@@ -533,8 +519,6 @@ test.molex.cloud CNAME .
 *.test.molex.cloud CNAME .
 tianyinsoft.top CNAME .
 *.tianyinsoft.top CNAME .
-tiffany-careers.com CNAME .
-*.tiffany-careers.com CNAME .
 towerofbabble.net CNAME .
 *.towerofbabble.net CNAME .
 tracking-packages.com CNAME .
@@ -545,14 +529,14 @@ trackpacking-ups.com CNAME .
 *.trackpacking-ups.com CNAME .
 traefik-dashboard.val.io.vn CNAME .
 *.traefik-dashboard.val.io.vn CNAME .
-treehoneyi.click CNAME .
-*.treehoneyi.click CNAME .
 treinamento.convenio.to.gov.br CNAME .
 *.treinamento.convenio.to.gov.br CNAME .
 tricazo.com CNAME .
 *.tricazo.com CNAME .
 twizt.net CNAME .
 *.twizt.net CNAME .
+up.maolaoban.top CNAME .
+*.up.maolaoban.top CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
 update.vlnguba.com CNAME .
@@ -619,6 +603,8 @@ opolis.io CNAME .
 *.opolis.io CNAME .
 qqqmy.com CNAME .
 *.qqqmy.com CNAME .
+speak-a-message.com CNAME .
+*.speak-a-message.com CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
 sumiyuki.co.jp CNAME .
@@ -661,8 +647,6 @@ xn--vitale-espace--niveau-0zb.com CNAME .
 *.xn--vitale-espace--niveau-0zb.com CNAME .
 xn--yh4bx88a.com CNAME .
 *.xn--yh4bx88a.com CNAME .
-xxcnx.slot.buyaiphoneonline.com CNAME .
-*.xxcnx.slot.buyaiphoneonline.com CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
