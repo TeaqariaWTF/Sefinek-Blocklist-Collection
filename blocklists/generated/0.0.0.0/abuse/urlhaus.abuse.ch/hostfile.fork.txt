@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-05 16:23:08 (UTC)                      #
+# Last updated: 2025-01-05 18:12:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,6 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
-0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 3ktamthaitu.com
 0.0.0.0 912648.aioc.qbgxl.com
@@ -50,6 +49,7 @@
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
+0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
@@ -95,14 +95,15 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
+0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dtor-fs-1.xyz
 0.0.0.0 due.center
 0.0.0.0 e4l4.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 emd.slot.buyaiphoneonline.com
 0.0.0.0 energy-112-connect.heavenandearthenergy.com
 0.0.0.0 eoufaoeuhoauengi.su
@@ -128,12 +129,12 @@
 0.0.0.0 hacker.kygtps.live
 0.0.0.0 hailcocks.ru
 0.0.0.0 hitman-pro.ru
-0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imrz.slot.buyaiphoneonline.com
+0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 information-binance.com
 0.0.0.0 information-coinbase.com
@@ -168,8 +169,8 @@
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 ltitd.slot.buyaiphoneonline.com
 0.0.0.0 lwaziacademy.com
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
-0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 masclauxtoitures.fr
 0.0.0.0 mbsngradnja.com
@@ -200,6 +201,7 @@
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
+0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 oktoberfestoutfit.com
@@ -208,8 +210,10 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
+0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 perfectperu.com
+0.0.0.0 pid.fly160.com
 0.0.0.0 pje.slot.buyaiphoneonline.com
 0.0.0.0 pns.org.pk
 0.0.0.0 ppt-fs-1.xyz
@@ -230,22 +234,25 @@
 0.0.0.0 renouvellement-espace-vitale-ameli.com
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
+0.0.0.0 rodgersluciecassy.com
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 scan-echo.online
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
+0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 solve.jrqr.org
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
@@ -254,11 +261,10 @@
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
+0.0.0.0 t.0000o.xyz
 0.0.0.0 t1.awagama.org
 0.0.0.0 t3.awagama.org
-0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
-0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -270,15 +276,15 @@
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 twizt.net
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
-0.0.0.0 usual-moneys.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
@@ -300,7 +306,6 @@
 0.0.0.0 www.chrismccaw.net
 0.0.0.0 www.fexe-tmp-1.top
 0.0.0.0 www.flechabusretiro.com.ar
-0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.grupodulcemar.pe
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
@@ -309,12 +314,10 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
-0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
-0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -337,4 +340,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 331
+# Number of entries: 334
