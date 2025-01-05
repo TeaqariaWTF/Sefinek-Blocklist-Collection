@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -39,8 +41,6 @@ ai-kling.online CNAME .
 *.ai-kling.online CNAME .
 aide-acheminement-info.com CNAME .
 *.aide-acheminement-info.com CNAME .
-airhobi.com CNAME .
-*.airhobi.com CNAME .
 alien-training.com CNAME .
 *.alien-training.com CNAME .
 amelcarte.com CNAME .
@@ -49,6 +49,8 @@ amende-renouvellement.com CNAME .
 *.amende-renouvellement.com CNAME .
 amende-stationnement-suivis.com CNAME .
 *.amende-stationnement-suivis.com CNAME .
+aosafrica.co.za CNAME .
+*.aosafrica.co.za CNAME .
 api.accueil-coinbase.com CNAME .
 *.api.accueil-coinbase.com CNAME .
 api.aide-coinbase.com CNAME .
@@ -139,6 +141,8 @@ csg-app.com CNAME .
 *.csg-app.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
+dcwblida.dz CNAME .
+*.dcwblida.dz CNAME .
 deauduafzgezzfgm.top CNAME .
 *.deauduafzgezzfgm.top CNAME .
 device.redirec.com CNAME .
@@ -149,6 +153,8 @@ dienstmyhermes.de CNAME .
 *.dienstmyhermes.de CNAME .
 digitalarmor.cyou CNAME .
 *.digitalarmor.cyou CNAME .
+disk.accord1key.cn CNAME .
+*.disk.accord1key.cn CNAME .
 divvanews.com CNAME .
 *.divvanews.com CNAME .
 dl.aginjector.com CNAME .
@@ -177,8 +183,6 @@ download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
 download.haozip.com CNAME .
 *.download.haozip.com CNAME .
-download.suxiazai.com CNAME .
-*.download.suxiazai.com CNAME .
 downsexv.com CNAME .
 *.downsexv.com CNAME .
 dtor-fs-1.xyz CNAME .
@@ -225,6 +229,8 @@ gachetroi.com CNAME .
 *.gachetroi.com CNAME .
 gawx.florenda.com CNAME .
 *.gawx.florenda.com CNAME .
+goodlabel.cn CNAME .
+*.goodlabel.cn CNAME .
 grupobramam.com.br CNAME .
 *.grupobramam.com.br CNAME .
 grupodulcemar.pe CNAME .
@@ -297,6 +303,8 @@ lieferdienste-deutsche.com CNAME .
 *.lieferdienste-deutsche.com CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
+linkvilleplayers.org CNAME .
+*.linkvilleplayers.org CNAME .
 live-sendungsverfolgung.com CNAME .
 *.live-sendungsverfolgung.com CNAME .
 livetrack.in CNAME .
@@ -475,8 +483,6 @@ sinupakk.net CNAME .
 *.sinupakk.net CNAME .
 sirault.be CNAME .
 *.sirault.be CNAME .
-soft.110route.com CNAME .
-*.soft.110route.com CNAME .
 softcatalog.ru CNAME .
 *.softcatalog.ru CNAME .
 solve.jrqr.org CNAME .
@@ -489,6 +495,8 @@ sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
 src1.minibai.com CNAME .
 *.src1.minibai.com CNAME .
+stdown.dinju.com CNAME .
+*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 support-abonnement.com CNAME .
@@ -579,8 +587,6 @@ alaqalezdehar.com CNAME .
 *.alaqalezdehar.com CNAME .
 aqianniao.com CNAME .
 *.aqianniao.com CNAME .
-beiletoys.com CNAME .
-*.beiletoys.com CNAME .
 blackhattoolz.com CNAME .
 *.blackhattoolz.com CNAME .
 chemsky.tn CNAME .
@@ -595,8 +601,6 @@ hootech.com CNAME .
 *.hootech.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
-maxmoney.com CNAME .
-*.maxmoney.com CNAME .
 medises.co.kr CNAME .
 *.medises.co.kr CNAME .
 opolis.io CNAME .
@@ -623,8 +627,6 @@ ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
 zhikey.com CNAME .
 *.zhikey.com CNAME .
-wynecare.com CNAME .
-*.wynecare.com CNAME .
 wz.3911.com CNAME .
 *.wz.3911.com CNAME .
 xanaxspoofer.com CNAME .
@@ -649,7 +651,5 @@ xn--yh4bx88a.com CNAME .
 *.xn--yh4bx88a.com CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
-yzkzixun.com CNAME .
-*.yzkzixun.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
