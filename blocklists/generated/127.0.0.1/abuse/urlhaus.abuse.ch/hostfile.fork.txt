@@ -1,14 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-06 10:22:09 (UTC)                      #
+# Last updated: 2025-01-06 12:31:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 139520.aioc.qbgxl.com
+127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
-127.0.0.1 360down7.miiyun.cn
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 99smoothfm.com
 127.0.0.1 abissnet.net
@@ -22,10 +22,10 @@
 127.0.0.1 advanced-ipscanner.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
+127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
 127.0.0.1 aide-acheminement-info.com
 127.0.0.1 airhobi.com
-127.0.0.1 alien-training.com
 127.0.0.1 alondrabowmanjake.com
 127.0.0.1 amelcarte.com
 127.0.0.1 amende-renouvellement.com
@@ -95,7 +95,6 @@
 127.0.0.1 divvanews.com
 127.0.0.1 djhyzhicai.com
 127.0.0.1 dl.aginjector.com
-127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
@@ -105,7 +104,6 @@
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
-127.0.0.1 download.haozip.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 dtor-fs-1.xyz
@@ -139,6 +137,7 @@
 127.0.0.1 hacker.kygtps.live
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
+127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
 127.0.0.1 hostmaster.admin.netnonews.net
 127.0.0.1 hr2019.vrcom7.com
@@ -160,9 +159,7 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jpavuluri.com
-127.0.0.1 jrqh-hk.com
 127.0.0.1 jujuju.lat
-127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 kasihcommunityschool.sch.id
 127.0.0.1 keyser-api.eu
@@ -173,6 +170,7 @@
 127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
 127.0.0.1 le.codingdrunk.in
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -198,7 +196,6 @@
 127.0.0.1 microffice-fs-1.xyz
 127.0.0.1 microprocessorbook.com
 127.0.0.1 microprocessordesignbook.com
-127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 mights.net
 127.0.0.1 mingleyou.top
@@ -237,6 +234,7 @@
 127.0.0.1 park.chuitian.cn
 127.0.0.1 passagetoeastafrica.com
 127.0.0.1 pb.agnt.ru
+127.0.0.1 perfectperu.com
 127.0.0.1 peritably.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
@@ -270,12 +268,14 @@
 127.0.0.1 sarahwillemart.com
 127.0.0.1 scan-echo.online
 127.0.0.1 schytcdagl.com
+127.0.0.1 security-service-api-link.cc
 127.0.0.1 seniorcomc.sslblindado.com
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 service-espace-sante.com
 127.0.0.1 servvital.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
+127.0.0.1 shqdown.ggzuhao.com
 127.0.0.1 simit-pagos.co
 127.0.0.1 sinupakk.net
 127.0.0.1 sirault.be
@@ -295,7 +295,6 @@
 127.0.0.1 support-colis-info.com
 127.0.0.1 support.clz.kr
 127.0.0.1 supportameli.top
-127.0.0.1 t.0000o.xyz
 127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
@@ -304,7 +303,6 @@
 127.0.0.1 taodianla.com
 127.0.0.1 taytrin.com
 127.0.0.1 tecni-soft.com
-127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
@@ -360,8 +358,8 @@
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.kasihcommunityschool.sch.id
 127.0.0.1 www.lovlypets.com
+127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
-127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.playchees.com
 127.0.0.1 www.qqqmy.com
@@ -375,7 +373,6 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.webaap2.site
-127.0.0.1 www.witrin.hu
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
@@ -398,4 +395,4 @@
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
-# Number of entries: 392
+# Number of entries: 389
