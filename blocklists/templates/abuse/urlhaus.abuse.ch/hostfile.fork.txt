@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-05 22:19:07 (UTC)                      #
+# Last updated: 2025-01-06 01:41:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,7 +11,6 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
-0.0.0.0 3ktamthaitu.com
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 99smoothfm.com
 0.0.0.0 abissnet.net
@@ -39,13 +38,11 @@
 0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
-0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.information-coinbase.com
 0.0.0.0 api.rappel-coinbase.com
-0.0.0.0 apx.house.zionanakwenze.com
 0.0.0.0 armanayegh.com
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
@@ -62,11 +59,10 @@
 0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bitkiselurunsiparis.com
-0.0.0.0 bladeglass.icu
+0.0.0.0 blogorious.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.ps5.zip
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chinawoddon.co
@@ -97,7 +93,6 @@
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
 0.0.0.0 dienstmyhermes.de
-0.0.0.0 digitalarmor.cyou
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
@@ -109,6 +104,7 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
+0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
@@ -116,11 +112,10 @@
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dtor-fs-1.xyz
-0.0.0.0 due.center
 0.0.0.0 e4l4.com
 0.0.0.0 ecolumy.com
+0.0.0.0 eldercity.xyz
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 emd.slot.buyaiphoneonline.com
 0.0.0.0 energy-112-connect.heavenandearthenergy.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
@@ -141,6 +136,7 @@
 0.0.0.0 ger.khoffnonly.ru
 0.0.0.0 gokujoutabi.com
 0.0.0.0 goodlabel.cn
+0.0.0.0 grand-bat-mtdx.team-a6ac382cc0e44c428-eb5e292be6164a0f8bd4220d63e7b0f9.dv0.io
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
@@ -156,7 +152,6 @@
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 ilander.life
-0.0.0.0 imrz.slot.buyaiphoneonline.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 infomsghub.com
@@ -164,7 +159,6 @@
 0.0.0.0 information-coinbase.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
@@ -173,30 +167,31 @@
 0.0.0.0 jointings.org
 0.0.0.0 jpavuluri.com
 0.0.0.0 jrqh-hk.com
-0.0.0.0 judgesink.xyz
+0.0.0.0 jujuju.lat
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 kasihcommunityschool.sch.id
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
 0.0.0.0 kiemthehuyenlong.com
+0.0.0.0 kl-219.040-241.qualityplusbuilders.com
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
 0.0.0.0 le.codingdrunk.in
-0.0.0.0 leyamond.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
 0.0.0.0 livetrack.in
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lol.theeyefirewall.su
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 ltitd.slot.buyaiphoneonline.com
 0.0.0.0 lwaziacademy.com
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mail.coalexportaction.org
 0.0.0.0 mail.kasihcommunityschool.sch.id
@@ -226,6 +221,7 @@
 0.0.0.0 monformulaire-sante.com
 0.0.0.0 mta132.bentonwhite.com
 0.0.0.0 mx9x.com
+0.0.0.0 myfilebuilders.com
 0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
@@ -240,7 +236,6 @@
 0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
-0.0.0.0 oktoberfestoutfit.com
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
 0.0.0.0 ot-fs-1.xyz
@@ -251,6 +246,8 @@
 0.0.0.0 perfectperu.com
 0.0.0.0 peritably.com
 0.0.0.0 pid.fly160.com
+0.0.0.0 pilzmacher.com
+0.0.0.0 pimmes.com
 0.0.0.0 pje.slot.buyaiphoneonline.com
 0.0.0.0 pns.org.pk
 0.0.0.0 point.netnonews.net
@@ -259,13 +256,11 @@
 0.0.0.0 qdhaoge.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 qpc.slot.buyaiphoneonline.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
 0.0.0.0 rappel-coinbase.com
-0.0.0.0 raw.igxhost.ru
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -277,6 +272,7 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 rodgersluciecassy.com
 0.0.0.0 roofmanagementlnc.com
+0.0.0.0 roonvar.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sarahwillemart.com
 0.0.0.0 scan-echo.online
@@ -286,15 +282,18 @@
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
+0.0.0.0 sfa.com.ar
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
+0.0.0.0 soccerimg.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
-0.0.0.0 solve.jrqr.org
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
+0.0.0.0 sqfmp.slot.buyaiphoneonline.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 ssertaria.com
 0.0.0.0 stdown.dinju.com
@@ -305,8 +304,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 t.0000o.xyz
-0.0.0.0 t1.awagama.org
-0.0.0.0 t3.awagama.org
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
 0.0.0.0 tao816.com
@@ -317,27 +314,29 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.molex.cloud
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
 0.0.0.0 tojaubec.shop
+0.0.0.0 tokospoccket.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
-0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 twizt.net
-0.0.0.0 up.maolaoban.top
+0.0.0.0 update-appstore.com
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
+0.0.0.0 usual-moneys.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
@@ -354,6 +353,7 @@
 0.0.0.0 wiso-fs-1.top
 0.0.0.0 wt-fs-1.xyz
 0.0.0.0 wt-tmp-1.top
+0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -376,12 +376,12 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
-0.0.0.0 www.speak-a-message.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
+0.0.0.0 www.tecunonline.com
 0.0.0.0 www.webaap2.site
 0.0.0.0 www.witrin.hu
 0.0.0.0 www.xn--on3b15m2lco2u.com
