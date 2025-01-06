@@ -3899,6 +3899,8 @@ $TTL 300
 *.7k-spinwin.bond CNAME .
 7k.autos CNAME .
 *.7k.autos CNAME .
+7k.boats CNAME .
+*.7k.boats CNAME .
 7kratom.com CNAME .
 *.7kratom.com CNAME .
 7nation.com CNAME .
@@ -41231,6 +41233,8 @@ gizbo-payout.lol CNAME .
 *.gizbo-payout.lol CNAME .
 gizbo.click CNAME .
 *.gizbo.click CNAME .
+gizbo.cyou CNAME .
+*.gizbo.cyou CNAME .
 gizmona.com CNAME .
 *.gizmona.com CNAME .
 gizzmo.se CNAME .
@@ -42725,6 +42729,8 @@ greatbearcanoes.com CNAME .
 *.greatbearcanoes.com CNAME .
 greatbeargroove.com CNAME .
 *.greatbeargroove.com CNAME .
+greatbusi.info CNAME .
+*.greatbusi.info CNAME .
 greatcourse.xyz CNAME .
 *.greatcourse.xyz CNAME .
 greatemail.win CNAME .
@@ -51343,6 +51349,8 @@ jerseycitynewsdaily.com CNAME .
 *.jerseycitynewsdaily.com CNAME .
 jerseycityquote.com CNAME .
 *.jerseycityquote.com CNAME .
+jerseykui.com CNAME .
+*.jerseykui.com CNAME .
 jerseysv.com CNAME .
 *.jerseysv.com CNAME .
 jersto.com CNAME .
@@ -56533,6 +56541,8 @@ levcasino-jackpot.space CNAME .
 *.levcasino-jackpot.space CNAME .
 levelupworker.com CNAME .
 *.levelupworker.com CNAME .
+levfatecraft.icu CNAME .
+*.levfatecraft.icu CNAME .
 levietthanh.info CNAME .
 *.levietthanh.info CNAME .
 levis-jeans.us CNAME .
@@ -65319,6 +65329,8 @@ msse.com CNAME .
 *.msse.com CNAME .
 mssf.com CNAME .
 *.mssf.com CNAME .
+msssg.com CNAME .
+*.msssg.com CNAME .
 mstylee.com CNAME .
 *.mstylee.com CNAME .
 msucougar.org CNAME .
@@ -85159,6 +85171,8 @@ sheep.poisedtoshrike.com CNAME .
 *.sheep.poisedtoshrike.com CNAME .
 sheepxme.com CNAME .
 *.sheepxme.com CNAME .
+shehermail.com CNAME .
+*.shehermail.com CNAME .
 sheiji.fun CNAME .
 *.sheiji.fun CNAME .
 sheilamarcia.art CNAME .
@@ -89745,6 +89759,8 @@ support.tryhelps.click CNAME .
 *.support.tryhelps.click CNAME .
 support.tryhike.click CNAME .
 *.support.tryhike.click CNAME .
+support.trytravel.click CNAME .
+*.support.trytravel.click CNAME .
 support.turnon.click CNAME .
 *.support.turnon.click CNAME .
 support1.opensupports.click CNAME .
