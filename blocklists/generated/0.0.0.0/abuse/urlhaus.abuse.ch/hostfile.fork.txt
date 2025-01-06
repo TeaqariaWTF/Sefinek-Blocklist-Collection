@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-06 06:27:06 (UTC)                      #
+# Last updated: 2025-01-06 08:23:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -38,6 +38,7 @@
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.information-coinbase.com
@@ -53,15 +54,14 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogorious.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 cajgtus.com
 0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 cbcvbc123b.com
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 chinaapper.com
@@ -133,7 +133,6 @@
 0.0.0.0 gawx.florenda.com
 0.0.0.0 ger.khoffnonly.ru
 0.0.0.0 gokujoutabi.com
-0.0.0.0 goodlabel.cn
 0.0.0.0 grand-bat-mtdx.team-a6ac382cc0e44c428-eb5e292be6164a0f8bd4220d63e7b0f9.dv0.io
 0.0.0.0 grupobramam.com.br
 0.0.0.0 grupodulcemar.pe
@@ -177,9 +176,9 @@
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
 0.0.0.0 le.codingdrunk.in
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
 0.0.0.0 livetrack.in
 0.0.0.0 lnterrac-ca.rebateit.net
@@ -202,6 +201,7 @@
 0.0.0.0 microffice-fs-1.xyz
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
+0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 mights.net
 0.0.0.0 mingleyou.top
@@ -231,11 +231,10 @@
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
-0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
-0.0.0.0 osecweb.ir
 0.0.0.0 ot-fs-1.xyz
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
@@ -272,7 +271,6 @@
 0.0.0.0 sarahwillemart.com
 0.0.0.0 scan-echo.online
 0.0.0.0 schytcdagl.com
-0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
@@ -307,7 +305,6 @@
 0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
 0.0.0.0 taytrin.com
-0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -316,14 +313,15 @@
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
 0.0.0.0 tojaubec.shop
+0.0.0.0 tokospoccket.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
-0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 twizt.net
+0.0.0.0 up.maolaoban.top
 0.0.0.0 update-appstore.com
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
@@ -337,6 +335,7 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
+0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 webdisk.kasihcommunityschool.sch.id
 0.0.0.0 webmail.kasihcommunityschool.sch.id
@@ -370,6 +369,8 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
+0.0.0.0 www.speak-a-message.com
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
@@ -385,7 +386,6 @@
 0.0.0.0 xanaxspoofer.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xiangtanjk.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
