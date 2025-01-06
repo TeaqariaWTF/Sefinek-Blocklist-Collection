@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-06 14:12:09 (UTC)                      #
+# Last updated: 2025-01-06 16:24:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -18,7 +18,6 @@ server=/abissnet.net/
 server=/aboverlangerung.com/
 server=/academy-112.ladinomusic.com/
 server=/acheminement-suivis.fr/
-server=/admin.aishangzhua.com/
 server=/admin.netnonews.net/
 server=/adresse-confirmation.com/
 server=/advanced-ipscanner.com/
@@ -97,7 +96,7 @@ server=/dienstmyhermes.de/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/djhyzhicai.com/
-server=/dl.aginjector.com/
+server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
@@ -167,6 +166,7 @@ server=/jointings.org/
 server=/jpavuluri.com/
 server=/jrqh-hk.com/
 server=/jujuju.lat/
+server=/karer.by/
 server=/karoonpc.com/
 server=/kasihcommunityschool.sch.id/
 server=/keyser-api.eu/
@@ -189,12 +189,10 @@ server=/lol.theeyefirewall.su/
 server=/lostheaven.com.cn/
 server=/lsks.volamngayxua.net/
 server=/ltitd.slot.buyaiphoneonline.com/
-server=/lwaziacademy.com/
 server=/m.gutousoft.com/
 server=/maciejowice.dobrybip.pl/
 server=/mail.coalexportaction.org/
 server=/mail.kasihcommunityschool.sch.id/
-server=/maisonetcites.fr/
 server=/mandarin.net.au/
 server=/masclauxtoitures.fr/
 server=/mbsngradnja.com/
@@ -285,7 +283,6 @@ server=/shell.dimitrimedia.com/
 server=/shqdown.ggzuhao.com/
 server=/simit-pagos.co/
 server=/sinupakk.net/
-server=/sirault.be/
 server=/soccerimg.com/
 server=/soft.110route.com/
 server=/softcatalog.ru/
@@ -368,13 +365,13 @@ server=/www.kasihcommunityschool.sch.id/
 server=/www.lovlypets.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
+server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.playchees.com/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
 server=/www.rgueapp.com/
 server=/www.speak-a-message.com/
-server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.support-info-colis.com/
@@ -385,13 +382,11 @@ server=/www.witrin.hu/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
-server=/wynecare.com/
 server=/wz.3911.com/
 server=/xanaxspoofer.com/
 server=/xiangshunjy.com/
 server=/xiangtanjk.com/
 server=/ximonite.com/
-server=/xingpai.weilay.com.cn/
 server=/xn--ameli--niveau-sms-tob.com/
 server=/xn--espace-vitale--jours-sms-87b.com/
 server=/xn--espace-vitale--niveau-sms-zbc.com/
@@ -404,4 +399,4 @@ server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
 server=/zoamaster.com/
 server=/zontricks.com/
-# Number of entries: 398
+# Number of entries: 393
