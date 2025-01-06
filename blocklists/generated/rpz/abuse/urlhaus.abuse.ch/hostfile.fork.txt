@@ -65,6 +65,8 @@ api.accueil-coinbase.com CNAME .
 *.api.accueil-coinbase.com CNAME .
 api.aide-coinbase.com CNAME .
 *.api.aide-coinbase.com CNAME .
+api.co-operativefinance.com CNAME .
+*.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
@@ -111,6 +113,8 @@ blogorious.com CNAME .
 *.blogorious.com CNAME .
 buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
+cajgtus.com CNAME .
+*.cajgtus.com CNAME .
 catbaparadisehotel.com.vn CNAME .
 *.catbaparadisehotel.com.vn CNAME .
 cdaonline.com.ar CNAME .
@@ -555,6 +559,8 @@ servvital.com CNAME .
 *.servvital.com CNAME .
 sfa.com.ar CNAME .
 *.sfa.com.ar CNAME .
+shell.dimitrimedia.com CNAME .
+*.shell.dimitrimedia.com CNAME .
 shqdown.ggzuhao.com CNAME .
 *.shqdown.ggzuhao.com CNAME .
 simit-pagos.co CNAME .
@@ -673,8 +679,6 @@ utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
 utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
-utorrent-servers.xyz CNAME .
-*.utorrent-servers.xyz CNAME .
 valseg.com.br CNAME .
 *.valseg.com.br CNAME .
 webdisk.kasihcommunityschool.sch.id CNAME .
