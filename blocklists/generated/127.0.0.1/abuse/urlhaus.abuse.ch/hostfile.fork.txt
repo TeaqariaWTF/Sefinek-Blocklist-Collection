@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-06 08:23:08 (UTC)                      #
+# Last updated: 2025-01-06 10:22:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 139520.aioc.qbgxl.com
-127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 912648.aioc.qbgxl.com
@@ -23,7 +22,6 @@
 127.0.0.1 advanced-ipscanner.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
-127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
 127.0.0.1 aide-acheminement-info.com
 127.0.0.1 airhobi.com
@@ -54,6 +52,7 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
+127.0.0.1 avastpx.com
 127.0.0.1 banthis.su
 127.0.0.1 benvixa.com
 127.0.0.1 bethelkwabenya.org
@@ -85,7 +84,6 @@
 127.0.0.1 cpcontacts.kasihcommunityschool.sch.id
 127.0.0.1 cpofficial.com
 127.0.0.1 credovsnra.com
-127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dazhongyao.com
@@ -104,10 +102,10 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
-127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
+127.0.0.1 download.haozip.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 dtor-fs-1.xyz
@@ -117,6 +115,7 @@
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 energy-112-connect.heavenandearthenergy.com
 127.0.0.1 eoufaoeuhoauengi.su
+127.0.0.1 epanpano.com
 127.0.0.1 espacesantefr-assurance.com
 127.0.0.1 et-fs-1.xyz
 127.0.0.1 extranet-captcha.com
@@ -138,17 +137,15 @@
 127.0.0.1 grupodulcemar.pe
 127.0.0.1 guichet-bpost.com
 127.0.0.1 hacker.kygtps.live
-127.0.0.1 hailcocks.ru
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
 127.0.0.1 hostmaster.admin.netnonews.net
+127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
 127.0.0.1 ilander.life
-127.0.0.1 imtoken8.cc
 127.0.0.1 info-paiement-ligne.com
 127.0.0.1 infomsghub.com
 127.0.0.1 information-binance.com
@@ -185,8 +182,8 @@
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lol.theeyefirewall.su
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 ltitd.slot.buyaiphoneonline.com
-127.0.0.1 lwaziacademy.com
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 mail.coalexportaction.org
@@ -231,14 +228,15 @@
 127.0.0.1 new-consigne-sms-track.com
 127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
+127.0.0.1 ojang.pe.kr
 127.0.0.1 organisme-renouvellement.com
+127.0.0.1 osecweb.ir
 127.0.0.1 ot-fs-1.xyz
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
 127.0.0.1 passagetoeastafrica.com
 127.0.0.1 pb.agnt.ru
-127.0.0.1 perfectperu.com
 127.0.0.1 peritably.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
@@ -249,6 +247,7 @@
 127.0.0.1 ppt-fs-1.xyz
 127.0.0.1 protechasia.com
 127.0.0.1 qdhaoge.com
+127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanly.jxmienphi.net
@@ -277,7 +276,6 @@
 127.0.0.1 servvital.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
-127.0.0.1 shqdown.ggzuhao.com
 127.0.0.1 simit-pagos.co
 127.0.0.1 sinupakk.net
 127.0.0.1 sirault.be
@@ -305,7 +303,9 @@
 127.0.0.1 tao977.com
 127.0.0.1 taodianla.com
 127.0.0.1 taytrin.com
+127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
+127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 test.molex.cloud
@@ -319,6 +319,7 @@
 127.0.0.1 tracking-suivie.com
 127.0.0.1 trackpacking-ups.com
 127.0.0.1 traefik-dashboard.val.io.vn
+127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 tricazo.com
 127.0.0.1 twizt.net
 127.0.0.1 up.maolaoban.top
@@ -335,7 +336,6 @@
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
-127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 webdisk.kasihcommunityschool.sch.id
 127.0.0.1 webmail.kasihcommunityschool.sch.id
@@ -348,7 +348,6 @@
 127.0.0.1 wt-tmp-1.top
 127.0.0.1 www.alaqalezdehar.com
 127.0.0.1 www.aqianniao.com
-127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chrismccaw.net
@@ -361,7 +360,6 @@
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.kasihcommunityschool.sch.id
 127.0.0.1 www.lovlypets.com
-127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
@@ -386,6 +384,7 @@
 127.0.0.1 xanaxspoofer.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 xiangtanjk.com
+127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
@@ -399,4 +398,4 @@
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
-# Number of entries: 393
+# Number of entries: 392

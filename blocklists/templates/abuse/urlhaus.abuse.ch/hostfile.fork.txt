@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-06 08:23:08 (UTC)                      #
+# Last updated: 2025-01-06 10:22:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 139520.aioc.qbgxl.com
-0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
@@ -23,7 +22,6 @@
 0.0.0.0 advanced-ipscanner.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
-0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
@@ -54,6 +52,7 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
@@ -85,7 +84,6 @@
 0.0.0.0 cpcontacts.kasihcommunityschool.sch.id
 0.0.0.0 cpofficial.com
 0.0.0.0 credovsnra.com
-0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
@@ -104,10 +102,10 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
-0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
+0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dtor-fs-1.xyz
@@ -117,6 +115,7 @@
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 energy-112-connect.heavenandearthenergy.com
 0.0.0.0 eoufaoeuhoauengi.su
+0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
 0.0.0.0 et-fs-1.xyz
 0.0.0.0 extranet-captcha.com
@@ -138,17 +137,15 @@
 0.0.0.0 grupodulcemar.pe
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hacker.kygtps.live
-0.0.0.0 hailcocks.ru
 0.0.0.0 hhynetwork.com
 0.0.0.0 hitman-pro.ru
-0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hostmaster.admin.netnonews.net
+0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 ilander.life
-0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 infomsghub.com
 0.0.0.0 information-binance.com
@@ -185,8 +182,8 @@
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lol.theeyefirewall.su
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 ltitd.slot.buyaiphoneonline.com
-0.0.0.0 lwaziacademy.com
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mail.coalexportaction.org
@@ -231,14 +228,15 @@
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
+0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
+0.0.0.0 osecweb.ir
 0.0.0.0 ot-fs-1.xyz
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
-0.0.0.0 perfectperu.com
 0.0.0.0 peritably.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
@@ -249,6 +247,7 @@
 0.0.0.0 ppt-fs-1.xyz
 0.0.0.0 protechasia.com
 0.0.0.0 qdhaoge.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
@@ -277,7 +276,6 @@
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
@@ -305,7 +303,9 @@
 0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
 0.0.0.0 taytrin.com
+0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.molex.cloud
@@ -319,6 +319,7 @@
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 twizt.net
 0.0.0.0 up.maolaoban.top
@@ -335,7 +336,6 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 webdisk.kasihcommunityschool.sch.id
 0.0.0.0 webmail.kasihcommunityschool.sch.id
@@ -348,7 +348,6 @@
 0.0.0.0 wt-tmp-1.top
 0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chrismccaw.net
@@ -361,7 +360,6 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kasihcommunityschool.sch.id
 0.0.0.0 www.lovlypets.com
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -386,6 +384,7 @@
 0.0.0.0 xanaxspoofer.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xiangtanjk.com
+0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
@@ -399,4 +398,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 393
+# Number of entries: 392
