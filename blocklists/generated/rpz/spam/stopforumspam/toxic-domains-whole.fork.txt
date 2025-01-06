@@ -18315,6 +18315,8 @@ business.getflip.click CNAME .
 *.business.getflip.click CNAME .
 business.meetflip.click CNAME .
 *.business.meetflip.click CNAME .
+business.opencaper.click CNAME .
+*.business.opencaper.click CNAME .
 businessaddress.rent CNAME .
 *.businessaddress.rent CNAME .
 businessagent.email CNAME .
@@ -43283,6 +43285,8 @@ guidance.getcaper.click CNAME .
 *.guidance.getcaper.click CNAME .
 guidance.getturnon.click CNAME .
 *.guidance.getturnon.click CNAME .
+guidance.meettravel.click CNAME .
+*.guidance.meettravel.click CNAME .
 guidance.openinvestmentapp.com CNAME .
 *.guidance.openinvestmentapp.com CNAME .
 guidance.turnonhub.click CNAME .
