@@ -1,8 +1,6 @@
 $TTL 300
 @ SOA localhost. root.localhost. 2025010601 43200 3600 259200 300
   NS  localhost.
-123.ywxww.net CNAME .
-*.123.ywxww.net CNAME .
 139520.aioc.qbgxl.com CNAME .
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
@@ -67,8 +65,6 @@ api.aide-coinbase.com CNAME .
 *.api.aide-coinbase.com CNAME .
 api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
-api.ewfiles.net CNAME .
-*.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
 *.api.hostize.com CNAME .
 api.information-binance.com CNAME .
@@ -209,8 +205,6 @@ download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
-download.haozip.com CNAME .
-*.download.haozip.com CNAME .
 download.suxiazai.com CNAME .
 *.download.suxiazai.com CNAME .
 downsexv.com CNAME .
@@ -229,12 +223,12 @@ energy-112-connect.heavenandearthenergy.com CNAME .
 *.energy-112-connect.heavenandearthenergy.com CNAME .
 eoufaoeuhoauengi.su CNAME .
 *.eoufaoeuhoauengi.su CNAME .
-epanpano.com CNAME .
-*.epanpano.com CNAME .
 espacesantefr-assurance.com CNAME .
 *.espacesantefr-assurance.com CNAME .
 et-fs-1.xyz CNAME .
 *.et-fs-1.xyz CNAME .
+extranet-captcha.com CNAME .
+*.extranet-captcha.com CNAME .
 f2pverifynow.com CNAME .
 *.f2pverifynow.com CNAME .
 fexe-tmp-1.top CNAME .
@@ -249,8 +243,6 @@ fizeteselutasitva.com CNAME .
 *.fizeteselutasitva.com CNAME .
 formulaire-sociale.com CNAME .
 *.formulaire-sociale.com CNAME .
-ftp.ywxww.net CNAME .
-*.ftp.ywxww.net CNAME .
 funletters.net CNAME .
 *.funletters.net CNAME .
 furryporn.top CNAME .
@@ -287,8 +279,6 @@ hntngln1.com CNAME .
 *.hntngln1.com CNAME .
 hostmaster.admin.netnonews.net CNAME .
 *.hostmaster.admin.netnonews.net CNAME .
-hr2019.vrcom7.com CNAME .
-*.hr2019.vrcom7.com CNAME .
 hseda.com CNAME .
 *.hseda.com CNAME .
 huyanhnongdo.io.vn CNAME .
@@ -311,6 +301,8 @@ informations-colissimo.com CNAME .
 *.informations-colissimo.com CNAME .
 informationversand.com CNAME .
 *.informationversand.com CNAME .
+ini.sh-pp.com CNAME .
+*.ini.sh-pp.com CNAME .
 inspirepk.org CNAME .
 *.inspirepk.org CNAME .
 jaffarkhan.com CNAME .
@@ -355,6 +347,8 @@ library.arihantmbainstitute.ac.in CNAME .
 *.library.arihantmbainstitute.ac.in CNAME .
 lieferdienste-deutsche.com CNAME .
 *.lieferdienste-deutsche.com CNAME .
+lindnerelektroanlagen.de CNAME .
+*.lindnerelektroanlagen.de CNAME .
 live-sendungsverfolgung.com CNAME .
 *.live-sendungsverfolgung.com CNAME .
 livetrack.in CNAME .
@@ -367,8 +361,6 @@ lol.theeyefirewall.su CNAME .
 *.lol.theeyefirewall.su CNAME .
 lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
-lsks.volamngayxua.net CNAME .
-*.lsks.volamngayxua.net CNAME .
 ltitd.slot.buyaiphoneonline.com CNAME .
 *.ltitd.slot.buyaiphoneonline.com CNAME .
 lwaziacademy.com CNAME .
@@ -401,8 +393,6 @@ microprocessorbook.com CNAME .
 *.microprocessorbook.com CNAME .
 microprocessordesignbook.com CNAME .
 *.microprocessordesignbook.com CNAME .
-microsoft-analyse.com CNAME .
-*.microsoft-analyse.com CNAME .
 microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
 mights.net CNAME .
@@ -499,8 +489,6 @@ protechasia.com CNAME .
 *.protechasia.com CNAME .
 qdhaoge.com CNAME .
 *.qdhaoge.com CNAME .
-qiniuyunxz.yxflzs.com CNAME .
-*.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
@@ -619,8 +607,6 @@ tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
 tecunonline.com CNAME .
 *.tecunonline.com CNAME .
-telegramcn.co CNAME .
-*.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
 *.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
