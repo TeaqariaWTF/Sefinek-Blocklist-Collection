@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -11,14 +13,14 @@ $TTL 300
 *.360down7.miiyun.cn CNAME .
 6sz.ru CNAME .
 *.6sz.ru CNAME .
-912648.aioc.qbgxl.com CNAME .
-*.912648.aioc.qbgxl.com CNAME .
 99smoothfm.com CNAME .
 *.99smoothfm.com CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
 aboverlangerung.com CNAME .
 *.aboverlangerung.com CNAME .
+academy-112.ladinomusic.com CNAME .
+*.academy-112.ladinomusic.com CNAME .
 acheminement-suivis.fr CNAME .
 *.acheminement-suivis.fr CNAME .
 adf6.adf6.com CNAME .
@@ -43,8 +45,6 @@ aide-acheminement-info.com CNAME .
 *.aide-acheminement-info.com CNAME .
 airhobi.com CNAME .
 *.airhobi.com CNAME .
-alien-training.com CNAME .
-*.alien-training.com CNAME .
 alondrabowmanjake.com CNAME .
 *.alondrabowmanjake.com CNAME .
 amelcarte.com CNAME .
@@ -73,12 +73,12 @@ api.information-binance.com CNAME .
 *.api.information-binance.com CNAME .
 api.information-coinbase.com CNAME .
 *.api.information-coinbase.com CNAME .
-api.rappel-coinbase.com CNAME .
-*.api.rappel-coinbase.com CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
 assuresform.com CNAME .
 *.assuresform.com CNAME .
+aulist.com CNAME .
+*.aulist.com CNAME .
 avastcxp.com CNAME .
 *.avastcxp.com CNAME .
 avastcxt.com CNAME .
@@ -183,8 +183,6 @@ divvanews.com CNAME .
 *.divvanews.com CNAME .
 djhyzhicai.com CNAME .
 *.djhyzhicai.com CNAME .
-dl.aginjector.com CNAME .
-*.dl.aginjector.com CNAME .
 dl.natgo.cn CNAME .
 *.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
@@ -261,6 +259,8 @@ gokujoutabi.com CNAME .
 *.gokujoutabi.com CNAME .
 grand-bat-mtdx.team-a6ac382cc0e44c428-eb5e292be6164a0f8bd4220d63e7b0f9.dv0.io CNAME .
 *.grand-bat-mtdx.team-a6ac382cc0e44c428-eb5e292be6164a0f8bd4220d63e7b0f9.dv0.io CNAME .
+grupobramam.com.br CNAME .
+*.grupobramam.com.br CNAME .
 guichet-bpost.com CNAME .
 *.guichet-bpost.com CNAME .
 hacker.kygtps.live CNAME .
@@ -299,8 +299,6 @@ informations-colissimo.com CNAME .
 *.informations-colissimo.com CNAME .
 informationversand.com CNAME .
 *.informationversand.com CNAME .
-ini.sh-pp.com CNAME .
-*.ini.sh-pp.com CNAME .
 inspirepk.org CNAME .
 *.inspirepk.org CNAME .
 jaffarkhan.com CNAME .
@@ -389,6 +387,8 @@ microprocessorbook.com CNAME .
 *.microprocessorbook.com CNAME .
 microprocessordesignbook.com CNAME .
 *.microprocessordesignbook.com CNAME .
+microsoft-analyse.com CNAME .
+*.microsoft-analyse.com CNAME .
 microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
 mights.net CNAME .
@@ -527,14 +527,10 @@ security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
 seniorcomc.sslblindado.com CNAME .
 *.seniorcomc.sslblindado.com CNAME .
-ser.nrovn.xyz CNAME .
-*.ser.nrovn.xyz CNAME .
 service-espace-sante.com CNAME .
 *.service-espace-sante.com CNAME .
 servvital.com CNAME .
 *.servvital.com CNAME .
-sfa.com.ar CNAME .
-*.sfa.com.ar CNAME .
 shell.dimitrimedia.com CNAME .
 *.shell.dimitrimedia.com CNAME .
 simit-pagos.co CNAME .
@@ -575,8 +571,6 @@ support.clz.kr CNAME .
 *.support.clz.kr CNAME .
 supportameli.top CNAME .
 *.supportameli.top CNAME .
-t.0000o.xyz CNAME .
-*.t.0000o.xyz CNAME .
 tao025.com CNAME .
 *.tao025.com CNAME .
 tao221.com CNAME .
@@ -597,6 +591,8 @@ tecunonline.com CNAME .
 *.tecunonline.com CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
+temirtau-adm.ru CNAME .
+*.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
 *.tengfeidn.com CNAME .
 thm.slot.buyaiphoneonline.com CNAME .
@@ -731,6 +727,8 @@ wynecare.com CNAME .
 *.wynecare.com CNAME .
 wz.3911.com CNAME .
 *.wz.3911.com CNAME .
+xanaxspoofer.com CNAME .
+*.xanaxspoofer.com CNAME .
 xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 xiangtanjk.com CNAME .

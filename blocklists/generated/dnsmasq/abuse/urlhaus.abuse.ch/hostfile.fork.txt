@@ -1,20 +1,21 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-07 01:39:05 (UTC)                      #
+# Last updated: 2025-01-07 02:54:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
+server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
 server=/2.haory.cn/
 server=/360down7.miiyun.cn/
 server=/6sz.ru/
-server=/912648.aioc.qbgxl.com/
 server=/99smoothfm.com/
 server=/abissnet.net/
 server=/aboverlangerung.com/
+server=/academy-112.ladinomusic.com/
 server=/acheminement-suivis.fr/
 server=/adf6.adf6.com/
 server=/admin.aishangzhua.com/
@@ -27,7 +28,6 @@ server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/aide-acheminement-info.com/
 server=/airhobi.com/
-server=/alien-training.com/
 server=/alondrabowmanjake.com/
 server=/amelcarte.com/
 server=/amende-renouvellement.com/
@@ -42,9 +42,9 @@ server=/api.ewfiles.net/
 server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.information-coinbase.com/
-server=/api.rappel-coinbase.com/
 server=/armanayegh.com/
 server=/assuresform.com/
+server=/aulist.com/
 server=/avastcxp.com/
 server=/avastcxt.com/
 server=/avastexodus.com/
@@ -97,7 +97,6 @@ server=/dienstmyhermes.de/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/djhyzhicai.com/
-server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
@@ -136,6 +135,7 @@ server=/gawx.florenda.com/
 server=/ger.khoffnonly.ru/
 server=/gokujoutabi.com/
 server=/grand-bat-mtdx.team-a6ac382cc0e44c428-eb5e292be6164a0f8bd4220d63e7b0f9.dv0.io/
+server=/grupobramam.com.br/
 server=/guichet-bpost.com/
 server=/hacker.kygtps.live/
 server=/hailcocks.ru/
@@ -155,7 +155,6 @@ server=/information-binance.com/
 server=/information-coinbase.com/
 server=/informations-colissimo.com/
 server=/informationversand.com/
-server=/ini.sh-pp.com/
 server=/inspirepk.org/
 server=/jaffarkhan.com/
 server=/jahez.me/
@@ -200,6 +199,7 @@ server=/mes-demarches-renouvellement.com/
 server=/messiku.com/
 server=/microprocessorbook.com/
 server=/microprocessordesignbook.com/
+server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
 server=/mights.net/
 server=/mingleyou.top/
@@ -269,10 +269,8 @@ server=/scan-echo.online/
 server=/schytcdagl.com/
 server=/security-service-api-link.cc/
 server=/seniorcomc.sslblindado.com/
-server=/ser.nrovn.xyz/
 server=/service-espace-sante.com/
 server=/servvital.com/
-server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/simit-pagos.co/
 server=/simplerwebs.space/
@@ -293,7 +291,6 @@ server=/support-abonnement.com/
 server=/support-colis-info.com/
 server=/support.clz.kr/
 server=/supportameli.top/
-server=/t.0000o.xyz/
 server=/tao025.com/
 server=/tao221.com/
 server=/tao816.com/
@@ -304,6 +301,7 @@ server=/taytrin.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/telegramcn.co/
+server=/temirtau-adm.ru/
 server=/tengfeidn.com/
 server=/thm.slot.buyaiphoneonline.com/
 server=/tianyinsoft.top/
@@ -371,13 +369,13 @@ server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.support-info-colis.com/
 server=/www.tdejb.com/
-server=/www.tecunonline.com/
 server=/www.webaap2.site/
 server=/www.witrin.hu/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/wynecare.com/
 server=/wz.3911.com/
+server=/xanaxspoofer.com/
 server=/xiangshunjy.com/
 server=/xiangtanjk.com/
 server=/ximonite.com/
@@ -394,4 +392,4 @@ server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
 server=/zoamaster.com/
 server=/zontricks.com/
-# Number of entries: 388
+# Number of entries: 386
