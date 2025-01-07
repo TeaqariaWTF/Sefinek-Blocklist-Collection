@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
@@ -171,10 +169,10 @@ deauduafzgezzfgm.top CNAME .
 *.deauduafzgezzfgm.top CNAME .
 device.redirec.com CNAME .
 *.device.redirec.com CNAME .
+dhnconstrucciones.com.ar CNAME .
+*.dhnconstrucciones.com.ar CNAME .
 dienstmyhermes.de CNAME .
 *.dienstmyhermes.de CNAME .
-disk.accord1key.cn CNAME .
-*.disk.accord1key.cn CNAME .
 divvanews.com CNAME .
 *.divvanews.com CNAME .
 djhyzhicai.com CNAME .
@@ -195,10 +193,6 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
-down.pcclear.com CNAME .
-*.down.pcclear.com CNAME .
-down.qqfarmer.com.cn CNAME .
-*.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
@@ -269,8 +263,8 @@ hhynetwork.com CNAME .
 *.hhynetwork.com CNAME .
 hitman-pro.ru CNAME .
 *.hitman-pro.ru CNAME .
-hitstation.nl CNAME .
-*.hitstation.nl CNAME .
+hntngln1.com CNAME .
+*.hntngln1.com CNAME .
 hostmaster.admin.netnonews.net CNAME .
 *.hostmaster.admin.netnonews.net CNAME .
 hr2019.vrcom7.com CNAME .
@@ -385,6 +379,8 @@ microprocessorbook.com CNAME .
 *.microprocessorbook.com CNAME .
 microprocessordesignbook.com CNAME .
 *.microprocessordesignbook.com CNAME .
+microsoft-analyse.com CNAME .
+*.microsoft-analyse.com CNAME .
 microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
 mights.net CNAME .
@@ -399,6 +395,8 @@ minupakk.net CNAME .
 *.minupakk.net CNAME .
 mirrorscharact.com CNAME .
 *.mirrorscharact.com CNAME .
+misljen.net CNAME .
+*.misljen.net CNAME .
 mississippistemacademy.org CNAME .
 *.mississippistemacademy.org CNAME .
 mitgpssms.com CNAME .
@@ -449,8 +447,6 @@ osecweb.ir CNAME .
 *.osecweb.ir CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
-paonancs.cn CNAME .
-*.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 pb.agnt.ru CNAME .
@@ -477,8 +473,6 @@ qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
-qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
-*.qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
 quanly.jxmienphi.net CNAME .
 *.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
@@ -551,8 +545,6 @@ softcatalog.ru CNAME .
 *.softcatalog.ru CNAME .
 soportegira.net CNAME .
 *.soportegira.net CNAME .
-spaceframe.mobi.space-frame.co.za CNAME .
-*.spaceframe.mobi.space-frame.co.za CNAME .
 sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
 sqfmp.slot.buyaiphoneonline.com CNAME .
@@ -561,8 +553,6 @@ src1.minibai.com CNAME .
 *.src1.minibai.com CNAME .
 ssertaria.com CNAME .
 *.ssertaria.com CNAME .
-stdown.dinju.com CNAME .
-*.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 studioq202.com CNAME .
@@ -597,8 +587,6 @@ tecunonline.com CNAME .
 *.tecunonline.com CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
-temirtau-adm.ru CNAME .
-*.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
 *.tengfeidn.com CNAME .
 thm.slot.buyaiphoneonline.com CNAME .
@@ -637,8 +625,6 @@ update-appstore.com CNAME .
 *.update-appstore.com CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
-update.vlnguba.com CNAME .
-*.update.vlnguba.com CNAME .
 update.volam2005pk.com CNAME .
 *.update.volam2005pk.com CNAME .
 updateinfo-portal.com CNAME .
@@ -659,6 +645,8 @@ utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
 utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
+utorrent-servers.xyz CNAME .
+*.utorrent-servers.xyz CNAME .
 valseg.com.br CNAME .
 *.valseg.com.br CNAME .
 webdisk.kasihcommunityschool.sch.id CNAME .
@@ -715,18 +703,20 @@ speak-a-message.com CNAME .
 *.speak-a-message.com CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
+sumiyuki.co.jp CNAME .
+*.sumiyuki.co.jp CNAME .
 support-info-colis.com CNAME .
 *.support-info-colis.com CNAME .
 tdejb.com CNAME .
 *.tdejb.com CNAME .
-webaap2.site CNAME .
-*.webaap2.site CNAME .
 witrin.hu CNAME .
 *.witrin.hu CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
+zhikey.com CNAME .
+*.zhikey.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
 wz.3911.com CNAME .
