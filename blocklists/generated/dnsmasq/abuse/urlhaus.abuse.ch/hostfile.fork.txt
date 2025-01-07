@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-07 06:21:04 (UTC)                      #
+# Last updated: 2025-01-07 08:24:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@ server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
 server=/2.haory.cn/
 server=/6sz.ru/
+server=/912648.aioc.qbgxl.com/
 server=/99smoothfm.com/
 server=/abissnet.net/
 server=/aboverlangerung.com/
@@ -42,6 +43,7 @@ server=/api.ewfiles.net/
 server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.information-coinbase.com/
+server=/api.rappel-coinbase.com/
 server=/armanayegh.com/
 server=/assuresform.com/
 server=/aulist.com/
@@ -59,6 +61,7 @@ server=/benvixa.com/
 server=/bethelkwabenya.org/
 server=/bitkiselurunsiparis.com/
 server=/blogorious.com/
+server=/botnet.sharkcdn.net/
 server=/buscascolegios.diit.cl/
 server=/catbaparadisehotel.com.vn/
 server=/cbcvbc123b.com/
@@ -98,7 +101,6 @@ server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/djhyzhicai.com/
 server=/dl.aginjector.com/
-server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
@@ -165,6 +167,7 @@ server=/javierlopez.eu/
 server=/jobcity.com/
 server=/jointings.org/
 server=/jpavuluri.com/
+server=/jrqh-hk.com/
 server=/jujuju.lat/
 server=/karer.by/
 server=/karoonpc.com/
@@ -225,7 +228,6 @@ server=/myhermes-versand.net/
 server=/mypackagingups.com/
 server=/mystartherehosting.net/
 server=/nabawitransport.com/
-server=/namthaibinh.net/
 server=/netnonews.net/
 server=/never.netnonews.net/
 server=/new-consigne-sms-track.com/
@@ -363,12 +365,12 @@ server=/www.lovlypets.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.ojang.pe.kr/
-server=/www.opolis.io/
 server=/www.playchees.com/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
 server=/www.rgueapp.com/
 server=/www.speak-a-message.com/
+server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.sumiyuki.co.jp/
 server=/www.support-info-colis.com/
@@ -392,6 +394,7 @@ server=/xn--yh4bx88a.com/
 server=/yaocanting.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
+server=/znrq.zifwxq.cn/
 server=/zoamaster.com/
 server=/zontricks.com/
-# Number of entries: 388
+# Number of entries: 391
