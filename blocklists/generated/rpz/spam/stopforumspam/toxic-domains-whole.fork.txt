@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025010601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025010701 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -13223,6 +13223,8 @@ bcnwalk.com CNAME .
 *.bcnwalk.com CNAME .
 bcodes.site CNAME .
 *.bcodes.site CNAME .
+bcooq.com CNAME .
+*.bcooq.com CNAME .
 bcpetro.com CNAME .
 *.bcpetro.com CNAME .
 bcpfm.com CNAME .
@@ -23733,6 +23735,8 @@ comfort.getturnon.click CNAME .
 *.comfort.getturnon.click CNAME .
 comfort.losebalance.click CNAME .
 *.comfort.losebalance.click CNAME .
+comfort.meettravel.click CNAME .
+*.comfort.meettravel.click CNAME .
 comfort.openinvestmentapp.com CNAME .
 *.comfort.openinvestmentapp.com CNAME .
 comfort.runlightly.click CNAME .
