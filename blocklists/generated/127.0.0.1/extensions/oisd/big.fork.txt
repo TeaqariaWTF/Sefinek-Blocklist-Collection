@@ -1,9 +1,9 @@
-# Version: 202501070408
+# Version: 202501070608
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 123533
-# Last modified: 2025-01-07T04:08:24+0000
+! Entries: 123498
+# Last modified: 2025-01-07T06:08:58+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1166,6 +1166,7 @@
 127.0.0.1 192.sub-75-192-44.myvzw.com
 127.0.0.1 192.sub-75-222-41.myvzw.com
 127.0.0.1 192com.112.2o7.net
+127.0.0.1 193-143-1-211.plesk.page
 127.0.0.1 193.red-88-30-29.staticip.rima-tde.net
 127.0.0.1 193.red-88-31-36.staticip.rima-tde.net
 127.0.0.1 193.sub-75-197-208.myvzw.com
@@ -1957,7 +1958,6 @@
 127.0.0.1 27gmail.com
 127.0.0.1 27igqr8b.de
 127.0.0.1 27simn888.com
-127.0.0.1 27yu.com
 127.0.0.1 281m73.hbg.hebdenbridgedental.co.uk
 127.0.0.1 2841137bfa.92afa3840a.com
 127.0.0.1 2843b4bf95.com
@@ -6118,7 +6118,6 @@
 127.0.0.1 abonnementpermissiveenliven.com
 127.0.0.1 aboreda.linkpc.net
 127.0.0.1 aboriginaldisturbthirty.com
-127.0.0.1 aboriginalkyv.click
 127.0.0.1 aboriginesprimary.com
 127.0.0.1 abortionspillonline.com
 127.0.0.1 abosc.com.br
@@ -23646,7 +23645,6 @@
 127.0.0.1 browserplugin.duckdns.org
 127.0.0.1 browserprotecter.com
 127.0.0.1 browserr.top
-127.0.0.1 browsers.dn.ua
 127.0.0.1 browsers.support
 127.0.0.1 browsersjsfiles.com
 127.0.0.1 browserwise.com
@@ -28215,7 +28213,6 @@
 127.0.0.1 circuitingratitude.com
 127.0.0.1 circulationnauseagrandeur.com
 127.0.0.1 circumstanceshurdleflatter.com
-127.0.0.1 circumstantialplatoon.com
 127.0.0.1 circusinjunctionarrangement.com
 127.0.0.1 cirrateremord.com
 127.0.0.1 cirriere.it
@@ -29054,7 +29051,6 @@
 127.0.0.1 cloudcreative.digital
 127.0.0.1 cloudcrown.com
 127.0.0.1 clouderrorreporting.googleapis.com
-127.0.0.1 cloudewahsj.shop
 127.0.0.1 cloudexperiencehost.com
 127.0.0.1 cloudfiles-secure-g0v.su
 127.0.0.1 cloudfilesharingdomainurllinksys.duckdns.org
@@ -29746,7 +29742,6 @@
 127.0.0.1 colhickcommend.com
 127.0.0.1 coli-track.fr
 127.0.0.1 coliassfeurytheme.com
-127.0.0.1 colinscaravans.com
 127.0.0.1 colis-chrono-post.fr
 127.0.0.1 colis-laposte.fr
 127.0.0.1 colis-pickup.fr
@@ -31855,7 +31850,6 @@
 127.0.0.1 crackedscripts.com
 127.0.0.1 crackedsofts.info
 127.0.0.1 crackelite.com
-127.0.0.1 crackerdolk.click
 127.0.0.1 crackeur.com
 127.0.0.1 crackfulldownload.com
 127.0.0.1 crackfullpc.com
@@ -32182,7 +32176,6 @@
 127.0.0.1 cribbewildered.com
 127.0.0.1 cribonvinvir.luminisconsultoria.io
 127.0.0.1 crickkhabar.com
-127.0.0.1 cricline.co.in
 127.0.0.1 crido.ru
 127.0.0.1 criesstarch.com
 127.0.0.1 crifer.supervisaoadministrativa.associates
@@ -32455,7 +32448,6 @@
 127.0.0.1 cryptofaze.com
 127.0.0.1 cryptoforhealth.com
 127.0.0.1 cryptogalaxius.fr
-127.0.0.1 cryptoinsidenews.com
 127.0.0.1 cryptojimmy.care
 127.0.0.1 cryptokitties.com
 127.0.0.1 cryptokoinz.com
@@ -32600,7 +32592,6 @@
 127.0.0.1 cstatic.weborama.fr
 127.0.0.1 cstats.sankakucomplex.com
 127.0.0.1 cstm.baidu.com
-127.0.0.1 cstoa.com
 127.0.0.1 cstrespsurvey.ca
 127.0.0.1 csvd.ru
 127.0.0.1 cswilliamsburg.com
@@ -32939,7 +32930,6 @@
 127.0.0.1 cvietcombank.com
 127.0.0.1 cviezjsg.com
 127.0.0.1 cvinetwork.org
-127.0.0.1 cvix.live
 127.0.0.1 cvk.supklik.com
 127.0.0.1 cvmuia.xyz
 127.0.0.1 cvmuser.serv00.net
@@ -35132,7 +35122,6 @@
 127.0.0.1 dbankswx.beget.tech
 127.0.0.1 dbasopma.biz
 127.0.0.1 dbasopma.click
-127.0.0.1 dbasopma.me
 127.0.0.1 dbbsrv.com
 127.0.0.1 dbc16ca4a8.1c0451188d.com
 127.0.0.1 dbcdqp72lzmvj.cloudfront.net
@@ -38294,7 +38283,6 @@
 127.0.0.1 dominoduck2109.duckdns.org
 127.0.0.1 dominoduck2114.duckdns.org
 127.0.0.1 dominoduck2118.duckdns.org
-127.0.0.1 dominoduck2121.duckdns.org
 127.0.0.1 domipush.com
 127.0.0.1 domkinawyspie.nspace.pl
 127.0.0.1 domkrat.com
@@ -45090,7 +45078,6 @@
 127.0.0.1 festerbutor.hu
 127.0.0.1 festereasiness.link
 127.0.0.1 festivaldescons.fr
-127.0.0.1 festive-chebyshev.193-143-1-211.plesk.page
 127.0.0.1 festoch.fr
 127.0.0.1 festtube.com
 127.0.0.1 festusaccess1111.wapka.mobi
@@ -60837,7 +60824,6 @@
 127.0.0.1 jl63v3fp1.com
 127.0.0.1 jlaabpmergjoflssyg.com
 127.0.0.1 jlk-comercial.com
-127.0.0.1 jlken.duckdns.org
 127.0.0.1 jlkja.com
 127.0.0.1 jlkywkj.com
 127.0.0.1 jlosuiq.cn
@@ -63298,7 +63284,6 @@
 127.0.0.1 konimkan.com
 127.0.0.1 konmm.com
 127.0.0.1 konradsheriff.com
-127.0.0.1 konsagrada.com
 127.0.0.1 konsultacii-advokata.ru
 127.0.0.1 konsultacija.lv
 127.0.0.1 kontakt-centr.ru
@@ -63525,7 +63510,6 @@
 127.0.0.1 ksew.kpt-gov.org
 127.0.0.1 ksew.org
 127.0.0.1 ksg-hetschbach.de
-127.0.0.1 ksgsldd7.beget.tech
 127.0.0.1 kshacker.ddns.net
 127.0.0.1 kshop2.biz
 127.0.0.1 kshop3.biz
@@ -63792,7 +63776,6 @@
 127.0.0.1 kyliebates.com
 127.0.0.1 kymahuxv.xyz
 127.0.0.1 kymail.us
-127.0.0.1 kymev.com
 127.0.0.1 kymirasite.pro
 127.0.0.1 kymogadget.com
 127.0.0.1 kymviet.vn
@@ -73128,7 +73111,6 @@
 127.0.0.1 model-college.com
 127.0.0.1 model-monitors.gl.at.ply.gg
 127.0.0.1 modelatos.com
-127.0.0.1 modelingfraudulent.com
 127.0.0.1 modellbau-gritsch.at
 127.0.0.1 models-goedkoops.com
 127.0.0.1 modents-diance.com
@@ -74397,7 +74379,6 @@
 127.0.0.1 mulanphone.cn
 127.0.0.1 mulate.eu
 127.0.0.1 mulato.info
-127.0.0.1 mulberrybagsoutlet2uk.com
 127.0.0.1 mulberrydoubloons.com
 127.0.0.1 mulberryresistoverwork.com
 127.0.0.1 mulberrytoss.com
@@ -77126,7 +77107,6 @@
 127.0.0.1 niltutch.com
 127.0.0.1 nim.qiyukf.com
 127.0.0.1 nim.sh
-127.0.0.1 nima.ppra.live
 127.0.0.1 nimbleplot.com
 127.0.0.1 nimhuemark.com
 127.0.0.1 nimimit.de
@@ -79443,7 +79423,6 @@
 127.0.0.1 okwfx.cn
 127.0.0.1 okwkaa.xyz
 127.0.0.1 ol.d123f23f32.ip-ddns.com
-127.0.0.1 ol0e6.com
 127.0.0.1 ol2ewq989.jp
 127.0.0.1 ol7mpyv9avinq4litdv0.maherstcottage.com.au
 127.0.0.1 ola.com
@@ -81358,7 +81337,6 @@
 127.0.0.1 ow5a.net
 127.0.0.1 owa-spamcheck.apl-org.online
 127.0.0.1 owa.agriprim.se
-127.0.0.1 owa.rootkit-ninja.com
 127.0.0.1 owabgxis.wp.pl
 127.0.0.1 owalafrance.fr
 127.0.0.1 owalafranceshop.fr
@@ -81870,7 +81848,6 @@
 127.0.0.1 paiementsecurise-lbc.fr
 127.0.0.1 paiementsecurise-leb0ncoin.fr
 127.0.0.1 paiementsecurises.fr
-127.0.0.1 paiementsecurleboncoin.fr
 127.0.0.1 paiementstreaming.fr
 127.0.0.1 paiena.xyz
 127.0.0.1 paiesage.fr
@@ -88640,7 +88617,6 @@
 127.0.0.1 qqpsp.codesandbox.io
 127.0.0.1 qqpwhge.cn
 127.0.0.1 qqqmy.com
-127.0.0.1 qqqvvvehusys.bond
 127.0.0.1 qqqvvveuislj.bond
 127.0.0.1 qqqvvvvhusll.bond
 127.0.0.1 qqqwes.com
@@ -90861,7 +90837,6 @@
 127.0.0.1 renewvector802.weebly.com
 127.0.0.1 renezuleta.com
 127.0.0.1 renfeprod.112.2o7.net
-127.0.0.1 renfs.xyz
 127.0.0.1 renhertfo.com
 127.0.0.1 rennhack.de
 127.0.0.1 renodrives.com.br
@@ -92998,7 +92973,6 @@
 127.0.0.1 ruinjan.com
 127.0.0.1 ruinnorthern.com
 127.0.0.1 ruit.tech
-127.0.0.1 ruiyangcn.com
 127.0.0.1 ruizdiaz-sattel.de
 127.0.0.1 rukalebi.ru
 127.0.0.1 rukskijruza.com
@@ -94732,7 +94706,6 @@
 127.0.0.1 scintillatingscissors.com
 127.0.0.1 scintillatingsilver.com
 127.0.0.1 scirakkers.webcindario.com
-127.0.0.1 scirroscus.click
 127.0.0.1 scisloscitenereris.analbanged.com
 127.0.0.1 scisselfungus.com
 127.0.0.1 scissorsstatement.com
@@ -101305,7 +101278,6 @@
 127.0.0.1 staemcomunity.ru
 127.0.0.1 staemconmunity.com
 127.0.0.1 staempowered.com
-127.0.0.1 staenmucexus.skin
 127.0.0.1 staff.plenarykcg.com
 127.0.0.1 staffandfaculty.my-free.website
 127.0.0.1 staffdisgustedducked.com
@@ -102442,7 +102414,6 @@
 127.0.0.1 steamcommumity.com
 127.0.0.1 steamcommumnity.ru
 127.0.0.1 steamcommuneity.ru
-127.0.0.1 steamcommunicty.com
 127.0.0.1 steamcommunidy.com
 127.0.0.1 steamcommunillty.com
 127.0.0.1 steamcommunillty.ru
@@ -104637,7 +104608,6 @@
 127.0.0.1 symbolultrasound.com
 127.0.0.1 symmetrytile.com
 127.0.0.1 symmorybewept.com
-127.0.0.1 symoty.com
 127.0.0.1 sympathetic-frame.com
 127.0.0.1 sympathizecopierautobiography.com
 127.0.0.1 sympathizecrewfrugality.com
@@ -104647,7 +104617,6 @@
 127.0.0.1 sympmsnglobalen.112.2o7.net
 127.0.0.1 sympmsnmusic.112.2o7.net
 127.0.0.1 sympmsnsports.112.2o7.net
-127.0.0.1 symptomaticdryu.click
 127.0.0.1 symptomprominentfirewood.com
 127.0.0.1 symptomslightest.com
 127.0.0.1 syn-172-251-171-170.res.spectrum.com
@@ -104840,7 +104809,6 @@
 127.0.0.1 szkzvqs.com
 127.0.0.1 szlong.weixin.qq.com
 127.0.0.1 szltwl.com
-127.0.0.1 szmgr.cn
 127.0.0.1 szmkr.cn
 127.0.0.1 szmmb.cn
 127.0.0.1 szmnd.cn
@@ -104857,7 +104825,6 @@
 127.0.0.1 szn.services
 127.0.0.1 sznaucer-figa.nd.e-wro.pl
 127.0.0.1 sznj91.com
-127.0.0.1 sznm.com.cn
 127.0.0.1 szpbg.cn
 127.0.0.1 szpjpzi.com
 127.0.0.1 szpk.pl
@@ -107409,7 +107376,6 @@
 127.0.0.1 thx.laurita.org
 127.0.0.1 thxnr.com
 127.0.0.1 thykingdomrecords.com
-127.0.0.1 thyme-emails.com
 127.0.0.1 thymilogium.top
 127.0.0.1 thyobscure.com
 127.0.0.1 thyroidaketon.com
@@ -122776,7 +122742,6 @@
 127.0.0.1 zfood029.com
 127.0.0.1 zfp32.buzz
 127.0.0.1 zfvsnpir-cxx.buzz
-127.0.0.1 zfvtswv.xyz
 127.0.0.1 zfykvns.cn
 127.0.0.1 zg.ns02.biz
 127.0.0.1 zg40c.cn

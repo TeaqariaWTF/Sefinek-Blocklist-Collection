@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-07 04:24:07 (UTC)                      #
+# Last updated: 2025-01-07 06:21:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,7 +10,6 @@
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
-127.0.0.1 360down7.miiyun.cn
 127.0.0.1 6sz.ru
 127.0.0.1 99smoothfm.com
 127.0.0.1 abissnet.net
@@ -61,7 +60,6 @@
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blogorious.com
 127.0.0.1 buscascolegios.diit.cl
-127.0.0.1 cajgtus.com
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cbcvbc123b.com
 127.0.0.1 cdaonline.com.ar
@@ -89,6 +87,7 @@
 127.0.0.1 credovsnra.com
 127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
+127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dazhongyao.com
 127.0.0.1 dcwblida.dz
@@ -166,7 +165,6 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jpavuluri.com
-127.0.0.1 jrqh-hk.com
 127.0.0.1 jujuju.lat
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
@@ -179,7 +177,6 @@
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -251,7 +248,6 @@
 127.0.0.1 point.netnonews.net
 127.0.0.1 protechasia.com
 127.0.0.1 qdhaoge.com
-127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanly.jxmienphi.net
@@ -301,6 +297,7 @@
 127.0.0.1 support-colis-info.com
 127.0.0.1 support.clz.kr
 127.0.0.1 supportameli.top
+127.0.0.1 t.0000o.xyz
 127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
@@ -330,6 +327,7 @@
 127.0.0.1 up.maolaoban.top
 127.0.0.1 update-appstore.com
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 upload.vina-host.com
@@ -339,7 +337,6 @@
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
-127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 webdisk.kasihcommunityschool.sch.id
@@ -361,18 +358,17 @@
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hootech.com
 127.0.0.1 www.hseda.com
-127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.kasihcommunityschool.sch.id
 127.0.0.1 www.lovlypets.com
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
+127.0.0.1 www.opolis.io
 127.0.0.1 www.playchees.com
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rgueapp.com
 127.0.0.1 www.speak-a-message.com
-127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.sumiyuki.co.jp
 127.0.0.1 www.support-info-colis.com
@@ -382,13 +378,11 @@
 127.0.0.1 www.witrin.hu
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
-127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
-127.0.0.1 xanaxspoofer.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 xiangtanjk.com
-127.0.0.1 ximonite.com
+127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
@@ -398,7 +392,6 @@
 127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
-# Number of entries: 395
+# Number of entries: 388
