@@ -9,6 +9,8 @@ $TTL 300
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
 *.2.haory.cn CNAME .
+360down7.miiyun.cn CNAME .
+*.360down7.miiyun.cn CNAME .
 6sz.ru CNAME .
 *.6sz.ru CNAME .
 912648.aioc.qbgxl.com CNAME .
@@ -19,8 +21,6 @@ abissnet.net CNAME .
 *.abissnet.net CNAME .
 aboverlangerung.com CNAME .
 *.aboverlangerung.com CNAME .
-academy-112.ladinomusic.com CNAME .
-*.academy-112.ladinomusic.com CNAME .
 acheminement-suivis.fr CNAME .
 *.acheminement-suivis.fr CNAME .
 adf6.adf6.com CNAME .
@@ -73,8 +73,6 @@ api.hostize.com CNAME .
 *.api.hostize.com CNAME .
 api.information-binance.com CNAME .
 *.api.information-binance.com CNAME .
-api.information-coinbase.com CNAME .
-*.api.information-coinbase.com CNAME .
 api.rappel-coinbase.com CNAME .
 *.api.rappel-coinbase.com CNAME .
 armanayegh.com CNAME .
@@ -139,8 +137,6 @@ coadymarine.com CNAME .
 *.coadymarine.com CNAME .
 coalexportaction.org CNAME .
 *.coalexportaction.org CNAME .
-coinbase.connexion-monwallet.com CNAME .
-*.coinbase.connexion-monwallet.com CNAME .
 com-animus.app CNAME .
 *.com-animus.app CNAME .
 composefull.com CNAME .
@@ -275,8 +271,6 @@ hailcocks.ru CNAME .
 *.hailcocks.ru CNAME .
 hhynetwork.com CNAME .
 *.hhynetwork.com CNAME .
-hitman-pro.ru CNAME .
-*.hitman-pro.ru CNAME .
 hitstation.nl CNAME .
 *.hitstation.nl CNAME .
 hntngln1.com CNAME .
@@ -349,10 +343,10 @@ kypeti.com CNAME .
 *.kypeti.com CNAME .
 lafilledemavie.com CNAME .
 *.lafilledemavie.com CNAME .
+library.arihantmbainstitute.ac.in CNAME .
+*.library.arihantmbainstitute.ac.in CNAME .
 lieferdienste-deutsche.com CNAME .
 *.lieferdienste-deutsche.com CNAME .
-lindnerelektroanlagen.de CNAME .
-*.lindnerelektroanlagen.de CNAME .
 linkvilleplayers.org CNAME .
 *.linkvilleplayers.org CNAME .
 live-sendungsverfolgung.com CNAME .
@@ -443,8 +437,8 @@ mypackagingups.com CNAME .
 *.mypackagingups.com CNAME .
 mystartherehosting.net CNAME .
 *.mystartherehosting.net CNAME .
-nabawitransport.com CNAME .
-*.nabawitransport.com CNAME .
+namthaibinh.net CNAME .
+*.namthaibinh.net CNAME .
 netnonews.net CNAME .
 *.netnonews.net CNAME .
 never.netnonews.net CNAME .
@@ -481,14 +475,14 @@ pilzmacher.com CNAME .
 *.pilzmacher.com CNAME .
 pimmes.com CNAME .
 *.pimmes.com CNAME .
-pns.org.pk CNAME .
-*.pns.org.pk CNAME .
 point.netnonews.net CNAME .
 *.point.netnonews.net CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
 qdhaoge.com CNAME .
 *.qdhaoge.com CNAME .
+qiniuyunxz.yxflzs.com CNAME .
+*.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net CNAME .
@@ -507,6 +501,8 @@ rd.chuitian.cn CNAME .
 *.rd.chuitian.cn CNAME .
 rddissisifigifidi.net CNAME .
 *.rddissisifigifidi.net CNAME .
+re-capcha.cfd CNAME .
+*.re-capcha.cfd CNAME .
 realbenies.com CNAME .
 *.realbenies.com CNAME .
 rebateit.net CNAME .
@@ -543,6 +539,8 @@ service-espace-sante.com CNAME .
 *.service-espace-sante.com CNAME .
 servvital.com CNAME .
 *.servvital.com CNAME .
+sfa.com.ar CNAME .
+*.sfa.com.ar CNAME .
 shell.dimitrimedia.com CNAME .
 *.shell.dimitrimedia.com CNAME .
 shqdown.ggzuhao.com CNAME .
@@ -565,8 +563,6 @@ soportegira.net CNAME .
 *.soportegira.net CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
-sporcketngearforu.com CNAME .
-*.sporcketngearforu.com CNAME .
 sqfmp.slot.buyaiphoneonline.com CNAME .
 *.sqfmp.slot.buyaiphoneonline.com CNAME .
 src1.minibai.com CNAME .
@@ -635,8 +631,6 @@ trackpacking-ups.com CNAME .
 *.trackpacking-ups.com CNAME .
 traefik-dashboard.val.io.vn CNAME .
 *.traefik-dashboard.val.io.vn CNAME .
-treinamento.convenio.to.gov.br CNAME .
-*.treinamento.convenio.to.gov.br CNAME .
 tricazo.com CNAME .
 *.tricazo.com CNAME .
 twizt.net CNAME .
@@ -703,8 +697,6 @@ flechabusretiro.com.ar CNAME .
 *.flechabusretiro.com.ar CNAME .
 globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
-hootech.com CNAME .
-*.hootech.com CNAME .
 lovlypets.com CNAME .
 *.lovlypets.com CNAME .
 maxmoney.com CNAME .
@@ -719,10 +711,10 @@ rgueapp.com CNAME .
 *.rgueapp.com CNAME .
 speak-a-message.com CNAME .
 *.speak-a-message.com CNAME .
+sporcketngearforu.com CNAME .
+*.sporcketngearforu.com CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
-sumiyuki.co.jp CNAME .
-*.sumiyuki.co.jp CNAME .
 support-info-colis.com CNAME .
 *.support-info-colis.com CNAME .
 tdejb.com CNAME .
@@ -735,6 +727,8 @@ xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
+zhikey.com CNAME .
+*.zhikey.com CNAME .
 wynecare.com CNAME .
 *.wynecare.com CNAME .
 wz.3911.com CNAME .
