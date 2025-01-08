@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,329
-# Updated: 1/6/2025  17:54 (5:54 PM CST)
+# Domains: 96,333
+# Updated: 1/7/2025  23:31 (11:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2998,6 +2998,7 @@ server=/a.imkern.jetzt/
 server=/aimms.com/
 server=/aimondo.com/
 server=/a.imput.net/
+server=/aimshitj.top/
 server=/aim-tag.hcn.health/
 server=/aimultiple.com/
 server=/a.independent.co.uk/
@@ -12387,6 +12388,7 @@ server=/analytics.uppercloud.io/
 server=/analytics.uppmarket.com/
 server=/analytics.upsala.ca/
 server=/analytics.uptodateconnect.com/
+server=/analytics.upworthy.com/
 server=/analytics.uqnic.com/
 server=/analytics.urbanangles.com/
 server=/analytics.urban.brussels/
@@ -26501,6 +26503,7 @@ server=/gtm.dyson.de/
 server=/gtm.dyson.it/
 server=/gtm.dyson.nl/
 server=/gtm.dyson.no/
+server=/gtm.eodhd.com/
 server=/gtm.fasi.eu/
 server=/gtm.finnomena.com/
 server=/gtmforshopify.com/
@@ -69206,7 +69209,6 @@ server=/session-bugs-fra1.rtl.de/
 server=/sessioncam.com/
 server=/session.fortmorgantimes.com/
 server=/session-manager-srv.healthcare.com/
-server=/session.mshopbugsnag.irm.amazon.dev/
 server=/session.nydailynews.com/
 server=/session-replays.io/
 server=/session.reporterherald.com/
@@ -69643,6 +69645,7 @@ server=/sheerid.net/
 server=/shellenergymarketing.shell.com/
 server=/shellprod.msocdn.com/
 server=/sheltercellar.com/
+server=/sherlock-tracing-sampler.ebay.com/
 server=/sherpath.com/
 server=/shesubscriptions.com/
 server=/s.hetrixtools.com/
@@ -74095,7 +74098,6 @@ server=/sombrero.yahoo.net/
 server=/som.cablestogo.ca/
 server=/som.cablestogo.co.uk/
 server=/som.craftsman.com/
-server=/some.growplow.events/
 server=/sometrics.netapp.com/
 server=/som.healthgrades.com/
 server=/som.homeaway.ca/
@@ -74820,6 +74822,7 @@ server=/srepdata.wisfarmer.com/
 server=/srepdata.wlbz2.com/
 server=/srepdata.ydr.com/
 server=/sreport.mitsubishicars.com/
+server=/srh.ovh/
 server=/srmdata.com/
 server=/s.root.bg/
 server=/s.rosettastone.co.kr/
@@ -90245,6 +90248,7 @@ server=/v7.stats.avcdn.net/
 server=/v8tainkq.mi-msg.com/
 server=/v901.foodprocessing.com/
 server=/vacationbetter.inspirato.com/
+server=/vadis.com/
 server=/vadr.io/
 server=/va-endpoint.com/
 server=/v-a.io/
