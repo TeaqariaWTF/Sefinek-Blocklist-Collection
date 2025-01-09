@@ -11,14 +11,14 @@
 # Title: Blocks streaming media platforms like YouTube, Netflix, Spotify, and others (beta)
 # Description: Active, inactive, and parked domains. Blocks websites for video and audio streaming services such as YouTube, Netflix, Spotify, Disney+, Hulu, and Twitch.
 # Expires: 1 day
-# Count: 100252
+# Count: 100253
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: No IP (only domains)
-# Version: 1736245720198
-# Last update: January 7, 2025 at 10:28 AM UTC | 2025-01-07T10:28:40.198+00:00
+# Version: 1736418485903
+# Last update: January 9, 2025 at 10:28 AM UTC | 2025-01-09T10:28:05.903+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -100280,3 +100280,4 @@ neighbors.nu
 duschbomb.se
 livetochbolaget.se
 freshbox.ee
+hartvoorehbo.nu
