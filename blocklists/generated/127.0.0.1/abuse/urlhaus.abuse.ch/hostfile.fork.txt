@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-09 06:22:09 (UTC)                      #
+# Last updated: 2025-01-09 08:19:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,6 @@
 127.0.0.1 059879e5-b2e8-4f58-aa46-95f69d92aa34.random.ronnin-v3.com
 127.0.0.1 059879e5-b2e8-4f58-aa46-95f69d92aa34.random.ronnnin.com
 127.0.0.1 123.ywxww.net
-127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
 127.0.0.1 2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.phavtom-v1.com
@@ -22,6 +21,7 @@
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
 127.0.0.1 adf6.adf6.com
+127.0.0.1 admin.aishangzhua.com
 127.0.0.1 adresse-confirmation.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aerodromeabase.com
@@ -36,7 +36,6 @@
 127.0.0.1 amende-renouvellement.com
 127.0.0.1 amende-stationnement-suivis.com
 127.0.0.1 apcmidland.com
-127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
@@ -144,7 +143,6 @@
 127.0.0.1 f2pverifynow.com
 127.0.0.1 fexe-tmp-1.top
 127.0.0.1 file.blackint3.com
-127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 fizeteselutasitva.com
 127.0.0.1 formulaire-sociale.com
@@ -211,6 +209,7 @@
 127.0.0.1 maisonetcites.fr
 127.0.0.1 mandarin.net.au
 127.0.0.1 manflle.com
+127.0.0.1 masclauxtoitures.fr
 127.0.0.1 mbsngradnja.com
 127.0.0.1 mcafeeretailcard.net
 127.0.0.1 mertvinc.com.tr
@@ -233,7 +232,7 @@
 127.0.0.1 mon-dossier-renouvellement.com
 127.0.0.1 monformulaire-sante.com
 127.0.0.1 moonloaderupdate.ru
-127.0.0.1 myguyapp.com
+127.0.0.1 mx9x.com
 127.0.0.1 myhermes-dienste.com
 127.0.0.1 myhermes-liefern.com
 127.0.0.1 myhermes-versand.net
@@ -280,12 +279,12 @@
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 quevalencia.com
 127.0.0.1 rappel-coinbase.com
-127.0.0.1 rb3.ftnt.io
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 rddissisifigifidi.net
 127.0.0.1 re-capcha.cfd
 127.0.0.1 realbenies.com
 127.0.0.1 rebateit.net
+127.0.0.1 recaptcha-process.com
 127.0.0.1 reifenquick.de
 127.0.0.1 renouvellement-espace-vitale-ameli.com
 127.0.0.1 resourceedge.org
@@ -298,7 +297,6 @@
 127.0.0.1 rtfkt.com-animus.app
 127.0.0.1 safe.ywxww.net
 127.0.0.1 sarahwillemart.com
-127.0.0.1 schytcdagl.com
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 seniorcomc.sslblindado.com
 127.0.0.1 ser.nrovn.xyz
@@ -313,9 +311,9 @@
 127.0.0.1 soccerimg.com
 127.0.0.1 soft.110route.com
 127.0.0.1 softcatalog.ru
-127.0.0.1 soportegira.net
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
+127.0.0.1 src1.minibai.com
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 studioq202.com
@@ -354,6 +352,7 @@
 127.0.0.1 trackpacking-ups.com
 127.0.0.1 tradr0ger.cloud
 127.0.0.1 traefik-dashboard.val.io.vn
+127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 tricazo.com
 127.0.0.1 trust-walles.com
 127.0.0.1 twizt.net
@@ -378,6 +377,7 @@
 127.0.0.1 valseg.com.br
 127.0.0.1 versyasist.online
 127.0.0.1 versyasist.website
+127.0.0.1 web.klipdywoziy.shop
 127.0.0.1 webdisk.kasihcommunityschool.sch.id
 127.0.0.1 webhook.my
 127.0.0.1 webmail.kasihcommunityschool.sch.id
@@ -399,10 +399,11 @@
 127.0.0.1 www.hootech.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
-127.0.0.1 www.lovlypets.com
+127.0.0.1 www.kasihcommunityschool.sch.id
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
+127.0.0.1 www.opolis.io
 127.0.0.1 www.playchees.com
 127.0.0.1 www.portalreceitafazenda.com
 127.0.0.1 www.qqqmy.com
@@ -438,7 +439,6 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
-127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
 # Number of entries: 435

@@ -7,8 +7,6 @@ $TTL 300
 *.059879e5-b2e8-4f58-aa46-95f69d92aa34.random.ronnnin.com CNAME .
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-139520.aioc.qbgxl.com CNAME .
-*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 2.haory.cn CNAME .
@@ -33,6 +31,8 @@ acheminement-suivis.fr CNAME .
 *.acheminement-suivis.fr CNAME .
 adf6.adf6.com CNAME .
 *.adf6.adf6.com CNAME .
+admin.aishangzhua.com CNAME .
+*.admin.aishangzhua.com CNAME .
 adresse-confirmation.com CNAME .
 *.adresse-confirmation.com CNAME .
 aefieiaehfiaehr.top CNAME .
@@ -61,8 +61,6 @@ amende-stationnement-suivis.com CNAME .
 *.amende-stationnement-suivis.com CNAME .
 apcmidland.com CNAME .
 *.apcmidland.com CNAME .
-api.accueil-coinbase.com CNAME .
-*.api.accueil-coinbase.com CNAME .
 api.aide-coinbase.com CNAME .
 *.api.aide-coinbase.com CNAME .
 api.co-operativefinance.com CNAME .
@@ -277,8 +275,6 @@ fexe-tmp-1.top CNAME .
 *.fexe-tmp-1.top CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
-file.edunet.ac CNAME .
-*.file.edunet.ac CNAME .
 files5.uludagbilisim.com CNAME .
 *.files5.uludagbilisim.com CNAME .
 fizeteselutasitva.com CNAME .
@@ -411,6 +407,8 @@ mandarin.net.au CNAME .
 *.mandarin.net.au CNAME .
 manflle.com CNAME .
 *.manflle.com CNAME .
+masclauxtoitures.fr CNAME .
+*.masclauxtoitures.fr CNAME .
 mbsngradnja.com CNAME .
 *.mbsngradnja.com CNAME .
 mcafeeretailcard.net CNAME .
@@ -455,8 +453,8 @@ monformulaire-sante.com CNAME .
 *.monformulaire-sante.com CNAME .
 moonloaderupdate.ru CNAME .
 *.moonloaderupdate.ru CNAME .
-myguyapp.com CNAME .
-*.myguyapp.com CNAME .
+mx9x.com CNAME .
+*.mx9x.com CNAME .
 myhermes-dienste.com CNAME .
 *.myhermes-dienste.com CNAME .
 myhermes-liefern.com CNAME .
@@ -549,8 +547,6 @@ quevalencia.com CNAME .
 *.quevalencia.com CNAME .
 rappel-coinbase.com CNAME .
 *.rappel-coinbase.com CNAME .
-rb3.ftnt.io CNAME .
-*.rb3.ftnt.io CNAME .
 rd.chuitian.cn CNAME .
 *.rd.chuitian.cn CNAME .
 rddissisifigifidi.net CNAME .
@@ -561,6 +557,8 @@ realbenies.com CNAME .
 *.realbenies.com CNAME .
 rebateit.net CNAME .
 *.rebateit.net CNAME .
+recaptcha-process.com CNAME .
+*.recaptcha-process.com CNAME .
 reifenquick.de CNAME .
 *.reifenquick.de CNAME .
 renouvellement-espace-vitale-ameli.com CNAME .
@@ -585,8 +583,6 @@ safe.ywxww.net CNAME .
 *.safe.ywxww.net CNAME .
 sarahwillemart.com CNAME .
 *.sarahwillemart.com CNAME .
-schytcdagl.com CNAME .
-*.schytcdagl.com CNAME .
 security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
 seniorcomc.sslblindado.com CNAME .
@@ -615,12 +611,12 @@ soft.110route.com CNAME .
 *.soft.110route.com CNAME .
 softcatalog.ru CNAME .
 *.softcatalog.ru CNAME .
-soportegira.net CNAME .
-*.soportegira.net CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
 sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
+src1.minibai.com CNAME .
+*.src1.minibai.com CNAME .
 stdown.dinju.com CNAME .
 *.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
@@ -697,6 +693,8 @@ tradr0ger.cloud CNAME .
 *.tradr0ger.cloud CNAME .
 traefik-dashboard.val.io.vn CNAME .
 *.traefik-dashboard.val.io.vn CNAME .
+treinamento.convenio.to.gov.br CNAME .
+*.treinamento.convenio.to.gov.br CNAME .
 tricazo.com CNAME .
 *.tricazo.com CNAME .
 trust-walles.com CNAME .
@@ -745,6 +743,8 @@ versyasist.online CNAME .
 *.versyasist.online CNAME .
 versyasist.website CNAME .
 *.versyasist.website CNAME .
+web.klipdywoziy.shop CNAME .
+*.web.klipdywoziy.shop CNAME .
 webdisk.kasihcommunityschool.sch.id CNAME .
 *.webdisk.kasihcommunityschool.sch.id CNAME .
 webhook.my CNAME .
@@ -781,12 +781,12 @@ hootech.com CNAME .
 *.hootech.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
-lovlypets.com CNAME .
-*.lovlypets.com CNAME .
 maxmoney.com CNAME .
 *.maxmoney.com CNAME .
 medises.co.kr CNAME .
 *.medises.co.kr CNAME .
+opolis.io CNAME .
+*.opolis.io CNAME .
 playchees.com CNAME .
 *.playchees.com CNAME .
 qqqmy.com CNAME .
@@ -847,8 +847,6 @@ yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
 z.shavsl.com CNAME .
 *.z.shavsl.com CNAME .
-znrq.zifwxq.cn CNAME .
-*.znrq.zifwxq.cn CNAME .
 zoamaster.com CNAME .
 *.zoamaster.com CNAME .
 zontricks.com CNAME .
