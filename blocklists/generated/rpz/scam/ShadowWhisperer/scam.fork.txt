@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025010801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025010901 43200 3600 259200 300
   NS  localhost.
 007-dvd.com CNAME .
 *.007-dvd.com CNAME .
@@ -12077,6 +12077,8 @@ graciouspugs.store CNAME .
 *.graciouspugs.store CNAME .
 graciousy.com CNAME .
 *.graciousy.com CNAME .
+graficmaster.com CNAME .
+*.graficmaster.com CNAME .
 grailed.com CNAME .
 *.grailed.com CNAME .
 gramercylighting.com CNAME .

@@ -1,9 +1,9 @@
-# Version: 202501091609
+# Version: 202501091810
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 122291
-# Last modified: 2025-01-09T16:09:26+0000
+! Entries: 122266
+# Last modified: 2025-01-09T18:10:00+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1769,7 +1769,6 @@
 127.0.0.1 24-7pharmacy.info
 127.0.0.1 24-news.online
 127.0.0.1 24-sportnews.com
-127.0.0.1 24-xxx.biz
 127.0.0.1 24.eu
 127.0.0.1 24052107.live
 127.0.0.1 240aca2365.com
@@ -1992,7 +1991,6 @@
 127.0.0.1 2aefgbf.de
 127.0.0.1 2aev1j.postal.gameplansession.com
 127.0.0.1 2af703zu3g57svr9c3.jwespeex.co.in
-127.0.0.1 2ajeeps.info
 127.0.0.1 2amsports.com
 127.0.0.1 2appup.com
 127.0.0.1 2b1iajzctif7.live
@@ -5307,7 +5305,6 @@
 127.0.0.1 a.xanga.com
 127.0.0.1 a.xfreeservice.com
 127.0.0.1 a.xigua110.com
-127.0.0.1 a.xinwenge.net
 127.0.0.1 a.xixiyishu.com
 127.0.0.1 a.xizi.com
 127.0.0.1 a.xlpu.cc
@@ -13771,6 +13768,7 @@
 127.0.0.1 analytics-gateway.delta.dp.lightricks.com
 127.0.0.1 analytics-google.org
 127.0.0.1 analytics-ingestion-production.tubitv.com
+127.0.0.1 analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 127.0.0.1 analytics-ingestion.production-public.tubi.io
 127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-ingress.bitmovin.com
@@ -14852,7 +14850,6 @@
 127.0.0.1 antpeelpiston.com
 127.0.0.1 antpoker.com
 127.0.0.1 antralhokier.shop
-127.0.0.1 antrocity.com
 127.0.0.1 ants-fr.fr
 127.0.0.1 ants-gov.fr
 127.0.0.1 ants.vn
@@ -21117,7 +21114,6 @@
 127.0.0.1 bideo-blog.xyz
 127.0.0.1 bideo-cdn.com
 127.0.0.1 bideo-cdn.xyz
-127.0.0.1 bideo-chat.xyz
 127.0.0.1 bideo-endpoint.com
 127.0.0.1 bideo-schnellvpn.com
 127.0.0.1 bidfhimuqwij.com
@@ -22148,7 +22144,6 @@
 127.0.0.1 blutrumpet.com
 127.0.0.1 blv23728.ddns.net
 127.0.0.1 blvdbe.com
-127.0.0.1 blw4-1.com
 127.0.0.1 blystonproinvest.com
 127.0.0.1 blzbjpg.xyz
 127.0.0.1 blzwvb.xyz
@@ -26452,7 +26447,6 @@
 127.0.0.1 celinnaya.kz
 127.0.0.1 cellar-analytics.mapion.co.jp
 127.0.0.1 cellaraudacityslack.com
-127.0.0.1 cellardesiresso.sbs
 127.0.0.1 cellespanol.com
 127.0.0.1 celleve.com
 127.0.0.1 cellfaam.com
@@ -28551,7 +28545,6 @@
 127.0.0.1 clickwhitecode.com
 127.0.0.1 clickwinks.com
 127.0.0.1 clickwork7secure.com
-127.0.0.1 clickxchange.com
 127.0.0.1 clickyab.com
 127.0.0.1 clickz.com
 127.0.0.1 clickzs.com
@@ -28597,6 +28590,8 @@
 127.0.0.1 clientlog.midomi.com
 127.0.0.1 clientlog.music.163.com
 127.0.0.1 clientlog3.music.163.com
+127.0.0.1 clientlogdep.music.163.com
+127.0.0.1 clientlogsf.music.163.com
 127.0.0.1 clientmetrics-augmentum.kik.com
 127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clientmetrics.kik.com
@@ -29589,6 +29584,7 @@
 127.0.0.1 collector.statowl.com
 127.0.0.1 collector.superwall.me
 127.0.0.1 collector.szlcsc.com
+127.0.0.1 collector.t-idr.com
 127.0.0.1 collector.taoxh.life
 127.0.0.1 collector.unsplash.com
 127.0.0.1 collector.vhx.tv
@@ -34538,6 +34534,7 @@
 127.0.0.1 data.gosquared.com
 127.0.0.1 data.hicloud.com
 127.0.0.1 data.kameleoon.io
+127.0.0.1 data.kuiniuca.com
 127.0.0.1 data.minute.ly
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
@@ -34805,7 +34802,6 @@
 127.0.0.1 dbltest6.top
 127.0.0.1 dbltest8.top
 127.0.0.1 dbmcmhh.cn
-127.0.0.1 dbms.crclab-bahria.org
 127.0.0.1 dbnxlpbtoqec.com
 127.0.0.1 dbpxivi.xyz
 127.0.0.1 dbr9gtaf8.com
@@ -41753,6 +41749,7 @@
 127.0.0.1 ercnnier.com
 127.0.0.1 ercoeteasacom.com
 127.0.0.1 ercofusa.blogspot.com
+127.0.0.1 ercoils.com
 127.0.0.1 erdeallyighab.com
 127.0.0.1 erdecisesgeorg.info
 127.0.0.1 erdelt.nl
@@ -44770,7 +44767,6 @@
 127.0.0.1 fgtgr.buzz
 127.0.0.1 fgts-liberado.epizy.com
 127.0.0.1 fguhyg.cn
-127.0.0.1 fgwerg.top
 127.0.0.1 fgwuw.com
 127.0.0.1 fh259by01r25.com
 127.0.0.1 fhac.fr
@@ -48177,7 +48173,6 @@
 127.0.0.1 games-forfree.net
 127.0.0.1 games-hacked.com
 127.0.0.1 games-hacks.com
-127.0.0.1 games-unlocked.com
 127.0.0.1 games.superappbox.com
 127.0.0.1 games.theappjunkies.com
 127.0.0.1 games4good.net
@@ -50476,7 +50471,6 @@
 127.0.0.1 goldenstatebrokers.com
 127.0.0.1 goldenstatewarriorsstore.com
 127.0.0.1 goldensurvey.com
-127.0.0.1 goldenwatches.fr
 127.0.0.1 goldenwest.co.za
 127.0.0.1 goldfish.boleary.dev
 127.0.0.1 goldfish.clickand.de
@@ -53600,7 +53594,6 @@
 127.0.0.1 heavycom.112.2o7.net
 127.0.0.1 heavycom.122.2o7.net
 127.0.0.1 heavydetail.com
-127.0.0.1 heavyfigure.link
 127.0.0.1 heavypersian.weebly.com
 127.0.0.1 heavyplayground.com
 127.0.0.1 heavyuniversecandy.com
@@ -60088,7 +60081,6 @@
 127.0.0.1 jikzudkkispi.com
 127.0.0.1 jili9.io
 127.0.0.1 jillae.com
-127.0.0.1 jillbuildertuck.com
 127.0.0.1 jillivanilli.com
 127.0.0.1 jillsclickcorner.com
 127.0.0.1 jilong.work
@@ -60244,7 +60236,6 @@
 127.0.0.1 jmipzsn.icu
 127.0.0.1 jmnzx3.hbg.hebdenbridgedental.co.uk
 127.0.0.1 jmpmedia.club
-127.0.0.1 jmpmedia.info
 127.0.0.1 jmqxise.in
 127.0.0.1 jmrnews.pro
 127.0.0.1 jmrtech.in
@@ -63957,7 +63948,6 @@
 127.0.0.1 laughing-pike-c6b1d5.netlify.com
 127.0.0.1 laughingrecordinggossipy.com
 127.0.0.1 laughnetwork.com
-127.0.0.1 laughteroccasionallywarp.com
 127.0.0.1 laughtersoundhealing.com
 127.0.0.1 laughtill.net
 127.0.0.1 lauglyhousebuyers.com
@@ -67477,7 +67467,6 @@
 127.0.0.1 lumkecuq.shop
 127.0.0.1 lumkymenau.shop
 127.0.0.1 lumlacumii.shop
-127.0.0.1 lumlasolyo.shop
 127.0.0.1 lumlideweo.shop
 127.0.0.1 lummomusuo.shop
 127.0.0.1 lummozudey.shop
@@ -72288,7 +72277,6 @@
 127.0.0.1 mobilizr.com
 127.0.0.1 mobilkredite.de
 127.0.0.1 mobillesporhaberleri.blogspot.be
-127.0.0.1 mobilnik.pl
 127.0.0.1 mobiloba.com
 127.0.0.1 mobilpay-fi.com
 127.0.0.1 mobio.vn
@@ -73816,7 +73804,6 @@
 127.0.0.1 mutuza.win
 127.0.0.1 mutzsotixck3ers-facebo0k.emochila.com
 127.0.0.1 muuxxu.com
-127.0.0.1 muwc.shop
 127.0.0.1 muwmedia.com
 127.0.0.1 muybjar.cn
 127.0.0.1 muybn.com
@@ -75264,7 +75251,6 @@
 127.0.0.1 needbeads.com
 127.0.0.1 neededproducts.com
 127.0.0.1 needeevo.xyz
-127.0.0.1 needforfile.net
 127.0.0.1 needhomesecurity.com
 127.0.0.1 needlessnorth.com
 127.0.0.1 needleworkemmaapostrophe.com
@@ -75434,6 +75420,7 @@
 127.0.0.1 netadclick.com
 127.0.0.1 netaffiliation.com
 127.0.0.1 netagent.cz
+127.0.0.1 netapm.music.163.com
 127.0.0.1 netavenir.com
 127.0.0.1 netbina.com
 127.0.0.1 netbulvar.eu
@@ -79812,7 +79799,6 @@
 127.0.0.1 orchidacupuncture.com
 127.0.0.1 orchidcoin.net
 127.0.0.1 orchidscape.net
-127.0.0.1 orcinhyi.com
 127.0.0.1 orcjagpox.com
 127.0.0.1 orclrul.com
 127.0.0.1 orcnakokt.com
@@ -86788,6 +86774,7 @@
 127.0.0.1 publicrecordlookup.com
 127.0.0.1 publicsofa.com
 127.0.0.1 publicspeaking.co.id
+127.0.0.1 publictelemetry.tophat.com
 127.0.0.1 publictresor.fr
 127.0.0.1 publicunloadbags.com
 127.0.0.1 publicus.com
@@ -89962,7 +89949,6 @@
 127.0.0.1 renouvellements-client.fr
 127.0.0.1 renovacaoitaucard.epizy.com
 127.0.0.1 renovar.con-ip.com
-127.0.0.1 renovarrmeuubr.com
 127.0.0.1 renovatefairfaxmope.com
 127.0.0.1 renovatego.com
 127.0.0.1 renovavida.com
@@ -98639,7 +98625,6 @@
 127.0.0.1 socssite.ru
 127.0.0.1 sodallay.com
 127.0.0.1 sodamash.com
-127.0.0.1 sodaprostitutetar.com
 127.0.0.1 sodepebrasil.com.br
 127.0.0.1 sodexo-groupe.fr
 127.0.0.1 sodexo-sas.fr
@@ -99609,7 +99594,6 @@
 127.0.0.1 spermwhale.thankbox.co
 127.0.0.1 sperry-france.fr
 127.0.0.1 spets-stil.ru
-127.0.0.1 speysiykiklnn.com
 127.0.0.1 spezialreporte.de
 127.0.0.1 spf-asia.com
 127.0.0.1 spffusa.org
@@ -103919,7 +103903,6 @@
 127.0.0.1 t.leady.com
 127.0.0.1 t.leady.cz
 127.0.0.1 t.lidyana.com
-127.0.0.1 t.mdn2015x1.com
 127.0.0.1 t.melhorplano.net
 127.0.0.1 t.menepe.com
 127.0.0.1 t.my.jobs
@@ -105176,7 +105159,6 @@
 127.0.0.1 televisionace.com
 127.0.0.1 televisionjitter.com
 127.0.0.1 telexhrzn.com
-127.0.0.1 telezgrm.work
 127.0.0.1 telfar-france.fr
 127.0.0.1 teliad.com
 127.0.0.1 teliad.de
@@ -112042,7 +112024,6 @@
 127.0.0.1 uspcworks.com
 127.0.0.1 uspolitics.news
 127.0.0.1 usps-mydeliver.com
-127.0.0.1 usps-mypackage.com
 127.0.0.1 usps-online-safe.com
 127.0.0.1 usps-online.com
 127.0.0.1 usps-pt.com
@@ -112953,7 +112934,6 @@
 127.0.0.1 velmaglendenning.ru.com
 127.0.0.1 velocecdn.com
 127.0.0.1 velocitycdn.com
-127.0.0.1 velocitypaperwork.com
 127.0.0.1 velog.ru
 127.0.0.1 velours24.nl
 127.0.0.1 veloventures.com
@@ -117287,8 +117267,6 @@
 127.0.0.1 wniamax.fr
 127.0.0.1 wnjjhksaue.com
 127.0.0.1 wnmaoc.xyz
-127.0.0.1 wnmyd8.postal.gameplansession.com
-127.0.0.1 wnojded.icu
 127.0.0.1 wnrusisedprivatedq.info
 127.0.0.1 wnrvrwabnxa.com
 127.0.0.1 wnt-s0me-push.net
@@ -119729,7 +119707,6 @@
 127.0.0.1 xx3h.com
 127.0.0.1 xxa.uji8979erd77.jp
 127.0.0.1 xxad.cc
-127.0.0.1 xxaks01081sspao.xyz
 127.0.0.1 xxaks01091sspao.xyz
 127.0.0.1 xxbeeilm.ru.gg
 127.0.0.1 xxccdshj.com
@@ -119881,7 +119858,6 @@
 127.0.0.1 y2sysv81v.com
 127.0.0.1 y3.ifengimg.com
 127.0.0.1 y3mpywhmem7t.live
-127.0.0.1 y3wfoz.postal.gameplansession.com
 127.0.0.1 y494.wdsu.com
 127.0.0.1 y512hr.onl.onlinetrees.co.uk
 127.0.0.1 y54wdrg.com
@@ -120096,6 +120072,7 @@
 127.0.0.1 ydwlkj.com
 127.0.0.1 ydworld.com
 127.0.0.1 ydwrkwwqytj.xyz
+127.0.0.1 ye.dun.163yun.com
 127.0.0.1 ye185hcamw.com
 127.0.0.1 yea.uploadimagex.com
 127.0.0.1 yeabble.com
@@ -120508,7 +120485,6 @@
 127.0.0.1 yoiur.com
 127.0.0.1 yokananu.net
 127.0.0.1 yokeeroud.com
-127.0.0.1 yokesandusj.sbs
 127.0.0.1 yokonofrance.fr
 127.0.0.1 yoli.my.id
 127.0.0.1 yolkhandledwheels.com
@@ -121710,7 +121686,6 @@
 127.0.0.1 zimpolo.com
 127.0.0.1 zimu.nl
 127.0.0.1 zinghouse.co.uk
-127.0.0.1 zingmp3.pro
 127.0.0.1 zingshop.net
 127.0.0.1 zinhice.shop
 127.0.0.1 zinipx.xyz

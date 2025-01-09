@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,333
-# Updated: 1/7/2025  23:31 (11:31 PM CST)
+# Domains: 96,337
+# Updated: 1/9/2025  12:24 (12:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -26910,6 +26910,7 @@ server=/heyupfluence.com/
 server=/hf6atrk.com/
 server=/hfc195b.com/
 server=/hfd.bridgetowermedia.com/
+server=/hfqk.shop/
 server=/hgbn1.com/
 server=/hgbn.network/
 server=/hgbn.rocks/
@@ -32013,6 +32014,7 @@ server=/kdloikam-rescuemetrics-com.cdnjs.network/
 server=/kdoci.blessedfamilygifts.com/
 server=/kdogtest.com/
 server=/keap.com/
+server=/keelais.shop/
 server=/keen.io/
 server=/kemok.io/
 server=/kendall.ai/
@@ -86841,6 +86843,7 @@ server=/telemetric.dk/
 server=/telemetry-01.adwc.fr33tux.org/
 server=/telemetry-02.adwc.mb.fr33tux.org/
 server=/telemetry-03.adwc.mb.fr33tux.org/
+server=/telemetry.adblockplus.org/
 server=/telemetry_ads.msn.com/
 server=/telemetry.am.pictet.com/
 server=/telemetry.api.2kcoretech.online/
@@ -89707,6 +89710,7 @@ server=/uberall.com/
 server=/uber-analytics.solesolution.com/
 server=/uberflip.com/
 server=/ubermedia.com/
+server=/uberprof.com/
 server=/ubimo.com/
 server=/ubiquitousyard.com/
 server=/ubmconferencesasean.com/

@@ -1,9 +1,9 @@
-! Version: 202501091609
+! Version: 202501091810
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: ||<domain>^
-! Entries: 122291
-! Last modified: 2025-01-09T16:09:26+0000
+! Entries: 122266
+! Last modified: 2025-01-09T18:10:00+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1769,7 +1769,6 @@
 ||24-7pharmacy.info^
 ||24-news.online^
 ||24-sportnews.com^
-||24-xxx.biz^
 ||24.eu^
 ||24052107.live^
 ||240aca2365.com^
@@ -1992,7 +1991,6 @@
 ||2aefgbf.de^
 ||2aev1j.postal.gameplansession.com^
 ||2af703zu3g57svr9c3.jwespeex.co.in^
-||2ajeeps.info^
 ||2amsports.com^
 ||2appup.com^
 ||2b1iajzctif7.live^
@@ -5307,7 +5305,6 @@
 ||a.xanga.com^
 ||a.xfreeservice.com^
 ||a.xigua110.com^
-||a.xinwenge.net^
 ||a.xixiyishu.com^
 ||a.xizi.com^
 ||a.xlpu.cc^
@@ -13771,6 +13768,7 @@
 ||analytics-gateway.delta.dp.lightricks.com^
 ||analytics-google.org^
 ||analytics-ingestion-production.tubitv.com^
+||analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-ingress.bitmovin.com^
@@ -14852,7 +14850,6 @@
 ||antpeelpiston.com^
 ||antpoker.com^
 ||antralhokier.shop^
-||antrocity.com^
 ||ants-fr.fr^
 ||ants-gov.fr^
 ||ants.vn^
@@ -21117,7 +21114,6 @@
 ||bideo-blog.xyz^
 ||bideo-cdn.com^
 ||bideo-cdn.xyz^
-||bideo-chat.xyz^
 ||bideo-endpoint.com^
 ||bideo-schnellvpn.com^
 ||bidfhimuqwij.com^
@@ -22148,7 +22144,6 @@
 ||blutrumpet.com^
 ||blv23728.ddns.net^
 ||blvdbe.com^
-||blw4-1.com^
 ||blystonproinvest.com^
 ||blzbjpg.xyz^
 ||blzwvb.xyz^
@@ -26452,7 +26447,6 @@
 ||celinnaya.kz^
 ||cellar-analytics.mapion.co.jp^
 ||cellaraudacityslack.com^
-||cellardesiresso.sbs^
 ||cellespanol.com^
 ||celleve.com^
 ||cellfaam.com^
@@ -28551,7 +28545,6 @@
 ||clickwhitecode.com^
 ||clickwinks.com^
 ||clickwork7secure.com^
-||clickxchange.com^
 ||clickyab.com^
 ||clickz.com^
 ||clickzs.com^
@@ -28597,6 +28590,8 @@
 ||clientlog.midomi.com^
 ||clientlog.music.163.com^
 ||clientlog3.music.163.com^
+||clientlogdep.music.163.com^
+||clientlogsf.music.163.com^
 ||clientmetrics-augmentum.kik.com^
 ||clientmetrics-pa.googleapis.com^
 ||clientmetrics.kik.com^
@@ -29589,6 +29584,7 @@
 ||collector.statowl.com^
 ||collector.superwall.me^
 ||collector.szlcsc.com^
+||collector.t-idr.com^
 ||collector.taoxh.life^
 ||collector.unsplash.com^
 ||collector.vhx.tv^
@@ -34538,6 +34534,7 @@
 ||data.gosquared.com^
 ||data.hicloud.com^
 ||data.kameleoon.io^
+||data.kuiniuca.com^
 ||data.minute.ly^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
@@ -34805,7 +34802,6 @@
 ||dbltest6.top^
 ||dbltest8.top^
 ||dbmcmhh.cn^
-||dbms.crclab-bahria.org^
 ||dbnxlpbtoqec.com^
 ||dbpxivi.xyz^
 ||dbr9gtaf8.com^
@@ -41753,6 +41749,7 @@
 ||ercnnier.com^
 ||ercoeteasacom.com^
 ||ercofusa.blogspot.com^
+||ercoils.com^
 ||erdeallyighab.com^
 ||erdecisesgeorg.info^
 ||erdelt.nl^
@@ -44770,7 +44767,6 @@
 ||fgtgr.buzz^
 ||fgts-liberado.epizy.com^
 ||fguhyg.cn^
-||fgwerg.top^
 ||fgwuw.com^
 ||fh259by01r25.com^
 ||fhac.fr^
@@ -48177,7 +48173,6 @@
 ||games-forfree.net^
 ||games-hacked.com^
 ||games-hacks.com^
-||games-unlocked.com^
 ||games.superappbox.com^
 ||games.theappjunkies.com^
 ||games4good.net^
@@ -50476,7 +50471,6 @@
 ||goldenstatebrokers.com^
 ||goldenstatewarriorsstore.com^
 ||goldensurvey.com^
-||goldenwatches.fr^
 ||goldenwest.co.za^
 ||goldfish.boleary.dev^
 ||goldfish.clickand.de^
@@ -53600,7 +53594,6 @@
 ||heavycom.112.2o7.net^
 ||heavycom.122.2o7.net^
 ||heavydetail.com^
-||heavyfigure.link^
 ||heavypersian.weebly.com^
 ||heavyplayground.com^
 ||heavyuniversecandy.com^
@@ -60088,7 +60081,6 @@
 ||jikzudkkispi.com^
 ||jili9.io^
 ||jillae.com^
-||jillbuildertuck.com^
 ||jillivanilli.com^
 ||jillsclickcorner.com^
 ||jilong.work^
@@ -60244,7 +60236,6 @@
 ||jmipzsn.icu^
 ||jmnzx3.hbg.hebdenbridgedental.co.uk^
 ||jmpmedia.club^
-||jmpmedia.info^
 ||jmqxise.in^
 ||jmrnews.pro^
 ||jmrtech.in^
@@ -63957,7 +63948,6 @@
 ||laughing-pike-c6b1d5.netlify.com^
 ||laughingrecordinggossipy.com^
 ||laughnetwork.com^
-||laughteroccasionallywarp.com^
 ||laughtersoundhealing.com^
 ||laughtill.net^
 ||lauglyhousebuyers.com^
@@ -67477,7 +67467,6 @@
 ||lumkecuq.shop^
 ||lumkymenau.shop^
 ||lumlacumii.shop^
-||lumlasolyo.shop^
 ||lumlideweo.shop^
 ||lummomusuo.shop^
 ||lummozudey.shop^
@@ -72288,7 +72277,6 @@
 ||mobilizr.com^
 ||mobilkredite.de^
 ||mobillesporhaberleri.blogspot.be^
-||mobilnik.pl^
 ||mobiloba.com^
 ||mobilpay-fi.com^
 ||mobio.vn^
@@ -73816,7 +73804,6 @@
 ||mutuza.win^
 ||mutzsotixck3ers-facebo0k.emochila.com^
 ||muuxxu.com^
-||muwc.shop^
 ||muwmedia.com^
 ||muybjar.cn^
 ||muybn.com^
@@ -75264,7 +75251,6 @@
 ||needbeads.com^
 ||neededproducts.com^
 ||needeevo.xyz^
-||needforfile.net^
 ||needhomesecurity.com^
 ||needlessnorth.com^
 ||needleworkemmaapostrophe.com^
@@ -75434,6 +75420,7 @@
 ||netadclick.com^
 ||netaffiliation.com^
 ||netagent.cz^
+||netapm.music.163.com^
 ||netavenir.com^
 ||netbina.com^
 ||netbulvar.eu^
@@ -79812,7 +79799,6 @@
 ||orchidacupuncture.com^
 ||orchidcoin.net^
 ||orchidscape.net^
-||orcinhyi.com^
 ||orcjagpox.com^
 ||orclrul.com^
 ||orcnakokt.com^
@@ -86788,6 +86774,7 @@
 ||publicrecordlookup.com^
 ||publicsofa.com^
 ||publicspeaking.co.id^
+||publictelemetry.tophat.com^
 ||publictresor.fr^
 ||publicunloadbags.com^
 ||publicus.com^
@@ -89962,7 +89949,6 @@
 ||renouvellements-client.fr^
 ||renovacaoitaucard.epizy.com^
 ||renovar.con-ip.com^
-||renovarrmeuubr.com^
 ||renovatefairfaxmope.com^
 ||renovatego.com^
 ||renovavida.com^
@@ -98639,7 +98625,6 @@
 ||socssite.ru^
 ||sodallay.com^
 ||sodamash.com^
-||sodaprostitutetar.com^
 ||sodepebrasil.com.br^
 ||sodexo-groupe.fr^
 ||sodexo-sas.fr^
@@ -99609,7 +99594,6 @@
 ||spermwhale.thankbox.co^
 ||sperry-france.fr^
 ||spets-stil.ru^
-||speysiykiklnn.com^
 ||spezialreporte.de^
 ||spf-asia.com^
 ||spffusa.org^
@@ -103919,7 +103903,6 @@
 ||t.leady.com^
 ||t.leady.cz^
 ||t.lidyana.com^
-||t.mdn2015x1.com^
 ||t.melhorplano.net^
 ||t.menepe.com^
 ||t.my.jobs^
@@ -105176,7 +105159,6 @@
 ||televisionace.com^
 ||televisionjitter.com^
 ||telexhrzn.com^
-||telezgrm.work^
 ||telfar-france.fr^
 ||teliad.com^
 ||teliad.de^
@@ -112042,7 +112024,6 @@
 ||uspcworks.com^
 ||uspolitics.news^
 ||usps-mydeliver.com^
-||usps-mypackage.com^
 ||usps-online-safe.com^
 ||usps-online.com^
 ||usps-pt.com^
@@ -112953,7 +112934,6 @@
 ||velmaglendenning.ru.com^
 ||velocecdn.com^
 ||velocitycdn.com^
-||velocitypaperwork.com^
 ||velog.ru^
 ||velours24.nl^
 ||veloventures.com^
@@ -117287,8 +117267,6 @@
 ||wniamax.fr^
 ||wnjjhksaue.com^
 ||wnmaoc.xyz^
-||wnmyd8.postal.gameplansession.com^
-||wnojded.icu^
 ||wnrusisedprivatedq.info^
 ||wnrvrwabnxa.com^
 ||wnt-s0me-push.net^
@@ -119729,7 +119707,6 @@
 ||xx3h.com^
 ||xxa.uji8979erd77.jp^
 ||xxad.cc^
-||xxaks01081sspao.xyz^
 ||xxaks01091sspao.xyz^
 ||xxbeeilm.ru.gg^
 ||xxccdshj.com^
@@ -119881,7 +119858,6 @@
 ||y2sysv81v.com^
 ||y3.ifengimg.com^
 ||y3mpywhmem7t.live^
-||y3wfoz.postal.gameplansession.com^
 ||y494.wdsu.com^
 ||y512hr.onl.onlinetrees.co.uk^
 ||y54wdrg.com^
@@ -120096,6 +120072,7 @@
 ||ydwlkj.com^
 ||ydworld.com^
 ||ydwrkwwqytj.xyz^
+||ye.dun.163yun.com^
 ||ye185hcamw.com^
 ||yea.uploadimagex.com^
 ||yeabble.com^
@@ -120508,7 +120485,6 @@
 ||yoiur.com^
 ||yokananu.net^
 ||yokeeroud.com^
-||yokesandusj.sbs^
 ||yokonofrance.fr^
 ||yoli.my.id^
 ||yolkhandledwheels.com^
@@ -121710,7 +121686,6 @@
 ||zimpolo.com^
 ||zimu.nl^
 ||zinghouse.co.uk^
-||zingmp3.pro^
 ||zingshop.net^
 ||zinhice.shop^
 ||zinipx.xyz^

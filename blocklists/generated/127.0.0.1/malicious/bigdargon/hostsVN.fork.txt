@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jan 2025 22:53 UTC+7
-# Version: 2501092253
-# Blocked: 21.114 domains
+# Last modified: 09 Jan 2025 23:34 UTC+7
+# Version: 2501092334
+# Blocked: 21.125 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9404,6 +9404,7 @@
 127.0.0.1 app-shake.xml-eu.ak-is2.net
 127.0.0.1 app-shake.xs.ak-is2.net
 127.0.0.1 bappaads.xml.ak-is2.net
+127.0.0.1 cachegorilla.xml.ak-is2.net
 127.0.0.1 ctrtraffic.fs.ak-is2.net
 127.0.0.1 danarimedia.xml.ak-is2.net
 127.0.0.1 explorads.xml.ak-is2.net
@@ -11922,6 +11923,9 @@
 #[rtgio.co]
 127.0.0.1 insights.rtgio.co
 127.0.0.1 rtgio.co
+#[ttrk.io]
+127.0.0.1 ttrk.io
+127.0.0.1 wdc.ttrk.io
 # --- GroupVN block ---
 #[adtimaserver]
 127.0.0.1 adtimaserver.vn
@@ -14335,6 +14339,7 @@
 127.0.0.1 ademails.com
 127.0.0.1 adengage.com
 127.0.0.1 adentifi.com
+127.0.0.1 adeumssp.com
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexpose.com
@@ -15326,6 +15331,7 @@
 127.0.0.1 atmnjcinews.pro
 127.0.0.1 atonementwisely.com
 127.0.0.1 atp.io
+127.0.0.1 atrochaxctl.shop
 127.0.0.1 atsabwhkox.com
 127.0.0.1 atsvheqamd.com
 127.0.0.1 attractionbanana.com
@@ -15629,6 +15635,7 @@
 127.0.0.1 betotodilea.com
 127.0.0.1 betteradsystem.com
 127.0.0.1 bewilderedblade.com
+127.0.0.1 bfiauqscsotjcy.com
 127.0.0.1 bfijteodglun.com
 127.0.0.1 bg4nxu2u5t.com
 127.0.0.1 bhalukecky.com
@@ -15944,6 +15951,7 @@
 127.0.0.1 cassoonhins.tech
 127.0.0.1 cassoonspigot.com
 127.0.0.1 catvmuvkibud.com
+127.0.0.1 caugrithoowhu.net
 127.0.0.1 causecherry.com
 127.0.0.1 causlesscauslessdisapproval.com
 127.0.0.1 cautiouslyanalysecrystal.com
@@ -19805,6 +19813,7 @@
 127.0.0.1 qpeoctxiqaxw.com
 127.0.0.1 qquhzi4f3.com
 127.0.0.1 qrodufobzbav.com
+127.0.0.1 qruqon.com
 127.0.0.1 qskvfuiywah.com
 127.0.0.1 qthiqwum.com
 127.0.0.1 qtspkqzn.com
@@ -21041,6 +21050,7 @@
 127.0.0.1 tripphloems.com
 127.0.0.1 tristatemyo.com
 127.0.0.1 trix.net
+127.0.0.1 trk.twofeeds.com
 127.0.0.1 trk4ppl.com
 127.0.0.1 trmit.com
 127.0.0.1 trololopush2023push.com
@@ -21941,9 +21951,11 @@
 127.0.0.1 zrwpporp.com
 127.0.0.1 ztumuvofzbfe.com
 127.0.0.1 zubxukxkuot.com
+127.0.0.1 zucoagorsout.com
 127.0.0.1 zucqcozmv.com
 127.0.0.1 zudoldaclhug.com
 127.0.0.1 zugloopt.com
+127.0.0.1 zuisinchills.shop
 127.0.0.1 zumdivdwug.com
 127.0.0.1 zumobi.com
 127.0.0.1 zumrieth.com

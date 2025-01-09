@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jan 2025 22:53 UTC+7
-# Version: 2501092253
-# Blocked: 21.114 domains
+# Last modified: 09 Jan 2025 23:34 UTC+7
+# Version: 2501092334
+# Blocked: 21.125 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9404,6 +9404,7 @@ server=/ak-is2.net/
 server=/app-shake.xml-eu.ak-is2.net/
 server=/app-shake.xs.ak-is2.net/
 server=/bappaads.xml.ak-is2.net/
+server=/cachegorilla.xml.ak-is2.net/
 server=/ctrtraffic.fs.ak-is2.net/
 server=/danarimedia.xml.ak-is2.net/
 server=/explorads.xml.ak-is2.net/
@@ -11922,6 +11923,9 @@ server=/engine.adlogists.com/
 #[rtgio.co]
 server=/insights.rtgio.co/
 server=/rtgio.co/
+#[ttrk.io]
+server=/ttrk.io/
+server=/wdc.ttrk.io/
 # --- GroupVN block ---
 #[adtimaserver]
 server=/adtimaserver.vn/
@@ -14335,6 +14339,7 @@ server=/adecn.com/
 server=/ademails.com/
 server=/adengage.com/
 server=/adentifi.com/
+server=/adeumssp.com/
 server=/adexchangegate.com/
 server=/adexchangeprediction.com/
 server=/adexpose.com/
@@ -15326,6 +15331,7 @@ server=/atlassolutions.com/
 server=/atmnjcinews.pro/
 server=/atonementwisely.com/
 server=/atp.io/
+server=/atrochaxctl.shop/
 server=/atsabwhkox.com/
 server=/atsvheqamd.com/
 server=/attractionbanana.com/
@@ -15629,6 +15635,7 @@ server=/betonpolite.com/
 server=/betotodilea.com/
 server=/betteradsystem.com/
 server=/bewilderedblade.com/
+server=/bfiauqscsotjcy.com/
 server=/bfijteodglun.com/
 server=/bg4nxu2u5t.com/
 server=/bhalukecky.com/
@@ -15944,6 +15951,7 @@ server=/casmp.adperfect.com/
 server=/cassoonhins.tech/
 server=/cassoonspigot.com/
 server=/catvmuvkibud.com/
+server=/caugrithoowhu.net/
 server=/causecherry.com/
 server=/causlesscauslessdisapproval.com/
 server=/cautiouslyanalysecrystal.com/
@@ -19805,6 +19813,7 @@ server=/qp.ezfxpuo.cn/
 server=/qpeoctxiqaxw.com/
 server=/qquhzi4f3.com/
 server=/qrodufobzbav.com/
+server=/qruqon.com/
 server=/qskvfuiywah.com/
 server=/qthiqwum.com/
 server=/qtspkqzn.com/
@@ -21041,6 +21050,7 @@ server=/tripotbespit.digital/
 server=/tripphloems.com/
 server=/tristatemyo.com/
 server=/trix.net/
+server=/trk.twofeeds.com/
 server=/trk4ppl.com/
 server=/trmit.com/
 server=/trololopush2023push.com/
@@ -21941,9 +21951,11 @@ server=/zrorketica.com/
 server=/zrwpporp.com/
 server=/ztumuvofzbfe.com/
 server=/zubxukxkuot.com/
+server=/zucoagorsout.com/
 server=/zucqcozmv.com/
 server=/zudoldaclhug.com/
 server=/zugloopt.com/
+server=/zuisinchills.shop/
 server=/zumdivdwug.com/
 server=/zumobi.com/
 server=/zumrieth.com/
