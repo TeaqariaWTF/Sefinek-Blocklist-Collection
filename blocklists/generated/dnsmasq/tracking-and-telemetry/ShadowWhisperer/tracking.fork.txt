@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,337
-# Updated: 1/9/2025  12:24 (12:24 PM CST)
+# Domains: 96,341
+# Updated: 1/9/2025  14:49 (2:49 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16799,6 +16799,7 @@ server=/client-stats.warthunder.com/
 server=/client.stonewoodwealth.com/
 server=/clients.webstats.pl/
 server=/clients.wod.agency/
+server=/client-telemetry.hingeprod.net/
 server=/client-telemetry.roblox.com/
 server=/clienttracing-pa.googleapis.com/
 server=/clientupdatenw.com/
@@ -32003,6 +32004,7 @@ server=/kbxdj3trk.com/
 server=/kbzcg.ryzesuperfoods.com/
 server=/kc0trk.com/
 server=/kc-analytics.tlic.cmu.ac.th/
+server=/kcdboxthe-39.top/
 server=/kcecv.doctork.jp/
 server=/kcf.wowma.jp/
 server=/kcpa.kingcenter.com/
@@ -66785,6 +66787,7 @@ server=/rna.acdbio.com/
 server=/rnaanalytics.com/
 server=/rna.homedepot.com/
 server=/r.n.alpinstore.com/
+server=/rn-edge-46.top/
 server=/rnengage.com/
 server=/r.news2.rm.org.br/
 server=/r.news2.sgemworld.at/
@@ -90586,6 +90589,7 @@ server=/vp21atrk.com/
 server=/vpadn.com/
 server=/vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com/
 server=/vplan.com/
+server=/vpnetedge-24.top/
 server=/vpnur.com/
 server=/vpon.com/
 server=/vpptechnologies.com/
