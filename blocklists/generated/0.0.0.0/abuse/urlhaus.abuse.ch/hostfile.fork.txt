@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-09 04:23:06 (UTC)                      #
+# Last updated: 2025-01-09 06:22:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -35,7 +35,7 @@
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
-0.0.0.0 aosafrica.co.za
+0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
@@ -69,7 +69,6 @@
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bgptools-wildcard-confirmed.phanutom.com
 0.0.0.0 bgptools-wildcard-confirmed.phavtom-v3.com
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogorious.com
 0.0.0.0 booking.billchchkoutrequst.com
 0.0.0.0 botnet.sharkcdn.net
@@ -108,6 +107,7 @@
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
+0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
@@ -176,7 +176,7 @@
 0.0.0.0 information-binance.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
-0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 io-suite-web.com
 0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
@@ -185,6 +185,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 jpavuluri.com
 0.0.0.0 jrqh-hk.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 kasihcommunityschool.sch.id
 0.0.0.0 keyser-api.eu
@@ -204,6 +205,7 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lwaziacademy.com
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mail.kasihcommunityschool.sch.id
 0.0.0.0 maisonetcites.fr
@@ -231,7 +233,6 @@
 0.0.0.0 mon-dossier-renouvellement.com
 0.0.0.0 monformulaire-sante.com
 0.0.0.0 moonloaderupdate.ru
-0.0.0.0 mx9x.com
 0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
@@ -303,6 +304,7 @@
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
+0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
@@ -312,6 +314,7 @@
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 soportegira.net
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -385,6 +388,7 @@
 0.0.0.0 wt-tmp-1.top
 0.0.0.0 www.aerodromeabase.com
 0.0.0.0 www.alaqalezdehar.com
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -393,8 +397,8 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hootech.com
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.kasihcommunityschool.sch.id
 0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -406,7 +410,7 @@
 0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rnp.br.phanutom.com
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
@@ -437,4 +441,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 431
+# Number of entries: 435
