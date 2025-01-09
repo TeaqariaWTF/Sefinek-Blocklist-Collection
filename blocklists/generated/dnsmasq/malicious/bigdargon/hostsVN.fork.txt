@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jan 2025 15:58 UTC+7
-# Version: 2501091558
-# Blocked: 21.098 domains
+# Last modified: 09 Jan 2025 22:53 UTC+7
+# Version: 2501092253
+# Blocked: 21.114 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11916,6 +11916,12 @@ server=/w3-reporting.reddit.com/
 #[richaudience.com]
 server=/richaudience.com/
 server=/shb.richaudience.com/
+#[adlogists.com]
+server=/adlogists.com/
+server=/engine.adlogists.com/
+#[rtgio.co]
+server=/insights.rtgio.co/
+server=/rtgio.co/
 # --- GroupVN block ---
 #[adtimaserver]
 server=/adtimaserver.vn/
@@ -16166,6 +16172,7 @@ server=/clustrmaps.com/
 server=/clutchlilts.com/
 server=/cml.sad.ukrd.com/
 server=/cmuagflkeodx.com/
+server=/cn846.com/
 server=/cnomy.com/
 server=/cnt.spbland.ru/
 server=/coaphumewy.net/
@@ -19848,6 +19855,7 @@ server=/radiate.com/
 server=/radiumone.com/
 server=/ragboltstumble.com/
 server=/raggedstriking.com/
+server=/railingperformance.com/
 server=/railwayrainstorm.com/
 server=/rakamu.com/
 server=/rakjcoohcok.com/
@@ -20300,6 +20308,7 @@ server=/shareasale.com/
 server=/sharepointads.com/
 server=/sharppatch.com/
 server=/sharpsharkteeth.com/
+server=/shaughixefooz.net/
 server=/shauptab.net/
 server=/shebudriftaiter.net/
 server=/sheesoah.net/
@@ -21170,7 +21179,9 @@ server=/unthem.com/
 server=/untidyquestion.com/
 server=/untimburra.com/
 server=/untrendenam.com/
+server=/untrpyxkvibfq.com/
 server=/unugilpcyxoep.com/
+server=/unusuallypilgrim.com/
 server=/unusualtitle.com/
 server=/unwofulprewarm.life/
 server=/unwrittenspot.com/
@@ -22113,7 +22124,9 @@ server=/cmp.dmgmediaprivacy.co.uk/
 server=/cnt.xhamster.com/
 server=/cnzz.com/
 server=/cognitivlabs.com/
+server=/collect.analyse.lnearn.com/
 server=/collect.usefathom.com/
+server=/collect.verify.lnearn.com/
 server=/collector.githubapp.com/
 server=/collector.leaddyno.com/
 server=/collector.megaxh.com/
@@ -22184,6 +22197,7 @@ server=/ea.youmaker.com/
 server=/ebxcdn.com/
 server=/emltrk.com/
 server=/ethtrader.de/
+server=/event.getblue.io/
 server=/event.stat.wedobest.com.cn/
 server=/event.wedobest.com.cn/
 server=/eventgw.twilio.com/
@@ -22335,6 +22349,7 @@ server=/metric.picodi.com/
 server=/metric.picodi.net/
 server=/metricfast.com/
 server=/metricreceiver.cellrebel.com/
+server=/metrics.aimetric.net/
 server=/metrics.beyondwords.io/
 server=/metrics.brightcove.com/
 server=/metrics.cloudflarebolt.com/
@@ -22391,6 +22406,7 @@ server=/pixel.chaty.app/
 server=/pixel.gliacloud.com/
 server=/pixel.homeapp.team/
 server=/pixel.ipinfo.io/
+server=/pixel.mediamathrdrt.com/
 server=/pixel.nc0.co/
 server=/pixel.pointmediatracker.com/
 server=/pixel.s3xified.com/
@@ -22471,6 +22487,7 @@ server=/saspreview.com/
 server=/sc-static.net/
 server=/sc.pages03.net/
 server=/scaredsnakes.com/
+server=/scripts.mediamathrdrt.com/
 server=/sdk-monitoring.ogury.co/
 server=/sdk.airbridge.io/
 server=/sdk.conscent.in/
@@ -22616,6 +22633,7 @@ server=/tracker.vgame.us/
 server=/trackersimulator.org/
 server=/tracking-server-prod-1.zenmxapps.com/
 server=/tracking-user-behavior.meeyland.com/
+server=/tracking.aimetric.net/
 server=/tracking.apptrackerlink.com/
 server=/tracking.aws.judge.me/
 server=/tracking.bloomberg.com/

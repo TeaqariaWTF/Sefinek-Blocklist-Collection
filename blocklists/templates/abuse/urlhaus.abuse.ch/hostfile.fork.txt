@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-09 14:11:06 (UTC)                      #
+# Last updated: 2025-01-09 16:22:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,13 +15,14 @@
 0.0.0.0 2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.phavtom-v1.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 4fstore.comreform.phanutom.com
+0.0.0.0 6sz.ru
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 952cd7f5-55c2-472f-bc9d-08487ef75661.random.phavtom-v1.com
 0.0.0.0 99smoothfm.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aerodromeabase.com
@@ -39,10 +40,9 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
-0.0.0.0 api.hostize.com
-0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app.chalnlizt.org
 0.0.0.0 app.cihainlst.org
@@ -68,11 +68,9 @@
 0.0.0.0 avastpx.com
 0.0.0.0 avikamagencies.com
 0.0.0.0 banthis.su
-0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bgptools-wildcard-confirmed.phanutom.com
 0.0.0.0 bgptools-wildcard-confirmed.phavtom-v3.com
-0.0.0.0 bigbrothercreation.com
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogorious.com
 0.0.0.0 booking.billchchkoutrequst.com
@@ -92,7 +90,6 @@
 0.0.0.0 chromewebstore.google.comreform.phanutom.com
 0.0.0.0 cihainlst.org
 0.0.0.0 ciscocdn.com
-0.0.0.0 clustersf.com
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -104,7 +101,6 @@
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 cpanel.kasihcommunityschool.sch.id
-0.0.0.0 cpcalendars.kasihcommunityschool.sch.id
 0.0.0.0 cpcontacts.kasihcommunityschool.sch.id
 0.0.0.0 cpofficial.com
 0.0.0.0 credovsnra.com
@@ -121,6 +117,7 @@
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -141,7 +138,6 @@
 0.0.0.0 eandeconst.com
 0.0.0.0 eastdubuquelibrary.com
 0.0.0.0 ecolumy.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -161,7 +157,6 @@
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gleeads.com
-0.0.0.0 grupobramam.com.br
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hacker.kygtps.live
 0.0.0.0 hhynetwork.com
@@ -201,7 +196,9 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
+0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
 0.0.0.0 livetrack.in
@@ -253,7 +250,7 @@
 0.0.0.0 onsuitex.com
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
-0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
@@ -276,15 +273,14 @@
 0.0.0.0 pointaken.com
 0.0.0.0 portalonline-simplespgme.online
 0.0.0.0 portalreceitafazenda.com
-0.0.0.0 protechasia.com
 0.0.0.0 qdhaoge.com
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
 0.0.0.0 rappel-coinbase.com
+0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 re-capcha.cfd
@@ -301,9 +297,11 @@
 0.0.0.0 roonvar.com
 0.0.0.0 rtfkt.com-animus.app
 0.0.0.0 safe.ywxww.net
+0.0.0.0 sarahwillemart.com
 0.0.0.0 schytcdagl.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
@@ -317,11 +315,11 @@
 0.0.0.0 softcatalog.ru
 0.0.0.0 softconsolutions.com
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
+0.0.0.0 studioq202.com
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
@@ -348,7 +346,6 @@
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tintin.klipdesak.shop
-0.0.0.0 tjsemicoke.com
 0.0.0.0 togetherwecaninc.com
 0.0.0.0 toroking.xyz
 0.0.0.0 towerofbabble.net
@@ -360,7 +357,6 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 trust-walles.com
-0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
 0.0.0.0 uat-updates.gateway.ceair.com.81-cn.info
 0.0.0.0 up.maolaoban.top
@@ -374,7 +370,8 @@
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
-0.0.0.0 utorrent-backup-server3.top
+0.0.0.0 utorrent-backup-server4.top
+0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 v2-rubby.com
 0.0.0.0 v3-rabby.com
@@ -391,7 +388,6 @@
 0.0.0.0 wt-tmp-1.top
 0.0.0.0 www.aerodromeabase.com
 0.0.0.0 www.alaqalezdehar.com
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.aromaacres.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -408,7 +404,6 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kasihcommunityschool.sch.id
 0.0.0.0 www.lovlypets.com
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -421,6 +416,7 @@
 0.0.0.0 www.rnp.br.phanutom.com
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.sumiyuki.co.jp
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
@@ -449,5 +445,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
-0.0.0.0 zontricks.com
-# Number of entries: 444
+# Number of entries: 439
