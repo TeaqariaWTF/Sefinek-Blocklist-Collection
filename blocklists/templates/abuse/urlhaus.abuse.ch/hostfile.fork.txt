@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-10 20:24:43 (UTC)                      #
+# Last updated: 2025-01-10 22:12:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
 0.0.0.0 912648.aioc.qbgxl.com
@@ -16,8 +17,6 @@
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
-0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 adresse-confirmation.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -31,14 +30,13 @@
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 anonhax.site
 0.0.0.0 ansopharma.com
-0.0.0.0 aosafrica.co.za
 0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
-0.0.0.0 app.chalnlizt.org
 0.0.0.0 armanayegh.com
 0.0.0.0 aromaacres.com
 0.0.0.0 assuresform.com
@@ -54,6 +52,7 @@
 0.0.0.0 avastpx.com
 0.0.0.0 avikamagencies.com
 0.0.0.0 banthis.su
+0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bigbrothercreation.com
 0.0.0.0 bitkiselurunsiparis.com
@@ -65,6 +64,7 @@
 0.0.0.0 chernobyl.stressing.world
 0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
+0.0.0.0 cipherbase.net
 0.0.0.0 ciscocdn.com
 0.0.0.0 clustersf.com
 0.0.0.0 cmgtrading.eu
@@ -79,7 +79,6 @@
 0.0.0.0 cpcalendars.kasihcommunityschool.sch.id
 0.0.0.0 cpcontacts.kasihcommunityschool.sch.id
 0.0.0.0 cpofficial.com
-0.0.0.0 credovsnra.com
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
@@ -93,14 +92,12 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -118,7 +115,6 @@
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
-0.0.0.0 f2pverifynow.com
 0.0.0.0 ferrydero.com
 0.0.0.0 fexe-tmp-1.top
 0.0.0.0 file.blackint3.com
@@ -142,8 +138,6 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
-0.0.0.0 hseda.com
-0.0.0.0 human-bot-view.chalnlizt.org
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 ibncx.chain.buyclosersonline.com
@@ -153,11 +147,12 @@
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 jaffarkhan.com
+0.0.0.0 inspirepk.org
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
+0.0.0.0 jpavuluri.com
 0.0.0.0 jrqh-hk.com
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
@@ -169,13 +164,12 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
 0.0.0.0 livetrack.in
 0.0.0.0 lnbox.biz
+0.0.0.0 lnbox.online
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
@@ -194,6 +188,7 @@
 0.0.0.0 messiku.com
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
+0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
 0.0.0.0 mingleyou.top
@@ -206,7 +201,6 @@
 0.0.0.0 mjsqurej.com
 0.0.0.0 mon-dossier-renouvellement.com
 0.0.0.0 monformulaire-sante.com
-0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mx9x.com
 0.0.0.0 myguyapp.com
 0.0.0.0 myhermes-dienste.com
@@ -227,6 +221,7 @@
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
+0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pimmes.com
 0.0.0.0 pns.org.pk
@@ -238,7 +233,6 @@
 0.0.0.0 qdhph1014.top
 0.0.0.0 qdhph1015.top
 0.0.0.0 qdhph1231.top
-0.0.0.0 qdhph926am.top
 0.0.0.0 qdmain0106.top
 0.0.0.0 qdmainam1202.top
 0.0.0.0 qdmainam1203.top
@@ -265,13 +259,11 @@
 0.0.0.0 qdwlj1108am.top
 0.0.0.0 qdwlj1109am.top
 0.0.0.0 qdwlj1110am.top
-0.0.0.0 qdwlj1111am.top
 0.0.0.0 qdwlj1112am.top
 0.0.0.0 qdwlj1113am.top
 0.0.0.0 qdwlj1114am.top
 0.0.0.0 qdwlj1115am.top
 0.0.0.0 qdwlj1116am.top
-0.0.0.0 qdwlj1117am.top
 0.0.0.0 qdwlj1118am.top
 0.0.0.0 qdwlj1121am.top
 0.0.0.0 qdwlj1122am.top
@@ -297,9 +289,7 @@
 0.0.0.0 qdwlj1224.top
 0.0.0.0 qdwlj1225.top
 0.0.0.0 qdwlj1226.top
-0.0.0.0 qdwlj1227.top
 0.0.0.0 qdwlj1228.top
-0.0.0.0 qdwlj1229.top
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -311,7 +301,6 @@
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
-0.0.0.0 realbenies.com
 0.0.0.0 rebateit.net
 0.0.0.0 recaptcha-process.com
 0.0.0.0 reifenquick.de
@@ -325,7 +314,6 @@
 0.0.0.0 sarahwillemart.com
 0.0.0.0 schytcdagl.com
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
@@ -340,7 +328,6 @@
 0.0.0.0 softconsolutions.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 studioq202.com
@@ -349,6 +336,7 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 symbiatec-fi.com
+0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
@@ -359,19 +347,20 @@
 0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.aionclassic.pro
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tintin.klipdesak.shop
+0.0.0.0 tjsemicoke.com
 0.0.0.0 togetherwecaninc.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
-0.0.0.0 transfer.ch.tools
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
@@ -385,6 +374,7 @@
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
+0.0.0.0 us7.info
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
@@ -413,7 +403,6 @@
 0.0.0.0 www.dynamicoupon.com
 0.0.0.0 www.eandeconst.com
 0.0.0.0 www.fexe-tmp-1.top
-0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.gleeads.com
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hootech.com
@@ -422,12 +411,16 @@
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.onirstore.com
+0.0.0.0 www.opolis.io
+0.0.0.0 www.playchees.com
 0.0.0.0 www.pointaken.com
 0.0.0.0 www.portalreceitafazenda.com
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rphingenieria.com
+0.0.0.0 www.softconsolutions.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
@@ -435,6 +428,7 @@
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.v2-rubby.com
 0.0.0.0 www.webaap2.site
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
@@ -452,8 +446,9 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
 0.0.0.0 zzz.hnyzh.co
-# Number of entries: 450
+# Number of entries: 445
