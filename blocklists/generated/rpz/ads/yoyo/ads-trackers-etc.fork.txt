@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025010301 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025011001 43200 3600 259200 300
   NS  localhost.
 1-1ads.com CNAME .
 *.1-1ads.com CNAME .
@@ -2261,8 +2261,6 @@ blogtoplist.se CNAME .
 *.blogtoplist.se CNAME .
 blogtopsites.com CNAME .
 *.blogtopsites.com CNAME .
-blueadvertise.com CNAME .
-*.blueadvertise.com CNAME .
 blueconic.com CNAME .
 *.blueconic.com CNAME .
 blueconic.net CNAME .
@@ -3489,8 +3487,6 @@ ga.clearbit.com CNAME .
 *.ga.clearbit.com CNAME .
 gadsbee.com CNAME .
 *.gadsbee.com CNAME .
-galaxien.com CNAME .
-*.galaxien.com CNAME .
 game-advertising-online.com CNAME .
 *.game-advertising-online.com CNAME .
 gamesites100.net CNAME .
@@ -4101,8 +4097,6 @@ lfeeder.com CNAME .
 *.lfeeder.com CNAME .
 lfstmedia.com CNAME .
 *.lfstmedia.com CNAME .
-lgad.cjpowercast.com.edgesuite.net CNAME .
-*.lgad.cjpowercast.com.edgesuite.net CNAME .
 lgsmartad.com CNAME .
 *.lgsmartad.com CNAME .
 li.alibris.com CNAME .

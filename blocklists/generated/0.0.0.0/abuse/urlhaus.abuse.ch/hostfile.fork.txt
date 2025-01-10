@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-10 12:35:09 (UTC)                      #
+# Last updated: 2025-01-10 14:16:38 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,6 +14,7 @@
 0.0.0.0 6sz.ru
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 99smoothfm.com
+0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
@@ -24,13 +25,13 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 anonhax.site
 0.0.0.0 ansopharma.com
+0.0.0.0 aosafrica.co.za
 0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
@@ -43,7 +44,6 @@
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
-0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
@@ -71,7 +71,6 @@
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contablegbv.shop
@@ -87,12 +86,11 @@
 0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
-0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -101,10 +99,9 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 drefunder10.analisadorhematologico.sbs
 0.0.0.0 dynamicoupon.com
@@ -168,7 +165,6 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
@@ -181,7 +177,6 @@
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
-0.0.0.0 mail.kasihcommunityschool.sch.id
 0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 masclauxtoitures.fr
@@ -213,6 +208,7 @@
 0.0.0.0 myhermes-versand.net
 0.0.0.0 mypackagingups.com
 0.0.0.0 mystartherehosting.net
+0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
@@ -234,21 +230,19 @@
 0.0.0.0 qdcdn1228.top
 0.0.0.0 qdhaoge.com
 0.0.0.0 qdhph1013.top
-0.0.0.0 qdhph1014.top
 0.0.0.0 qdhph1015.top
 0.0.0.0 qdhph1231.top
+0.0.0.0 qdhph926am.top
 0.0.0.0 qdmain0106.top
 0.0.0.0 qdmainam1202.top
 0.0.0.0 qdmainam1203.top
 0.0.0.0 qdmainam1204.top
 0.0.0.0 qdmainam1205.top
 0.0.0.0 qdmainam1207.top
-0.0.0.0 qdwlj1017am.top
-0.0.0.0 qdwlj1018am.top
 0.0.0.0 qdwlj1020.top
 0.0.0.0 qdwlj1022am.top
 0.0.0.0 qdwlj1023am.top
-0.0.0.0 qdwlj1027am.top
+0.0.0.0 qdwlj1024am.top
 0.0.0.0 qdwlj1028am.top
 0.0.0.0 qdwlj1030am.top
 0.0.0.0 qdwlj1031am.top
@@ -262,6 +256,7 @@
 0.0.0.0 qdwlj1108am.top
 0.0.0.0 qdwlj1109am.top
 0.0.0.0 qdwlj1110am.top
+0.0.0.0 qdwlj1111am.top
 0.0.0.0 qdwlj1112am.top
 0.0.0.0 qdwlj1113am.top
 0.0.0.0 qdwlj1114am.top
@@ -299,6 +294,7 @@
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
 0.0.0.0 rb3.ftnt.io
@@ -323,16 +319,16 @@
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
 0.0.0.0 sfa.com.ar
-0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soccerimg.com
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 softconsolutions.com
+0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -345,10 +341,12 @@
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
+0.0.0.0 tao221.com
 0.0.0.0 tao816.com
 0.0.0.0 tao886.com
 0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
+0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -356,6 +354,7 @@
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.aionclassic.pro
 0.0.0.0 tianyinsoft.top
+0.0.0.0 tiaoshibao.com
 0.0.0.0 tintin.klipdesak.shop
 0.0.0.0 tjsemicoke.com
 0.0.0.0 togetherwecaninc.com
@@ -372,6 +371,7 @@
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update-appstore.com
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
@@ -381,10 +381,10 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 versyasist.online
 0.0.0.0 versyasist.pics
+0.0.0.0 versyasist.sbs
 0.0.0.0 versyasist.website
 0.0.0.0 web.klipdywoziy.shop
 0.0.0.0 webdisk.kasihcommunityschool.sch.id
@@ -396,7 +396,7 @@
 0.0.0.0 wiso-fs-1.top
 0.0.0.0 wt-tmp-1.top
 0.0.0.0 www.12515a.top
-0.0.0.0 www.aqianniao.com
+0.0.0.0 www.alaqalezdehar.com
 0.0.0.0 www.aromaacres.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -410,18 +410,18 @@
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.kasihcommunityschool.sch.id
+0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.playchees.com
 0.0.0.0 www.pointaken.com
-0.0.0.0 www.portalreceitafazenda.com
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rphingenieria.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -444,8 +444,9 @@
 0.0.0.0 xn--vitale-espace--niveau-0zb.com
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
 0.0.0.0 zzz.hnyzh.co
-# Number of entries: 442
+# Number of entries: 443
