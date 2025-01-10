@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025010801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025011001 43200 3600 259200 300
   NS  localhost.
 0.myikas.com CNAME .
 *.0.myikas.com CNAME .
@@ -17013,6 +17013,8 @@ collector.schibsted.io CNAME .
 *.collector.schibsted.io CNAME .
 collector.sspinc.io CNAME .
 *.collector.sspinc.io CNAME .
+collector.t-idr.com CNAME .
+*.collector.t-idr.com CNAME .
 collector.taoxh.life CNAME .
 *.collector.taoxh.life CNAME .
 collector.wawlabs.com CNAME .

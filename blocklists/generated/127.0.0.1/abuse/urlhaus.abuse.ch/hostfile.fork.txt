@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-10 01:44:06 (UTC)                      #
+# Last updated: 2025-01-10 02:50:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,7 +12,6 @@
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 6sz.ru
 127.0.0.1 912648.aioc.qbgxl.com
-127.0.0.1 99smoothfm.com
 127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
@@ -34,6 +33,7 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 apcmidland.com
 127.0.0.1 api.accueil-coinbase.com
+127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -91,17 +91,18 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
+127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 djhyzhicai.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
-127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
+127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
@@ -127,17 +128,15 @@
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 funletters.net
 127.0.0.1 furryporn.top
-127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
 127.0.0.1 gleeads.com
+127.0.0.1 gokujoutabi.com
 127.0.0.1 grupobramam.com.br
 127.0.0.1 guichet-bpost.com
 127.0.0.1 hacker.kygtps.live
-127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
-127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 human-bot-view.chalnlizt.org
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
@@ -158,8 +157,10 @@
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 kasihcommunityschool.sch.id
+127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 khelokhudo.com
+127.0.0.1 kiemthehuyenlong.com
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
@@ -172,12 +173,14 @@
 127.0.0.1 lnbox.biz
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
+127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 lwaziacademy.com
+127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 mail.kasihcommunityschool.sch.id
 127.0.0.1 maisonetcites.fr
 127.0.0.1 mandarin.net.au
-127.0.0.1 masclauxtoitures.fr
 127.0.0.1 mbsngradnja.com
 127.0.0.1 mcafeeretailcard.net
 127.0.0.1 mertvinc.com.tr
@@ -207,11 +210,11 @@
 127.0.0.1 mystartherehosting.net
 127.0.0.1 namthaibinh.net
 127.0.0.1 new-consigne-sms-track.com
+127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 onirstore.com
 127.0.0.1 organisme-renouvellement.com
-127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
@@ -223,6 +226,7 @@
 127.0.0.1 pns.org.pk
 127.0.0.1 pointaken.com
 127.0.0.1 protechasia.com
+127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanlyphongnet.com
@@ -307,6 +311,7 @@
 127.0.0.1 upload.vina-host.com
 127.0.0.1 ups-zolldienst.com
 127.0.0.1 utorrent-backup-server.top
+127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-servers.xyz
@@ -376,6 +381,5 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
-# Number of entries: 372
+# Number of entries: 376
