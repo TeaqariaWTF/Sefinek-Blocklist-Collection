@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025010901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025011001 43200 3600 259200 300
   NS  localhost.
 007-dvd.com CNAME .
 *.007-dvd.com CNAME .
@@ -2727,6 +2727,8 @@ bdsmtreffen.at CNAME .
 *.bdsmtreffen.at CNAME .
 bdsmzentrale.com CNAME .
 *.bdsmzentrale.com CNAME .
+beaccustomed.com CNAME .
+*.beaccustomed.com CNAME .
 beagledoglovers.com CNAME .
 *.beagledoglovers.com CNAME .
 beagleklinkers.com CNAME .
@@ -6429,6 +6431,8 @@ compraroxicodonaenlinea.com CNAME .
 *.compraroxicodonaenlinea.com CNAME .
 comprar-reductil.net CNAME .
 *.comprar-reductil.net CNAME .
+comprehensie.com CNAME .
+*.comprehensie.com CNAME .
 comprhnsion.com CNAME .
 *.comprhnsion.com CNAME .
 computeroids.com CNAME .
