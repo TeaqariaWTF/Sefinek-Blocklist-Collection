@@ -1,9 +1,9 @@
-# Version: 202501101609
+# Version: 202501101709
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 122834
-# Last modified: 2025-01-10T16:09:19+0000
+! Entries: 122835
+# Last modified: 2025-01-10T17:09:11+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -16977,6 +16977,7 @@
 127.0.0.1 asp.brightmachine.uk
 127.0.0.1 asp.dimileeh.com
 127.0.0.1 asp.goodpa.co.uk
+127.0.0.1 asp.m-live.jp
 127.0.0.1 asp.podlist.de
 127.0.0.1 asp.rikkeekelund.com
 127.0.0.1 asp.sepiasoft.eu
