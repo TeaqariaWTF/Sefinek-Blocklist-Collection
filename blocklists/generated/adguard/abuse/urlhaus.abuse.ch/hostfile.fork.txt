@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-10 22:12:22 (UTC)                      !
+! Last updated: 2025-01-11 01:39:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -9,7 +9,6 @@
 ||123.ywxww.net^
 ||139520.aioc.qbgxl.com^
 ||1717.1000uc.com^
-||2.haory.cn^
 ||360down7.miiyun.cn^
 ||6sz.ru^
 ||912648.aioc.qbgxl.com^
@@ -17,6 +16,8 @@
 ||abissnet.net^
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
+||adf6.adf6.com^
+||admin.aishangzhua.com^
 ||adresse-confirmation.com^
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
@@ -30,6 +31,7 @@
 ||amende-stationnement-suivis.com^
 ||anonhax.site^
 ||ansopharma.com^
+||aosafrica.co.za^
 ||apcmidland.com^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
@@ -62,7 +64,6 @@
 ||cdaonline.com.ar^
 ||centre-de-tri-ups.com^
 ||chernobyl.stressing.world^
-||chinaapper.com^
 ||chmod0777kk.com^
 ||cipherbase.net^
 ||ciscocdn.com^
@@ -79,9 +80,9 @@
 ||cpcalendars.kasihcommunityschool.sch.id^
 ||cpcontacts.kasihcommunityschool.sch.id^
 ||cpofficial.com^
+||credovsnra.com^
 ||crystalpvp.ru^
 ||csg-app.com^
-||dangtienluc.com^
 ||data.yhydl.com^
 ||dazhongyao.com^
 ||dcwblida.dz^
@@ -89,15 +90,16 @@
 ||device.redirec.com^
 ||dhnconstrucciones.com.ar^
 ||dienstmyhermes.de^
-||disk.accord1key.cn^
 ||divvanews.com^
 ||djhyzhicai.com^
+||dl.aginjector.com^
 ||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
+||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
@@ -105,7 +107,6 @@
 ||download.haozip.com^
 ||download.suxiazai.com^
 ||downsexv.com^
-||drefunder10.analisadorhematologico.sbs^
 ||dynamicoupon.com^
 ||e4l4.com^
 ||eandeconst.com^
@@ -115,6 +116,7 @@
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
 ||espacesantefr-assurance.com^
+||f2pverifynow.com^
 ||ferrydero.com^
 ||fexe-tmp-1.top^
 ||file.blackint3.com^
@@ -140,7 +142,6 @@
 ||hr2019.vrcom7.com^
 ||huyanhnongdo.io.vn^
 ||hwebprint.com^
-||ibncx.chain.buyclosersonline.com^
 ||imtoken8.cc^
 ||info-paiement-ligne.com^
 ||information-binance.com^
@@ -148,6 +149,7 @@
 ||informationversand.com^
 ||ini.sh-pp.com^
 ||inspirepk.org^
+||jaffarkhan.com^
 ||jahez.me^
 ||javierlopez.eu^
 ||jobcity.com^
@@ -164,8 +166,9 @@
 ||knightsinshiningarmor.net^
 ||kypeti.com^
 ||lafilledemavie.com^
+||library.arihantmbainstitute.ac.in^
 ||lieferdienste-deutsche.com^
-||linkvilleplayers.org^
+||lindnerelektroanlagen.de^
 ||live-sendungsverfolgung.com^
 ||livetrack.in^
 ||lnbox.biz^
@@ -190,7 +193,6 @@
 ||microprocessordesignbook.com^
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
-||miner-tolken.com^
 ||mingleyou.top^
 ||minu-pakk.com^
 ||minupakk.com^
@@ -201,6 +203,7 @@
 ||mjsqurej.com^
 ||mon-dossier-renouvellement.com^
 ||monformulaire-sante.com^
+||moonloaderupdate.ru^
 ||mx9x.com^
 ||myguyapp.com^
 ||myhermes-dienste.com^
@@ -219,7 +222,6 @@
 ||palharesinformatica.com.br^
 ||paonancs.cn^
 ||park.chuitian.cn^
-||passagetoeastafrica.com^
 ||pb.agnt.ru^
 ||pid.fly160.com^
 ||pilzmacher.com^
@@ -227,12 +229,16 @@
 ||pns.org.pk^
 ||pointaken.com^
 ||protechasia.com^
+||qdcdn1015.top^
 ||qdcdn1228.top^
 ||qdhaoge.com^
 ||qdhph1013.top^
 ||qdhph1014.top^
 ||qdhph1015.top^
+||qdhph1016.top^
+||qdhph1017.top^
 ||qdhph1231.top^
+||qdhph926am.top^
 ||qdmain0106.top^
 ||qdmainam1202.top^
 ||qdmainam1203.top^
@@ -244,6 +250,7 @@
 ||qdwlj1020.top^
 ||qdwlj1022am.top^
 ||qdwlj1023am.top^
+||qdwlj1024.top^
 ||qdwlj1024am.top^
 ||qdwlj1027am.top^
 ||qdwlj1028am.top^
@@ -259,11 +266,13 @@
 ||qdwlj1108am.top^
 ||qdwlj1109am.top^
 ||qdwlj1110am.top^
+||qdwlj1111am.top^
 ||qdwlj1112am.top^
 ||qdwlj1113am.top^
 ||qdwlj1114am.top^
 ||qdwlj1115am.top^
 ||qdwlj1116am.top^
+||qdwlj1117am.top^
 ||qdwlj1118am.top^
 ||qdwlj1121am.top^
 ||qdwlj1122am.top^
@@ -289,18 +298,21 @@
 ||qdwlj1224.top^
 ||qdwlj1225.top^
 ||qdwlj1226.top^
+||qdwlj1227.top^
 ||qdwlj1228.top^
+||qdwlj1229.top^
 ||qed245t3kreiscryoz-gueterslohewr33w.de^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
-||quevalencia.com^
+||rainstorm.cyou^
 ||rappel-coinbase.com^
 ||rb3.ftnt.io^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
+||realbenies.com^
 ||rebateit.net^
 ||recaptcha-process.com^
 ||reifenquick.de^
@@ -309,15 +321,16 @@
 ||reusable-flex.com^
 ||ronnin-v2.com^
 ||roofmanagementlnc.com^
-||roonvar.com^
 ||safe.ywxww.net^
 ||sarahwillemart.com^
 ||schytcdagl.com^
 ||security-service-api-link.cc^
+||seniorcomc.sslblindado.com^
 ||ser.nrovn.xyz^
 ||service-espace-sante.com^
 ||servvital.com^
 ||sfa.com.ar^
+||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
 ||sinupakk.net^
@@ -326,17 +339,15 @@
 ||soft.110route.com^
 ||softcatalog.ru^
 ||softconsolutions.com^
-||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
+||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
-||studioq202.com^
 ||support-abonnement.com^
 ||support-colis-info.com^
 ||support.clz.kr^
 ||supportameli.top^
 ||symbiatec-fi.com^
-||symbietic.com^
 ||symdlotic.com^
 ||tao025.com^
 ||tao221.com^
@@ -350,10 +361,8 @@
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
-||test.aionclassic.pro^
 ||tianyinsoft.top^
 ||tiaoshibao.com^
-||tintin.klipdesak.shop^
 ||tjsemicoke.com^
 ||togetherwecaninc.com^
 ||towerofbabble.net^
@@ -361,6 +370,7 @@
 ||tracking-suivie.com^
 ||trackpacking-ups.com^
 ||traefik-dashboard.val.io.vn^
+||transfer.ch.tools^
 ||travelwithmanta.co.za^
 ||treinamento.convenio.to.gov.br^
 ||tricazo.com^
@@ -379,11 +389,13 @@
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
+||utorrent-backup-server5.top^
 ||utorrent-servers.xyz^
 ||valseg.com.br^
-||versyasist.online^
+||versyasist.guru^
 ||versyasist.pics^
-||versyasist.website^
+||versyasist.sbs^
+||versyasist.space^
 ||web.klipdywoziy.shop^
 ||webdisk.kasihcommunityschool.sch.id^
 ||webhook.my^
@@ -403,11 +415,14 @@
 ||www.dynamicoupon.com^
 ||www.eandeconst.com^
 ||www.fexe-tmp-1.top^
+||www.flechabusretiro.com.ar^
 ||www.gleeads.com^
 ||www.globallaborsupply.com^
 ||www.hootech.com^
 ||www.hseda.com^
+||www.ingonherbal.com^
 ||www.kasihcommunityschool.sch.id^
+||www.lovlypets.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.ojang.pe.kr^
@@ -435,7 +450,6 @@
 ||wz.3911.com^
 ||xanaxspoofer.com^
 ||xiangshunjy.com^
-||xiangtanjk.com^
 ||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--ameli--niveau-sms-tob.com^
@@ -451,4 +465,4 @@
 ||zoamaster.com^
 ||zontricks.com^
 ||zzz.hnyzh.co^
-! Number of entries: 445
+! Number of entries: 459

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011001 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025011101 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -42221,6 +42221,8 @@ golneypread.tk CNAME .
 *.golneypread.tk CNAME .
 golobster.com CNAME .
 *.golobster.com CNAME .
+gologin.cc CNAME .
+*.gologin.cc CNAME .
 golokait.com CNAME .
 *.golokait.com CNAME .
 golpeavisa.com CNAME .
@@ -86983,6 +86985,8 @@ sneakyreviews.com CNAME .
 *.sneakyreviews.com CNAME .
 snece.com CNAME .
 *.snece.com CNAME .
+sneed.my CNAME .
+*.sneed.my CNAME .
 snehadas.rocks CNAME .
 *.snehadas.rocks CNAME .
 snehadas.site CNAME .
