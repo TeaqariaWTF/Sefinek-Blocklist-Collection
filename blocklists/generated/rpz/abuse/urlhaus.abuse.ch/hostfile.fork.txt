@@ -7,6 +7,8 @@ $TTL 300
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
+2.haory.cn CNAME .
+*.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 6sz.ru CNAME .
@@ -63,8 +65,6 @@ api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
-api.information-binance.com CNAME .
-*.api.information-binance.com CNAME .
 api.rappel-coinbase.com CNAME .
 *.api.rappel-coinbase.com CNAME .
 armanayegh.com CNAME .
@@ -109,8 +109,6 @@ blogorious.com CNAME .
 *.blogorious.com CNAME .
 buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
-catbaparadisehotel.com.vn CNAME .
-*.catbaparadisehotel.com.vn CNAME .
 cdaonline.com.ar CNAME .
 *.cdaonline.com.ar CNAME .
 centre-de-tri-ups.com CNAME .
@@ -155,6 +153,8 @@ crystalpvp.ru CNAME .
 *.crystalpvp.ru CNAME .
 csg-app.com CNAME .
 *.csg-app.com CNAME .
+dangtienluc.com CNAME .
+*.dangtienluc.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
 dazhongyao.com CNAME .
@@ -175,8 +175,6 @@ djhyzhicai.com CNAME .
 *.djhyzhicai.com CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
-dl.natgo.cn CNAME .
-*.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
 *.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
@@ -217,8 +215,6 @@ elisans.novayonetim.com CNAME .
 *.elisans.novayonetim.com CNAME .
 eoufaoeuhoauengi.su CNAME .
 *.eoufaoeuhoauengi.su CNAME .
-epanpano.com CNAME .
-*.epanpano.com CNAME .
 espacesantefr-assurance.com CNAME .
 *.espacesantefr-assurance.com CNAME .
 f2pverifynow.com CNAME .
@@ -253,8 +249,6 @@ gleeads.com CNAME .
 *.gleeads.com CNAME .
 gokujoutabi.com CNAME .
 *.gokujoutabi.com CNAME .
-grupobramam.com.br CNAME .
-*.grupobramam.com.br CNAME .
 guichet-bpost.com CNAME .
 *.guichet-bpost.com CNAME .
 hacker.kygtps.live CNAME .
@@ -327,6 +321,8 @@ lieferdienste-deutsche.com CNAME .
 *.lieferdienste-deutsche.com CNAME .
 lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
+linkvilleplayers.org CNAME .
+*.linkvilleplayers.org CNAME .
 live-sendungsverfolgung.com CNAME .
 *.live-sendungsverfolgung.com CNAME .
 livetrack.in CNAME .
@@ -349,8 +345,6 @@ m.gutousoft.com CNAME .
 *.m.gutousoft.com CNAME .
 maciejowice.dobrybip.pl CNAME .
 *.maciejowice.dobrybip.pl CNAME .
-mail.kasihcommunityschool.sch.id CNAME .
-*.mail.kasihcommunityschool.sch.id CNAME .
 maisonetcites.fr CNAME .
 *.maisonetcites.fr CNAME .
 mandarin.net.au CNAME .
@@ -375,6 +369,8 @@ microsoft-analyse.com CNAME .
 *.microsoft-analyse.com CNAME .
 microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
+miner-tolken.com CNAME .
+*.miner-tolken.com CNAME .
 mingleyou.top CNAME .
 *.mingleyou.top CNAME .
 minu-pakk.com CNAME .
@@ -411,8 +407,6 @@ mypackagingups.com CNAME .
 *.mypackagingups.com CNAME .
 mystartherehosting.net CNAME .
 *.mystartherehosting.net CNAME .
-namthaibinh.net CNAME .
-*.namthaibinh.net CNAME .
 new-consigne-sms-track.com CNAME .
 *.new-consigne-sms-track.com CNAME .
 noithaticon.vn CNAME .
@@ -433,6 +427,8 @@ paonancs.cn CNAME .
 *.paonancs.cn CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
+passagetoeastafrica.com CNAME .
+*.passagetoeastafrica.com CNAME .
 pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 pid.fly160.com CNAME .
@@ -451,8 +447,6 @@ qdcdn1015.top CNAME .
 *.qdcdn1015.top CNAME .
 qdcdn1228.top CNAME .
 *.qdcdn1228.top CNAME .
-qdhaoge.com CNAME .
-*.qdhaoge.com CNAME .
 qdhph1013.top CNAME .
 *.qdhph1013.top CNAME .
 qdhph1014.top CNAME .
@@ -603,6 +597,8 @@ quanly.jxmienphi.net CNAME .
 *.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
 *.quanlyphongnet.com CNAME .
+quevalencia.com CNAME .
+*.quevalencia.com CNAME .
 rainstorm.cyou CNAME .
 *.rainstorm.cyou CNAME .
 rappel-coinbase.com CNAME .
@@ -663,8 +659,6 @@ soccerimg.com CNAME .
 *.soccerimg.com CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
-softcatalog.ru CNAME .
-*.softcatalog.ru CNAME .
 softconsolutions.com CNAME .
 *.softconsolutions.com CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
@@ -675,6 +669,8 @@ stdown.dinju.com CNAME .
 *.stdown.dinju.com CNAME .
 storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
+studioq202.com CNAME .
+*.studioq202.com CNAME .
 support-abonnement.com CNAME .
 *.support-abonnement.com CNAME .
 support-colis-info.com CNAME .
@@ -685,6 +681,8 @@ supportameli.top CNAME .
 *.supportameli.top CNAME .
 symbiatec-fi.com CNAME .
 *.symbiatec-fi.com CNAME .
+symbietic.com CNAME .
+*.symbietic.com CNAME .
 symdlotic.com CNAME .
 *.symdlotic.com CNAME .
 tao025.com CNAME .
@@ -803,8 +801,6 @@ wt-tmp-1.top CNAME .
 *.12515a.top CNAME .
 alaqalezdehar.com CNAME .
 *.alaqalezdehar.com CNAME .
-aqianniao.com CNAME .
-*.aqianniao.com CNAME .
 beiletoys.com CNAME .
 *.beiletoys.com CNAME .
 blackhattoolz.com CNAME .
