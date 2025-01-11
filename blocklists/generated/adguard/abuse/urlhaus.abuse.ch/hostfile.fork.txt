@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-11 12:36:06 (UTC)                      !
+! Last updated: 2025-01-11 14:19:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -16,6 +16,7 @@
 ||abissnet.net^
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
+||adf6.adf6.com^
 ||adresse-confirmation.com^
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
@@ -30,6 +31,7 @@
 ||anonhax.site^
 ||ansopharma.com^
 ||aosafrica.co.za^
+||apcmidland.com^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
@@ -42,7 +44,6 @@
 ||aulist.com^
 ||avastcxp.com^
 ||avastcxt.com^
-||avastexodus.com^
 ||avastmetamask.com^
 ||avastng.com^
 ||avastop.com^
@@ -57,9 +58,9 @@
 ||bitkiselurunsiparis.com^
 ||blogorious.com^
 ||buscascolegios.diit.cl^
+||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
 ||centre-de-tri-ups.com^
-||chernobyl.stressing.world^
 ||chinaapper.com^
 ||chmod0777kk.com^
 ||cipherbase.net^
@@ -82,6 +83,7 @@
 ||csg-app.com^
 ||dangtienluc.com^
 ||data.yhydl.com^
+||dazhongyao.com^
 ||dcwblida.dz^
 ||deauduafzgezzfgm.top^
 ||device.redirec.com^
@@ -92,6 +94,7 @@
 ||djhyzhicai.com^
 ||dl.aginjector.com^
 ||dl.natgo.cn^
+||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||dow.andylab.cn^
@@ -101,6 +104,7 @@
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
+||download.haozip.com^
 ||download.suxiazai.com^
 ||downsexv.com^
 ||dynamicoupon.com^
@@ -108,8 +112,8 @@
 ||eandeconst.com^
 ||eastdubuquelibrary.com^
 ||ecolumy.com^
+||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
-||epanpano.com^
 ||espacesantefr-assurance.com^
 ||f2pverifynow.com^
 ||ferrydero.com^
@@ -127,19 +131,22 @@
 ||gawx.florenda.com^
 ||gleeads.com^
 ||gokujoutabi.com^
+||grupobramam.com.br^
 ||guichet-bpost.com^
 ||hhynetwork.com^
 ||hitman-pro.ru^
+||hitstation.nl^
 ||hntngln1.com^
 ||hr2019.vrcom7.com^
 ||hseda.com^
 ||huyanhnongdo.io.vn^
-||hwebprint.com^
 ||imtoken8.cc^
 ||info-paiement-ligne.com^
 ||information-binance.com^
 ||informations-colissimo.com^
 ||informationversand.com^
+||ini.sh-pp.com^
+||inspirepk.org^
 ||jaffarkhan.com^
 ||jahez.me^
 ||javierlopez.eu^
@@ -169,7 +176,6 @@
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
-||lwaziacademy.com^
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||mail.kasihcommunityschool.sch.id^
@@ -196,7 +202,6 @@
 ||mjsqurej.com^
 ||mon-dossier-renouvellement.com^
 ||monformulaire-sante.com^
-||moonloaderupdate.ru^
 ||mx9x.com^
 ||myguyapp.com^
 ||myhermes-dienste.com^
@@ -217,6 +222,7 @@
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
+||pid.fly160.com^
 ||pilzmacher.com^
 ||pimmes.com^
 ||pns.org.pk^
@@ -297,6 +303,7 @@
 ||qed245t3kreiscryoz-gueterslohewr33w.de^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
+||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rainstorm.cyou^
@@ -313,11 +320,12 @@
 ||reusable-flex.com^
 ||ronnin-v2.com^
 ||roofmanagementlnc.com^
+||roonvar.com^
 ||safe.ywxww.net^
 ||sarahwillemart.com^
-||schytcdagl.com^
 ||security-service-api-link.cc^
 ||seniorcomc.sslblindado.com^
+||ser.nrovn.xyz^
 ||service-espace-sante.com^
 ||servvital.com^
 ||sfa.com.ar^
@@ -343,17 +351,15 @@
 ||supportameli.top^
 ||symbiatec-fi.com^
 ||symbietic.com^
-||symdlotic.com^
 ||tao025.com^
 ||tao221.com^
 ||tao816.com^
-||tao886.com^
-||tao977.com^
 ||taodianla.com^
 ||taytrin.com^
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
+||temirtau-adm.ru^
 ||tengfeidn.com^
 ||test.aionclassic.pro^
 ||tianyinsoft.top^
@@ -395,6 +401,7 @@
 ||webhook.my^
 ||webmail.kasihcommunityschool.sch.id^
 ||webmail.tracking-packages.com^
+||wildsolace.net^
 ||win-network-checker.cc^
 ||wiso-fs-1.top^
 ||wt-tmp-1.top^
@@ -423,13 +430,11 @@
 ||www.opolis.io^
 ||www.playchees.com^
 ||www.pointaken.com^
-||www.portalreceitafazenda.com^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.rgueapp.com^
 ||www.rphingenieria.com^
 ||www.softconsolutions.com^
-||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
@@ -438,13 +443,10 @@
 ||www.webaap2.site^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
-||www.zhikey.com^
-||wynecare.com^
 ||wz.3911.com^
 ||xanaxspoofer.com^
 ||xiangshunjy.com^
 ||xiangtanjk.com^
-||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--ameli--niveau-sms-tob.com^
 ||xn--espace-vitale--jours-sms-87b.com^
@@ -453,8 +455,9 @@
 ||xn--vitale-espace--niveau-0zb.com^
 ||ywxww.net^
 ||yzkzixun.com^
+||z.shavsl.com^
 ||znrq.zifwxq.cn^
 ||zoamaster.com^
 ||zontricks.com^
 ||zzz.hnyzh.co^
-! Number of entries: 451
+! Number of entries: 454
