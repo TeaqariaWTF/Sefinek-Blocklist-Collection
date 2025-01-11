@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-11 06:24:05 (UTC)                      !
+! Last updated: 2025-01-11 08:23:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -12,7 +12,6 @@
 ||2.haory.cn^
 ||360down7.miiyun.cn^
 ||6sz.ru^
-||912648.aioc.qbgxl.com^
 ||99smoothfm.com^
 ||abissnet.net^
 ||aboverlangerung.com^
@@ -25,7 +24,6 @@
 ||ai-kling.online^
 ||aide-acheminement-info.com^
 ||airhobi.com^
-||alien-training.com^
 ||amelcarte.com^
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
@@ -35,8 +33,8 @@
 ||apcmidland.com^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
-||api.co-operativefinance.com^
 ||api.ewfiles.net^
+||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||armanayegh.com^
 ||aromaacres.com^
@@ -71,6 +69,7 @@
 ||cmgtrading.eu^
 ||coach.028csc.com^
 ||coadymarine.com^
+||comteste.com^
 ||conn.masjesu.zip^
 ||consulter-mon-amende.com^
 ||contablegbv.shop^
@@ -100,9 +99,10 @@
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.mvip8.ru^
+||down.pcclear.com^
 ||down.qqfarmer.com.cn^
-||download.caihong.com^
 ||download.emailorganizer.com^
+||download.haozip.com^
 ||download.suxiazai.com^
 ||downsexv.com^
 ||dynamicoupon.com^
@@ -132,13 +132,13 @@
 ||gokujoutabi.com^
 ||grupobramam.com.br^
 ||guichet-bpost.com^
-||hacker.kygtps.live^
 ||hhynetwork.com^
 ||hitman-pro.ru^
 ||hntngln1.com^
 ||hr2019.vrcom7.com^
 ||huyanhnongdo.io.vn^
 ||hwebprint.com^
+||imtoken8.cc^
 ||info-paiement-ligne.com^
 ||information-binance.com^
 ||informations-colissimo.com^
@@ -151,6 +151,8 @@
 ||jobcity.com^
 ||jointings.org^
 ||jpavuluri.com^
+||jrqh-hk.com^
+||karer.by^
 ||karoonpc.com^
 ||kasihcommunityschool.sch.id^
 ||keyser-api.eu^
@@ -170,6 +172,7 @@
 ||lnbox.online^
 ||lnterrac-ca.rebateit.net^
 ||loeghaiofiehfihf.to^
+||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
 ||lwaziacademy.com^
 ||m.gutousoft.com^
@@ -182,17 +185,14 @@
 ||mcafeeretailcard.net^
 ||mertvinc.com.tr^
 ||mes-demarches-renouvellement.com^
-||messiku.com^
 ||microprocessorbook.com^
 ||microprocessordesignbook.com^
-||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||miner-tolken.com^
 ||mingleyou.top^
 ||minu-pakk.com^
 ||minupakk.com^
 ||minupakk.net^
-||misljen.net^
 ||mississippistemacademy.org^
 ||mitgpssms.com^
 ||mjsqurej.com^
@@ -217,8 +217,8 @@
 ||palharesinformatica.com.br^
 ||paonancs.cn^
 ||park.chuitian.cn^
-||passagetoeastafrica.com^
 ||pb.agnt.ru^
+||pid.fly160.com^
 ||pilzmacher.com^
 ||pimmes.com^
 ||pns.org.pk^
@@ -297,6 +297,7 @@
 ||qdwlj1228.top^
 ||qdwlj1229.top^
 ||qed245t3kreiscryoz-gueterslohewr33w.de^
+||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
@@ -324,6 +325,7 @@
 ||service-espace-sante.com^
 ||servvital.com^
 ||sfa.com.ar^
+||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
 ||sinupakk.net^
@@ -333,7 +335,6 @@
 ||softcatalog.ru^
 ||softconsolutions.com^
 ||soportegira.net^
-||spaceframe.mobi.space-frame.co.za^
 ||sporcketngearforu.com^
 ||src1.minibai.com^
 ||stdown.dinju.com^
@@ -348,7 +349,6 @@
 ||symdlotic.com^
 ||tao025.com^
 ||tao221.com^
-||tao816.com^
 ||tao886.com^
 ||tao977.com^
 ||taodianla.com^
@@ -374,7 +374,6 @@
 ||tricazo.com^
 ||tualcaldia.com^
 ||twizt.net^
-||up.maolaoban.top^
 ||update-appstore.com^
 ||update.cg100iii.com^
 ||update.vlnguba.com^
@@ -396,6 +395,7 @@
 ||versyasist.space^
 ||web.klipdywoziy.shop^
 ||webdisk.kasihcommunityschool.sch.id^
+||webhook.my^
 ||webmail.kasihcommunityschool.sch.id^
 ||webmail.tracking-packages.com^
 ||wildsolace.net^
@@ -406,16 +406,15 @@
 ||www.alaqalezdehar.com^
 ||www.aqianniao.com^
 ||www.aromaacres.com^
-||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
 ||www.dynamicoupon.com^
 ||www.eandeconst.com^
 ||www.fexe-tmp-1.top^
+||www.flechabusretiro.com.ar^
 ||www.gleeads.com^
 ||www.globallaborsupply.com^
 ||www.hootech.com^
-||www.hseda.com^
 ||www.ingonherbal.com^
 ||www.kasihcommunityschool.sch.id^
 ||www.lovlypets.com^
@@ -427,7 +426,6 @@
 ||www.playchees.com^
 ||www.pointaken.com^
 ||www.portalreceitafazenda.com^
-||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.rgueapp.com^
 ||www.rphingenieria.com^
@@ -437,7 +435,6 @@
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.v2-rubby.com^
-||www.webaap2.site^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
@@ -452,10 +449,11 @@
 ||xn--espace-vitale--niveau-sms-zbc.com^
 ||xn--mise--jours-vitale-espace-sms-pmc.com^
 ||xn--vitale-espace--niveau-0zb.com^
+||yaocanting.com^
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
 ||zoamaster.com^
 ||zontricks.com^
 ||zzz.hnyzh.co^
-! Number of entries: 452
+! Number of entries: 450
