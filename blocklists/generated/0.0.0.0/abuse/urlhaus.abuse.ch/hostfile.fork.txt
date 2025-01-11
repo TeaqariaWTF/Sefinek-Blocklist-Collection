@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-11 02:44:07 (UTC)                      #
+# Last updated: 2025-01-11 04:23:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,7 +42,6 @@
 0.0.0.0 armanayegh.com
 0.0.0.0 aromaacres.com
 0.0.0.0 assuresform.com
-0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -51,7 +50,6 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 avikamagencies.com
 0.0.0.0 banthis.su
 0.0.0.0 benvixa.com
@@ -60,9 +58,11 @@
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blogorious.com
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
 0.0.0.0 chernobyl.stressing.world
+0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
 0.0.0.0 cipherbase.net
 0.0.0.0 ciscocdn.com
@@ -90,9 +90,11 @@
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -137,6 +139,7 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
+0.0.0.0 human-bot-view.chalnlizt.org
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
@@ -152,7 +155,6 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jpavuluri.com
-0.0.0.0 jrqh-hk.com
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 kasihcommunityschool.sch.id
@@ -176,8 +178,8 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lwaziacademy.com
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
+0.0.0.0 mail.kasihcommunityschool.sch.id
 0.0.0.0 maisonetcites.fr
 0.0.0.0 mandarin.net.au
 0.0.0.0 masclauxtoitures.fr
@@ -224,7 +226,6 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pimmes.com
-0.0.0.0 pns.org.pk
 0.0.0.0 pointaken.com
 0.0.0.0 protechasia.com
 0.0.0.0 qdcdn1015.top
@@ -319,9 +320,9 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 roofmanagementlnc.com
+0.0.0.0 roonvar.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sarahwillemart.com
-0.0.0.0 schytcdagl.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 ser.nrovn.xyz
@@ -335,7 +336,9 @@
 0.0.0.0 sirault.be
 0.0.0.0 soccerimg.com
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 softconsolutions.com
+0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
@@ -356,10 +359,10 @@
 0.0.0.0 taodianla.com
 0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
-0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
+0.0.0.0 test.aionclassic.pro
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
@@ -406,6 +409,7 @@
 0.0.0.0 wt-tmp-1.top
 0.0.0.0 www.12515a.top
 0.0.0.0 www.alaqalezdehar.com
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.aromaacres.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -419,6 +423,7 @@
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
+0.0.0.0 www.kasihcommunityschool.sch.id
 0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -447,6 +452,7 @@
 0.0.0.0 wz.3911.com
 0.0.0.0 xanaxspoofer.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 xiangtanjk.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
@@ -457,9 +463,8 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
 0.0.0.0 zzz.hnyzh.co
-# Number of entries: 456
+# Number of entries: 461
