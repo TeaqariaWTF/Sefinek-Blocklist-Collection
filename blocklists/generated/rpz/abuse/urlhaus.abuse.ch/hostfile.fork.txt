@@ -7,6 +7,8 @@ $TTL 300
 *.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
+2.haory.cn CNAME .
+*.2.haory.cn CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 6sz.ru CNAME .
@@ -23,6 +25,8 @@ acheminement-suivis.fr CNAME .
 *.acheminement-suivis.fr CNAME .
 adf6.adf6.com CNAME .
 *.adf6.adf6.com CNAME .
+admin.aishangzhua.com CNAME .
+*.admin.aishangzhua.com CNAME .
 adresse-confirmation.com CNAME .
 *.adresse-confirmation.com CNAME .
 aefieiaehfiaehr.top CNAME .
@@ -111,6 +115,8 @@ cdaonline.com.ar CNAME .
 *.cdaonline.com.ar CNAME .
 centre-de-tri-ups.com CNAME .
 *.centre-de-tri-ups.com CNAME .
+chernobyl.stressing.world CNAME .
+*.chernobyl.stressing.world CNAME .
 chinaapper.com CNAME .
 *.chinaapper.com CNAME .
 chmod0777kk.com CNAME .
@@ -173,16 +179,10 @@ divvanews.com CNAME .
 *.divvanews.com CNAME .
 djhyzhicai.com CNAME .
 *.djhyzhicai.com CNAME .
-dl.aginjector.com CNAME .
-*.dl.aginjector.com CNAME .
-dl.natgo.cn CNAME .
-*.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
 *.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
-do-dear.com CNAME .
-*.do-dear.com CNAME .
 dow.andylab.cn CNAME .
 *.dow.andylab.cn CNAME .
 down.fwqlt.com CNAME .
@@ -217,6 +217,8 @@ elisans.novayonetim.com CNAME .
 *.elisans.novayonetim.com CNAME .
 eoufaoeuhoauengi.su CNAME .
 *.eoufaoeuhoauengi.su CNAME .
+epanpano.com CNAME .
+*.epanpano.com CNAME .
 espacesantefr-assurance.com CNAME .
 *.espacesantefr-assurance.com CNAME .
 f2pverifynow.com CNAME .
@@ -269,6 +271,8 @@ hseda.com CNAME .
 *.hseda.com CNAME .
 huyanhnongdo.io.vn CNAME .
 *.huyanhnongdo.io.vn CNAME .
+hwebprint.com CNAME .
+*.hwebprint.com CNAME .
 imtoken8.cc CNAME .
 *.imtoken8.cc CNAME .
 info-paiement-ligne.com CNAME .
@@ -341,6 +345,8 @@ lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
 lsks.volamngayxua.net CNAME .
 *.lsks.volamngayxua.net CNAME .
+lwaziacademy.com CNAME .
+*.lwaziacademy.com CNAME .
 m.gutousoft.com CNAME .
 *.m.gutousoft.com CNAME .
 maciejowice.dobrybip.pl CNAME .
@@ -395,8 +401,6 @@ monformulaire-sante.com CNAME .
 *.monformulaire-sante.com CNAME .
 mx9x.com CNAME .
 *.mx9x.com CNAME .
-myguyapp.com CNAME .
-*.myguyapp.com CNAME .
 myhermes-dienste.com CNAME .
 *.myhermes-dienste.com CNAME .
 myhermes-liefern.com CNAME .
@@ -695,8 +699,6 @@ tao025.com CNAME .
 *.tao025.com CNAME .
 tao221.com CNAME .
 *.tao221.com CNAME .
-tao816.com CNAME .
-*.tao816.com CNAME .
 taodianla.com CNAME .
 *.taodianla.com CNAME .
 taytrin.com CNAME .
@@ -829,6 +831,8 @@ opolis.io CNAME .
 *.opolis.io CNAME .
 playchees.com CNAME .
 *.playchees.com CNAME .
+portalreceitafazenda.com CNAME .
+*.portalreceitafazenda.com CNAME .
 qqqmy.com CNAME .
 *.qqqmy.com CNAME .
 rgueapp.com CNAME .
@@ -849,6 +853,8 @@ xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
+zhikey.com CNAME .
+*.zhikey.com CNAME .
 wz.3911.com CNAME .
 *.wz.3911.com CNAME .
 xanaxspoofer.com CNAME .
@@ -869,6 +875,10 @@ xn--mise--jours-vitale-espace-sms-pmc.com CNAME .
 *.xn--mise--jours-vitale-espace-sms-pmc.com CNAME .
 xn--vitale-espace--niveau-0zb.com CNAME .
 *.xn--vitale-espace--niveau-0zb.com CNAME .
+xn--yh4bx88a.com CNAME .
+*.xn--yh4bx88a.com CNAME .
+yaocanting.com CNAME .
+*.yaocanting.com CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
