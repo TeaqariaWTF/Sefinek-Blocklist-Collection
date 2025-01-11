@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-11 15:02:06 (UTC)                      !
+! Last updated: 2025-01-11 22:17:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -26,7 +26,6 @@
 ||ai-kling.online^
 ||aide-acheminement-info.com^
 ||airhobi.com^
-||alien-training.com^
 ||amelcarte.com^
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
@@ -36,7 +35,6 @@
 ||apcmidland.com^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
-||api.co-operativefinance.com^
 ||api.ewfiles.net^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
@@ -46,6 +44,7 @@
 ||aulist.com^
 ||avastcxp.com^
 ||avastcxt.com^
+||avastexodus.com^
 ||avastmetamask.com^
 ||avastng.com^
 ||avastop.com^
@@ -59,7 +58,6 @@
 ||bigbrothercreation.com^
 ||bitkiselurunsiparis.com^
 ||blogorious.com^
-||buscascolegios.diit.cl^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
 ||centre-de-tri-ups.com^
@@ -69,7 +67,6 @@
 ||cipherbase.net^
 ||ciscocdn.com^
 ||clustersf.com^
-||cmgtrading.eu^
 ||coach.028csc.com^
 ||coadymarine.com^
 ||comteste.com^
@@ -81,7 +78,6 @@
 ||cpcalendars.kasihcommunityschool.sch.id^
 ||cpcontacts.kasihcommunityschool.sch.id^
 ||cpofficial.com^
-||credovsnra.com^
 ||crystalpvp.ru^
 ||csg-app.com^
 ||dangtienluc.com^
@@ -90,17 +86,16 @@
 ||dcwblida.dz^
 ||deauduafzgezzfgm.top^
 ||device.redirec.com^
-||dhnconstrucciones.com.ar^
 ||dienstmyhermes.de^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||djhyzhicai.com^
+||dl.aginjector.com^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
+||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
-||down.mvip8.ru^
-||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
@@ -129,7 +124,6 @@
 ||funletters.net^
 ||furryporn.top^
 ||gachetroi.com^
-||gawx.florenda.com^
 ||gleeads.com^
 ||gokujoutabi.com^
 ||grupobramam.com.br^
@@ -148,7 +142,6 @@
 ||informations-colissimo.com^
 ||informationversand.com^
 ||ini.sh-pp.com^
-||inspirepk.org^
 ||jaffarkhan.com^
 ||jahez.me^
 ||javierlopez.eu^
@@ -162,7 +155,6 @@
 ||keyser-api.eu^
 ||keysertools.cc^
 ||khelokhudo.com^
-||kiemthehuyenlong.com^
 ||knightsinshiningarmor.net^
 ||kypeti.com^
 ||lafilledemavie.com^
@@ -182,6 +174,7 @@
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||mail.kasihcommunityschool.sch.id^
+||mail.simon.sttdiakonos.ac.id^
 ||maisonetcites.fr^
 ||mandarin.net.au^
 ||masclauxtoitures.fr^
@@ -205,7 +198,9 @@
 ||mjsqurej.com^
 ||mon-dossier-renouvellement.com^
 ||monformulaire-sante.com^
+||moonloaderupdate.ru^
 ||mx9x.com^
+||myguyapp.com^
 ||myhermes-dienste.com^
 ||myhermes-liefern.com^
 ||myhermes-versand.net^
@@ -224,7 +219,6 @@
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||pb.agnt.ru^
-||pid.fly160.com^
 ||pilzmacher.com^
 ||pimmes.com^
 ||pns.org.pk^
@@ -305,9 +299,9 @@
 ||qed245t3kreiscryoz-gueterslohewr33w.de^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
-||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
+||quevalencia.com^
 ||rainstorm.cyou^
 ||rappel-coinbase.com^
 ||rb3.ftnt.io^
@@ -325,6 +319,7 @@
 ||roonvar.com^
 ||safe.ywxww.net^
 ||sarahwillemart.com^
+||schytcdagl.com^
 ||security-service-api-link.cc^
 ||seniorcomc.sslblindado.com^
 ||ser.nrovn.xyz^
@@ -337,12 +332,10 @@
 ||sinupakk.net^
 ||sirault.be^
 ||soccerimg.com^
-||soft.110route.com^
 ||softcatalog.ru^
 ||softconsolutions.com^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
@@ -353,10 +346,13 @@
 ||supportameli.top^
 ||symbiatec-fi.com^
 ||symbietic.com^
+||symdlotic.com^
 ||tao025.com^
 ||tao221.com^
+||tao816.com^
+||tao886.com^
+||tao977.com^
 ||taodianla.com^
-||taytrin.com^
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
@@ -392,6 +388,7 @@
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
+||utorrent-servers.xyz^
 ||valseg.com.br^
 ||versyasist.guru^
 ||versyasist.pics^
@@ -407,7 +404,6 @@
 ||wiso-fs-1.top^
 ||wt-tmp-1.top^
 ||www.12515a.top^
-||www.alaqalezdehar.com^
 ||www.aqianniao.com^
 ||www.aromaacres.com^
 ||www.beiletoys.com^
@@ -420,7 +416,7 @@
 ||www.gleeads.com^
 ||www.globallaborsupply.com^
 ||www.hootech.com^
-||www.ingonherbal.com^
+||www.hseda.com^
 ||www.kasihcommunityschool.sch.id^
 ||www.lovlypets.com^
 ||www.maxmoney.com^
@@ -428,7 +424,6 @@
 ||www.ojang.pe.kr^
 ||www.onirstore.com^
 ||www.opolis.io^
-||www.playchees.com^
 ||www.pointaken.com^
 ||www.portalreceitafazenda.com^
 ||www.qqqmy.com^
@@ -436,6 +431,7 @@
 ||www.rgueapp.com^
 ||www.rphingenieria.com^
 ||www.softconsolutions.com^
+||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
@@ -445,10 +441,12 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
+||wynecare.com^
 ||wz.3911.com^
 ||xanaxspoofer.com^
 ||xiangshunjy.com^
 ||xiangtanjk.com^
+||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--ameli--niveau-sms-tob.com^
 ||xn--espace-vitale--jours-sms-87b.com^
@@ -464,4 +462,4 @@
 ||zoamaster.com^
 ||zontricks.com^
 ||zzz.hnyzh.co^
-! Number of entries: 458
+! Number of entries: 456
