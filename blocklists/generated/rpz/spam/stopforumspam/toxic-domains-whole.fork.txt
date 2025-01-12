@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025011201 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -23193,6 +23193,8 @@ cocac.uk CNAME .
 *.cocac.uk CNAME .
 cocaidaubuoi.kesug.com CNAME .
 *.cocaidaubuoi.kesug.com CNAME .
+cocaine-kypit-ukraine.sho CNAME .
+*.cocaine-kypit-ukraine.sho CNAME .
 cocaine-kypit-ukraine.shop CNAME .
 *.cocaine-kypit-ukraine.shop CNAME .
 cocaine-moscow-russia.shop CNAME .
