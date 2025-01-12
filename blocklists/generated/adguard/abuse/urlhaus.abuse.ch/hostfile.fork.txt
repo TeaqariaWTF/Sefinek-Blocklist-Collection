@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-12 02:54:07 (UTC)                      !
+! Last updated: 2025-01-12 04:22:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -17,7 +17,6 @@
 ||abissnet.net^
 ||aboverlangerung.com^
 ||acheminement-suivis.fr^
-||adf6.adf6.com^
 ||admin.aishangzhua.com^
 ||admin.bookrepluguest.com^
 ||adresse-confirmation.com^
@@ -47,10 +46,13 @@
 ||avastcxt.com^
 ||avastexodus.com^
 ||avastmetamask.com^
+||avastng.com^
 ||avastop.com^
 ||avastpdq.com^
 ||avastpdr.com^
+||avastpx.com^
 ||banthis.su^
+||benvixa.com^
 ||bethelkwabenya.org^
 ||bitkiselurunsiparis.com^
 ||blogorious.com^
@@ -67,13 +69,13 @@
 ||cmgtrading.eu^
 ||coach.028csc.com^
 ||coadymarine.com^
-||comteste.com^
 ||conn.masjesu.zip^
 ||consulter-mon-amende.com^
 ||contravinf.com^
 ||cpanel.kasihcommunityschool.sch.id^
 ||cpcalendars.kasihcommunityschool.sch.id^
 ||cpcontacts.kasihcommunityschool.sch.id^
+||cpofficial.com^
 ||credovsnra.com^
 ||crystalpvp.ru^
 ||csg-app.com^
@@ -104,9 +106,7 @@
 ||download.suxiazai.com^
 ||downsexv.com^
 ||e4l4.com^
-||ecolumy.com^
 ||electricreport.org^
-||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
 ||espacesantefr-assurance.com^
@@ -126,15 +126,13 @@
 ||gachetroi.com^
 ||gawx.florenda.com^
 ||gokujoutabi.com^
-||grupobramam.com.br^
 ||guichet-bpost.com^
 ||hhynetwork.com^
-||hitman-pro.ru^
+||hitstation.nl^
 ||hntngln1.com^
 ||hr2019.vrcom7.com^
 ||hseda.com^
 ||huyanhnongdo.io.vn^
-||hwebprint.com^
 ||imtoken8.cc^
 ||info-paiement-ligne.com^
 ||information-binance.com^
@@ -171,6 +169,7 @@
 ||lsks.volamngayxua.net^
 ||lwaziacademy.com^
 ||maciejowice.dobrybip.pl^
+||mail.kasihcommunityschool.sch.id^
 ||mail.simon.sttdiakonos.ac.id^
 ||maisonetcites.fr^
 ||mandarin.net.au^
@@ -181,7 +180,6 @@
 ||messiku.com^
 ||microprocessorbook.com^
 ||microprocessordesignbook.com^
-||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||miner-tolken.com^
 ||mingleyou.top^
@@ -307,6 +305,7 @@
 ||rddissisifigifidi.net^
 ||realbenies.com^
 ||rebateit.net^
+||recaptcha-process.com^
 ||reifenquick.de^
 ||renouvellement-espace-vitale-ameli.com^
 ||resourceedge.org^
@@ -322,7 +321,6 @@
 ||ser.nrovn.xyz^
 ||service-espace-sante.com^
 ||servvital.com^
-||sfa.com.ar^
 ||shell.dimitrimedia.com^
 ||shqdown.ggzuhao.com^
 ||simit-pagos.co^
@@ -332,9 +330,7 @@
 ||soft.110route.com^
 ||softcatalog.ru^
 ||solve.bogx.org^
-||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||src1.minibai.com^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
@@ -355,9 +351,7 @@
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
-||temirtau-adm.ru^
 ||tengfeidn.com^
-||test.aionclassic.pro^
 ||tianyinsoft.top^
 ||tiaoshibao.com^
 ||tjsemicoke.com^
@@ -370,6 +364,7 @@
 ||travelwithmanta.co.za^
 ||treinamento.convenio.to.gov.br^
 ||tricazo.com^
+||tualcaldia.com^
 ||twizt.net^
 ||up.maolaoban.top^
 ||update-appstore.com^
@@ -390,14 +385,15 @@
 ||versyasist.guru^
 ||versyasist.sbs^
 ||versyasist.space^
+||webdisk.kasihcommunityschool.sch.id^
 ||webhook.my^
 ||webmail.kasihcommunityschool.sch.id^
 ||webmail.tracking-packages.com^
 ||wildsolace.net^
-||win-network-checker.cc^
 ||wiso-fs-1.top^
 ||wt-tmp-1.top^
 ||www.alaqalezdehar.com^
+||www.aqianniao.com^
 ||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
@@ -418,13 +414,12 @@
 ||www.portalreceitafazenda.com^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
-||www.rgueapp.com^
-||www.rphingenieria.com^
 ||www.softconsolutions.com^
 ||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.support-info-colis.com^
 ||www.tdejb.com^
+||www.tecunonline.com^
 ||www.v2-rubby.com^
 ||www.webaap2.site^
 ||www.xn--on3b15m2lco2u.com^
@@ -449,4 +444,4 @@
 ||zoamaster.com^
 ||zontricks.com^
 ||zzz.hnyzh.co^
-! Number of entries: 443
+! Number of entries: 438
