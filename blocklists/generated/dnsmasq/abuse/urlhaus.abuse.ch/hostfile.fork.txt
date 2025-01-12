@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-12 08:24:09 (UTC)                      #
+# Last updated: 2025-01-12 10:14:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -130,6 +130,7 @@ server=/gokujoutabi.com/
 server=/grupobramam.com.br/
 server=/guichet-bpost.com/
 server=/hhynetwork.com/
+server=/historyfiles.ru/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
 server=/hntngln1.com/
@@ -149,6 +150,7 @@ server=/jobcity.com/
 server=/jointings.org/
 server=/jpavuluri.com/
 server=/jrqh-hk.com/
+server=/jsnybsafva.me/
 server=/karer.by/
 server=/karoonpc.com/
 server=/kasihcommunityschool.sch.id/
@@ -380,7 +382,6 @@ server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
-server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/versyasist.guru/
 server=/versyasist.sbs/
@@ -409,7 +410,6 @@ server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.ojang.pe.kr/
 server=/www.onirstore.com/
-server=/www.opolis.io/
 server=/www.playchees.com/
 server=/www.qqqmy.com/
 server=/www.reifenquick.de/
