@@ -1,9 +1,9 @@
-# Version: 202501121807
+# Version: 202501121910
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 123225
-# Last modified: 2025-01-12T18:07:09+0000
+! Entries: 123228
+# Last modified: 2025-01-12T19:10:08+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -24519,6 +24519,7 @@ server=/c-y.jp/
 server=/c.161653.xyz/
 server=/c.adx.2345.com/
 server=/c.adyield.co/
+server=/c.albss.com/
 server=/c.amazinglybrilliant.com.au/
 server=/c.ar.msn.com/
 server=/c.at.msn.com/
@@ -38838,6 +38839,7 @@ server=/drapefabric.com/
 server=/draqkss.edu.pk/
 server=/dratunnonfil4.elitefinancas.com/
 server=/draughtpoisonous.com/
+server=/drauvea.com/
 server=/drawbackcaptiverusty.com/
 server=/drawerenter.com/
 server=/drawergypsyavalanche.com/
@@ -79122,6 +79124,7 @@ server=/ok.fapnow.xxx/
 server=/ok.forwank.com/
 server=/ok.mail.ru/
 server=/ok365.com/
+server=/ok5.fun/
 server=/ok88okg.infinityscans.net/
 server=/okagcw.xyz/
 server=/okai.work/
