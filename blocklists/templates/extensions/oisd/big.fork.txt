@@ -1,9 +1,9 @@
-# Version: 202501121309
+# Version: 202501121807
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 0.0.0.0 <domain>
-! Entries: 123226
-# Last modified: 2025-01-12T13:09:35+0000
+! Entries: 123225
+# Last modified: 2025-01-12T18:07:09+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -60166,7 +60166,6 @@
 0.0.0.0 jdrlfn.xyz
 0.0.0.0 jdsimports.com
 0.0.0.0 jdsneakers.fr
-0.0.0.0 jdt8.net
 0.0.0.0 jduko.com
 0.0.0.0 jdyz3.cn
 0.0.0.0 je-demenage-avec-laposte.fr

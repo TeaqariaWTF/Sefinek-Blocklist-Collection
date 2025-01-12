@@ -1,9 +1,9 @@
-# Version: 202501121309
+# Version: 202501121807
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 123226
-# Last modified: 2025-01-12T13:09:35+0000
+! Entries: 123225
+# Last modified: 2025-01-12T18:07:09+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -60166,7 +60166,6 @@
 127.0.0.1 jdrlfn.xyz
 127.0.0.1 jdsimports.com
 127.0.0.1 jdsneakers.fr
-127.0.0.1 jdt8.net
 127.0.0.1 jduko.com
 127.0.0.1 jdyz3.cn
 127.0.0.1 je-demenage-avec-laposte.fr
