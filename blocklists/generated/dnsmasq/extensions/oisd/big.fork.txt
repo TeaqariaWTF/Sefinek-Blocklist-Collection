@@ -1,9 +1,9 @@
-# Version: 202501120957
+# Version: 202501121209
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: server=/<domain>/
-! Entries: 123212
-# Last modified: 2025-01-12T09:57:40+0000
+! Entries: 123215
+# Last modified: 2025-01-12T12:09:07+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -26572,6 +26572,7 @@ server=/cdnweb3.pages.dev/
 server=/cdnwidget.com/
 server=/cdnyun.yun2028yun2026.com/
 server=/cdolhlwq.xyz/
+server=/cdomsif.top/
 server=/cdoqjxlnegnhm.com/
 server=/cdosagebreakfast.com/
 server=/cdotrvjaiupk.com/
@@ -40922,6 +40923,7 @@ server=/eir.tdhg7ppa.com/
 server=/eirbrightscarletcl.com/
 server=/eisasbeautifula.info/
 server=/eisasbeautifulas.com/
+server=/eisnaisv.com/
 server=/eiteribesshaints.com/
 server=/eitfromtheothe.org/
 server=/eiun.top/
@@ -87506,6 +87508,7 @@ server=/pugmarktagua.com/
 server=/pugpod.com/
 server=/pugsgivehugs.com/
 server=/puhlu.com/
+server=/puhmtt.icu/
 server=/puhtml.com/
 server=/puitaexb.com/
 server=/pukimuki.xyz/
