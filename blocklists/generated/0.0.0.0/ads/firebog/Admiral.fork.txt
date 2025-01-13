@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 06JAN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 13JAN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -11,6 +11,7 @@
 0.0.0.0 82o9v830.com
 0.0.0.0 abackchain.com
 0.0.0.0 aboardamusement.com
+0.0.0.0 aboardfork.com
 0.0.0.0 aboardlevel.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absentairport.com
@@ -41,6 +42,7 @@
 0.0.0.0 aheadday.com
 0.0.0.0 aheadmachine.com
 0.0.0.0 ak0gsh40.com
+0.0.0.0 alertafterthought.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 aloofmetal.com
@@ -72,6 +74,7 @@
 0.0.0.0 automaticflock.com
 0.0.0.0 automaticside.com
 0.0.0.0 averageactivity.com
+0.0.0.0 awakebird.com
 0.0.0.0 awarealley.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
@@ -106,6 +109,7 @@
 0.0.0.0 boatsvest.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingcredit.com
+0.0.0.0 boredborder.com
 0.0.0.0 boredcrown.com
 0.0.0.0 boringcoat.com
 0.0.0.0 bouncyproperty.com
@@ -118,6 +122,7 @@
 0.0.0.0 breadbalance.com
 0.0.0.0 breakableinsurance.com
 0.0.0.0 breakfastboat.com
+0.0.0.0 briefstem.com
 0.0.0.0 broadborder.com
 0.0.0.0 broadboundary.com
 0.0.0.0 broadcastbed.com
@@ -176,6 +181,7 @@
 0.0.0.0 circlelevel.com
 0.0.0.0 clammychicken.com
 0.0.0.0 cleanhaircut.com
+0.0.0.0 clearcabbage.com
 0.0.0.0 clearcomb.com
 0.0.0.0 cloisteredcurve.com
 0.0.0.0 cloisteredhydrant.com
@@ -197,6 +203,7 @@
 0.0.0.0 confesschairs.com
 0.0.0.0 configchain.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 controlswim.com
 0.0.0.0 cooingcoal.com
 0.0.0.0 coordinatedbedroom.com
 0.0.0.0 coordinatedcoat.com
@@ -213,6 +220,7 @@
 0.0.0.0 crookedcreature.com
 0.0.0.0 crowdedmass.com
 0.0.0.0 cubchannel.com
+0.0.0.0 cumbersomecake.com
 0.0.0.0 cumbersomecar.com
 0.0.0.0 cumbersomecarpenter.com
 0.0.0.0 curiouschalk.com
@@ -360,6 +368,7 @@
 0.0.0.0 fumblingform.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 functionalfeather.com
+0.0.0.0 funnyairplane.com
 0.0.0.0 funoverbored.com
 0.0.0.0 furryhorses.com
 0.0.0.0 futuristicapparatus.com
@@ -391,9 +400,11 @@
 0.0.0.0 gracefulmilk.com
 0.0.0.0 grainmass.com
 0.0.0.0 grandioseguide.com
+0.0.0.0 grandmotherunit.com
 0.0.0.0 granlite.com
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
+0.0.0.0 greasegarden.com
 0.0.0.0 greasysquare.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 gripcorn.com
@@ -419,6 +430,7 @@
 0.0.0.0 headydegree.com
 0.0.0.0 headyhook.com
 0.0.0.0 heartbreakingmind.com
+0.0.0.0 hearthorn.com
 0.0.0.0 heavydetail.com
 0.0.0.0 heavyplayground.com
 0.0.0.0 hfc195b.com
@@ -465,9 +477,11 @@
 0.0.0.0 interestdust.com
 0.0.0.0 internalsink.com
 0.0.0.0 inventtango.com
+0.0.0.0 investigatepin.com
 0.0.0.0 irritatingfog.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 j93557g.com
+0.0.0.0 jadedjoke.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jailbulb.com
 0.0.0.0 joblessdrum.com
@@ -475,12 +489,15 @@
 0.0.0.0 k54nw.pw
 0.0.0.0 kaputquill.com
 0.0.0.0 kitesquirrel.com
+0.0.0.0 knottysticks.com
 0.0.0.0 laboredlocket.com
+0.0.0.0 lagoonolivia.com
 0.0.0.0 lameletters.com
 0.0.0.0 lamplow.com
 0.0.0.0 lasttaco.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
+0.0.0.0 laughdrum.com
 0.0.0.0 leaplunchroom.com
 0.0.0.0 leftliquid.com
 0.0.0.0 liftedknowledge.com
@@ -503,6 +520,7 @@
 0.0.0.0 marketspiders.com
 0.0.0.0 marriedmailbox.com
 0.0.0.0 massivemark.com
+0.0.0.0 materialisticmark.com
 0.0.0.0 materialmilk.com
 0.0.0.0 materialparcel.com
 0.0.0.0 meatydime.com
@@ -570,7 +588,9 @@
 0.0.0.0 paleleaf.com
 0.0.0.0 pamelarandom.com
 0.0.0.0 panickypancake.com
+0.0.0.0 panoramicbutter.com
 0.0.0.0 parallelbulb.com
+0.0.0.0 parcelcreature.com
 0.0.0.0 parchedangle.com
 0.0.0.0 parchedsofa.com
 0.0.0.0 parentpicture.com
@@ -590,6 +610,7 @@
 0.0.0.0 piquantstove.com
 0.0.0.0 pizzasnut.com
 0.0.0.0 placidperson.com
+0.0.0.0 plantpotato.com
 0.0.0.0 playfulriver.com
 0.0.0.0 pleasantpump.com
 0.0.0.0 plotparent.com
@@ -603,6 +624,7 @@
 0.0.0.0 pointlesspocket.com
 0.0.0.0 pointlessrifle.com
 0.0.0.0 poisedfuel.com
+0.0.0.0 poisedpig.com
 0.0.0.0 polishedcrescent.com
 0.0.0.0 politeplanes.com
 0.0.0.0 possessivebucket.com
@@ -645,6 +667,7 @@
 0.0.0.0 raintwig.com
 0.0.0.0 rainyhand.com
 0.0.0.0 rainyrule.com
+0.0.0.0 rainystretch.com
 0.0.0.0 rangecake.com
 0.0.0.0 rangeplayground.com
 0.0.0.0 rapidkittens.com
@@ -686,6 +709,7 @@
 0.0.0.0 ritzykey.com
 0.0.0.0 ritzyveil.com
 0.0.0.0 robustbelieve.com
+0.0.0.0 rodeopolice.com
 0.0.0.0 rollbar.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 roseincome.com
@@ -718,6 +742,7 @@
 0.0.0.0 scatteredstream.com
 0.0.0.0 scenicdrops.com
 0.0.0.0 scientificshirt.com
+0.0.0.0 scientificsneeze.com
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scissorsstatement.com
@@ -740,6 +765,7 @@
 0.0.0.0 selfishsea.com
 0.0.0.0 selfishsnake.com
 0.0.0.0 sensorsmile.com
+0.0.0.0 separateshow.com
 0.0.0.0 separatesort.com
 0.0.0.0 serenesurf.com
 0.0.0.0 servebom.com
@@ -795,10 +821,13 @@
 0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
 0.0.0.0 soretrain.com
+0.0.0.0 sortsail.com
+0.0.0.0 sortstructure.com
 0.0.0.0 sortsummer.com
 0.0.0.0 sowlettuce.com
 0.0.0.0 sparklingshelf.com
 0.0.0.0 specialscissors.com
+0.0.0.0 specialsnake.com
 0.0.0.0 spectacularstamp.com
 0.0.0.0 speedcurve.com
 0.0.0.0 spellsalsa.com
@@ -839,8 +868,10 @@
 0.0.0.0 streetsort.com
 0.0.0.0 stretchsister.com
 0.0.0.0 strivesidewalk.com
+0.0.0.0 stupendousselection.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 stupendoussnow.com
+0.0.0.0 stupidsnake.com
 0.0.0.0 subsequentswim.com
 0.0.0.0 substantialcarpenter.com
 0.0.0.0 succeedscene.com
@@ -853,6 +884,7 @@
 0.0.0.0 superficialeyes.com
 0.0.0.0 superficialspring.com
 0.0.0.0 superficialsquare.com
+0.0.0.0 suspendseed.com
 0.0.0.0 swellstocking.com
 0.0.0.0 swordgoose.com
 0.0.0.0 syllablesight.com

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-13 12:43:34 (UTC)                      #
+# Last updated: 2025-01-13 14:14:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,6 +30,7 @@
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apcmidland.com
+0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
@@ -48,7 +49,9 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
+0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
@@ -62,11 +65,13 @@
 0.0.0.0 ciscocdn.com
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
+0.0.0.0 coadymarine.com
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 cpanel.kasihcommunityschool.sch.id
+0.0.0.0 cpcalendars.kasihcommunityschool.sch.id
 0.0.0.0 cpcontacts.kasihcommunityschool.sch.id
 0.0.0.0 cpofficial.com
 0.0.0.0 credovsnra.com
@@ -78,16 +83,18 @@
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
-0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -111,7 +118,6 @@
 0.0.0.0 formulaire-sociale.com
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 funletters.net
-0.0.0.0 furryporn.top
 0.0.0.0 g.gsm2.net
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
@@ -125,18 +131,18 @@
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 huyanhnongdo.io.vn
+0.0.0.0 hwebprint.com
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 information-binance.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 inspirepk.org
-0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jpavuluri.com
+0.0.0.0 jrqh-hk.com
 0.0.0.0 jsnybsafva.me
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
@@ -157,7 +163,6 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lwaziacademy.com
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mail.kasihcommunityschool.sch.id
 0.0.0.0 mail.simon.sttdiakonos.ac.id
@@ -171,7 +176,6 @@
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 miner-tolken.com
 0.0.0.0 mingleyou.top
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
@@ -191,7 +195,6 @@
 0.0.0.0 myhermes-versand.net
 0.0.0.0 mypackagingups.com
 0.0.0.0 mystartherehosting.net
-0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
@@ -250,7 +253,6 @@
 0.0.0.0 softcatalog.ru
 0.0.0.0 solve.bogx.org
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
@@ -294,7 +296,6 @@
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
-0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
@@ -313,11 +314,13 @@
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.fexe-tmp-1.top
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hootech.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kasihcommunityschool.sch.id
+0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -355,4 +358,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 349
+# Number of entries: 352
