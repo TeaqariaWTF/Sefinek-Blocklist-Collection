@@ -1,9 +1,9 @@
-# Version: 202501131608
+# Version: 202501131813
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: 127.0.0.1 <domain>
-! Entries: 139376
-# Last modified: 2025-01-13T16:08:07+0000
+! Entries: 139379
+# Last modified: 2025-01-13T18:13:11+0000
 # Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -229,7 +229,6 @@
 127.0.0.1 07.8c.d12c.cidr.airmail.net
 127.0.0.1 07.sharedsource.org
 127.0.0.1 070880.com
-127.0.0.1 071324.com
 127.0.0.1 07161975c6.8aa3da4561.com
 127.0.0.1 07171.com
 127.0.0.1 07176.com
@@ -2837,7 +2836,6 @@
 127.0.0.1 39039.vs.webtropia.com
 127.0.0.1 3906523995308773357-a-1802744773732722657-s-sites.googlegroups.com
 127.0.0.1 390698.ru
-127.0.0.1 3907585b07691c98e47b14d716bdc499.big-shop.ge
 127.0.0.1 39093.net
 127.0.0.1 39093.tv
 127.0.0.1 3917.com
@@ -13378,6 +13376,7 @@
 127.0.0.1 alebilet.pl27131.icu
 127.0.0.1 alebilet.pl35704oferta.pl
 127.0.0.1 alebilet.pl54921item.pl
+127.0.0.1 alebilet.pl58204oferta-iphone.pl
 127.0.0.1 alebilet.pl58392oferta-iphone.pl
 127.0.0.1 alebilet.pl62985oferta-iphone.pl
 127.0.0.1 alebilet.pl63892oferta.pl
@@ -13821,6 +13820,7 @@
 127.0.0.1 allegro.pl20394oferta.pl
 127.0.0.1 allegro.pl35704oferta.pl
 127.0.0.1 allegro.pl36902oferta.pl
+127.0.0.1 allegro.pl58204oferta-iphone.pl
 127.0.0.1 allegro.pl58392oferta-iphone.pl
 127.0.0.1 allegro.pl62985oferta-iphone.pl
 127.0.0.1 allegro.pl63892oferta.pl
@@ -14135,6 +14135,7 @@
 127.0.0.1 allegrolokalnie.pl-p-4172.icu
 127.0.0.1 allegrolokalnie.pl-payu051.com
 127.0.0.1 allegrolokalnie.pl-polecana3456.cfd
+127.0.0.1 allegrolokalnie.pl-smartzakupy24-h.shop
 127.0.0.1 allegrolokalnie.pl-smartzakupy24h.shop
 127.0.0.1 allegrolokalnie.pl-x.cyou
 127.0.0.1 allegrolokalnie.pl00001oferta.pl
@@ -14148,6 +14149,7 @@
 127.0.0.1 allegrolokalnie.pl35704oferta.pl
 127.0.0.1 allegrolokalnie.pl36902oferta.pl
 127.0.0.1 allegrolokalnie.pl57901item.pl
+127.0.0.1 allegrolokalnie.pl58204oferta-iphone.pl
 127.0.0.1 allegrolokalnie.pl58392oferta-iphone.pl
 127.0.0.1 allegrolokalnie.pl5842.cfd
 127.0.0.1 allegrolokalnie.pl62985oferta-iphone.pl
@@ -14191,6 +14193,7 @@
 127.0.0.1 allegrolokalnie.smart-oferta24-h.pl
 127.0.0.1 allegrolokalnie.strona-5-68364.site
 127.0.0.1 allegrolokalnie.sv0a81.pl
+127.0.0.1 allegrolokalnie.v0-91-va9-00-v0a-vi-a9.buzz
 127.0.0.1 allegrolokalnie.v0c8z77194.shop
 127.0.0.1 allegrolokalnie.v9a491-992814-y0v9a.icu
 127.0.0.1 allegrolokalnie.wynik14.pl
@@ -17114,7 +17117,6 @@
 127.0.0.1 apm.tnet.nl
 127.0.0.1 apmcunjha.com
 127.0.0.1 apmf.fr
-127.0.0.1 apmg.oowa.top
 127.0.0.1 apminstitute.com
 127.0.0.1 apmmedia.net
 127.0.0.1 apnmarketplace.co.nz
@@ -19714,6 +19716,7 @@
 127.0.0.1 authedmine.eu
 127.0.0.1 authen-tifsec.fr
 127.0.0.1 authenficatorgoogle.com
+127.0.0.1 authenticating-messages.freewebhostmost.com
 127.0.0.1 authentication.wf
 127.0.0.1 authenticationportal.weebly.com
 127.0.0.1 authenticator-googl.com
@@ -20383,7 +20386,6 @@
 127.0.0.1 ayverwe.cn
 127.0.0.1 aywgucxmh.com
 127.0.0.1 aywivflptwd.com
-127.0.0.1 aywy.oowa.top
 127.0.0.1 ayymoqixesitelewyfi.j.pl
 127.0.0.1 ayzaa.com
 127.0.0.1 ayzancare.com
@@ -20880,6 +20882,7 @@
 127.0.0.1 bafkreig3t2whzy5gfvuvotnh5dvgeg3pw5ucfmlqbysd5clxc7aylzr6ea.ipfs.flk-ipfs.xyz
 127.0.0.1 bafkreiglazdwbgo6aqvll3a4br4yaj66teisqqaobgoziquwaxkln2qo4u.ipfs.flk-ipfs.xyz
 127.0.0.1 bafowuo.com
+127.0.0.1 bafybeia74qdx24usn4tbb6a7zepmz5jxfynyt66edss7jqcpm6m6dxq7w4.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeiaqbr3diczbdiqwcg24gc2qkwwsfrpn5wrvc3pmzjmhvjw75z7tae.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeib5wqcbgytigiksnojyfhqpzzyjs5caok3pixffufa43frqhnjqda.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeibhisnsqwkj47kfgypyli6ih6vpbiiv6st5yxzq3h5bzkvw4pwtyu.ipfs.flk-ipfs.xyz
@@ -20899,6 +20902,7 @@
 127.0.0.1 bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link
 127.0.0.1 bafybeif3hcdrthzafdkftfz443fb5iroog45u3fl23fi7davt7vhxs5z7m.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeifqrwknxat5mk2cdvqcnkglhq2u3j4h6jx33spvv72rohg4pjw3hu.ipfs.dweb.link
+127.0.0.1 bafybeigbomd65erjhzrbf4p6lzs34npdb2lu6fewxgbke4tpwcdambzhqy.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeighsayv5avph4xtzf352z7p3nprrq5ur3i5riypkrd3ec6ulfzpde.ipfs.dweb.link
 127.0.0.1 bafybeigkx6i7pr232zqhwd2qlkr37qfmwi7vftgxxrg6d2m2m632xs53ny.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeigmcqdhztsvcdaq53gk47zg5jlgo7zsabrw3zpknjs4bcd7wilzpy.ipfs.flk-ipfs.xyz
@@ -23494,6 +23498,7 @@
 127.0.0.1 bifrufhci.com
 127.0.0.1 big-agreeable-crowberry.glitch.me
 127.0.0.1 big-loads.com
+127.0.0.1 big-shop.ge
 127.0.0.1 big-windowss.com
 127.0.0.1 big.pp.ru
 127.0.0.1 big5coupon.co.cc
@@ -35030,6 +35035,7 @@
 127.0.0.1 crabennonder25.luminisconsultoria.io
 127.0.0.1 crabletfrijole.shop
 127.0.0.1 crabshackgallery.com
+127.0.0.1 cracheyn.info
 127.0.0.1 crack4fun.hopto.org
 127.0.0.1 crack4u.com
 127.0.0.1 crack7.com
@@ -35804,7 +35810,6 @@
 127.0.0.1 csharpassociates.com
 127.0.0.1 cshbglcfcmirnm.xyz
 127.0.0.1 cshlgg.com
-127.0.0.1 cshn.oowa.top
 127.0.0.1 cshqe.podcast.lisameyerson.com
 127.0.0.1 cshrewards.net
 127.0.0.1 csht.ru
@@ -40024,7 +40029,6 @@
 127.0.0.1 dgag.112.2o7.net
 127.0.0.1 dgaxrjj0jwpwp.cloudfront.net
 127.0.0.1 dgbaozhuang.cn
-127.0.0.1 dgbm.oowa.top
 127.0.0.1 dgboiler.cn
 127.0.0.1 dgbusiness.com
 127.0.0.1 dgccrf-hautealsace.fr
@@ -41401,6 +41405,7 @@
 127.0.0.1 dkworld.de
 127.0.0.1 dkyd6.xyz
 127.0.0.1 dkyp75kj7ldlr.cloudfront.net
+127.0.0.1 dl-adx.op-mobile.opera.com
 127.0.0.1 dl-it.net
 127.0.0.1 dl-provider.com
 127.0.0.1 dl-rms.com
@@ -48398,6 +48403,7 @@
 127.0.0.1 f5app1ec.invierte.ec
 127.0.0.1 f5networksdevcentralprod.122.2o7.net
 127.0.0.1 f5networksthreatstackprod.122.2o7.net
+127.0.0.1 f5sapi.com.br
 127.0.0.1 f61c404e56.b6eeaf2d00.com
 127.0.0.1 f62b2a8ac6.com
 127.0.0.1 f63777e43d.com
@@ -51631,6 +51637,7 @@
 127.0.0.1 foreignassertive.com
 127.0.0.1 foreignerdarted.com
 127.0.0.1 foreignmistakecurrent.com
+127.0.0.1 forellenstein.com
 127.0.0.1 foremedia.net
 127.0.0.1 forensiccharging.com
 127.0.0.1 forensicsllc.com
@@ -60847,7 +60854,6 @@
 127.0.0.1 hmceo.com
 127.0.0.1 hmcrbt08mwns.live
 127.0.0.1 hmcvs.cn
-127.0.0.1 hmcz.oowa.top
 127.0.0.1 hmgzhqe.cn
 127.0.0.1 hmhd32.solutions
 127.0.0.1 hmhm.jp
@@ -62897,11 +62903,7 @@
 127.0.0.1 id6.me
 127.0.0.1 id718.pl
 127.0.0.1 id738827772776403.cfd
-127.0.0.1 id73a2eac123cadd6e458660dc0b8980da6.big-shop.ge
-127.0.0.1 id756ab35ab2c6bb2c79a9a758c852f0e9a.big-shop.ge
 127.0.0.1 id7761.pl
-127.0.0.1 id7d006f79bf5d80f1af0e1f1e57d6f9930.big-shop.ge
-127.0.0.1 id7f9fab788997d9fb38274b00cba848322.big-shop.ge
 127.0.0.1 id819.pl
 127.0.0.1 id824.pl
 127.0.0.1 id867128941.shop
@@ -64472,6 +64474,7 @@
 127.0.0.1 info-track-del.com
 127.0.0.1 info-transfercash.fr
 127.0.0.1 info-updatepplsupe.ngrok.io
+127.0.0.1 info-wordpress.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 info.csbrand.ru
@@ -65652,7 +65655,6 @@
 127.0.0.1 invitewingorphan.com
 127.0.0.1 invivo.hu
 127.0.0.1 invl.co
-127.0.0.1 invoice.big-shop.ge
 127.0.0.1 invoiceplanet.info
 127.0.0.1 invoiceprocessing.netlify.app
 127.0.0.1 invoiceprocessing.netlify.com
@@ -67365,7 +67367,6 @@
 127.0.0.1 jhu8u9.pro
 127.0.0.1 jhulubwidas.com
 127.0.0.1 jhuvybt.cn
-127.0.0.1 jhvl.oowa.top
 127.0.0.1 ji.joch.skin
 127.0.0.1 ji.uxtu.skin
 127.0.0.1 ji88.com
@@ -70789,7 +70790,6 @@
 127.0.0.1 ktoioo.xyz
 127.0.0.1 ktpcsqnij.com
 127.0.0.1 ktrackdata.com
-127.0.0.1 ktsc.oowa.top
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 ktureukworekto.com
 127.0.0.1 ktva.112.2o7.net
@@ -79888,7 +79888,6 @@
 127.0.0.1 mgcpakistan.com
 127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 mgdothaneagle.112.2o7.net
-127.0.0.1 mgdtn.big-shop.ge
 127.0.0.1 mgdx.yayl.skin
 127.0.0.1 mgepodownload.mediatek.com
 127.0.0.1 mgfd1b.petrix.net
@@ -81377,6 +81376,7 @@
 127.0.0.1 mobjkre.icu
 127.0.0.1 mobjxuysd.top
 127.0.0.1 moblao.com
+127.0.0.1 moblcorset.com
 127.0.0.1 mobledecor.com
 127.0.0.1 mobmsgs.com
 127.0.0.1 mobog317.com
@@ -81520,6 +81520,8 @@
 127.0.0.1 mohammedrimon.com
 127.0.0.1 mohandesbook.com
 127.0.0.1 mohecm.com
+127.0.0.1 mohhfrt.icu
+127.0.0.1 mohilrk.icu
 127.0.0.1 mohiwhaileed.com
 127.0.0.1 mohr-tranebjaerg.de
 127.0.0.1 mohu.trackonlinestore.com
@@ -81838,6 +81840,7 @@
 127.0.0.1 monhax.com
 127.0.0.1 monicagranitesandmarbles.com
 127.0.0.1 monidopo.bee.pl
+127.0.0.1 monifgr.icu
 127.0.0.1 monikawein.de
 127.0.0.1 monirportfolio.com
 127.0.0.1 monitor-android.ru
@@ -84693,7 +84696,6 @@
 127.0.0.1 nderpurganismpr.info
 127.0.0.1 nderthfeo.info
 127.0.0.1 nderwater-corporation.net
-127.0.0.1 ndfk.oowa.top
 127.0.0.1 ndha4sding6gf.com
 127.0.0.1 ndierks.com
 127.0.0.1 ndjelsefd.com
@@ -87436,7 +87438,6 @@
 127.0.0.1 nvcolsonfab.ca
 127.0.0.1 nvda-presales.org
 127.0.0.1 nvdtdsd.xyz
-127.0.0.1 nvet.oowa.top
 127.0.0.1 nveuiqh.cn
 127.0.0.1 nvfile.com
 127.0.0.1 nvgirtryox1z.live
@@ -87449,7 +87450,6 @@
 127.0.0.1 nvjqtz.xyz
 127.0.0.1 nvlcnvyqvpjppi.xyz
 127.0.0.1 nvlegal.co.za
-127.0.0.1 nvpx.oowa.top
 127.0.0.1 nvrap.com
 127.0.0.1 nvrnisdf.com
 127.0.0.1 nvtvssczb.com
@@ -87606,7 +87606,6 @@
 127.0.0.1 nzs8vi9w5o8.life
 127.0.0.1 nzu66938s.com
 127.0.0.1 nzurlmq.com
-127.0.0.1 nzvf.oowa.top
 127.0.0.1 nzvqlhdxon.duckdns.org
 127.0.0.1 nzx65821s.com
 127.0.0.1 nzxsxn.98kk89.com
@@ -89306,6 +89305,7 @@
 127.0.0.1 olx.pl20394oferta.pl
 127.0.0.1 olx.pl35704oferta.pl
 127.0.0.1 olx.pl36902oferta.pl
+127.0.0.1 olx.pl58204oferta-iphone.pl
 127.0.0.1 olx.pl58392oferta-iphone.pl
 127.0.0.1 olx.pl62985oferta-iphone.pl
 127.0.0.1 olx.pl63892oferta.pl
@@ -90168,7 +90168,6 @@
 127.0.0.1 oolx.15485324.xyz
 127.0.0.1 oolx.16735432.xyz
 127.0.0.1 oolx.17363522.xyz
-127.0.0.1 oolx.19034765.xyz
 127.0.0.1 oolx.19481548.xyz
 127.0.0.1 oolx.254815441.xyz
 127.0.0.1 oolx.28415479.xyz
@@ -95769,6 +95768,7 @@
 127.0.0.1 poczta.godaddysites.com
 127.0.0.1 poczta.my.canva.site
 127.0.0.1 poczta.pages.dev
+127.0.0.1 poczta.pl-zplt.info
 127.0.0.1 poczta.polska-pl.com
 127.0.0.1 poczta.polska-zaplata.com
 127.0.0.1 poczta.solarflevoland.nl
@@ -96342,6 +96342,7 @@
 127.0.0.1 porkaloxov.com
 127.0.0.1 porkpielepidin.com
 127.0.0.1 porkspin.com
+127.0.0.1 porlate.pics
 127.0.0.1 pormhub.fr
 127.0.0.1 porn-corn.com
 127.0.0.1 porn-girls-nude-and-horny.com
@@ -102563,11 +102564,13 @@
 127.0.0.1 renew.heuwaegelchen.de
 127.0.0.1 renew.ihunar.com
 127.0.0.1 renew.immoney24.info
+127.0.0.1 renew.kupujetanio.com.pl
 127.0.0.1 renew.lrsdeutschland.info
 127.0.0.1 renew.lrsdeutschland.pro
 127.0.0.1 renew.pracabieszczady.pl
 127.0.0.1 renew.sparpreisumzuege.de
 127.0.0.1 renew.wv-gmbhcokg.de
+127.0.0.1 renewal-mylog.com
 127.0.0.1 renewal-wix-com-dfc15e9a72e94a38dd0d916929c0f2e.mdr.law
 127.0.0.1 renewalsuspiciousrattle.com
 127.0.0.1 renewboostyw.biz
@@ -108302,6 +108305,7 @@
 127.0.0.1 selfishsea.com
 127.0.0.1 selfishsnake.com
 127.0.0.1 selfkey.co
+127.0.0.1 selflife.xyz
 127.0.0.1 selfportraitpardonwishes.com
 127.0.0.1 selfpuc.com
 127.0.0.1 selfrep.carteldesinaloa.ru
@@ -116599,6 +116603,7 @@
 127.0.0.1 subscribereffectuallyversions.com
 127.0.0.1 subscription-access.com
 127.0.0.1 subscription-team.servehttp.com
+127.0.0.1 subscription.ddns.net
 127.0.0.1 subscription.iqiyi.com
 127.0.0.1 subscription.space
 127.0.0.1 subsequent-twisty-salmonberry.glitch.me
@@ -121608,7 +121613,6 @@
 127.0.0.1 tlabs-za.com
 127.0.0.1 tlads.midtc.com
 127.0.0.1 tlbplanning.org
-127.0.0.1 tlbu.oowa.top
 127.0.0.1 tlctrucks.com
 127.0.0.1 tldrbox.top
 127.0.0.1 tldrbox.ws
@@ -121715,7 +121719,6 @@
 127.0.0.1 tnf-officiel.fr
 127.0.0.1 tnf-outlet.fr
 127.0.0.1 tnfhxszj.xyz
-127.0.0.1 tngy.oowa.top
 127.0.0.1 tnkad.net
 127.0.0.1 tnkexchange.com
 127.0.0.1 tnkfactory.com
@@ -126134,7 +126137,6 @@
 127.0.0.1 umescomymanda.info
 127.0.0.1 umexalim.com
 127.0.0.1 umhfrtu.cn
-127.0.0.1 umhu.oowa.top
 127.0.0.1 umid.orion.meizu.com
 127.0.0.1 uminfoworld.com
 127.0.0.1 umitaj.pics
@@ -129464,6 +129466,7 @@
 127.0.0.1 vinted.charge389.club
 127.0.0.1 vinted.complete-deal.info
 127.0.0.1 vinted.confirm1789324.info
+127.0.0.1 vinted.fee347.shop
 127.0.0.1 vinted.fee822.world
 127.0.0.1 vinted.find384.shop
 127.0.0.1 vinted.gain162.shop
@@ -130685,7 +130688,6 @@
 127.0.0.1 vvapor.top
 127.0.0.1 vvavesltd.servebeer.com
 127.0.0.1 vveepee.fr
-127.0.0.1 vvef.oowa.top
 127.0.0.1 vvehvch.com
 127.0.0.1 vvewkbleeebez.top
 127.0.0.1 vvfgjzwa.icu
@@ -131198,6 +131200,7 @@
 127.0.0.1 warriorflowsweater.com
 127.0.0.1 warsabnormality.com
 127.0.0.1 warscoltmarvellous.com
+127.0.0.1 warsledyn.info
 127.0.0.1 warszawapl.com
 127.0.0.1 warumbistdusoarm.space
 127.0.0.1 warungsabun69d.com
@@ -131279,6 +131282,7 @@
 127.0.0.1 watchmytopapp.top
 127.0.0.1 watchonlineshops.com
 127.0.0.1 watchoutlet.fr
+127.0.0.1 watchpix.smartarz.com
 127.0.0.1 watchrolexonline.com
 127.0.0.1 watchseriesonline.eu
 127.0.0.1 watchsk.com
@@ -138848,7 +138852,6 @@
 127.0.0.1 zmqiswqiiv.click
 127.0.0.1 zmreb.patent.international-med.com
 127.0.0.1 zmrrjyyeqamrb.top
-127.0.0.1 zmvk.oowa.top
 127.0.0.1 zmwbrza.com
 127.0.0.1 zmyh.sbes.top
 127.0.0.1 zmysashrep.com
