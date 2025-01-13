@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-13 20:18:05 (UTC)                      #
+# Last updated: 2025-01-13 22:18:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -123,7 +123,6 @@
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hhynetwork.com
 0.0.0.0 historyfiles.ru
-0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 huyanhnongdo.io.vn
@@ -266,6 +265,7 @@
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
 0.0.0.0 tao816.com
+0.0.0.0 tao886.com
 0.0.0.0 taodianla.com
 0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
@@ -291,6 +291,7 @@
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
+0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
@@ -356,4 +357,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 350
+# Number of entries: 351

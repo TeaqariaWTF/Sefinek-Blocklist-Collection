@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-13 20:18:05 (UTC)                      #
+# Last updated: 2025-01-13 22:18:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -123,7 +123,6 @@ server=/grupobramam.com.br/
 server=/guichet-bpost.com/
 server=/hhynetwork.com/
 server=/historyfiles.ru/
-server=/hitman-pro.ru/
 server=/hitstation.nl/
 server=/hntngln1.com/
 server=/huyanhnongdo.io.vn/
@@ -266,6 +265,7 @@ server=/symdlotic.com/
 server=/tao025.com/
 server=/tao221.com/
 server=/tao816.com/
+server=/tao886.com/
 server=/taodianla.com/
 server=/taytrin.com/
 server=/tecni-soft.com/
@@ -291,6 +291,7 @@ server=/update.volam2005pk.com/
 server=/updateinfo-portal.com/
 server=/upload.vina-host.com/
 server=/ups-zolldienst.com/
+server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
@@ -356,4 +357,4 @@ server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
 server=/zoamaster.com/
 server=/zontricks.com/
-# Number of entries: 350
+# Number of entries: 351
