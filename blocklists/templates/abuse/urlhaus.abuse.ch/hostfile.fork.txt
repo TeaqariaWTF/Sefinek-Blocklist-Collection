@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-13 04:23:07 (UTC)                      #
+# Last updated: 2025-01-13 06:23:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
 0.0.0.0 360down7.miiyun.cn
@@ -35,7 +34,6 @@
 0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
-0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
@@ -60,7 +58,6 @@
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
-0.0.0.0 chernobyl.stressing.world
 0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
 0.0.0.0 ciscocdn.com
@@ -76,19 +73,18 @@
 0.0.0.0 cpcontacts.kasihcommunityschool.sch.id
 0.0.0.0 cpofficial.com
 0.0.0.0 credovsnra.com
-0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
-0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
@@ -98,7 +94,6 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
@@ -210,6 +205,7 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
@@ -233,8 +229,8 @@
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
+0.0.0.0 realbenies.com
 0.0.0.0 rebateit.net
-0.0.0.0 recaptcha-process.com
 0.0.0.0 reifenquick.de
 0.0.0.0 renouvellement-espace-vitale-ameli.com
 0.0.0.0 resourceedge.org
@@ -267,7 +263,6 @@
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
-0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
@@ -279,7 +274,6 @@
 0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
@@ -296,7 +290,6 @@
 0.0.0.0 twizt.net
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
@@ -327,8 +320,8 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kasihcommunityschool.sch.id
+0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.playchees.com
@@ -336,17 +329,16 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.v2-rubby.com
+0.0.0.0 www.webaap2.site
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
-0.0.0.0 xanaxspoofer.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xiangtanjk.com
 0.0.0.0 ximonite.com
@@ -360,6 +352,8 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 356
+# Number of entries: 350
