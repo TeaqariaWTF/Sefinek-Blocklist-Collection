@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-14 12:34:06 (UTC)                      #
+# Last updated: 2025-01-14 14:14:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -59,7 +59,9 @@ server=/bitkiselurunsiparis.com/
 server=/bookkeeping.wannanxi.com/
 server=/buscascolegios.diit.cl/
 server=/catbaparadisehotel.com.vn/
+server=/cbveri.app/
 server=/cdaonline.com.ar/
+server=/cdn-connect.docusigner.info/
 server=/centre-de-tri-ups.com/
 server=/chernobyl.stressing.world/
 server=/chinaapper.com/
@@ -67,6 +69,7 @@ server=/chmod0777kk.com/
 server=/ciscocdn.com/
 server=/coach.028csc.com/
 server=/coadymarine.com/
+server=/codebizz.com/
 server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/consulter-mon-amende.com/
@@ -149,6 +152,7 @@ server=/keyser-api.eu/
 server=/keysertools.cc/
 server=/kiemthehuyenlong.com/
 server=/knightsinshiningarmor.net/
+server=/kufar.online/
 server=/kypeti.com/
 server=/lafilledemavie.com/
 server=/library.arihantmbainstitute.ac.in/
@@ -199,6 +203,7 @@ server=/new-consigne-sms-track.com/
 server=/noithaticon.vn/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
+server=/olxn.college/
 server=/organisme-renouvellement.com/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
@@ -362,4 +367,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/zoamaster.com/
 server=/zontricks.com/
-# Number of entries: 356
+# Number of entries: 361
