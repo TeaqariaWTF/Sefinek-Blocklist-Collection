@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-14 02:39:08 (UTC)                      !
+! Last updated: 2025-01-14 04:24:09 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -10,6 +10,7 @@
 ||139520.aioc.qbgxl.com^
 ||1717.1000uc.com^
 ||2.haory.cn^
+||360down7.miiyun.cn^
 ||6sz.ru^
 ||99smoothfm.com^
 ||abissnet.net^
@@ -56,6 +57,7 @@
 ||bethelkwabenya.org^
 ||bitkiselurunsiparis.com^
 ||bookkeeping.wannanxi.com^
+||botnet.sharkcdn.net^
 ||buscascolegios.diit.cl^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
@@ -92,6 +94,7 @@
 ||dl.aginjector.com^
 ||dl.natgo.cn^
 ||dld.jxwan.com^
+||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.mvip8.ru^
@@ -106,6 +109,7 @@
 ||ecolumy.com^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
+||epanpano.com^
 ||espacesantefr-assurance.com^
 ||f2pverifynow.com^
 ||file.blackint3.com^
@@ -117,14 +121,12 @@
 ||ftp.ywxww.net^
 ||funletters.net^
 ||furryporn.top^
+||gachetroi.com^
 ||gawx.florenda.com^
 ||gokujoutabi.com^
 ||googlsearchings.click^
-||googlsearchings.guru^
 ||googlsearchings.sbs^
 ||googlsearchings.shop^
-||googlsearchings.site^
-||googlsearchings.wiki^
 ||googlsearchings.xyz^
 ||grupobramam.com.br^
 ||guichet-bpost.com^
@@ -150,6 +152,7 @@
 ||jobcity.com^
 ||jointings.org^
 ||jpavuluri.com^
+||jrqh-hk.com^
 ||jsnybsafva.me^
 ||karer.by^
 ||karoonpc.com^
@@ -168,6 +171,7 @@
 ||lnterrac-ca.rebateit.net^
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
+||lsks.volamngayxua.net^
 ||lwaziacademy.com^
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
@@ -179,6 +183,7 @@
 ||mbsngradnja.com^
 ||mertvinc.com.tr^
 ||mes-demarches-renouvellement.com^
+||messiku.com^
 ||microprocessorbook.com^
 ||microprocessordesignbook.com^
 ||microsoft-analyse.com^
@@ -220,6 +225,7 @@
 ||pns.org.pk^
 ||protechasia.com^
 ||qdcdn1228.top^
+||qdhaoge.com^
 ||qdhph1231.top^
 ||qdmain0106.top^
 ||qed245t3kreiscryoz-gueterslohewr33w.de^
@@ -233,7 +239,9 @@
 ||rb3.ftnt.io^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
+||realbenies.com^
 ||rebateit.net^
+||recaptcha-process.com^
 ||reifenquick.de^
 ||renouvellement-espace-vitale-ameli.com^
 ||resourceedge.org^
@@ -269,6 +277,7 @@
 ||spaceframe.mobi.space-frame.co.za^
 ||sporcketngearforu.com^
 ||src1.minibai.com^
+||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||studioq202.com^
 ||support-abonnement.com^
@@ -301,6 +310,7 @@
 ||thepremiumstuffs.xyz^
 ||tianyinsoft.top^
 ||tiaoshibao.com^
+||tjsemicoke.com^
 ||towerofbabble.net^
 ||tracking-packages.com^
 ||tracking-suivie.com^
@@ -313,7 +323,6 @@
 ||twizt.net^
 ||up.maolaoban.top^
 ||update.cg100iii.com^
-||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upload.vina-host.com^
@@ -334,15 +343,15 @@
 ||wildsolace.net^
 ||win-network-checker.cc^
 ||www.alaqalezdehar.com^
-||www.aqianniao.com^
+||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.chemsky.tn^
-||www.fexe-tmp-1.top^
 ||www.globallaborsupply.com^
 ||www.hootech.com^
 ||www.hseda.com^
 ||www.ingonherbal.com^
 ||www.kasihcommunityschool.sch.id^
+||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.opolis.io^
 ||www.playchees.com^
@@ -357,6 +366,7 @@
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.v2-rubby.com^
+||www.webaap2.site^
 ||www.xn--on3b15m2lco2u.com^
 ||www.zhikey.com^
 ||wynecare.com^
@@ -379,4 +389,4 @@
 ||znrq.zifwxq.cn^
 ||zoamaster.com^
 ||zontricks.com^
-! Number of entries: 373
+! Number of entries: 383
