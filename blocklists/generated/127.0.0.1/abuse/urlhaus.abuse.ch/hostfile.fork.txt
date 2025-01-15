@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-15 20:15:09 (UTC)                      #
+# Last updated: 2025-01-15 22:14:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,13 +9,13 @@
 127.0.0.1 0x1531.info
 127.0.0.1 123.ywxww.net
 127.0.0.1 139520.aioc.qbgxl.com
+127.0.0.1 1717.1000uc.com
 127.0.0.1 1xbookeidient.info
 127.0.0.1 2.haory.cn
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 6sz.ru
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 99smoothfm.com
-127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
 127.0.0.1 adf6.adf6.com
@@ -74,7 +74,6 @@
 127.0.0.1 cdn-connect.docusigner.info
 127.0.0.1 centre-de-tri-ups.com
 127.0.0.1 chernobyl.stressing.world
-127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 cmgtrading.eu
@@ -96,7 +95,6 @@
 127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 database.sempulurpratamapapua.net
-127.0.0.1 dazhongyao.com
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
@@ -113,12 +111,10 @@
 127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
+127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
-127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
-127.0.0.1 download.haozip.com
-127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 e4l4.com
 127.0.0.1 ecolumy.com
@@ -172,16 +168,17 @@
 127.0.0.1 javierlopez.eu
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
+127.0.0.1 jrqh-hk.com
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 kasihcommunityschool.sch.id
-127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 killbaidu.top
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 kufar.online
 127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -189,6 +186,7 @@
 127.0.0.1 lnterrac-ca.rebateit.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 mail.kasihcommunityschool.sch.id
@@ -241,10 +239,9 @@
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
-127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qipracticeexchange.org
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
+127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 quevalencia.com
 127.0.0.1 rappel-coinbase.com
@@ -325,7 +322,6 @@
 127.0.0.1 thepremiumstuffs.website
 127.0.0.1 thepremiumstuffs.xyz
 127.0.0.1 tianyinsoft.top
-127.0.0.1 tiaoshibao.com
 127.0.0.1 tjsemicoke.com
 127.0.0.1 towerofbabble.net
 127.0.0.1 tracking-packages.com
@@ -337,9 +333,8 @@
 127.0.0.1 tricazo.com
 127.0.0.1 tualcaldia.com
 127.0.0.1 twizt.net
-127.0.0.1 up.maolaoban.top
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 upload.vina-host.com
 127.0.0.1 ups-zolldienst.com
@@ -350,13 +345,13 @@
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
-127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 versyasist.live
 127.0.0.1 view-reserve.com
 127.0.0.1 waveax.net
 127.0.0.1 wceecsit.international-confrence.com
 127.0.0.1 webdisk.kasihcommunityschool.sch.id
+127.0.0.1 webhook.my
 127.0.0.1 webmail.kasihcommunityschool.sch.id
 127.0.0.1 webmail.tracking-packages.com
 127.0.0.1 wildsolace.net
@@ -386,15 +381,14 @@
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.support-info-colis.com
 127.0.0.1 www.tdejb.com
+127.0.0.1 www.tecunonline.com
 127.0.0.1 www.webaap2.site
-127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 x1ondfirmbok.com
-127.0.0.1 xanaxspoofer.com
 127.0.0.1 xiangshunjy.com
-127.0.0.1 xiangtanjk.com
 127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
@@ -407,7 +401,8 @@
 127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
+127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
-# Number of entries: 404
+# Number of entries: 399
