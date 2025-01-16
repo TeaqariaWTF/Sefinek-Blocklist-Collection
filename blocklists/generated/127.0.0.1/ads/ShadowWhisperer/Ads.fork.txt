@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,623
-# Updated: 1/9/2025  21:09 (9:09 PM CST)
+# Domains: 20,633
+# Updated: 1/15/2025  23:39 (11:39 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1384,7 +1384,9 @@
 127.0.0.1 adconnect.vn
 127.0.0.1 adconnexa.com
 127.0.0.1 adconscious.com
+127.0.0.1 adconsole.bidspotter.co.uk
 127.0.0.1 adconsole.ch
+127.0.0.1 adconsole.kozoom.com
 127.0.0.1 adconsole.lot-tissimo.com
 127.0.0.1 ad-constructor.yandex.ru
 127.0.0.1 adcontent.xyz
@@ -1503,6 +1505,7 @@
 127.0.0.1 adecn.com
 127.0.0.1 ad.editorasegmento.com.br
 127.0.0.1 ad.eepw.com.cn
+127.0.0.1 ad.ehello.jp
 127.0.0.1 ad.eilbote-online.com
 127.0.0.1 adeimptrck.com
 127.0.0.1 ad.eko-7.com.pl
@@ -3690,6 +3693,7 @@
 127.0.0.1 adserver.timestechnet.com
 127.0.0.1 adserver.tinglytube.com
 127.0.0.1 adserver.today
+127.0.0.1 adserver-tolega.ch
 127.0.0.1 adserver.topdestination.tv
 127.0.0.1 adserver.toutlevin.com
 127.0.0.1 adservertq.com
@@ -3745,6 +3749,7 @@
 127.0.0.1 adserver.wunschimmo.de
 127.0.0.1 adserver.wvgw-intern.de
 127.0.0.1 adserver.xhorizont.com
+127.0.0.1 adserver.xnea.eu
 127.0.0.1 adserver.xpurity.co
 127.0.0.1 adserverxxl.de
 127.0.0.1 adserver.yahoo.com
@@ -9442,6 +9447,7 @@
 127.0.0.1 d25dfknw9ghxs6.cloudfront.net
 127.0.0.1 d26xw8rp6mlgfg.cloudfront.net
 127.0.0.1 d275im4r3zngba.cloudfront.net
+127.0.0.1 d2a2l5qrvi6kxt.cloudfront.net
 127.0.0.1 d2ads.com
 127.0.0.1 d2-as-web-azn.glosel.pl
 127.0.0.1 d2c4ylitp1qu24.cloudfront.net
@@ -16187,6 +16193,7 @@
 127.0.0.1 rectanglebd.com
 127.0.0.1 red1r.com
 127.0.0.1 red-apple.in
+127.0.0.1 redbricksoap.com
 127.0.0.1 redbutton-adproxy-lb-prod.redbutton.de
 127.0.0.1 redclick.ru
 127.0.0.1 reddot.com.kh
@@ -16947,6 +16954,7 @@
 127.0.0.1 r.vistats.eu
 127.0.0.1 rvmnews.com
 127.0.0.1 rvmtv.com
+127.0.0.1 rv.ntl.cloud
 127.0.0.1 rvv3.pdnegocios.cl
 127.0.0.1 rvv.emol.com
 127.0.0.1 rvv.pdnegocios.cl
@@ -17271,6 +17279,7 @@
 127.0.0.1 secondsiteadvertising.com
 127.0.0.1 secondstreetapp.com
 127.0.0.1 secraq.com
+127.0.0.1 secretivesponge.com
 127.0.0.1 secretmedia.com
 127.0.0.1 secret-request.pro
 127.0.0.1 secure-adnxs.edgekey.net
@@ -18706,6 +18715,7 @@
 127.0.0.1 tools.mojegotowanie.pl
 127.0.0.1 tools.mojpieknyogrod.pl
 127.0.0.1 tools.national-geographic.pl
+127.0.0.1 tools.niania.pl
 127.0.0.1 tools.party.pl
 127.0.0.1 tools.przyslijprzepis.pl
 127.0.0.1 tools.services.tvn.pl
