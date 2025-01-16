@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-16 08:24:06 (UTC)                      #
+# Last updated: 2025-01-16 10:13:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -101,6 +101,7 @@
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 database.sempulurpratamapapua.net
+0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 dev.inolab.org
@@ -114,7 +115,6 @@
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
@@ -124,7 +124,6 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
@@ -137,7 +136,6 @@
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
-0.0.0.0 fill-tomap.com
 0.0.0.0 fixazo.online
 0.0.0.0 fixecondfirbook.info
 0.0.0.0 fizeteselutasitva.com
@@ -147,8 +145,8 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
-0.0.0.0 furryporn.top
 0.0.0.0 gaby20.org
+0.0.0.0 gachetroi.com
 0.0.0.0 garfieldthecat.tech
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gokujoutabi.com
@@ -212,6 +210,7 @@
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mail.kasihcommunityschool.sch.id
 0.0.0.0 mail.simon.sttdiakonos.ac.id
@@ -220,7 +219,6 @@
 0.0.0.0 melbournedistillers.com.au
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mes-demarches-renouvellement.com
-0.0.0.0 messiku.com
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
 0.0.0.0 microsoft-analyse.com
@@ -257,19 +255,16 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
-0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pink57hj.site
-0.0.0.0 pns.org.pk
 0.0.0.0 promptful.biz
 0.0.0.0 protechasia.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
 0.0.0.0 rappel-coinbase.com
@@ -302,12 +297,14 @@
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
+0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 solve.lzmb.org
 0.0.0.0 solve.xfzz.org
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
+0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 studioq202.com
@@ -318,9 +315,11 @@
 0.0.0.0 supportameli.top
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
+0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
 0.0.0.0 tao816.com
+0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
 0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
@@ -349,11 +348,9 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 truthisdivine.edu.lk
-0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
@@ -362,7 +359,6 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
@@ -370,7 +366,7 @@
 0.0.0.0 vmorservices.org
 0.0.0.0 wceecsit.international-confrence.com
 0.0.0.0 webdisk.kasihcommunityschool.sch.id
-0.0.0.0 webmail.kasihcommunityschool.sch.id
+0.0.0.0 webhook.my
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 weixe.ir
 0.0.0.0 wildsolace.net
@@ -379,9 +375,11 @@
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
+0.0.0.0 www.kasihcommunityschool.sch.id
 0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -392,15 +390,12 @@
 0.0.0.0 www.portalreceitafazenda.com
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
-0.0.0.0 www.volareconsultoria.com.br
-0.0.0.0 www.webaap2.site
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
@@ -422,7 +417,8 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 419
+# Number of entries: 415
