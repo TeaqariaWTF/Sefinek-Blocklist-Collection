@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-16 02:44:07 (UTC)                      #
+# Last updated: 2025-01-16 04:22:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,8 +15,6 @@
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
 0.0.0.0 912648.aioc.qbgxl.com
-0.0.0.0 99smoothfm.com
-0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
@@ -43,6 +41,7 @@
 0.0.0.0 antibot-check.sbs
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
@@ -65,6 +64,7 @@
 0.0.0.0 banthis.su
 0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 brainlysolutions.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 captcha-serve.com
@@ -79,7 +79,6 @@
 0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
 0.0.0.0 ciscocdn.com
-0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 codebizz.com
@@ -110,7 +109,6 @@
 0.0.0.0 dihvbe.theeyefirewall.su
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
-0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
@@ -206,7 +204,6 @@
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mail.kasihcommunityschool.sch.id
@@ -216,6 +213,7 @@
 0.0.0.0 melbournedistillers.com.au
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 mes-demarches-renouvellement.com
+0.0.0.0 messiku.com
 0.0.0.0 microprocessorbook.com
 0.0.0.0 microprocessordesignbook.com
 0.0.0.0 microsoft-auth-network.cc
@@ -229,6 +227,7 @@
 0.0.0.0 mjsqurej.com
 0.0.0.0 mon-dossier-renouvellement.com
 0.0.0.0 monformulaire-sante.com
+0.0.0.0 moonloaderupdate.ru
 0.0.0.0 motoruniverse.com
 0.0.0.0 myhermes-dienste.com
 0.0.0.0 myhermes-liefern.com
@@ -239,6 +238,7 @@
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 nirocloud.com
 0.0.0.0 no.ssl.very-loves.tech
+0.0.0.0 noithaticon.vn
 0.0.0.0 nopaste.net
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
@@ -251,6 +251,7 @@
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pid.fly160.com
+0.0.0.0 pilzmacher.com
 0.0.0.0 pink57hj.site
 0.0.0.0 pns.org.pk
 0.0.0.0 promptful.biz
@@ -259,10 +260,7 @@
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 quevalencia.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 razer-partners.com
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
@@ -279,7 +277,6 @@
 0.0.0.0 rtigasen.us
 0.0.0.0 rybv.aceconnect.net.pk
 0.0.0.0 safe.ywxww.net
-0.0.0.0 sarahwillemart.com
 0.0.0.0 schytcdagl.com
 0.0.0.0 securbookinid.com
 0.0.0.0 securebookingid8987.com
@@ -310,7 +307,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
@@ -348,16 +344,12 @@
 0.0.0.0 up.maolaoban.top
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
-0.0.0.0 upload.vina-host.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 usa7.info
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
-0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
@@ -368,6 +360,7 @@
 0.0.0.0 webmail.kasihcommunityschool.sch.id
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 weixe.ir
+0.0.0.0 wildsolace.net
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
@@ -383,6 +376,7 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.movingcompanymesa.org
 0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.opolis.io
 0.0.0.0 www.playchees.com
 0.0.0.0 www.portalreceitafazenda.com
 0.0.0.0 www.qqqmy.com
@@ -414,6 +408,8 @@
 0.0.0.0 xy.jzhh.pro
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 410
+0.0.0.0 zoamaster.com
+# Number of entries: 406
