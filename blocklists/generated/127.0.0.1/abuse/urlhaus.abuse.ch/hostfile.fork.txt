@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-18 06:23:33 (UTC)                      #
+# Last updated: 2025-01-18 08:22:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -37,8 +37,8 @@
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
-127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
+127.0.0.1 armanayegh.com
 127.0.0.1 arting.ee
 127.0.0.1 assuresform.com
 127.0.0.1 athusa.ceo
@@ -65,9 +65,11 @@
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 centre-de-tri-ups.com
+127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
 127.0.0.1 christinadudley.com
 127.0.0.1 ciscocdn.com
+127.0.0.1 cmgtrading.eu
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 codebizz.com
@@ -84,9 +86,9 @@
 127.0.0.1 d1.exploredairyaptitude.shop
 127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
+127.0.0.1 dazhongyao.com
 127.0.0.1 dbasopma.icu
 127.0.0.1 dbasopma.shop
-127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
@@ -149,7 +151,6 @@
 127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
 127.0.0.1 hr2019.vrcom7.com
-127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
 127.0.0.1 imtoken8.cc
@@ -173,7 +174,6 @@
 127.0.0.1 knightsinshiningarmor.net
 127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -239,8 +239,8 @@
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
+127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanlyphongnet.com
-127.0.0.1 quevalencia.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rb3.ftnt.io
 127.0.0.1 rd.chuitian.cn
@@ -285,7 +285,6 @@
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
-127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
 127.0.0.1 tao977.com
@@ -332,7 +331,6 @@
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.aviationchartersolutions.com
-127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.flechabusretiro.com.ar
@@ -354,18 +352,15 @@
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.support-info-colis.com
 127.0.0.1 www.tdejb.com
-127.0.0.1 www.tecunonline.com
 127.0.0.1 www.volareconsultoria.com.br
 127.0.0.1 www.webaap2.site
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
-127.0.0.1 wz.3911.com
 127.0.0.1 xanaxspoofer.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 xiangtanjk.com
-127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
@@ -376,8 +371,9 @@
 127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
+127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
 127.0.0.1 zooominvite.es
-# Number of entries: 374
+# Number of entries: 370
