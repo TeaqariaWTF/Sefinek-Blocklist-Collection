@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-18 18:23:06 (UTC)                      !
+! Last updated: 2025-01-18 20:14:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -32,6 +32,7 @@
 ||amelcarte.com^
 ||amende-renouvellement.com^
 ||amende-stationnement-suivis.com^
+||aosafrica.co.za^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
@@ -53,13 +54,13 @@
 ||avastop.com^
 ||avastpdq.com^
 ||avastpdr.com^
+||avastpx.com^
 ||azgint.com^
 ||bahelp.top^
 ||banthis.su^
 ||benvixa.com^
 ||bethelkwabenya.org^
 ||boldway.shop^
-||buscascolegios.diit.cl^
 ||caringforyousupport.com.au^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
@@ -68,7 +69,6 @@
 ||chmod0777kk.com^
 ||christinadudley.com^
 ||ciscocdn.com^
-||cmgtrading.eu^
 ||coach.028csc.com^
 ||codebizz.com^
 ||comteste.com^
@@ -89,6 +89,7 @@
 ||dbasopma.shop^
 ||dcwblida.dz^
 ||deauduafzgezzfgm.top^
+||device.redirec.com^
 ||dhnconstrucciones.com.ar^
 ||dienstmyhermes.de^
 ||disk.accord1key.cn^
@@ -108,7 +109,6 @@
 ||download.suxiazai.com^
 ||downsexv.com^
 ||dragonhack.shop^
-||e-mailnewsletters.com^
 ||e1.foiloverturnarrival.shop^
 ||e4l4.com^
 ||ecolumy.com^
@@ -117,7 +117,6 @@
 ||eiesoft.com^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
-||epanpano.com^
 ||eprimemart.shop^
 ||eretailzone.shop^
 ||espacesantefr-assurance.com^
@@ -125,6 +124,8 @@
 ||f2pverifynow.com^
 ||file.blackint3.com^
 ||file.edunet.ac^
+||file.plusgbwhats.app^
+||files5.uludagbilisim.com^
 ||fill-tomap.com^
 ||fixazo.online^
 ||fixecondfirbook.info^
@@ -134,9 +135,11 @@
 ||fundrescuetech.com^
 ||funletters.net^
 ||furryporn.top^
+||gabrize.shop^
 ||gachetroi.com^
 ||gawx.florenda.com^
 ||gh-hr.cn^
+||ghazaano.shop^
 ||goaccredited.biz^
 ||greenindustry.pl^
 ||grupobramam.com.br^
@@ -148,6 +151,7 @@
 ||hr2019.vrcom7.com^
 ||hseda.com^
 ||huyanhnongdo.io.vn^
+||hwebprint.com^
 ||info-paiement-ligne.com^
 ||information-binance.com^
 ||informations-colissimo.com^
@@ -160,7 +164,6 @@
 ||jkbrtyinv.name^
 ||jobcity.com^
 ||jointings.org^
-||jrqh-hk.com^
 ||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
@@ -221,7 +224,6 @@
 ||organisme-renouvellement.com^
 ||osecweb.ir^
 ||palharesinformatica.com.br^
-||paonancs.cn^
 ||park.chuitian.cn^
 ||passagetoeastafrica.com^
 ||patbunn.com^
@@ -234,17 +236,17 @@
 ||protechasia.com^
 ||pucchiswelt.com^
 ||qed245t3kreiscryoz-gueterslohewr33w.de^
-||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net^
 ||quanlyphongnet.com^
+||quevalencia.com^
 ||rappel-coinbase.com^
 ||rb3.ftnt.io^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
+||realbenies.com^
 ||rebateit.net^
 ||reifenquick.de^
-||remotemomjobs.com^
 ||renouvellement-espace-vitale-ameli.com^
 ||resourceedge.org^
 ||reusable-flex.com^
@@ -277,7 +279,6 @@
 ||sufikhat.com^
 ||support-abonnement.com^
 ||support-colis-info.com^
-||support.clz.kr^
 ||supportameli.top^
 ||symbiatec-fi.com^
 ||symbietic.com^
@@ -308,7 +309,6 @@
 ||twizt.net^
 ||up.maolaoban.top^
 ||update.cg100iii.com^
-||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||ups-zolldienst.com^
 ||utorrent-backup-server.top^
@@ -336,11 +336,9 @@
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.ojang.pe.kr^
-||www.opolis.io^
 ||www.qqqmy.com^
 ||www.reifenquick.de^
 ||www.rgueapp.com^
-||www.rphingenieria.com^
 ||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.support-info-colis.com^
@@ -356,7 +354,6 @@
 ||xanaxspoofer.com^
 ||xiangshunjy.com^
 ||xiangtanjk.com^
-||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--ameli--niveau-sms-tob.com^
 ||xn--espace-vitale--jours-sms-87b.com^
@@ -366,8 +363,8 @@
 ||xn--yh4bx88a.com^
 ||yaocanting.com^
 ||ywxww.net^
-||yzkzixun.com^
+||z.shavsl.com^
 ||znrq.zifwxq.cn^
-||zoamaster.com^
+||zontricks.com^
 ||zooominvite.es^
-! Number of entries: 364
+! Number of entries: 361
