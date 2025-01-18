@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-18 14:17:24 (UTC)                      #
+# Last updated: 2025-01-18 16:18:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,12 +9,12 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
+0.0.0.0 99smoothfm.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 act.windowsdriver.pro
 0.0.0.0 activetykes.shop
-0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 admin.bookmanagereserve.com
 0.0.0.0 adresse-confirmation.com
@@ -25,17 +25,17 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
-0.0.0.0 alien-training.com
 0.0.0.0 amazonenviro.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
-0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
+0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 armanayegh.com
 0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
@@ -50,7 +50,6 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 bahelp.top
 0.0.0.0 banthis.su
@@ -86,10 +85,11 @@
 0.0.0.0 dazhongyao.com
 0.0.0.0 dbasopma.icu
 0.0.0.0 dbasopma.shop
+0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
-0.0.0.0 divvanews.com
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
@@ -101,10 +101,12 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dragonhack.shop
+0.0.0.0 e-mailnewsletters.com
 0.0.0.0 e1.foiloverturnarrival.shop
 0.0.0.0 e4l4.com
 0.0.0.0 edealselite.shop
@@ -121,6 +123,7 @@
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
+0.0.0.0 fill-tomap.com
 0.0.0.0 fixazo.online
 0.0.0.0 fixecondfirbook.info
 0.0.0.0 fizeteselutasitva.com
@@ -129,7 +132,6 @@
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 furryporn.top
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gh-hr.cn
 0.0.0.0 goaccredited.biz
@@ -138,18 +140,18 @@
 0.0.0.0 grupobramam.com.br
 0.0.0.0 guichet-bpost.com
 0.0.0.0 hardcorelegends.com
+0.0.0.0 hhynetwork.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hntngln1.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
-0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 information-binance.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
@@ -192,7 +194,6 @@
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
-0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -207,13 +208,16 @@
 0.0.0.0 myhermes-versand.net
 0.0.0.0 mypackagingups.com
 0.0.0.0 mystartherehosting.net
+0.0.0.0 n.kliphirofey.shop
 0.0.0.0 n2.bathglorifycalculate.shop
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
+0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 passagetoeastafrica.com
@@ -231,13 +235,12 @@
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
-0.0.0.0 realbenies.com
 0.0.0.0 rebateit.net
 0.0.0.0 reifenquick.de
+0.0.0.0 remotemomjobs.com
 0.0.0.0 renouvellement-espace-vitale-ameli.com
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
@@ -267,7 +270,6 @@
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
-0.0.0.0 studioq202.com
 0.0.0.0 sufikhat.com
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
@@ -279,7 +281,6 @@
 0.0.0.0 tao221.com
 0.0.0.0 tao816.com
 0.0.0.0 tao977.com
-0.0.0.0 taodianla.com
 0.0.0.0 taytrin.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -334,11 +335,9 @@
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.playchees.com
-0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
@@ -350,7 +349,6 @@
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
-0.0.0.0 xanaxspoofer.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xiangtanjk.com
 0.0.0.0 ximonite.com
@@ -368,4 +366,4 @@
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
 0.0.0.0 zooominvite.es
-# Number of entries: 362
+# Number of entries: 360
