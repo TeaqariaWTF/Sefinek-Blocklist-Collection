@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025011801 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -78449,6 +78449,8 @@ quickreply.oppositehq.click CNAME .
 *.quickreply.oppositehq.click CNAME .
 quickreply.thecaper.click CNAME .
 *.quickreply.thecaper.click CNAME .
+quickreply.trytravel.click CNAME .
+*.quickreply.trytravel.click CNAME .
 quickspect.com CNAME .
 *.quickspect.com CNAME .
 quicksticks.buzz CNAME .
