@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-19 08:24:05 (UTC)                      #
+# Last updated: 2025-01-19 10:13:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -62,6 +62,7 @@ server=/bitkiselurunsiparis.com/
 server=/boldway.shop/
 server=/bookidindinetfikat.world/
 server=/buscascolegios.diit.cl/
+server=/byteshift.cyou/
 server=/caringforyousupport.com.au/
 server=/catbaparadisehotel.com.vn/
 server=/cdaonline.com.ar/
@@ -73,6 +74,7 @@ server=/ciscocdn.com/
 server=/cmgtrading.eu/
 server=/coach.028csc.com/
 server=/coadymarine.com/
+server=/codeblaze.cyou/
 server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/consulter-mon-amende.com/
@@ -364,4 +366,4 @@ server=/znrq.zifwxq.cn/
 server=/zoamaster.com/
 server=/zontricks.com/
 server=/zooominvite.es/
-# Number of entries: 358
+# Number of entries: 360
