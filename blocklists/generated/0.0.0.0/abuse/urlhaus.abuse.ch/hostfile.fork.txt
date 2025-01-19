@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-19 12:34:20 (UTC)                      #
+# Last updated: 2025-01-19 14:14:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,20 +30,27 @@
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 armanayegh.com
+0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
 0.0.0.0 athusa.ceo
 0.0.0.0 aulist.com
 0.0.0.0 autoparts-online.us
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
+0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
+0.0.0.0 avastng.com
 0.0.0.0 avastop.com
+0.0.0.0 avastpdq.com
+0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 az-ka.com
 0.0.0.0 azgint.com
 0.0.0.0 bahelp.top
@@ -55,11 +62,11 @@
 0.0.0.0 boldway.shop
 0.0.0.0 bookidindinetfikat.world
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 byteshift.cyou
 0.0.0.0 caringforyousupport.com.au
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 centre-de-tri-ups.com
+0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
 0.0.0.0 christinadudley.com
 0.0.0.0 ciscocdn.com
@@ -77,18 +84,19 @@
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 d1.exploredairyaptitude.shop
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dbasopma.icu
 0.0.0.0 dbasopma.shop
+0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 dirol-netrol.com
-0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 djhyzhicai.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -127,7 +135,6 @@
 0.0.0.0 funletters.net
 0.0.0.0 furryporn.top
 0.0.0.0 gabrize.shop
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gh-hr.cn
 0.0.0.0 ghazaano.shop
@@ -157,7 +164,6 @@
 0.0.0.0 jkbrtyinv.name
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
-0.0.0.0 jrqh-hk.com
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
@@ -214,6 +220,8 @@
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
+0.0.0.0 palharesinformatica.com.br
+0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pid.fly160.com
@@ -226,6 +234,7 @@
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
 0.0.0.0 rappel-coinbase.com
@@ -236,14 +245,13 @@
 0.0.0.0 rebateit.net
 0.0.0.0 reifenquick.de
 0.0.0.0 renouvellement-espace-vitale-ameli.com
-0.0.0.0 resourceedge.org
 0.0.0.0 retrosome.shop
-0.0.0.0 reusable-flex.com
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 roomsattendes999923.world
 0.0.0.0 safe.ywxww.net
 0.0.0.0 sarahwillemart.com
 0.0.0.0 schytcdagl.com
+0.0.0.0 security-service-api-link.cc
 0.0.0.0 sedman.shop
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 service-espace-sante.com
@@ -262,14 +270,16 @@
 0.0.0.0 speedylo.shop
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
+0.0.0.0 studioq202.com
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
-0.0.0.0 symdlotic.com
+0.0.0.0 tao025.com
 0.0.0.0 tao221.com
 0.0.0.0 tao816.com
 0.0.0.0 tao977.com
@@ -298,7 +308,6 @@
 0.0.0.0 update-chronne.com
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server2.top
@@ -361,4 +370,4 @@
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
 0.0.0.0 zooominvite.es
-# Number of entries: 355
+# Number of entries: 364
