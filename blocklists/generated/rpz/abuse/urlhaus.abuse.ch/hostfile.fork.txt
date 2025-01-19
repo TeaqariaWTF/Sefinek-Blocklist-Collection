@@ -67,8 +67,6 @@ api.rappel-coinbase.com CNAME .
 *.api.rappel-coinbase.com CNAME .
 armanayegh.com CNAME .
 *.armanayegh.com CNAME .
-arting.ee CNAME .
-*.arting.ee CNAME .
 assuresform.com CNAME .
 *.assuresform.com CNAME .
 athusa.ceo CNAME .
@@ -315,6 +313,8 @@ karer.by CNAME .
 *.karer.by CNAME .
 karoonpc.com CNAME .
 *.karoonpc.com CNAME .
+keyser-api.eu CNAME .
+*.keyser-api.eu CNAME .
 keysertools.cc CNAME .
 *.keysertools.cc CNAME .
 knightsinshiningarmor.net CNAME .
