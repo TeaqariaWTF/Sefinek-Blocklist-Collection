@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-20 10:23:05 (UTC)                      #
+# Last updated: 2025-01-20 12:39:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
+0.0.0.0 99smoothfm.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
@@ -56,7 +57,6 @@
 0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bgptools-wildcard-confirmed.phavtom-v3.com
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bookidindinetfikat.world
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 byteshift.cyou
@@ -65,9 +65,9 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-general.cyou
 0.0.0.0 centre-de-tri-ups.com
-0.0.0.0 cheerfuldelights.shop
 0.0.0.0 chinaapper.com
 0.0.0.0 ciscocdn.com
+0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 codeblaze.cyou
@@ -75,10 +75,8 @@
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
-0.0.0.0 corepatchcraft.com
 0.0.0.0 cpofficial.com
 0.0.0.0 crestereamuschilor.ro
-0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
@@ -103,14 +101,15 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dragonhack.shop
 0.0.0.0 e4l4.com
 0.0.0.0 ecolumy.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
+0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
 0.0.0.0 extgraknetbookidhotel.com
 0.0.0.0 f2pverifynow.com
@@ -134,7 +133,6 @@
 0.0.0.0 greenindustry.pl
 0.0.0.0 grupobramam.com.br
 0.0.0.0 guichet-bpost.com
-0.0.0.0 gustavu.shop
 0.0.0.0 hhhh.klipcewucyu.shop
 0.0.0.0 hhynetwork.com
 0.0.0.0 hitman-pro.ru
@@ -159,7 +157,6 @@
 0.0.0.0 jointings.org
 0.0.0.0 joopshoop.shop
 0.0.0.0 jrqh-hk.com
-0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
@@ -176,7 +173,6 @@
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mandarin.net.au
 0.0.0.0 mbsngradnja.com
@@ -211,6 +207,7 @@
 0.0.0.0 n.kliphirofey.shop
 0.0.0.0 n.kliphyzivui.shop
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
@@ -230,7 +227,9 @@
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
+0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
+0.0.0.0 raw.brewmacos.com
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -260,7 +259,6 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solve.nkve.org
 0.0.0.0 soportegira.net
 0.0.0.0 speedylo.shop
@@ -279,15 +277,16 @@
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
 0.0.0.0 taodianla.com
-0.0.0.0 taytrin.com
 0.0.0.0 techexperts.cyou
 0.0.0.0 techvisionaries.cyou
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
+0.0.0.0 tjsemicoke.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
@@ -301,9 +300,11 @@
 0.0.0.0 twizt.net
 0.0.0.0 update-chronne.com
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
@@ -323,6 +324,7 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.playchees.com
 0.0.0.0 www.qqqmy.com
@@ -343,6 +345,7 @@
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xiangtanjk.com
+0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
@@ -353,8 +356,7 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 351
+# Number of entries: 353
