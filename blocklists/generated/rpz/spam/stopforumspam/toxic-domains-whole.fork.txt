@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012001 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -21995,6 +21995,8 @@ christopherbainryan.com CNAME .
 *.christopherbainryan.com CNAME .
 chromiumemail.com CNAME .
 *.chromiumemail.com CNAME .
+chromomail.com CNAME .
+*.chromomail.com CNAME .
 chroniclenewstoday.com CNAME .
 *.chroniclenewstoday.com CNAME .
 chronicradar.com CNAME .
@@ -40187,6 +40189,8 @@ gdqdaintb.ml CNAME .
 *.gdqdaintb.ml CNAME .
 gdradr.com CNAME .
 *.gdradr.com CNAME .
+gdstmail.com CNAME .
+*.gdstmail.com CNAME .
 gdstudyworkshop.net CNAME .
 *.gdstudyworkshop.net CNAME .
 gdsuslugi.ru CNAME .
@@ -41763,6 +41767,8 @@ gmailasdfas.com CNAME .
 *.gmailasdfas.com CNAME .
 gmailasdfas.net CNAME .
 *.gmailasdfas.net CNAME .
+gmailbrt.com CNAME .
+*.gmailbrt.com CNAME .
 gmailc.om CNAME .
 *.gmailc.om CNAME .
 gmailco.ml CNAME .
@@ -58387,6 +58393,8 @@ lordfilmu.org CNAME .
 *.lordfilmu.org CNAME .
 lordfkas.tk CNAME .
 *.lordfkas.tk CNAME .
+lordgames.ru CNAME .
+*.lordgames.ru CNAME .
 lordpopi.com CNAME .
 *.lordpopi.com CNAME .
 lorel.best CNAME .
@@ -85737,6 +85745,8 @@ shopmizi.com CNAME .
 *.shopmizi.com CNAME .
 shopmmovn.com CNAME .
 *.shopmmovn.com CNAME .
+shopmp3.org CNAME .
+*.shopmp3.org CNAME .
 shopnessales.site CNAME .
 *.shopnessales.site CNAME .
 shopnowhq.xyz CNAME .

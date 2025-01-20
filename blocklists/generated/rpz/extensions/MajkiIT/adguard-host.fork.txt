@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012001 43200 3600 259200 300
   NS  localhost.
 0.code.cotsta.ru CNAME .
 *.0.code.cotsta.ru CNAME .
@@ -1863,6 +1863,8 @@ $TTL 300
 *.4bfx0u.com CNAME .
 4c935d6a244f.com CNAME .
 *.4c935d6a244f.com CNAME .
+4ce.fun CNAME .
+*.4ce.fun CNAME .
 4cinsights.com CNAME .
 *.4cinsights.com CNAME .
 4co7mbsb.de CNAME .
@@ -11415,6 +11417,8 @@ analytics.nhattao.com CNAME .
 *.analytics.nhattao.com CNAME .
 analytics.nianticlabs.com CNAME .
 *.analytics.nianticlabs.com CNAME .
+analytics.nike.com CNAME .
+*.analytics.nike.com CNAME .
 analytics.nikkasystems.com CNAME .
 *.analytics.nikkasystems.com CNAME .
 analytics.nodecraft.com CNAME .
@@ -21325,6 +21329,8 @@ ccnnetwork.co CNAME .
 *.ccnnetwork.co CNAME .
 ccobksxz.icu CNAME .
 *.ccobksxz.icu CNAME .
+ccokamif.top CNAME .
+*.ccokamif.top CNAME .
 ccrkpsu.com CNAME .
 *.ccrkpsu.com CNAME .
 ccrtvi.com CNAME .
@@ -39977,8 +39983,6 @@ flipool.com CNAME .
 *.flipool.com CNAME .
 flippantguilt.com CNAME .
 *.flippantguilt.com CNAME .
-flippback.com CNAME .
-*.flippback.com CNAME .
 flirt4e.com CNAME .
 *.flirt4e.com CNAME .
 flirt4free.com CNAME .
@@ -41163,6 +41167,8 @@ front.optimonk.com CNAME .
 *.front.optimonk.com CNAME .
 frontcognizance.com CNAME .
 *.frontcognizance.com CNAME .
+frontend-logger.flippback.com CNAME .
+*.frontend-logger.flippback.com CNAME .
 fronthlpr.com CNAME .
 *.fronthlpr.com CNAME .
 frontier.musical.ly CNAME .
@@ -42233,6 +42239,8 @@ gaupaufi.net CNAME .
 *.gaupaufi.net CNAME .
 gaupsaur.xyz CNAME .
 *.gaupsaur.xyz CNAME .
+gauqoith.com CNAME .
+*.gauqoith.com CNAME .
 gaushaih.xyz CNAME .
 *.gaushaih.xyz CNAME .
 gaustele.xyz CNAME .
@@ -45715,6 +45723,8 @@ h6295.com CNAME .
 *.h6295.com CNAME .
 h689.nydailynews.com CNAME .
 *.h689.nydailynews.com CNAME .
+h6o.fun CNAME .
+*.h6o.fun CNAME .
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me CNAME .
 *.h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me CNAME .
 h74v6kerf.com CNAME .
@@ -72725,6 +72735,8 @@ pf.newegg.com CNAME .
 *.pf.newegg.com CNAME .
 pf34zdjoeycr.com CNAME .
 *.pf34zdjoeycr.com CNAME .
+pfbmht.icu CNAME .
+*.pfbmht.icu CNAME .
 pfiuyt.com CNAME .
 *.pfiuyt.com CNAME .
 pfjfjid.xyz CNAME .
@@ -82061,6 +82073,8 @@ rpe.co.il CNAME .
 *.rpe.co.il CNAME .
 rpeutxu.icu CNAME .
 *.rpeutxu.icu CNAME .
+rpfuvj.icu CNAME .
+*.rpfuvj.icu CNAME .
 rpfytkt.com CNAME .
 *.rpfytkt.com CNAME .
 rpjkwhkxh.com CNAME .
@@ -83059,6 +83073,8 @@ sadrettinnow.com CNAME .
 *.sadrettinnow.com CNAME .
 sadsaunsord.com CNAME .
 *.sadsaunsord.com CNAME .
+saelphol.com CNAME .
+*.saelphol.com CNAME .
 safe-connection21.com CNAME .
 *.safe-connection21.com CNAME .
 safe524.xyz CNAME .
