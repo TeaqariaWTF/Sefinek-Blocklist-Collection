@@ -1,7 +1,7 @@
 ! AdguardMobileSpyware
 !
 ! Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-! Last converted - Mon, 13 Jan 2025 08:36:25 +0000
+! Last converted - Mon, 20 Jan 2025 03:50:54 +0000
 !
 ||adeventtracker.spotify.com^
 ||do-not-tracker.org^
@@ -106,6 +106,9 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||spider-tracker.xiaohongshu.com^
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 ||nstool.netease.com^
 ||data.kuiniuca.com^
 ||clientlogsf.music.163.com^
