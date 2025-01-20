@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-20 08:23:08 (UTC)                      #
+# Last updated: 2025-01-20 10:23:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,6 +13,7 @@
 127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
+127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 adresse-confirmation.com
 127.0.0.1 aefieiaehfiaehr.top
@@ -28,6 +29,7 @@
 127.0.0.1 antai-payezvosamendes.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
+127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -47,7 +49,9 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
+127.0.0.1 avastpx.com
 127.0.0.1 az-ka.com
+127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 benvixa.com
 127.0.0.1 bethelkwabenya.org
@@ -59,11 +63,10 @@
 127.0.0.1 caringforyousupport.com.au
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
-127.0.0.1 cdn-connect.docusigner.info
 127.0.0.1 cdn-general.cyou
 127.0.0.1 centre-de-tri-ups.com
+127.0.0.1 cheerfuldelights.shop
 127.0.0.1 chinaapper.com
-127.0.0.1 chmod0777kk.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
@@ -72,6 +75,7 @@
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 consulter-mon-amende.com
 127.0.0.1 contravinf.com
+127.0.0.1 corepatchcraft.com
 127.0.0.1 cpofficial.com
 127.0.0.1 crestereamuschilor.ro
 127.0.0.1 crystalpvp.ru
@@ -82,6 +86,7 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
+127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 dirol-netrol.com
 127.0.0.1 disk.accord1key.cn
@@ -91,6 +96,7 @@
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
+127.0.0.1 do-dear.com
 127.0.0.1 dogs-airdp.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
@@ -105,7 +111,6 @@
 127.0.0.1 ecolumy.com
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
-127.0.0.1 epanpano.com
 127.0.0.1 espacesantefr-assurance.com
 127.0.0.1 extgraknetbookidhotel.com
 127.0.0.1 f2pverifynow.com
@@ -126,16 +131,20 @@
 127.0.0.1 gh-hr.cn
 127.0.0.1 ghazaano.shop
 127.0.0.1 gokujoutabi.com
+127.0.0.1 greenindustry.pl
 127.0.0.1 grupobramam.com.br
 127.0.0.1 guichet-bpost.com
+127.0.0.1 gustavu.shop
 127.0.0.1 hhhh.klipcewucyu.shop
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
+127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
+127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
-127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
+127.0.0.1 imtoken8.cc
 127.0.0.1 info-paiement-ligne.com
 127.0.0.1 information-binance.com
 127.0.0.1 informations-colissimo.com
@@ -159,6 +168,7 @@
 127.0.0.1 lafilledemavie.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
+127.0.0.1 lindenappliances.co.za
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 live-sendungsverfolgung.com
@@ -201,8 +211,8 @@
 127.0.0.1 n.kliphirofey.shop
 127.0.0.1 n.kliphyzivui.shop
 127.0.0.1 nabawitransport.com
-127.0.0.1 namthaibinh.net
 127.0.0.1 new-consigne-sms-track.com
+127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 organisme-renouvellement.com
@@ -216,11 +226,12 @@
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
-127.0.0.1 qiniuyunxz.yxflzs.com
+127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 quevalencia.com
 127.0.0.1 raven-security.com
+127.0.0.1 rb3.ftnt.io
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 rddissisifigifidi.net
 127.0.0.1 realbenies.com
@@ -264,18 +275,19 @@
 127.0.0.1 support.clz.kr
 127.0.0.1 supportameli.top
 127.0.0.1 symbiatec-fi.com
-127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
+127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 taodianla.com
 127.0.0.1 taytrin.com
 127.0.0.1 techexperts.cyou
 127.0.0.1 techvisionaries.cyou
 127.0.0.1 tecni-soft.com
-127.0.0.1 telegramcn.co
+127.0.0.1 tecunonline.com
+127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tianyinsoft.top
-127.0.0.1 tjsemicoke.com
+127.0.0.1 tiaoshibao.com
 127.0.0.1 towerofbabble.net
 127.0.0.1 tracking-packages.com
 127.0.0.1 tracking-suivie.com
@@ -289,11 +301,9 @@
 127.0.0.1 twizt.net
 127.0.0.1 update-chronne.com
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 ups-zolldienst.com
 127.0.0.1 utorrent-backup-server.top
-127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
@@ -313,9 +323,7 @@
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.lovlypets.com
 127.0.0.1 www.maxmoney.com
-127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
-127.0.0.1 www.opolis.io
 127.0.0.1 www.playchees.com
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
@@ -332,6 +340,7 @@
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
+127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 xiangtanjk.com
 127.0.0.1 xingpai.weilay.com.cn
@@ -340,6 +349,7 @@
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
 127.0.0.1 xn--mise--jours-vitale-espace-sms-pmc.com
 127.0.0.1 xn--vitale-espace--niveau-0zb.com
+127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
@@ -347,4 +357,4 @@
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoamaster.com
 127.0.0.1 zontricks.com
-# Number of entries: 341
+# Number of entries: 351
