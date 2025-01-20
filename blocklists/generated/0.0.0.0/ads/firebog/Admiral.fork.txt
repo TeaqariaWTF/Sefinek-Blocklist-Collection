@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 13JAN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 20JAN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -29,7 +29,6 @@
 0.0.0.0 acousticairplane.com
 0.0.0.0 acridangle.com
 0.0.0.0 acridtwist.com
-0.0.0.0 actoramusement.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 adamantsnail.com
@@ -37,7 +36,6 @@
 0.0.0.0 adorableattention.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 agreeablearch.com
-0.0.0.0 agreeablestew.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 aheadday.com
 0.0.0.0 aheadmachine.com
@@ -52,7 +50,6 @@
 0.0.0.0 ambiguousanger.com
 0.0.0.0 ambiguousdinosaurs.com
 0.0.0.0 ambiguousincome.com
-0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambrosialsummit.com
 0.0.0.0 amuckafternoon.com
 0.0.0.0 amusedbucket.com
@@ -111,7 +108,6 @@
 0.0.0.0 boilingcredit.com
 0.0.0.0 boredborder.com
 0.0.0.0 boredcrown.com
-0.0.0.0 boringcoat.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 boundarybusiness.com
 0.0.0.0 boundlessargument.com
@@ -134,7 +130,6 @@
 0.0.0.0 burlywhistle.com
 0.0.0.0 burnbubble.com
 0.0.0.0 bushesbag.com
-0.0.0.0 bustlinganimal.com
 0.0.0.0 bustlingbook.com
 0.0.0.0 butterbulb.com
 0.0.0.0 butterburst.com
@@ -167,7 +162,6 @@
 0.0.0.0 changeablecats.com
 0.0.0.0 channelcamp.com
 0.0.0.0 charmingplate.com
-0.0.0.0 cheerfulrange.com
 0.0.0.0 cherriescare.com
 0.0.0.0 chesscolor.com
 0.0.0.0 chickensstation.com
@@ -184,7 +178,6 @@
 0.0.0.0 clearcabbage.com
 0.0.0.0 clearcomb.com
 0.0.0.0 cloisteredcurve.com
-0.0.0.0 cloisteredhydrant.com
 0.0.0.0 closedcows.com
 0.0.0.0 coatfood.com
 0.0.0.0 colorfulafterthought.com
@@ -195,8 +188,6 @@
 0.0.0.0 combbit.com
 0.0.0.0 combcattle.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commonswing.com
-0.0.0.0 concernedcondition.com
 0.0.0.0 condemnedcomb.com
 0.0.0.0 conditionchange.com
 0.0.0.0 conditioncrush.com
@@ -259,7 +250,6 @@
 0.0.0.0 delegatediscussion.com
 0.0.0.0 deliciousducks.com
 0.0.0.0 delightdriving.com
-0.0.0.0 desertedbreath.com
 0.0.0.0 desirebucket.com
 0.0.0.0 desiredirt.com
 0.0.0.0 detailedgovernment.com
@@ -272,7 +262,6 @@
 0.0.0.0 direfuldesk.com
 0.0.0.0 discreetfield.com
 0.0.0.0 discreetquarter.com
-0.0.0.0 dispensablestranger.com
 0.0.0.0 distributiontomatoes.com
 0.0.0.0 disturbedquiet.com
 0.0.0.0 divehope.com
@@ -281,7 +270,6 @@
 0.0.0.0 dollardelta.com
 0.0.0.0 doubtdrawer.com
 0.0.0.0 dq95d35.com
-0.0.0.0 drabsize.com
 0.0.0.0 dramaticdirection.com
 0.0.0.0 drydrum.com
 0.0.0.0 dustydime.com
@@ -305,7 +293,6 @@
 0.0.0.0 enormousearth.com
 0.0.0.0 enormousfoot.com
 0.0.0.0 entertainskin.com
-0.0.0.0 enthusiasticdad.com
 0.0.0.0 enthusiasticring.com
 0.0.0.0 enthusiastictemper.com
 0.0.0.0 enviousshape.com
@@ -436,7 +423,6 @@
 0.0.0.0 hfc195b.com
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
-0.0.0.0 highfalutinroom.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 historicalbeam.com
 0.0.0.0 historicalrequest.com
@@ -450,7 +436,6 @@
 0.0.0.0 humdrumhobbies.com
 0.0.0.0 humdrumtouch.com
 0.0.0.0 hurtgrape.com
-0.0.0.0 hurtteeth.com
 0.0.0.0 hypnoticwound.com
 0.0.0.0 hystericalcloth.com
 0.0.0.0 hystericalfinger.com
@@ -495,7 +480,6 @@
 0.0.0.0 lameletters.com
 0.0.0.0 lamplow.com
 0.0.0.0 lasttaco.com
-0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
 0.0.0.0 laughdrum.com
 0.0.0.0 leaplunchroom.com
@@ -563,13 +547,11 @@
 0.0.0.0 nonchalantnerve.com
 0.0.0.0 nondescriptcrowd.com
 0.0.0.0 nondescriptnote.com
-0.0.0.0 nondescriptsmile.com
 0.0.0.0 nondescriptstocking.com
 0.0.0.0 nostalgicknot.com
 0.0.0.0 nostalgicneed.com
 0.0.0.0 notifyglass.com
 0.0.0.0 nullnorth.com
-0.0.0.0 nuttyorganization.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
@@ -627,7 +609,6 @@
 0.0.0.0 poisedpig.com
 0.0.0.0 polishedcrescent.com
 0.0.0.0 politeplanes.com
-0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
 0.0.0.0 powderjourney.com
 0.0.0.0 powerfulcopper.com
@@ -713,7 +694,6 @@
 0.0.0.0 rollbar.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 roseincome.com
-0.0.0.0 roughroll.com
 0.0.0.0 rulerabbit.com
 0.0.0.0 rusticprice.com
 0.0.0.0 ruthlessdegree.com
@@ -755,7 +735,6 @@
 0.0.0.0 scrubswim.com
 0.0.0.0 seatsmoke.com
 0.0.0.0 secondhandfall.com
-0.0.0.0 secretivecub.com
 0.0.0.0 secretivesheep.com
 0.0.0.0 secretivesponge.com
 0.0.0.0 secretspiders.com
@@ -798,7 +777,6 @@
 0.0.0.0 skillfuldrop.com
 0.0.0.0 slaysweater.com
 0.0.0.0 slimyscarf.com
-0.0.0.0 slipperysack.com
 0.0.0.0 smashshoe.com
 0.0.0.0 smashsurprise.com
 0.0.0.0 smilingcattle.com
@@ -823,7 +801,6 @@
 0.0.0.0 soretrain.com
 0.0.0.0 sortsail.com
 0.0.0.0 sortstructure.com
-0.0.0.0 sortsummer.com
 0.0.0.0 sowlettuce.com
 0.0.0.0 sparklingshelf.com
 0.0.0.0 specialscissors.com
@@ -843,8 +820,6 @@
 0.0.0.0 spysubstance.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squealingturn.com
-0.0.0.0 stakingscrew.com
-0.0.0.0 stakingslope.com
 0.0.0.0 stakingsmile.com
 0.0.0.0 staleshow.com
 0.0.0.0 stalesummer.com
@@ -876,7 +851,6 @@
 0.0.0.0 substantialcarpenter.com
 0.0.0.0 succeedscene.com
 0.0.0.0 successfulscent.com
-0.0.0.0 suddensidewalk.com
 0.0.0.0 suddensoda.com
 0.0.0.0 sulkybutter.com
 0.0.0.0 sulkycook.com
@@ -942,7 +916,6 @@
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 tzwaw.pw
-0.0.0.0 ubiquitousyard.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 unaccountablecreator.com
 0.0.0.0 unarmedindustry.com
@@ -958,7 +931,6 @@
 0.0.0.0 unusedstone.com
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwieldyhealth.com
-0.0.0.0 unwrittenspot.com
 0.0.0.0 uselesslumber.com
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 vanfireworks.com
@@ -987,7 +959,6 @@
 0.0.0.0 workoperation.com
 0.0.0.0 worriednumber.com
 0.0.0.0 wrongpotato.com
-0.0.0.0 wryfinger.com
 0.0.0.0 wtaccesscontrol.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 zbwp6ghm.com
