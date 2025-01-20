@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-20 18:19:14 (UTC)                      #
+# Last updated: 2025-01-20 20:13:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
+0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
 0.0.0.0 99smoothfm.com
@@ -59,6 +60,7 @@
 0.0.0.0 bgptools-wildcard-confirmed.phavtom-v3.com
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bookidindinetfikat.world
+0.0.0.0 brazzyss.xyz
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 byteshift.cyou
 0.0.0.0 caringforyousupport.com.au
@@ -79,7 +81,6 @@
 0.0.0.0 corepatchcraft.com
 0.0.0.0 credovsnra.com
 0.0.0.0 crestereamuschilor.ro
-0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
@@ -111,10 +112,10 @@
 0.0.0.0 dragonhack.shop
 0.0.0.0 e4l4.com
 0.0.0.0 ecolumy.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
+0.0.0.0 expertdevelopers.cyou
 0.0.0.0 extgraknetbookidhotel.com
 0.0.0.0 f2pverifynow.com
 0.0.0.0 file.blackint3.com
@@ -128,7 +129,6 @@
 0.0.0.0 funletters.net
 0.0.0.0 furryporn.top
 0.0.0.0 gabrize.shop
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gh-hr.cn
 0.0.0.0 ghazaano.shop
@@ -176,6 +176,7 @@
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mandarin.net.au
@@ -188,10 +189,10 @@
 0.0.0.0 microprocessordesignbook.com
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 miner-tolken.com
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
+0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -228,13 +229,11 @@
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 quevalencia.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
-0.0.0.0 realbenies.com
 0.0.0.0 rebateit.net
 0.0.0.0 reifenquick.de
 0.0.0.0 renouvellement-espace-vitale-ameli.com
@@ -259,10 +258,8 @@
 0.0.0.0 simit-pagos.co
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
-0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 solve.nkve.org
-0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 speedylo.shop
 0.0.0.0 ssx.is
@@ -287,9 +284,9 @@
 0.0.0.0 techvisionaries.cyou
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
+0.0.0.0 tg-safeguard.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
@@ -314,7 +311,6 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 verif-anti-bot.com
@@ -333,12 +329,9 @@
 0.0.0.0 www.lovlypets.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.playchees.com
-0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.rgueapp.com
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
@@ -353,7 +346,6 @@
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 xiangtanjk.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
@@ -362,7 +354,6 @@
 0.0.0.0 xn--mise--jours-vitale-espace-sms-pmc.com
 0.0.0.0 xn--vitale-espace--niveau-0zb.com
 0.0.0.0 xn--yh4bx88a.com
-0.0.0.0 yaocanting.com
 0.0.0.0 youfirst.hradvanceportal.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
@@ -370,4 +361,4 @@
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zontricks.com
-# Number of entries: 364
+# Number of entries: 355
