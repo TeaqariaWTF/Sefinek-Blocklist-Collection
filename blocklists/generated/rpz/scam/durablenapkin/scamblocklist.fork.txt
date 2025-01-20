@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012001 43200 3600 259200 300
   NS  localhost.
 1000fapvids.online CNAME .
 *.1000fapvids.online CNAME .
@@ -275,8 +275,6 @@ beacon.apsehick.date CNAME .
 *.beacon.apsehick.date CNAME .
 beautysolution24.com CNAME .
 *.beautysolution24.com CNAME .
-beautyt.shop CNAME .
-*.beautyt.shop CNAME .
 beeaar.com CNAME .
 *.beeaar.com CNAME .
 beecrave.com CNAME .
@@ -375,6 +373,8 @@ store.blackoutarchertender.com CNAME .
 *.store.blackoutarchertender.com CNAME .
 blingyy.com CNAME .
 *.blingyy.com CNAME .
+store.blingyy.com CNAME .
+*.store.blingyy.com CNAME .
 bloomingvibe.com CNAME .
 *.bloomingvibe.com CNAME .
 blsindiavisa.kr CNAME .
@@ -425,8 +425,6 @@ buddhakind.com CNAME .
 *.buddhakind.com CNAME .
 store.buddhakind.com CNAME .
 *.store.buddhakind.com CNAME .
-budm.shop CNAME .
-*.budm.shop CNAME .
 buydubuy.com CNAME .
 *.buydubuy.com CNAME .
 store.buydubuy.com CNAME .
@@ -441,8 +439,6 @@ bwpkizpfms.funnelish.com CNAME .
 *.bwpkizpfms.funnelish.com CNAME .
 by-emmamuller.de CNAME .
 *.by-emmamuller.de CNAME .
-c-tozluxury.shop CNAME .
-*.c-tozluxury.shop CNAME .
 c0nt4ct-me.pages.dev CNAME .
 *.c0nt4ct-me.pages.dev CNAME .
 store.c0nt4ct-me.pages.dev CNAME .
@@ -783,8 +779,6 @@ ekommmedia.com CNAME .
 *.ekommmedia.com CNAME .
 elitestrustonline.biz CNAME .
 *.elitestrustonline.biz CNAME .
-elitestrustonline.com CNAME .
-*.elitestrustonline.com CNAME .
 ellezz.com CNAME .
 *.ellezz.com CNAME .
 elonweb.org CNAME .
@@ -987,14 +981,14 @@ store.freedom-ca-5g.com CNAME .
 *.store.freedom-ca-5g.com CNAME .
 freedom.service-update3.com CNAME .
 *.freedom.service-update3.com CNAME .
-store.freedomgift50.com CNAME .
-*.store.freedomgift50.com CNAME .
 frest.info CNAME .
 *.frest.info CNAME .
 store.frest.info CNAME .
 *.store.frest.info CNAME .
 friday89.com CNAME .
 *.friday89.com CNAME .
+fridaylocalmanager.duckdns.org CNAME .
+*.fridaylocalmanager.duckdns.org CNAME .
 frostgoddess.com CNAME .
 *.frostgoddess.com CNAME .
 store.frostgoddess.com CNAME .
@@ -1183,8 +1177,6 @@ store.hsuitehub.com CNAME .
 *.store.hsuitehub.com CNAME .
 hugetrump.com CNAME .
 *.hugetrump.com CNAME .
-hunden.info CNAME .
-*.hunden.info CNAME .
 hushlove.com CNAME .
 *.hushlove.com CNAME .
 hyndtren25.pages.dev CNAME .
@@ -1593,8 +1585,6 @@ miningco.site CNAME .
 *.miningco.site CNAME .
 store.miningco.site CNAME .
 *.store.miningco.site CNAME .
-store.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop CNAME .
-*.store.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop CNAME .
 miucart.com CNAME .
 *.miucart.com CNAME .
 mizunsports.com CNAME .
@@ -1709,8 +1699,6 @@ navi12.com CNAME .
 *.navi12.com CNAME .
 store.navi12.com CNAME .
 *.store.navi12.com CNAME .
-navi12.ru CNAME .
-*.navi12.ru CNAME .
 navi18.com CNAME .
 *.navi18.com CNAME .
 navi2.com CNAME .
@@ -1775,6 +1763,8 @@ store.navi5.com CNAME .
 *.store.navi5.com CNAME .
 navi50.com CNAME .
 *.navi50.com CNAME .
+store.navi50.com CNAME .
+*.store.navi50.com CNAME .
 navi53.com CNAME .
 *.navi53.com CNAME .
 navi54.com CNAME .
@@ -2155,8 +2145,6 @@ store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com CNAME .
 *.store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com CNAME .
 punyauang.xyz CNAME .
 *.punyauang.xyz CNAME .
-store.qttlpn.shop CNAME .
-*.store.qttlpn.shop CNAME .
 queenscattery.com CNAME .
 *.queenscattery.com CNAME .
 quitasueno.com CNAME .
@@ -2481,6 +2469,8 @@ store.summersale.online CNAME .
 *.store.summersale.online CNAME .
 sunpass-etoll-id.kupu.desa.id CNAME .
 *.sunpass-etoll-id.kupu.desa.id CNAME .
+sunsetstore.net CNAME .
+*.sunsetstore.net CNAME .
 supercutestuff.com CNAME .
 *.supercutestuff.com CNAME .
 store.supercutestuff.com CNAME .
@@ -2697,6 +2687,8 @@ ultrawa.com CNAME .
 *.ultrawa.com CNAME .
 um-bs.com CNAME .
 *.um-bs.com CNAME .
+unho.unhesiss.shop CNAME .
+*.unho.unhesiss.shop CNAME .
 universityofqatarrectorate.godaddysites.com CNAME .
 *.universityofqatarrectorate.godaddysites.com CNAME .
 store.universityofqatarrectorate.godaddysites.com CNAME .
@@ -2897,6 +2889,8 @@ store.zaz4o.securesolidlink.com CNAME .
 *.store.zaz4o.securesolidlink.com CNAME .
 zerowasteinitiative.com CNAME .
 *.zerowasteinitiative.com CNAME .
+store.zerowasteinitiative.com CNAME .
+*.store.zerowasteinitiative.com CNAME .
 zillify.cfd CNAME .
 *.zillify.cfd CNAME .
 zlibrary.to CNAME .
