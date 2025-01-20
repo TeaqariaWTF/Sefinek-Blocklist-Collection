@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-20 14:13:06 (UTC)                      #
+# Last updated: 2025-01-20 16:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,12 +24,14 @@
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
+0.0.0.0 amazonenviro.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 antai-payezvosamendes.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
@@ -37,24 +39,23 @@
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 api3-telegram.cyou
 0.0.0.0 armanayegh.com
-0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
+0.0.0.0 aulist.com
 0.0.0.0 autoparts-online.us
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 az-ka.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
-0.0.0.0 benvixa.com
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bgptools-wildcard-confirmed.phavtom-v3.com
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bookidindinetfikat.world
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 byteshift.cyou
@@ -76,7 +77,9 @@
 0.0.0.0 cpofficial.com
 0.0.0.0 credovsnra.com
 0.0.0.0 crestereamuschilor.ro
+0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
@@ -84,7 +87,6 @@
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
-0.0.0.0 digitalcrafters.cyou
 0.0.0.0 dirol-netrol.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -155,6 +157,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 joopshoop.shop
 0.0.0.0 jrqh-hk.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
@@ -170,7 +173,9 @@
 0.0.0.0 lkju.daowsistem.com
 0.0.0.0 lnterrac-ca.rebateit.net
 0.0.0.0 loeghaiofiehfihf.to
+0.0.0.0 lol.cursinqfirewall.ru
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mandarin.net.au
 0.0.0.0 mbsngradnja.com
@@ -187,7 +192,6 @@
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
-0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -204,6 +208,7 @@
 0.0.0.0 mystartherehosting.net
 0.0.0.0 n.kliphirofey.shop
 0.0.0.0 n.kliphyzivui.shop
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
@@ -224,12 +229,9 @@
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qsif-9432751-neurallink-bwlprtyx-099.computador-hardware.net
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quevalencia.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
-0.0.0.0 raw.brewmacos.com
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -246,12 +248,10 @@
 0.0.0.0 rosecloud-security.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 safenetwork.cyou
-0.0.0.0 sarahwillemart.com
 0.0.0.0 schytcdagl.com
 0.0.0.0 securesolutions.cyou
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sedman.shop
-0.0.0.0 sekolahalghazali.com
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sergiolamoski.com
 0.0.0.0 service-espace-sante.com
@@ -285,6 +285,7 @@
 0.0.0.0 tao816.com
 0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
+0.0.0.0 taytrin.com
 0.0.0.0 techexperts.cyou
 0.0.0.0 techvisionaries.cyou
 0.0.0.0 tecni-soft.com
@@ -292,8 +293,8 @@
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
+0.0.0.0 therichscents.com
 0.0.0.0 tianyinsoft.top
-0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
@@ -301,6 +302,7 @@
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 truecoders.cyou
 0.0.0.0 trust-walles.com
@@ -341,16 +343,17 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rgueapp.com
-0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
+0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.v2-rubby.com
 0.0.0.0 www.webaap2.site
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xiangtanjk.com
@@ -368,4 +371,6 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 362
+0.0.0.0 zoamaster.com
+0.0.0.0 zontricks.com
+# Number of entries: 367
