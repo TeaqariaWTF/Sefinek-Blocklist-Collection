@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 06:25:06 (UTC)                      #
+# Last updated: 2025-01-21 08:19:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
 0.0.0.0 99smoothfm.com
@@ -24,7 +23,6 @@
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
-0.0.0.0 amazonenviro.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
@@ -36,9 +34,7 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
-0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 api3-telegram.cyou
-0.0.0.0 armanayegh.com
 0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
@@ -98,6 +94,7 @@
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
+0.0.0.0 doge-electrum.org
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
@@ -128,7 +125,6 @@
 0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
-0.0.0.0 gh-hr.cn
 0.0.0.0 grupobramam.com.br
 0.0.0.0 guichet-bpost.com
 0.0.0.0 gustavu.shop
@@ -220,12 +216,12 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pns.org.pk
+0.0.0.0 protechasia.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
 0.0.0.0 raw.brewmacos.com
 0.0.0.0 rb3.ftnt.io
@@ -240,6 +236,7 @@
 0.0.0.0 rosecloud-security.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 safenetwork.cyou
+0.0.0.0 saveyourcinema.ca
 0.0.0.0 schytcdagl.com
 0.0.0.0 securesolutions.cyou
 0.0.0.0 security-service-api-link.cc
@@ -253,6 +250,7 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 solve.hhxe.org
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
@@ -266,6 +264,7 @@
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
+0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
@@ -277,6 +276,8 @@
 0.0.0.0 techvisionaries.cyou
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tg-safeguard.com
 0.0.0.0 therichscents.com
@@ -295,6 +296,7 @@
 0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
 0.0.0.0 up1035rwa5zk.prodemadoutorado.org
+0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
@@ -308,6 +310,7 @@
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 verif-anti-bot.com
+0.0.0.0 view-reserve.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
 0.0.0.0 win-network-checker.cc
@@ -320,8 +323,10 @@
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.opolis.io
+0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
@@ -329,8 +334,6 @@
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
-0.0.0.0 www.webaap2.site
-0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wz.3911.com
@@ -345,6 +348,5 @@
 0.0.0.0 youfirst.hradvanceportal.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 341
+# Number of entries: 343
