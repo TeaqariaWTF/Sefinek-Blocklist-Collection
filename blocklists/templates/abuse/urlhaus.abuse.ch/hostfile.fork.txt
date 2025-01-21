@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 16:24:05 (UTC)                      #
+# Last updated: 2025-01-21 18:24:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -68,7 +68,6 @@
 0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
 0.0.0.0 ciscocdn.com
-0.0.0.0 cmgtrading.eu
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 codeblaze.cyou
@@ -97,9 +96,11 @@
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 do-dear.com
 0.0.0.0 doge-electrum.org
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -129,10 +130,8 @@
 0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
-0.0.0.0 generalskalsk.net
 0.0.0.0 gh-hr.cn
 0.0.0.0 grupobramam.com.br
-0.0.0.0 guard-security.net
 0.0.0.0 guichet-bpost.com
 0.0.0.0 gustavu.shop
 0.0.0.0 hhynetwork.com
@@ -153,6 +152,7 @@
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jaffarkhan.com
+0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
@@ -164,6 +164,7 @@
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
 0.0.0.0 knightsinshiningarmor.net
+0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindenappliances.co.za
@@ -233,7 +234,6 @@
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
 0.0.0.0 raw.brewmacos.com
-0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -250,7 +250,6 @@
 0.0.0.0 safesolutions.cyou
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 schytcdagl.com
-0.0.0.0 securenet.cyou
 0.0.0.0 securesolutions.cyou
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 ser.nrovn.xyz
@@ -263,21 +262,17 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solve.hhxe.org
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 ssx.is
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
-0.0.0.0 studioq202.com
 0.0.0.0 sufikhat.com
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
-0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
@@ -295,7 +290,6 @@
 0.0.0.0 tg-safeguard.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
-0.0.0.0 tjsemicoke.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
@@ -311,7 +305,6 @@
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
@@ -322,6 +315,7 @@
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 verif-anti-bot.com
+0.0.0.0 view-reserve.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
 0.0.0.0 win-network-checker.cc
@@ -338,7 +332,6 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
-0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sodiumlaurethsulfatedesyroyer.com
@@ -348,10 +341,12 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.webaap2.site
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
@@ -363,6 +358,5 @@
 0.0.0.0 youfirst.hradvanceportal.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 359
+# Number of entries: 353
