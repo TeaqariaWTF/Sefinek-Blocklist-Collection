@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,656
-# Updated: 1/20/2025  16:33 (4:33 PM CST)
+# Domains: 20,658
+# Updated: 1/20/2025  22:45 (10:45 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -7055,6 +7055,7 @@ server=/atelieradd.com/
 server=/atemda.com/
 server=/a.testda.homes/
 server=/atgenesecton.com/
+server=/atimaze.com/
 server=/atlantisagency.my/
 server=/atlaqs.com/
 server=/atmetagrossan.com/
@@ -13104,6 +13105,7 @@ server=/mailing.checkpoint.com/
 server=/mailmunch.co/
 server=/mailmunch.com/
 server=/mailrt.com/
+server=/mainadcenter.com/
 server=/mainad.com/
 server=/mainadv.com/
 server=/mainfranken24.com/
