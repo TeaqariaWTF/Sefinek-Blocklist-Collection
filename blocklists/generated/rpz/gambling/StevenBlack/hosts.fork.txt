@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012101 43200 3600 259200 300
   NS  localhost.
 0000130.com CNAME .
 *.0000130.com CNAME .
@@ -3035,6 +3035,8 @@ ga179.com CNAME .
 *.ga179.com CNAME .
 ga836.com CNAME .
 *.ga836.com CNAME .
+ga88.pro CNAME .
+*.ga88.pro CNAME .
 ga939.com CNAME .
 *.ga939.com CNAME .
 ga98.net CNAME .

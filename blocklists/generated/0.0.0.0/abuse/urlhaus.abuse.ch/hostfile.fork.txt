@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 20:23:06 (UTC)                      #
+# Last updated: 2025-01-21 22:19:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -49,7 +49,6 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
@@ -128,6 +127,7 @@
 0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
+0.0.0.0 gemini-desktop.com
 0.0.0.0 gh-hr.cn
 0.0.0.0 grupobramam.com.br
 0.0.0.0 guichet-bpost.com
@@ -140,6 +140,7 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hradvanceportal.com
 0.0.0.0 hseda.com
+0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
@@ -272,6 +273,7 @@
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 supportameli.top
+0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
@@ -311,9 +313,9 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verif-anti-bot.com
+0.0.0.0 view-reserve.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
 0.0.0.0 win-network-checker.cc
@@ -330,7 +332,6 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.sodiumlaurethsulfatedesyroyer.com
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
@@ -355,4 +356,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 349
+# Number of entries: 350

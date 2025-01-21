@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 20:23:06 (UTC)                      #
+# Last updated: 2025-01-21 22:19:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -49,7 +49,6 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
-server=/avastpx.com/
 server=/azgint.com/
 server=/banthis.su/
 server=/bethelkwabenya.org/
@@ -128,6 +127,7 @@ server=/funletters.net/
 server=/furryporn.top/
 server=/gachetroi.com/
 server=/gawx.florenda.com/
+server=/gemini-desktop.com/
 server=/gh-hr.cn/
 server=/grupobramam.com.br/
 server=/guichet-bpost.com/
@@ -140,6 +140,7 @@ server=/hobobot.net/
 server=/hr2019.vrcom7.com/
 server=/hradvanceportal.com/
 server=/hseda.com/
+server=/huyanhnongdo.io.vn/
 server=/hwebprint.com/
 server=/imtoken8.cc/
 server=/info-paiement-ligne.com/
@@ -272,6 +273,7 @@ server=/sufikhat.com/
 server=/support-abonnement.com/
 server=/support-colis-info.com/
 server=/supportameli.top/
+server=/symbiatec-fi.com/
 server=/symbietic.com/
 server=/symdlotic.com/
 server=/tao025.com/
@@ -311,9 +313,9 @@ server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
-server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
 server=/verif-anti-bot.com/
+server=/view-reserve.com/
 server=/webmail.tracking-packages.com/
 server=/websites-security.com/
 server=/win-network-checker.cc/
@@ -330,7 +332,6 @@ server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
-server=/www.sodiumlaurethsulfatedesyroyer.com/
 server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.support-info-colis.com/
@@ -355,4 +356,4 @@ server=/youfirst.hradvanceportal.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 349
+# Number of entries: 350

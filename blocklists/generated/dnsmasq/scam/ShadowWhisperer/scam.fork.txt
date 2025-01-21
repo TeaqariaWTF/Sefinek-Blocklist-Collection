@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 15,188
-# Updated: 1/20/2025  16:33 (4:33 PM CST)
+# Domains: 15,197
+# Updated: 1/21/2025  16:03 (4:03 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -894,8 +894,10 @@ server=/annmerlechowmeinhome.com/
 server=/annonce-bondage.com/
 server=/annonces-sex.com/
 server=/annonces-sm.com/
+server=/an-noticeable.net/
 server=/announcert.com/
 server=/announcm.com/
+server=/annouvation.com/
 server=/annshihtzu-pups.site/
 server=/annualractly.com/
 server=/anokatimes.com/
@@ -3293,6 +3295,9 @@ server=/concretechemsonline.com/
 server=/concreteh.com/
 server=/condensem.com/
 server=/conditiono.com/
+server=/confideince.com/
+server=/confidencek.com/
+server=/confidencte.com/
 server=/confidentiak.com/
 server=/conforim.com/
 server=/confrontk.com/
@@ -5130,6 +5135,7 @@ server=/femmenaturelle.fr/
 server=/fensynch.com/
 server=/fentanylonline.com/
 server=/fentaonlinechem.com/
+server=/ferfill-grateful.com/
 server=/fergusonssdlab.com/
 server=/ferlinwaffen.com/
 server=/fernde.com/
@@ -8255,6 +8261,7 @@ server=/maisheeggsandchickenfarm.co.za/
 server=/maitresse-sm.com/
 server=/majesticbullypupsdynasty.com/
 server=/majesticjackrussellterrier.com/
+server=/majoritye.com/
 server=/makegiftcard.com/
 server=/makemajor.com/
 server=/makementionof.com/
@@ -9676,6 +9683,7 @@ server=/omitbstacle.com/
 server=/omkarmedicalstores.com/
 server=/onaccordance.com/
 server=/onalevelwith.com/
+server=/onanaverage.com/
 server=/onanaverage.net/
 server=/onatechcargo.com/
 server=/oncandforal.com/
@@ -11002,6 +11010,7 @@ server=/pronouna.com/
 server=/pronoveltydocs.com/
 server=/prontofair.space/
 server=/prontofarmaci.com/
+server=/pronunciatio.com/
 server=/propagandk.com/
 server=/properbills.com/
 server=/propertyowner.us.org/
