@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 14:13:06 (UTC)                      #
+# Last updated: 2025-01-21 16:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -22,6 +22,7 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
+0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
@@ -37,6 +38,7 @@
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 api3-telegram.cyou
 0.0.0.0 armanayegh.com
+0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
 0.0.0.0 autoparts-online.us
@@ -52,6 +54,7 @@
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bethelkwabenya.org
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 brazzyss.xyz
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 byteshift.cyou
@@ -69,6 +72,7 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 codeblaze.cyou
+0.0.0.0 codeguardians.cyou
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
@@ -89,7 +93,6 @@
 0.0.0.0 digitalcrafters.cyou
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
-0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
@@ -101,6 +104,7 @@
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
+0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dragonhack.shop
 0.0.0.0 e4l4.com
@@ -125,8 +129,10 @@
 0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
+0.0.0.0 generalskalsk.net
 0.0.0.0 gh-hr.cn
 0.0.0.0 grupobramam.com.br
+0.0.0.0 guard-security.net
 0.0.0.0 guichet-bpost.com
 0.0.0.0 gustavu.shop
 0.0.0.0 hhynetwork.com
@@ -138,8 +144,10 @@
 0.0.0.0 hradvanceportal.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
+0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
+0.0.0.0 information-binance.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
 0.0.0.0 ini.sh-pp.com
@@ -156,9 +164,7 @@
 0.0.0.0 keyser-api.eu
 0.0.0.0 keysertools.cc
 0.0.0.0 knightsinshiningarmor.net
-0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
@@ -183,10 +189,12 @@
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
+0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
 0.0.0.0 mon-dossier-renouvellement.com
+0.0.0.0 mondialrelay-assistance-colis.com
 0.0.0.0 monformulaire-sante.com
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 myguyapp.com
@@ -197,6 +205,7 @@
 0.0.0.0 mystartherehosting.net
 0.0.0.0 n.kliphirofey.shop
 0.0.0.0 n.kliphyzivui.shop
+0.0.0.0 n2.aroundpayablequirk.shop
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
@@ -210,12 +219,16 @@
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
+0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
+0.0.0.0 pid.fly160.com
+0.0.0.0 pilzmacher.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
@@ -232,11 +245,15 @@
 0.0.0.0 roofmanagementlnc.com
 0.0.0.0 rosecloud-security.com
 0.0.0.0 safe.ywxww.net
+0.0.0.0 safeguard-tg.com
 0.0.0.0 safenetwork.cyou
+0.0.0.0 safesolutions.cyou
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 schytcdagl.com
+0.0.0.0 securenet.cyou
 0.0.0.0 securesolutions.cyou
 0.0.0.0 security-service-api-link.cc
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sergiolamoski.com
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
@@ -272,9 +289,12 @@
 0.0.0.0 techvisionaries.cyou
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tg-safeguard.com
 0.0.0.0 tianyinsoft.top
+0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
@@ -291,6 +311,7 @@
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
@@ -312,6 +333,7 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.ojang.pe.kr
@@ -319,15 +341,17 @@
 0.0.0.0 www.qqqmy.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
+0.0.0.0 www.sodiumlaurethsulfatedesyroyer.com
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.webaap2.site
 0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
@@ -340,4 +364,5 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
-# Number of entries: 334
+0.0.0.0 znrq.zifwxq.cn
+# Number of entries: 359

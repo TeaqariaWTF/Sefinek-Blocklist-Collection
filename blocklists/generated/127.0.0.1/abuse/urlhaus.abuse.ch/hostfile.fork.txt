@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 14:13:06 (UTC)                      #
+# Last updated: 2025-01-21 16:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -22,6 +22,7 @@
 127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
 127.0.0.1 aide-acheminement-info.com
+127.0.0.1 airhobi.com
 127.0.0.1 alien-training.com
 127.0.0.1 amelcarte.com
 127.0.0.1 amende-renouvellement.com
@@ -37,6 +38,7 @@
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 api3-telegram.cyou
 127.0.0.1 armanayegh.com
+127.0.0.1 arting.ee
 127.0.0.1 assuresform.com
 127.0.0.1 aulist.com
 127.0.0.1 autoparts-online.us
@@ -52,6 +54,7 @@
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 bethelkwabenya.org
+127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 brazzyss.xyz
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 byteshift.cyou
@@ -69,6 +72,7 @@
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
 127.0.0.1 codeblaze.cyou
+127.0.0.1 codeguardians.cyou
 127.0.0.1 comteste.com
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 consulter-mon-amende.com
@@ -89,7 +93,6 @@
 127.0.0.1 digitalcrafters.cyou
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
-127.0.0.1 djhyzhicai.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
@@ -101,6 +104,7 @@
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
+127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 dragonhack.shop
 127.0.0.1 e4l4.com
@@ -125,8 +129,10 @@
 127.0.0.1 furryporn.top
 127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
+127.0.0.1 generalskalsk.net
 127.0.0.1 gh-hr.cn
 127.0.0.1 grupobramam.com.br
+127.0.0.1 guard-security.net
 127.0.0.1 guichet-bpost.com
 127.0.0.1 gustavu.shop
 127.0.0.1 hhynetwork.com
@@ -138,8 +144,10 @@
 127.0.0.1 hradvanceportal.com
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
+127.0.0.1 hwebprint.com
 127.0.0.1 imtoken8.cc
 127.0.0.1 info-paiement-ligne.com
+127.0.0.1 information-binance.com
 127.0.0.1 informations-colissimo.com
 127.0.0.1 informationversand.com
 127.0.0.1 ini.sh-pp.com
@@ -156,9 +164,7 @@
 127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 knightsinshiningarmor.net
-127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindenappliances.co.za
 127.0.0.1 lindnerelektroanlagen.de
@@ -183,10 +189,12 @@
 127.0.0.1 minu-pakk.com
 127.0.0.1 minupakk.com
 127.0.0.1 minupakk.net
+127.0.0.1 misljen.net
 127.0.0.1 mississippistemacademy.org
 127.0.0.1 mitgpssms.com
 127.0.0.1 mjsqurej.com
 127.0.0.1 mon-dossier-renouvellement.com
+127.0.0.1 mondialrelay-assistance-colis.com
 127.0.0.1 monformulaire-sante.com
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 myguyapp.com
@@ -197,6 +205,7 @@
 127.0.0.1 mystartherehosting.net
 127.0.0.1 n.kliphirofey.shop
 127.0.0.1 n.kliphyzivui.shop
+127.0.0.1 n2.aroundpayablequirk.shop
 127.0.0.1 nabawitransport.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 new-consigne-sms-track.com
@@ -210,12 +219,16 @@
 127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
+127.0.0.1 passagetoeastafrica.com
 127.0.0.1 pb.agnt.ru
+127.0.0.1 pid.fly160.com
+127.0.0.1 pilzmacher.com
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
+127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 raven-security.com
@@ -232,11 +245,15 @@
 127.0.0.1 roofmanagementlnc.com
 127.0.0.1 rosecloud-security.com
 127.0.0.1 safe.ywxww.net
+127.0.0.1 safeguard-tg.com
 127.0.0.1 safenetwork.cyou
+127.0.0.1 safesolutions.cyou
 127.0.0.1 saveyourcinema.ca
 127.0.0.1 schytcdagl.com
+127.0.0.1 securenet.cyou
 127.0.0.1 securesolutions.cyou
 127.0.0.1 security-service-api-link.cc
+127.0.0.1 ser.nrovn.xyz
 127.0.0.1 sergiolamoski.com
 127.0.0.1 service-espace-sante.com
 127.0.0.1 servvital.com
@@ -272,9 +289,12 @@
 127.0.0.1 techvisionaries.cyou
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
+127.0.0.1 telegramcn.co
+127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tg-safeguard.com
 127.0.0.1 tianyinsoft.top
+127.0.0.1 tiaoshibao.com
 127.0.0.1 tjsemicoke.com
 127.0.0.1 towerofbabble.net
 127.0.0.1 tracking-packages.com
@@ -291,6 +311,7 @@
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 ups-zolldienst.com
 127.0.0.1 utorrent-backup-server.top
@@ -312,6 +333,7 @@
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
+127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
@@ -319,15 +341,17 @@
 127.0.0.1 www.qqqmy.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
+127.0.0.1 www.sodiumlaurethsulfatedesyroyer.com
 127.0.0.1 www.sporcketngearforu.com
+127.0.0.1 www.starcountry.net
 127.0.0.1 www.support-info-colis.com
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.webaap2.site
 127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.zhikey.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
-127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
@@ -340,4 +364,5 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
-# Number of entries: 334
+127.0.0.1 znrq.zifwxq.cn
+# Number of entries: 359
