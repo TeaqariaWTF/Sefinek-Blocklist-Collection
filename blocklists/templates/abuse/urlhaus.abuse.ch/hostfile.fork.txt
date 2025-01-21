@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-21 18:24:08 (UTC)                      #
+# Last updated: 2025-01-21 20:23:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -38,7 +38,6 @@
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 api3-telegram.cyou
 0.0.0.0 armanayegh.com
-0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
 0.0.0.0 aulist.com
 0.0.0.0 autoparts-online.us
@@ -71,7 +70,6 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 codeblaze.cyou
-0.0.0.0 codeguardians.cyou
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consulter-mon-amende.com
@@ -91,7 +89,7 @@
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 digitalcrafters.cyou
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
+0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
@@ -142,7 +140,6 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hradvanceportal.com
 0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
@@ -206,7 +203,6 @@
 0.0.0.0 mystartherehosting.net
 0.0.0.0 n.kliphirofey.shop
 0.0.0.0 n.kliphyzivui.shop
-0.0.0.0 n2.aroundpayablequirk.shop
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
@@ -234,6 +230,7 @@
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raven-security.com
 0.0.0.0 raw.brewmacos.com
+0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -262,16 +259,18 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 solve.hhxe.org
 0.0.0.0 soportegira.net
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 ssx.is
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
+0.0.0.0 studioq202.com
 0.0.0.0 sufikhat.com
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
-0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
@@ -290,6 +289,7 @@
 0.0.0.0 tg-safeguard.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
+0.0.0.0 tjsemicoke.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
@@ -304,7 +304,6 @@
 0.0.0.0 up1035rwa5zk.prodemadoutorado.org
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
@@ -312,16 +311,13 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
+0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verif-anti-bot.com
-0.0.0.0 view-reserve.com
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.aviationchartersolutions.com
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.flechabusretiro.com.ar
@@ -359,4 +355,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 353
+# Number of entries: 349
