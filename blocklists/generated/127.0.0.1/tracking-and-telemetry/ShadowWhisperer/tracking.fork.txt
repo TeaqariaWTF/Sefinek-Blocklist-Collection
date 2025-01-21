@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,408
-# Updated: 1/19/2025  16:31 (4:31 PM CST)
+# Domains: 96,423
+# Updated: 1/20/2025  16:33 (4:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16971,7 +16971,9 @@
 127.0.0.1 cms-clickmap-prod.us-west-2.web.dealer.com
 127.0.0.1 c.msn.at
 127.0.0.1 c.msn.be
+127.0.0.1 c.msn.ca
 127.0.0.1 c.msn.ch
+127.0.0.1 c.msn.co.jp
 127.0.0.1 c.msn.com
 127.0.0.1 c.msn.co.za
 127.0.0.1 c.msn.dk
@@ -20871,6 +20873,7 @@
 127.0.0.1 data.fans.logansargeant2.com
 127.0.0.1 data.fans.realmadrid.com
 127.0.0.1 data.fans.williamsf1.com
+127.0.0.1 datafa.st
 127.0.0.1 data.fastcomet.com
 127.0.0.1 data-fb37a1e7c3.esslinger-zeitung.de
 127.0.0.1 data-fb6bd6ba7f.agrarzeitung.de
@@ -21503,6 +21506,7 @@
 127.0.0.1 d.cordial.implus.com
 127.0.0.1 d.cordial-tracking.tarot.com
 127.0.0.1 dcp-analytics.com
+127.0.0.1 dc.peoplesjewellers.com
 127.0.0.1 dc.plussizetech.com
 127.0.0.1 d.crdlmkt.mybobs.com
 127.0.0.1 dc.realmadrid.com
@@ -21565,6 +21569,7 @@
 127.0.0.1 dc.volkswagen.de
 127.0.0.1 dc.volkswagen.pl
 127.0.0.1 dc.vw.com.mx
+127.0.0.1 dc.vw.co.za
 127.0.0.1 dc.waylet.es
 127.0.0.1 dcw.lgim.com
 127.0.0.1 dcxt-gs.hyundai.com
@@ -23635,6 +23640,7 @@
 127.0.0.1 ens.luzernerzeitung.ch
 127.0.0.1 ens.moneyhouse.ch
 127.0.0.1 ens.nzz.ch
+127.0.0.1 ens.obwaldnerzeitung.ch
 127.0.0.1 ens.tagblatt.ch
 127.0.0.1 ens.themarket.ch
 127.0.0.1 ens.thurgauerzeitung.ch
@@ -23700,6 +23706,7 @@
 127.0.0.1 epianalytics.com
 127.0.0.1 epica.ai
 127.0.0.1 epic-insights.com
+127.0.0.1 epicmetropolisexpeditionnwl.com
 127.0.0.1 epiconnect.com
 127.0.0.1 epiphany.cpap.com
 127.0.0.1 episerver.com
@@ -25080,6 +25087,7 @@
 127.0.0.1 fp.times-standard.com
 127.0.0.1 fptls3.com
 127.0.0.1 fptls.com
+127.0.0.1 fpt.microsoft.com
 127.0.0.1 fpt.neighborwho.com
 127.0.0.1 fpt.numberguru.com
 127.0.0.1 fpt.ownerly.com
@@ -27115,6 +27123,7 @@
 127.0.0.1 horse.cubitcreative.com
 127.0.0.1 horse.erms.app
 127.0.0.1 horse.hookrelay.dev
+127.0.0.1 horse.kandsstudio.co.uk
 127.0.0.1 horse.mynorthstarapp.com
 127.0.0.1 horse.ohseemedia.com
 127.0.0.1 horse.rmrk.app
@@ -35252,6 +35261,7 @@
 127.0.0.1 matjarokoume.com
 127.0.0.1 matm.dotwee.de
 127.0.0.1 mato.a2n.dev
+127.0.0.1 mato.clanto.cloud
 127.0.0.1 mato.educa.ch
 127.0.0.1 mato.glukose.fr
 127.0.0.1 mato.immodvisor.com
@@ -55470,6 +55480,7 @@
 127.0.0.1 papsy.net
 127.0.0.1 paraccel.com
 127.0.0.1 paradoxfactor.com
+127.0.0.1 parakeet.buildcodelearn.com
 127.0.0.1 parakeet.jorenvanhocht.be
 127.0.0.1 parakeet.kenleyar.ai
 127.0.0.1 parakeet.phantomphone.net
@@ -64839,6 +64850,7 @@
 127.0.0.1 prairiedog.freemusic.com.au
 127.0.0.1 prairiedog.hashnode.com
 127.0.0.1 prairiedog.health-improvement.uk
+127.0.0.1 prairiedog.thisismattsmith.com
 127.0.0.1 prairiedog.xview.us
 127.0.0.1 pr.aqutics.co.jp
 127.0.0.1 pr.aqutics.jp
@@ -66534,6 +66546,7 @@
 127.0.0.1 rhymezebra.com
 127.0.0.1 rhythmmoney.com
 127.0.0.1 ribbons.evolis.com
+127.0.0.1 ric.arrive-im-herzogpark.de
 127.0.0.1 richaudience.com
 127.0.0.1 richinfo.co
 127.0.0.1 richmetrics.com
@@ -85835,6 +85848,7 @@
 127.0.0.1 s.visx.net
 127.0.0.1 svmarketing.destinationtoronto.com
 127.0.0.1 svntrk.com
+127.0.0.1 svntyfr.com
 127.0.0.1 svonm.com
 127.0.0.1 svopn.aaronbrothers.com
 127.0.0.1 svopn.adorama.com
@@ -90411,6 +90425,7 @@
 127.0.0.1 vetinfo.rossu.edu
 127.0.0.1 vextras.com
 127.0.0.1 veylinx.com
+127.0.0.1 vf.as.tarnkappe.info
 127.0.0.1 vfbnb.barakasheabutter.com
 127.0.0.1 vg01.met.vgwort.de
 127.0.0.1 vg03.met.vgwort.de

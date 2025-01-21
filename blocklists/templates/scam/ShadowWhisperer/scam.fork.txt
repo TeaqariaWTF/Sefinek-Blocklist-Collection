@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 15,120
-# Updated: 1/19/2025  16:31 (4:31 PM CST)
+# Domains: 15,188
+# Updated: 1/20/2025  16:33 (4:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -403,6 +403,7 @@
 0.0.0.0 advancssupportsolutions.com
 0.0.0.0 advantageouse.com
 0.0.0.0 advantagi.com
+0.0.0.0 advatgeous.com
 0.0.0.0 advlenderssupport.com
 0.0.0.0 advlendingsupport.com
 0.0.0.0 advncfundingsupport.com
@@ -423,6 +424,7 @@
 0.0.0.0 aevinmedical.com
 0.0.0.0 af1firearms.com
 0.0.0.0 afamilyspot.com
+0.0.0.0 affairchats.com
 0.0.0.0 affairland.com
 0.0.0.0 affair-nextdoor.com
 0.0.0.0 affair-nextdoor.co.uk
@@ -713,6 +715,7 @@
 0.0.0.0 amazingfirearms.com
 0.0.0.0 amazingflings.com
 0.0.0.0 amazinggo.net
+0.0.0.0 amazing-items.uk
 0.0.0.0 amazingmainecoonkittens.com
 0.0.0.0 amazingparrotsforsale.com
 0.0.0.0 amazingpetshome.com
@@ -1064,6 +1067,7 @@
 0.0.0.0 arowanafishstore.xyz
 0.0.0.0 arowanafishvendor.com
 0.0.0.0 arowanasales.com
+0.0.0.0 arraiconvert.com
 0.0.0.0 array-green.com
 0.0.0.0 arrowcourier.co.uk
 0.0.0.0 arrowfair.space
@@ -1075,6 +1079,7 @@
 0.0.0.0 arthoodie.com
 0.0.0.0 artilleryshoponline.com
 0.0.0.0 artisangemantiques.com
+0.0.0.0 artwareworld.com
 0.0.0.0 asakeoral.com
 0.0.0.0 asalimainecoonhome.com
 0.0.0.0 ascuteas.com
@@ -1145,6 +1150,9 @@
 0.0.0.0 atrendsz.com
 0.0.0.0 attendaily.com
 0.0.0.0 attendancet.com
+0.0.0.0 attendanty.com
+0.0.0.0 attentioin.com
+0.0.0.0 attentivek.com
 0.0.0.0 attractime.com
 0.0.0.0 attractivegoldenretrieverforsale.com
 0.0.0.0 attractivepassion.com
@@ -1400,6 +1408,7 @@
 0.0.0.0 beaglesforadoption.com
 0.0.0.0 beallearsy.com
 0.0.0.0 beamingwise.com
+0.0.0.0 beamingwise.net
 0.0.0.0 beansolutions.co.za
 0.0.0.0 beanstee.com
 0.0.0.0 beararcheryshop.com
@@ -1646,6 +1655,7 @@
 0.0.0.0 bichonpupsforsale.com
 0.0.0.0 bidcebidtg.net
 0.0.0.0 bielert.de
+0.0.0.0 biensmix.com
 0.0.0.0 biewerspot.com
 0.0.0.0 bigbearmainecoons.com
 0.0.0.0 bigboobsexdates.com
@@ -1771,6 +1781,8 @@
 0.0.0.0 blockexchange.live
 0.0.0.0 bloofy.co
 0.0.0.0 bloomingtonleader.com
+0.0.0.0 bloshonour.com
+0.0.0.0 bloshonour.net
 0.0.0.0 blossomflowerdelivery.com
 0.0.0.0 blossomscoonscattery.com
 0.0.0.0 blottera.com
@@ -1916,6 +1928,7 @@
 0.0.0.0 botox-fillerderm.com
 0.0.0.0 boukavapes.com
 0.0.0.0 boulderleader.com
+0.0.0.0 boundsithin.com
 0.0.0.0 bouquet.com
 0.0.0.0 bourbonfoundryhouse.com
 0.0.0.0 bourbonliquorstores.com
@@ -1947,6 +1960,7 @@
 0.0.0.0 brassstore-usa.com
 0.0.0.0 braveanatolians.com
 0.0.0.0 bravecanecorsohome.com
+0.0.0.0 bravedrawer.com
 0.0.0.0 bravefair.space
 0.0.0.0 bravefearless.com
 0.0.0.0 bravefrenchbulldogs.com
@@ -2562,6 +2576,7 @@
 0.0.0.0 catshopheaven.com
 0.0.0.0 cattylovesline.com
 0.0.0.0 cattylovesline.net
+0.0.0.0 causedbeby.com
 0.0.0.0 cava-kingcharlespups.com
 0.0.0.0 cavaliercompanion.com
 0.0.0.0 cavalierhomez.com
@@ -3225,6 +3240,7 @@
 0.0.0.0 combatfirearmstore.com
 0.0.0.0 combinek.com
 0.0.0.0 combustiont.com
+0.0.0.0 comffrome.com
 0.0.0.0 comfures.com
 0.0.0.0 comfyshopper.org
 0.0.0.0 comic-tee.com
@@ -3276,11 +3292,15 @@
 0.0.0.0 concretechemsonline.com
 0.0.0.0 concreteh.com
 0.0.0.0 condensem.com
+0.0.0.0 conditiono.com
 0.0.0.0 confidentiak.com
+0.0.0.0 conforim.com
 0.0.0.0 confrontk.com
 0.0.0.0 confrontthegods.com
 0.0.0.0 coningconcert.net
 0.0.0.0 conisolidate.com
+0.0.0.0 conmationfir.com
+0.0.0.0 conmsentto.com
 0.0.0.0 conneb.com
 0.0.0.0 connecticut-firearms.com
 0.0.0.0 conocolivestockfarm.co
@@ -3321,6 +3341,7 @@
 0.0.0.0 contemporarycandles.com
 0.0.0.0 contendon.com
 0.0.0.0 contendonog.com
+0.0.0.0 continuousk.com
 0.0.0.0 contishippingcontainer.com
 0.0.0.0 contiuoeny.com
 0.0.0.0 contmporar.com
@@ -3789,6 +3810,7 @@
 0.0.0.0 decaturtimes.com
 0.0.0.0 decideonlove.com
 0.0.0.0 declandevonrexkittens.com
+0.0.0.0 decoratew.com
 0.0.0.0 decorhome-us.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 dedicfatend.com
@@ -3807,6 +3829,7 @@
 0.0.0.0 dekalbtimes.com
 0.0.0.0 delanelpuppykennel.co.za
 0.0.0.0 delcoreview.com
+0.0.0.0 deliberatediscuss.com
 0.0.0.0 delicacyup.com
 0.0.0.0 delicategoldenv.com
 0.0.0.0 delicateskirt.com
@@ -4075,6 +4098,7 @@
 0.0.0.0 domainnetworks.com
 0.0.0.0 domesub.com
 0.0.0.0 dominantmalshiandcross.com
+0.0.0.0 dominatedecide.com
 0.0.0.0 dominatrici.online
 0.0.0.0 dominicpsychedelic.com
 0.0.0.0 dominiondachshund.com
@@ -4615,6 +4639,7 @@
 0.0.0.0 englishbullybreeders.com
 0.0.0.0 englishcertificatesonline.com
 0.0.0.0 englishcockerspanielpuppiesforsale.com
+0.0.0.0 enindefinite.com
 0.0.0.0 enjoycomfy.com
 0.0.0.0 enjoythehug.com
 0.0.0.0 enocher.com
@@ -4629,7 +4654,9 @@
 0.0.0.0 enthusiade.com
 0.0.0.0 entitley.com
 0.0.0.0 entrantce.com
+0.0.0.0 entrasprvise.com
 0.0.0.0 entrepreneurlife.style
+0.0.0.0 entschlossen-heit.de
 0.0.0.0 enviecharnelle.com
 0.0.0.0 envisionllc.com
 0.0.0.0 enytee.us
@@ -4669,10 +4696,13 @@
 0.0.0.0 equidogkine.com
 0.0.0.0 equinecetpharma.com
 0.0.0.0 equityadvocatesllp.com
+0.0.0.0 equivalenh.com
 0.0.0.0 equivalentk.com
 0.0.0.0 equivalentz.com
+0.0.0.0 equivalenu.com
 0.0.0.0 erdapellet.com
 0.0.0.0 erectanuscr.com
+0.0.0.0 ergeb-nisse.de
 0.0.0.0 ericksengroup.com
 0.0.0.0 erik-online.company.site
 0.0.0.0 erishafrenchbulldoghome.com
@@ -5127,6 +5157,7 @@
 0.0.0.0 fillermedicalcare.com
 0.0.0.0 fillertradingworld.com
 0.0.0.0 fillerworldcosmetic.com
+0.0.0.0 fillethumn.com
 0.0.0.0 filmleatherjackets.com
 0.0.0.0 finallyabsent.com
 0.0.0.0 finalpath.org
@@ -5201,8 +5232,10 @@
 0.0.0.0 firemid.com
 0.0.0.0 firewave-firearms.com
 0.0.0.0 firgrcu.com
+0.0.0.0 firmadmire.com
 0.0.0.0 firmamentgalaxy.com
 0.0.0.0 firmmood.com
+0.0.0.0 firmstaunch.com
 0.0.0.0 firmware.help
 0.0.0.0 firsplacthe.com
 0.0.0.0 firstaid-medicalsupply.co.za
@@ -6316,6 +6349,7 @@
 0.0.0.0 gutterprotectiondeals.com
 0.0.0.0 guus.store
 0.0.0.0 guzxssa.shop
+0.0.0.0 gymnasiumk.com
 0.0.0.0 habibacuties.site
 0.0.0.0 habittees.com
 0.0.0.0 hackerslist.co
@@ -6694,6 +6728,7 @@
 0.0.0.0 hopkinsvilletimes.com
 0.0.0.0 horizoneventure.com
 0.0.0.0 horizongeneralsuppliers.co.za
+0.0.0.0 horizontaln.com
 0.0.0.0 hornadyarmory.com
 0.0.0.0 hornadyofficial.com
 0.0.0.0 hornyblack-nextdoor.com
@@ -6720,6 +6755,7 @@
 0.0.0.0 hotlocalsexdates.com
 0.0.0.0 hotmailcontactnumbers.com
 0.0.0.0 hotmailtechsupport.com
+0.0.0.0 hotmatureflirt.com
 0.0.0.0 hotmilfs.co.nz
 0.0.0.0 hotmilfs.dk
 0.0.0.0 hotmilfs.no
@@ -6985,7 +7021,10 @@
 0.0.0.0 industriouse.com
 0.0.0.0 indystandard.com
 0.0.0.0 inexpensiva.com
+0.0.0.0 inexpensivy.com
 0.0.0.0 infaithe.com
+0.0.0.0 infavorofe.com
+0.0.0.0 inferutmati.com
 0.0.0.0 infideles.com
 0.0.0.0 infidelio.fr
 0.0.0.0 infidelites.com
@@ -7005,6 +7044,7 @@
 0.0.0.0 inflent.com
 0.0.0.0 inflow-ns.com
 0.0.0.0 influencte.com
+0.0.0.0 info-bdsmzone.com
 0.0.0.0 info-dirtyzone2.com
 0.0.0.0 info-drivers.ru
 0.0.0.0 info-extremesite.com
@@ -7240,6 +7280,7 @@
 0.0.0.0 jerryshepherdfarm.com
 0.0.0.0 jerseyloco.com
 0.0.0.0 jerseyteacupyorkies.com
+0.0.0.0 jessicachildsenglishbulldogs.com
 0.0.0.0 jessicafrenchiebulldog.com
 0.0.0.0 jetskispare-parts.com
 0.0.0.0 jetzt-absahnen.de
@@ -7592,6 +7633,7 @@
 0.0.0.0 kovla.com
 0.0.0.0 kriengthaipaper.com
 0.0.0.0 krissfirearmsusa.com
+0.0.0.0 kristall-klares.de
 0.0.0.0 krizshomedachshunds.com
 0.0.0.0 krtcarts.org
 0.0.0.0 ksbusinessdaily.com
@@ -7654,6 +7696,7 @@
 0.0.0.0 land-ice.com
 0.0.0.0 landmeawhil.com
 0.0.0.0 landscapet.com
+0.0.0.0 landscapk.com
 0.0.0.0 laneconews.com
 0.0.0.0 lansingsun.com
 0.0.0.0 laoi.net
@@ -8121,6 +8164,7 @@
 0.0.0.0 lwrcfirearms.com
 0.0.0.0 lwrcfirearmsusa.com
 0.0.0.0 lwuni.com
+0.0.0.0 lxuygoods.com
 0.0.0.0 lydiwaypuppieshome.co.za
 0.0.0.0 lyfeunit.com
 0.0.0.0 lyfoiegras.com
@@ -8132,6 +8176,7 @@
 0.0.0.0 m3exy.com
 0.0.0.0 mabusinessdaily.com
 0.0.0.0 machineguns.us
+0.0.0.0 mackboxerhome.com
 0.0.0.0 macmillianguncenter.com
 0.0.0.0 macombtoday.com
 0.0.0.0 maconreporter.com
@@ -9629,6 +9674,7 @@
 0.0.0.0 omitages.com
 0.0.0.0 omitbstacle.com
 0.0.0.0 omkarmedicalstores.com
+0.0.0.0 onaccordance.com
 0.0.0.0 onalevelwith.com
 0.0.0.0 onanaverage.net
 0.0.0.0 onatechcargo.com
@@ -9953,6 +9999,8 @@
 0.0.0.0 parrotshoponline.com
 0.0.0.0 parrotstoreonline.com
 0.0.0.0 parsme.com
+0.0.0.0 participanti.com
+0.0.0.0 participate-into.com
 0.0.0.0 participatey.com
 0.0.0.0 partnersforyouth.org
 0.0.0.0 partridgetownship.com
@@ -10226,6 +10274,7 @@
 0.0.0.0 pitbullcutebuddies.com
 0.0.0.0 pitbullfriends.com
 0.0.0.0 pitbullpuppiesbliss.com
+0.0.0.0 pitbullterrierpuppieshome.com
 0.0.0.0 pittsburghproshop.com
 0.0.0.0 piuders.com
 0.0.0.0 piuincontri.com
@@ -10395,6 +10444,7 @@
 0.0.0.0 portlaoisegiftcard.ie
 0.0.0.0 portoencontros.com
 0.0.0.0 positiont.com
+0.0.0.0 positonsid.com
 0.0.0.0 posprinterdriver.com
 0.0.0.0 possibilityn.com
 0.0.0.0 postalmailchange.com
@@ -10429,6 +10479,7 @@
 0.0.0.0 prairiestatewire.com
 0.0.0.0 pranompornmoodthaisong.com
 0.0.0.0 prayerpawpuppies.com
+0.0.0.0 prdictorehad.com
 0.0.0.0 preciouscanecorsopuppies.com
 0.0.0.0 preciouscutesy.com
 0.0.0.0 preciousfrenchbulldogpuppies.com
@@ -11603,6 +11654,7 @@
 0.0.0.0 resultantn.com
 0.0.0.0 resultanty.com
 0.0.0.0 retailspnsor.com
+0.0.0.0 retentionh.com
 0.0.0.0 retentiontactical.com
 0.0.0.0 reteowlepena.com
 0.0.0.0 retrieverlabclub.com
@@ -11632,6 +11684,7 @@
 0.0.0.0 richchemstore.com
 0.0.0.0 richery-thanker.uk
 0.0.0.0 richmondleader.com
+0.0.0.0 richplentiful.com
 0.0.0.0 richwfs.com
 0.0.0.0 richwomenlookingformen.org
 0.0.0.0 richwomenlookingformen.us
@@ -11640,6 +11693,7 @@
 0.0.0.0 ridesafelogistics.com
 0.0.0.0 ridgebackcontainers.co.za
 0.0.0.0 ridgeprideminischnauzers.com
+0.0.0.0 ridipartial.com
 0.0.0.0 rifatmahmudrakib.com
 0.0.0.0 riflearchery.com
 0.0.0.0 riflepartsmart.com
@@ -12458,6 +12512,7 @@
 0.0.0.0 siyoshop.com
 0.0.0.0 skafrica.com
 0.0.0.0 skiletex.com
+0.0.0.0 skillfuli.com
 0.0.0.0 skincare99.com
 0.0.0.0 skinsize.com
 0.0.0.0 skinsociety.me
@@ -12486,6 +12541,7 @@
 0.0.0.0 slabertkennels.co.za
 0.0.0.0 slashkennels.co.za
 0.0.0.0 slavicheritagelimi.shop
+0.0.0.0 slceucmber.com
 0.0.0.0 slc.net.sa
 0.0.0.0 slctimes.com
 0.0.0.0 sldps.com
@@ -12497,6 +12553,7 @@
 0.0.0.0 slendern.com
 0.0.0.0 slickfair.space
 0.0.0.0 sloreporter.com
+0.0.0.0 sltconsttute.com
 0.0.0.0 slumbert.com
 0.0.0.0 slunao.com
 0.0.0.0 sluttywives.com
@@ -12830,6 +12887,7 @@
 0.0.0.0 springteeshirt.com
 0.0.0.0 sprintcrypsmines.com
 0.0.0.0 sprucewise.com
+0.0.0.0 sptrmusag.com
 0.0.0.0 spybot-free.com
 0.0.0.0 spybot-now.com
 0.0.0.0 spyder-outlet.com
@@ -13211,6 +13269,7 @@
 0.0.0.0 swmontanatimes.com
 0.0.0.0 swnewmexiconews.com
 0.0.0.0 swoklahomanews.com
+0.0.0.0 swordreaxe.com
 0.0.0.0 swriversidenews.com
 0.0.0.0 swtennnews.com
 0.0.0.0 swvalleytimes.com
@@ -13220,7 +13279,9 @@
 0.0.0.0 swwisconsinnews.com
 0.0.0.0 swwyomingnews.com
 0.0.0.0 sydneyparrotsfarm.com
+0.0.0.0 symptpoltics.com
 0.0.0.0 synergyns.com
+0.0.0.0 synthesisk.com
 0.0.0.0 syntheticincenseonline.com
 0.0.0.0 systematicy.com
 0.0.0.0 szstndzsw.com
@@ -13512,6 +13573,7 @@
 0.0.0.0 terraswing.us
 0.0.0.0 terrificbulls.com
 0.0.0.0 terrificsbreedershome.com
+0.0.0.0 territoryment.com
 0.0.0.0 terrycalfsfarm.com
 0.0.0.0 terryparrotfarm.com
 0.0.0.0 terryteacupmaltesehome.com
@@ -13626,6 +13688,7 @@
 0.0.0.0 thekiton.com
 0.0.0.0 thekittenbreeders.com
 0.0.0.0 thekittendistro.com
+0.0.0.0 theleasttrifling.com
 0.0.0.0 thelogistics.co.za
 0.0.0.0 thelordstore.net
 0.0.0.0 thelordtee.com
@@ -13666,6 +13729,7 @@
 0.0.0.0 thesportsrugs.com
 0.0.0.0 thesportstation.co.uk
 0.0.0.0 thespyguard.com
+0.0.0.0 the-strategicable.com
 0.0.0.0 thesunshinecorgis.com
 0.0.0.0 thetargetgunclub.se
 0.0.0.0 theteenation.com
@@ -13936,6 +14000,7 @@
 0.0.0.0 trendy-shirt.com
 0.0.0.0 trfsuninc.com
 0.0.0.0 trglobaltd.com
+0.0.0.0 triangulary.com
 0.0.0.0 tribefair.space
 0.0.0.0 tribiangni.com
 0.0.0.0 tributeq.com
@@ -14025,6 +14090,7 @@
 0.0.0.0 tunesave.com
 0.0.0.0 tunicgame.net
 0.0.0.0 tupareja.es
+0.0.0.0 tupforward.com
 0.0.0.0 turbinegeneratorengines.co.za
 0.0.0.0 turkekonomib.com
 0.0.0.0 turkishexpresscourier.com
@@ -14380,6 +14446,7 @@
 0.0.0.0 veronkush.com
 0.0.0.0 versatilem.com
 0.0.0.0 versatilen.com
+0.0.0.0 versatileyus.com
 0.0.0.0 verssen-samer.de
 0.0.0.0 versusgame.com
 0.0.0.0 vertcron.com
@@ -15034,6 +15101,7 @@
 0.0.0.0 yosemiteliquors.com
 0.0.0.0 yostlawoffice.com
 0.0.0.0 youlikehits.com
+0.0.0.0 youluckzz.com
 0.0.0.0 youmylovep.com
 0.0.0.0 youngbetee.com
 0.0.0.0 youngstowntimes.com

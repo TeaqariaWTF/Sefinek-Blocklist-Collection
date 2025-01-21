@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025011901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012101 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -2085,6 +2085,8 @@ observe-nexus.pointandplace.com CNAME .
 *.observe-nexus.pointandplace.com CNAME .
 observer.ip-label.net CNAME .
 *.observer.ip-label.net CNAME .
+obseu.netgreencolumn.com CNAME .
+*.obseu.netgreencolumn.com CNAME .
 oda.markitondemand.com CNAME .
 *.oda.markitondemand.com CNAME .
 olytics.omeda.com CNAME .

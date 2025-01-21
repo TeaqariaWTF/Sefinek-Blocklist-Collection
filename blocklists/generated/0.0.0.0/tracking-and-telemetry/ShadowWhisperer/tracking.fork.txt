@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,408
-# Updated: 1/19/2025  16:31 (4:31 PM CST)
+# Domains: 96,423
+# Updated: 1/20/2025  16:33 (4:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16971,7 +16971,9 @@
 0.0.0.0 cms-clickmap-prod.us-west-2.web.dealer.com
 0.0.0.0 c.msn.at
 0.0.0.0 c.msn.be
+0.0.0.0 c.msn.ca
 0.0.0.0 c.msn.ch
+0.0.0.0 c.msn.co.jp
 0.0.0.0 c.msn.com
 0.0.0.0 c.msn.co.za
 0.0.0.0 c.msn.dk
@@ -20871,6 +20873,7 @@
 0.0.0.0 data.fans.logansargeant2.com
 0.0.0.0 data.fans.realmadrid.com
 0.0.0.0 data.fans.williamsf1.com
+0.0.0.0 datafa.st
 0.0.0.0 data.fastcomet.com
 0.0.0.0 data-fb37a1e7c3.esslinger-zeitung.de
 0.0.0.0 data-fb6bd6ba7f.agrarzeitung.de
@@ -21503,6 +21506,7 @@
 0.0.0.0 d.cordial.implus.com
 0.0.0.0 d.cordial-tracking.tarot.com
 0.0.0.0 dcp-analytics.com
+0.0.0.0 dc.peoplesjewellers.com
 0.0.0.0 dc.plussizetech.com
 0.0.0.0 d.crdlmkt.mybobs.com
 0.0.0.0 dc.realmadrid.com
@@ -21565,6 +21569,7 @@
 0.0.0.0 dc.volkswagen.de
 0.0.0.0 dc.volkswagen.pl
 0.0.0.0 dc.vw.com.mx
+0.0.0.0 dc.vw.co.za
 0.0.0.0 dc.waylet.es
 0.0.0.0 dcw.lgim.com
 0.0.0.0 dcxt-gs.hyundai.com
@@ -23635,6 +23640,7 @@
 0.0.0.0 ens.luzernerzeitung.ch
 0.0.0.0 ens.moneyhouse.ch
 0.0.0.0 ens.nzz.ch
+0.0.0.0 ens.obwaldnerzeitung.ch
 0.0.0.0 ens.tagblatt.ch
 0.0.0.0 ens.themarket.ch
 0.0.0.0 ens.thurgauerzeitung.ch
@@ -23700,6 +23706,7 @@
 0.0.0.0 epianalytics.com
 0.0.0.0 epica.ai
 0.0.0.0 epic-insights.com
+0.0.0.0 epicmetropolisexpeditionnwl.com
 0.0.0.0 epiconnect.com
 0.0.0.0 epiphany.cpap.com
 0.0.0.0 episerver.com
@@ -25080,6 +25087,7 @@
 0.0.0.0 fp.times-standard.com
 0.0.0.0 fptls3.com
 0.0.0.0 fptls.com
+0.0.0.0 fpt.microsoft.com
 0.0.0.0 fpt.neighborwho.com
 0.0.0.0 fpt.numberguru.com
 0.0.0.0 fpt.ownerly.com
@@ -27115,6 +27123,7 @@
 0.0.0.0 horse.cubitcreative.com
 0.0.0.0 horse.erms.app
 0.0.0.0 horse.hookrelay.dev
+0.0.0.0 horse.kandsstudio.co.uk
 0.0.0.0 horse.mynorthstarapp.com
 0.0.0.0 horse.ohseemedia.com
 0.0.0.0 horse.rmrk.app
@@ -35252,6 +35261,7 @@
 0.0.0.0 matjarokoume.com
 0.0.0.0 matm.dotwee.de
 0.0.0.0 mato.a2n.dev
+0.0.0.0 mato.clanto.cloud
 0.0.0.0 mato.educa.ch
 0.0.0.0 mato.glukose.fr
 0.0.0.0 mato.immodvisor.com
@@ -55470,6 +55480,7 @@
 0.0.0.0 papsy.net
 0.0.0.0 paraccel.com
 0.0.0.0 paradoxfactor.com
+0.0.0.0 parakeet.buildcodelearn.com
 0.0.0.0 parakeet.jorenvanhocht.be
 0.0.0.0 parakeet.kenleyar.ai
 0.0.0.0 parakeet.phantomphone.net
@@ -64839,6 +64850,7 @@
 0.0.0.0 prairiedog.freemusic.com.au
 0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 prairiedog.health-improvement.uk
+0.0.0.0 prairiedog.thisismattsmith.com
 0.0.0.0 prairiedog.xview.us
 0.0.0.0 pr.aqutics.co.jp
 0.0.0.0 pr.aqutics.jp
@@ -66534,6 +66546,7 @@
 0.0.0.0 rhymezebra.com
 0.0.0.0 rhythmmoney.com
 0.0.0.0 ribbons.evolis.com
+0.0.0.0 ric.arrive-im-herzogpark.de
 0.0.0.0 richaudience.com
 0.0.0.0 richinfo.co
 0.0.0.0 richmetrics.com
@@ -85835,6 +85848,7 @@
 0.0.0.0 s.visx.net
 0.0.0.0 svmarketing.destinationtoronto.com
 0.0.0.0 svntrk.com
+0.0.0.0 svntyfr.com
 0.0.0.0 svonm.com
 0.0.0.0 svopn.aaronbrothers.com
 0.0.0.0 svopn.adorama.com
@@ -90411,6 +90425,7 @@
 0.0.0.0 vetinfo.rossu.edu
 0.0.0.0 vextras.com
 0.0.0.0 veylinx.com
+0.0.0.0 vf.as.tarnkappe.info
 0.0.0.0 vfbnb.barakasheabutter.com
 0.0.0.0 vg01.met.vgwort.de
 0.0.0.0 vg03.met.vgwort.de

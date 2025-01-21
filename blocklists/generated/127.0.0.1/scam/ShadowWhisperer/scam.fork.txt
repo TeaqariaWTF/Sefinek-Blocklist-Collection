@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 15,120
-# Updated: 1/19/2025  16:31 (4:31 PM CST)
+# Domains: 15,188
+# Updated: 1/20/2025  16:33 (4:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -403,6 +403,7 @@
 127.0.0.1 advancssupportsolutions.com
 127.0.0.1 advantageouse.com
 127.0.0.1 advantagi.com
+127.0.0.1 advatgeous.com
 127.0.0.1 advlenderssupport.com
 127.0.0.1 advlendingsupport.com
 127.0.0.1 advncfundingsupport.com
@@ -423,6 +424,7 @@
 127.0.0.1 aevinmedical.com
 127.0.0.1 af1firearms.com
 127.0.0.1 afamilyspot.com
+127.0.0.1 affairchats.com
 127.0.0.1 affairland.com
 127.0.0.1 affair-nextdoor.com
 127.0.0.1 affair-nextdoor.co.uk
@@ -713,6 +715,7 @@
 127.0.0.1 amazingfirearms.com
 127.0.0.1 amazingflings.com
 127.0.0.1 amazinggo.net
+127.0.0.1 amazing-items.uk
 127.0.0.1 amazingmainecoonkittens.com
 127.0.0.1 amazingparrotsforsale.com
 127.0.0.1 amazingpetshome.com
@@ -1064,6 +1067,7 @@
 127.0.0.1 arowanafishstore.xyz
 127.0.0.1 arowanafishvendor.com
 127.0.0.1 arowanasales.com
+127.0.0.1 arraiconvert.com
 127.0.0.1 array-green.com
 127.0.0.1 arrowcourier.co.uk
 127.0.0.1 arrowfair.space
@@ -1075,6 +1079,7 @@
 127.0.0.1 arthoodie.com
 127.0.0.1 artilleryshoponline.com
 127.0.0.1 artisangemantiques.com
+127.0.0.1 artwareworld.com
 127.0.0.1 asakeoral.com
 127.0.0.1 asalimainecoonhome.com
 127.0.0.1 ascuteas.com
@@ -1145,6 +1150,9 @@
 127.0.0.1 atrendsz.com
 127.0.0.1 attendaily.com
 127.0.0.1 attendancet.com
+127.0.0.1 attendanty.com
+127.0.0.1 attentioin.com
+127.0.0.1 attentivek.com
 127.0.0.1 attractime.com
 127.0.0.1 attractivegoldenretrieverforsale.com
 127.0.0.1 attractivepassion.com
@@ -1400,6 +1408,7 @@
 127.0.0.1 beaglesforadoption.com
 127.0.0.1 beallearsy.com
 127.0.0.1 beamingwise.com
+127.0.0.1 beamingwise.net
 127.0.0.1 beansolutions.co.za
 127.0.0.1 beanstee.com
 127.0.0.1 beararcheryshop.com
@@ -1646,6 +1655,7 @@
 127.0.0.1 bichonpupsforsale.com
 127.0.0.1 bidcebidtg.net
 127.0.0.1 bielert.de
+127.0.0.1 biensmix.com
 127.0.0.1 biewerspot.com
 127.0.0.1 bigbearmainecoons.com
 127.0.0.1 bigboobsexdates.com
@@ -1771,6 +1781,8 @@
 127.0.0.1 blockexchange.live
 127.0.0.1 bloofy.co
 127.0.0.1 bloomingtonleader.com
+127.0.0.1 bloshonour.com
+127.0.0.1 bloshonour.net
 127.0.0.1 blossomflowerdelivery.com
 127.0.0.1 blossomscoonscattery.com
 127.0.0.1 blottera.com
@@ -1916,6 +1928,7 @@
 127.0.0.1 botox-fillerderm.com
 127.0.0.1 boukavapes.com
 127.0.0.1 boulderleader.com
+127.0.0.1 boundsithin.com
 127.0.0.1 bouquet.com
 127.0.0.1 bourbonfoundryhouse.com
 127.0.0.1 bourbonliquorstores.com
@@ -1947,6 +1960,7 @@
 127.0.0.1 brassstore-usa.com
 127.0.0.1 braveanatolians.com
 127.0.0.1 bravecanecorsohome.com
+127.0.0.1 bravedrawer.com
 127.0.0.1 bravefair.space
 127.0.0.1 bravefearless.com
 127.0.0.1 bravefrenchbulldogs.com
@@ -2562,6 +2576,7 @@
 127.0.0.1 catshopheaven.com
 127.0.0.1 cattylovesline.com
 127.0.0.1 cattylovesline.net
+127.0.0.1 causedbeby.com
 127.0.0.1 cava-kingcharlespups.com
 127.0.0.1 cavaliercompanion.com
 127.0.0.1 cavalierhomez.com
@@ -3225,6 +3240,7 @@
 127.0.0.1 combatfirearmstore.com
 127.0.0.1 combinek.com
 127.0.0.1 combustiont.com
+127.0.0.1 comffrome.com
 127.0.0.1 comfures.com
 127.0.0.1 comfyshopper.org
 127.0.0.1 comic-tee.com
@@ -3276,11 +3292,15 @@
 127.0.0.1 concretechemsonline.com
 127.0.0.1 concreteh.com
 127.0.0.1 condensem.com
+127.0.0.1 conditiono.com
 127.0.0.1 confidentiak.com
+127.0.0.1 conforim.com
 127.0.0.1 confrontk.com
 127.0.0.1 confrontthegods.com
 127.0.0.1 coningconcert.net
 127.0.0.1 conisolidate.com
+127.0.0.1 conmationfir.com
+127.0.0.1 conmsentto.com
 127.0.0.1 conneb.com
 127.0.0.1 connecticut-firearms.com
 127.0.0.1 conocolivestockfarm.co
@@ -3321,6 +3341,7 @@
 127.0.0.1 contemporarycandles.com
 127.0.0.1 contendon.com
 127.0.0.1 contendonog.com
+127.0.0.1 continuousk.com
 127.0.0.1 contishippingcontainer.com
 127.0.0.1 contiuoeny.com
 127.0.0.1 contmporar.com
@@ -3789,6 +3810,7 @@
 127.0.0.1 decaturtimes.com
 127.0.0.1 decideonlove.com
 127.0.0.1 declandevonrexkittens.com
+127.0.0.1 decoratew.com
 127.0.0.1 decorhome-us.com
 127.0.0.1 decoryourhome.store
 127.0.0.1 dedicfatend.com
@@ -3807,6 +3829,7 @@
 127.0.0.1 dekalbtimes.com
 127.0.0.1 delanelpuppykennel.co.za
 127.0.0.1 delcoreview.com
+127.0.0.1 deliberatediscuss.com
 127.0.0.1 delicacyup.com
 127.0.0.1 delicategoldenv.com
 127.0.0.1 delicateskirt.com
@@ -4075,6 +4098,7 @@
 127.0.0.1 domainnetworks.com
 127.0.0.1 domesub.com
 127.0.0.1 dominantmalshiandcross.com
+127.0.0.1 dominatedecide.com
 127.0.0.1 dominatrici.online
 127.0.0.1 dominicpsychedelic.com
 127.0.0.1 dominiondachshund.com
@@ -4615,6 +4639,7 @@
 127.0.0.1 englishbullybreeders.com
 127.0.0.1 englishcertificatesonline.com
 127.0.0.1 englishcockerspanielpuppiesforsale.com
+127.0.0.1 enindefinite.com
 127.0.0.1 enjoycomfy.com
 127.0.0.1 enjoythehug.com
 127.0.0.1 enocher.com
@@ -4629,7 +4654,9 @@
 127.0.0.1 enthusiade.com
 127.0.0.1 entitley.com
 127.0.0.1 entrantce.com
+127.0.0.1 entrasprvise.com
 127.0.0.1 entrepreneurlife.style
+127.0.0.1 entschlossen-heit.de
 127.0.0.1 enviecharnelle.com
 127.0.0.1 envisionllc.com
 127.0.0.1 enytee.us
@@ -4669,10 +4696,13 @@
 127.0.0.1 equidogkine.com
 127.0.0.1 equinecetpharma.com
 127.0.0.1 equityadvocatesllp.com
+127.0.0.1 equivalenh.com
 127.0.0.1 equivalentk.com
 127.0.0.1 equivalentz.com
+127.0.0.1 equivalenu.com
 127.0.0.1 erdapellet.com
 127.0.0.1 erectanuscr.com
+127.0.0.1 ergeb-nisse.de
 127.0.0.1 ericksengroup.com
 127.0.0.1 erik-online.company.site
 127.0.0.1 erishafrenchbulldoghome.com
@@ -5127,6 +5157,7 @@
 127.0.0.1 fillermedicalcare.com
 127.0.0.1 fillertradingworld.com
 127.0.0.1 fillerworldcosmetic.com
+127.0.0.1 fillethumn.com
 127.0.0.1 filmleatherjackets.com
 127.0.0.1 finallyabsent.com
 127.0.0.1 finalpath.org
@@ -5201,8 +5232,10 @@
 127.0.0.1 firemid.com
 127.0.0.1 firewave-firearms.com
 127.0.0.1 firgrcu.com
+127.0.0.1 firmadmire.com
 127.0.0.1 firmamentgalaxy.com
 127.0.0.1 firmmood.com
+127.0.0.1 firmstaunch.com
 127.0.0.1 firmware.help
 127.0.0.1 firsplacthe.com
 127.0.0.1 firstaid-medicalsupply.co.za
@@ -6316,6 +6349,7 @@
 127.0.0.1 gutterprotectiondeals.com
 127.0.0.1 guus.store
 127.0.0.1 guzxssa.shop
+127.0.0.1 gymnasiumk.com
 127.0.0.1 habibacuties.site
 127.0.0.1 habittees.com
 127.0.0.1 hackerslist.co
@@ -6694,6 +6728,7 @@
 127.0.0.1 hopkinsvilletimes.com
 127.0.0.1 horizoneventure.com
 127.0.0.1 horizongeneralsuppliers.co.za
+127.0.0.1 horizontaln.com
 127.0.0.1 hornadyarmory.com
 127.0.0.1 hornadyofficial.com
 127.0.0.1 hornyblack-nextdoor.com
@@ -6720,6 +6755,7 @@
 127.0.0.1 hotlocalsexdates.com
 127.0.0.1 hotmailcontactnumbers.com
 127.0.0.1 hotmailtechsupport.com
+127.0.0.1 hotmatureflirt.com
 127.0.0.1 hotmilfs.co.nz
 127.0.0.1 hotmilfs.dk
 127.0.0.1 hotmilfs.no
@@ -6985,7 +7021,10 @@
 127.0.0.1 industriouse.com
 127.0.0.1 indystandard.com
 127.0.0.1 inexpensiva.com
+127.0.0.1 inexpensivy.com
 127.0.0.1 infaithe.com
+127.0.0.1 infavorofe.com
+127.0.0.1 inferutmati.com
 127.0.0.1 infideles.com
 127.0.0.1 infidelio.fr
 127.0.0.1 infidelites.com
@@ -7005,6 +7044,7 @@
 127.0.0.1 inflent.com
 127.0.0.1 inflow-ns.com
 127.0.0.1 influencte.com
+127.0.0.1 info-bdsmzone.com
 127.0.0.1 info-dirtyzone2.com
 127.0.0.1 info-drivers.ru
 127.0.0.1 info-extremesite.com
@@ -7240,6 +7280,7 @@
 127.0.0.1 jerryshepherdfarm.com
 127.0.0.1 jerseyloco.com
 127.0.0.1 jerseyteacupyorkies.com
+127.0.0.1 jessicachildsenglishbulldogs.com
 127.0.0.1 jessicafrenchiebulldog.com
 127.0.0.1 jetskispare-parts.com
 127.0.0.1 jetzt-absahnen.de
@@ -7592,6 +7633,7 @@
 127.0.0.1 kovla.com
 127.0.0.1 kriengthaipaper.com
 127.0.0.1 krissfirearmsusa.com
+127.0.0.1 kristall-klares.de
 127.0.0.1 krizshomedachshunds.com
 127.0.0.1 krtcarts.org
 127.0.0.1 ksbusinessdaily.com
@@ -7654,6 +7696,7 @@
 127.0.0.1 land-ice.com
 127.0.0.1 landmeawhil.com
 127.0.0.1 landscapet.com
+127.0.0.1 landscapk.com
 127.0.0.1 laneconews.com
 127.0.0.1 lansingsun.com
 127.0.0.1 laoi.net
@@ -8121,6 +8164,7 @@
 127.0.0.1 lwrcfirearms.com
 127.0.0.1 lwrcfirearmsusa.com
 127.0.0.1 lwuni.com
+127.0.0.1 lxuygoods.com
 127.0.0.1 lydiwaypuppieshome.co.za
 127.0.0.1 lyfeunit.com
 127.0.0.1 lyfoiegras.com
@@ -8132,6 +8176,7 @@
 127.0.0.1 m3exy.com
 127.0.0.1 mabusinessdaily.com
 127.0.0.1 machineguns.us
+127.0.0.1 mackboxerhome.com
 127.0.0.1 macmillianguncenter.com
 127.0.0.1 macombtoday.com
 127.0.0.1 maconreporter.com
@@ -9629,6 +9674,7 @@
 127.0.0.1 omitages.com
 127.0.0.1 omitbstacle.com
 127.0.0.1 omkarmedicalstores.com
+127.0.0.1 onaccordance.com
 127.0.0.1 onalevelwith.com
 127.0.0.1 onanaverage.net
 127.0.0.1 onatechcargo.com
@@ -9953,6 +9999,8 @@
 127.0.0.1 parrotshoponline.com
 127.0.0.1 parrotstoreonline.com
 127.0.0.1 parsme.com
+127.0.0.1 participanti.com
+127.0.0.1 participate-into.com
 127.0.0.1 participatey.com
 127.0.0.1 partnersforyouth.org
 127.0.0.1 partridgetownship.com
@@ -10226,6 +10274,7 @@
 127.0.0.1 pitbullcutebuddies.com
 127.0.0.1 pitbullfriends.com
 127.0.0.1 pitbullpuppiesbliss.com
+127.0.0.1 pitbullterrierpuppieshome.com
 127.0.0.1 pittsburghproshop.com
 127.0.0.1 piuders.com
 127.0.0.1 piuincontri.com
@@ -10395,6 +10444,7 @@
 127.0.0.1 portlaoisegiftcard.ie
 127.0.0.1 portoencontros.com
 127.0.0.1 positiont.com
+127.0.0.1 positonsid.com
 127.0.0.1 posprinterdriver.com
 127.0.0.1 possibilityn.com
 127.0.0.1 postalmailchange.com
@@ -10429,6 +10479,7 @@
 127.0.0.1 prairiestatewire.com
 127.0.0.1 pranompornmoodthaisong.com
 127.0.0.1 prayerpawpuppies.com
+127.0.0.1 prdictorehad.com
 127.0.0.1 preciouscanecorsopuppies.com
 127.0.0.1 preciouscutesy.com
 127.0.0.1 preciousfrenchbulldogpuppies.com
@@ -11603,6 +11654,7 @@
 127.0.0.1 resultantn.com
 127.0.0.1 resultanty.com
 127.0.0.1 retailspnsor.com
+127.0.0.1 retentionh.com
 127.0.0.1 retentiontactical.com
 127.0.0.1 reteowlepena.com
 127.0.0.1 retrieverlabclub.com
@@ -11632,6 +11684,7 @@
 127.0.0.1 richchemstore.com
 127.0.0.1 richery-thanker.uk
 127.0.0.1 richmondleader.com
+127.0.0.1 richplentiful.com
 127.0.0.1 richwfs.com
 127.0.0.1 richwomenlookingformen.org
 127.0.0.1 richwomenlookingformen.us
@@ -11640,6 +11693,7 @@
 127.0.0.1 ridesafelogistics.com
 127.0.0.1 ridgebackcontainers.co.za
 127.0.0.1 ridgeprideminischnauzers.com
+127.0.0.1 ridipartial.com
 127.0.0.1 rifatmahmudrakib.com
 127.0.0.1 riflearchery.com
 127.0.0.1 riflepartsmart.com
@@ -12458,6 +12512,7 @@
 127.0.0.1 siyoshop.com
 127.0.0.1 skafrica.com
 127.0.0.1 skiletex.com
+127.0.0.1 skillfuli.com
 127.0.0.1 skincare99.com
 127.0.0.1 skinsize.com
 127.0.0.1 skinsociety.me
@@ -12486,6 +12541,7 @@
 127.0.0.1 slabertkennels.co.za
 127.0.0.1 slashkennels.co.za
 127.0.0.1 slavicheritagelimi.shop
+127.0.0.1 slceucmber.com
 127.0.0.1 slc.net.sa
 127.0.0.1 slctimes.com
 127.0.0.1 sldps.com
@@ -12497,6 +12553,7 @@
 127.0.0.1 slendern.com
 127.0.0.1 slickfair.space
 127.0.0.1 sloreporter.com
+127.0.0.1 sltconsttute.com
 127.0.0.1 slumbert.com
 127.0.0.1 slunao.com
 127.0.0.1 sluttywives.com
@@ -12830,6 +12887,7 @@
 127.0.0.1 springteeshirt.com
 127.0.0.1 sprintcrypsmines.com
 127.0.0.1 sprucewise.com
+127.0.0.1 sptrmusag.com
 127.0.0.1 spybot-free.com
 127.0.0.1 spybot-now.com
 127.0.0.1 spyder-outlet.com
@@ -13211,6 +13269,7 @@
 127.0.0.1 swmontanatimes.com
 127.0.0.1 swnewmexiconews.com
 127.0.0.1 swoklahomanews.com
+127.0.0.1 swordreaxe.com
 127.0.0.1 swriversidenews.com
 127.0.0.1 swtennnews.com
 127.0.0.1 swvalleytimes.com
@@ -13220,7 +13279,9 @@
 127.0.0.1 swwisconsinnews.com
 127.0.0.1 swwyomingnews.com
 127.0.0.1 sydneyparrotsfarm.com
+127.0.0.1 symptpoltics.com
 127.0.0.1 synergyns.com
+127.0.0.1 synthesisk.com
 127.0.0.1 syntheticincenseonline.com
 127.0.0.1 systematicy.com
 127.0.0.1 szstndzsw.com
@@ -13512,6 +13573,7 @@
 127.0.0.1 terraswing.us
 127.0.0.1 terrificbulls.com
 127.0.0.1 terrificsbreedershome.com
+127.0.0.1 territoryment.com
 127.0.0.1 terrycalfsfarm.com
 127.0.0.1 terryparrotfarm.com
 127.0.0.1 terryteacupmaltesehome.com
@@ -13626,6 +13688,7 @@
 127.0.0.1 thekiton.com
 127.0.0.1 thekittenbreeders.com
 127.0.0.1 thekittendistro.com
+127.0.0.1 theleasttrifling.com
 127.0.0.1 thelogistics.co.za
 127.0.0.1 thelordstore.net
 127.0.0.1 thelordtee.com
@@ -13666,6 +13729,7 @@
 127.0.0.1 thesportsrugs.com
 127.0.0.1 thesportstation.co.uk
 127.0.0.1 thespyguard.com
+127.0.0.1 the-strategicable.com
 127.0.0.1 thesunshinecorgis.com
 127.0.0.1 thetargetgunclub.se
 127.0.0.1 theteenation.com
@@ -13936,6 +14000,7 @@
 127.0.0.1 trendy-shirt.com
 127.0.0.1 trfsuninc.com
 127.0.0.1 trglobaltd.com
+127.0.0.1 triangulary.com
 127.0.0.1 tribefair.space
 127.0.0.1 tribiangni.com
 127.0.0.1 tributeq.com
@@ -14025,6 +14090,7 @@
 127.0.0.1 tunesave.com
 127.0.0.1 tunicgame.net
 127.0.0.1 tupareja.es
+127.0.0.1 tupforward.com
 127.0.0.1 turbinegeneratorengines.co.za
 127.0.0.1 turkekonomib.com
 127.0.0.1 turkishexpresscourier.com
@@ -14380,6 +14446,7 @@
 127.0.0.1 veronkush.com
 127.0.0.1 versatilem.com
 127.0.0.1 versatilen.com
+127.0.0.1 versatileyus.com
 127.0.0.1 verssen-samer.de
 127.0.0.1 versusgame.com
 127.0.0.1 vertcron.com
@@ -15034,6 +15101,7 @@
 127.0.0.1 yosemiteliquors.com
 127.0.0.1 yostlawoffice.com
 127.0.0.1 youlikehits.com
+127.0.0.1 youluckzz.com
 127.0.0.1 youmylovep.com
 127.0.0.1 youngbetee.com
 127.0.0.1 youngstowntimes.com
