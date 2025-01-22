@@ -1,4 +1,4 @@
-#202501200303
+#202501220303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -10082,6 +10082,7 @@
 127.0.0.1 dckiwt.eataly.com
 127.0.0.1 dclnxirp001cou.net.jumia.co.tz
 127.0.0.1 dcnkrd.baseballsavings.com
+127.0.0.1 dco.coupang.com
 127.0.0.1 dcs.audi.com
 127.0.0.1 dcs.esprit.at
 127.0.0.1 dcs.esprit.au
@@ -22711,6 +22712,7 @@
 127.0.0.1 observe-nexus.pointandplace.com
 127.0.0.1 observe.metarouter.io
 127.0.0.1 observer.ip-label.net
+127.0.0.1 obseu.netgreencolumn.com
 127.0.0.1 obtfhl.bellemaison.jp
 127.0.0.1 oca.microsoft.com
 127.0.0.1 occidente.ubmmexico.com

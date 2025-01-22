@@ -1,4 +1,4 @@
-#202501200303
+#202501220303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -375,6 +375,7 @@ server=/crosspromotion.weplayer.cc/
 server=/cs02-pps-drcn.dbankcdn.com/
 server=/csi.gstatic.com/
 server=/ctl.buyt.in/
+server=/d.kugou.com/
 server=/d19xf4taj229i8.cloudfront.net/
 server=/d239g0z67jcted.cloudfront.net/
 server=/d2nrdy2pg3k168.cloudfront.net/
@@ -590,6 +591,8 @@ server=/native.cli.bz/
 server=/nativead.s3.amazonaws.com/
 server=/nativex.com/
 server=/naverpa-phinf.pstatic.net/
+server=/nbcollect.kugou.com/
+server=/nbcollectretry.kugou.com/
 server=/nearbyad.com/
 server=/nend.net/
 server=/net.rayjump.com/
@@ -695,6 +698,7 @@ server=/search.adcaffe.com/
 server=/sensors.larkplayerapp.com/
 server=/servebom.com/
 server=/servedby.o2.co.uk/
+server=/serveraddr.service.kugou.com/
 server=/sessionm.com/
 server=/setting.rayjump.com/
 server=/shareasale.com/

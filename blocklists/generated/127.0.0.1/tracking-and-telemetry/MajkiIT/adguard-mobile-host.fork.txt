@@ -1,4 +1,4 @@
-#202501200303
+#202501220303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -375,6 +375,7 @@
 127.0.0.1 cs02-pps-drcn.dbankcdn.com
 127.0.0.1 csi.gstatic.com
 127.0.0.1 ctl.buyt.in
+127.0.0.1 d.kugou.com
 127.0.0.1 d19xf4taj229i8.cloudfront.net
 127.0.0.1 d239g0z67jcted.cloudfront.net
 127.0.0.1 d2nrdy2pg3k168.cloudfront.net
@@ -590,6 +591,8 @@
 127.0.0.1 nativead.s3.amazonaws.com
 127.0.0.1 nativex.com
 127.0.0.1 naverpa-phinf.pstatic.net
+127.0.0.1 nbcollect.kugou.com
+127.0.0.1 nbcollectretry.kugou.com
 127.0.0.1 nearbyad.com
 127.0.0.1 nend.net
 127.0.0.1 net.rayjump.com
@@ -695,6 +698,7 @@
 127.0.0.1 sensors.larkplayerapp.com
 127.0.0.1 servebom.com
 127.0.0.1 servedby.o2.co.uk
+127.0.0.1 serveraddr.service.kugou.com
 127.0.0.1 sessionm.com
 127.0.0.1 setting.rayjump.com
 127.0.0.1 shareasale.com
