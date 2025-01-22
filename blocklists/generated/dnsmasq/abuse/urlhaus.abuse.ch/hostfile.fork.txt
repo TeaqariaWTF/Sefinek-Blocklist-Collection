@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 02:49:26 (UTC)                      #
+# Last updated: 2025-01-22 04:23:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,6 +21,7 @@ server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/aide-acheminement-info.com/
 server=/airhobi.com/
+server=/alien-training.com/
 server=/amelcarte.com/
 server=/amende-renouvellement.com/
 server=/amende-stationnement-suivis.com/
@@ -45,11 +46,13 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
+server=/avastpx.com/
 server=/azgint.com/
 server=/banthis.su/
 server=/bargaincove.shop/
 server=/bethelkwabenya.org/
 server=/bigpick.shop/
+server=/bitkiselurunsiparis.com/
 server=/brazzyss.xyz/
 server=/budgetmart.shop/
 server=/budgetshop.shop/
@@ -79,7 +82,6 @@ server=/crestereamuschilor.ro/
 server=/cryptopotato.net/
 server=/crystalpvp.ru/
 server=/csg-app.com/
-server=/dangtienluc.com/
 server=/data.yhydl.com/
 server=/dazhongyao.com/
 server=/dcwblida.dz/
@@ -194,6 +196,7 @@ server=/loeghaiofiehfihf.to/
 server=/lol.cursinqfirewall.ru/
 server=/lostheaven.com.cn/
 server=/lsks.volamngayxua.net/
+server=/m.gutousoft.com/
 server=/maciejowice.dobrybip.pl/
 server=/mandarin.net.au/
 server=/markitos.shop/
@@ -224,9 +227,11 @@ server=/myhermes-versand.net/
 server=/mypackagingups.com/
 server=/mystartherehosting.net/
 server=/n2.aroundpayablequirk.shop/
+server=/nabawitransport.com/
 server=/namthaibinh.net/
 server=/new-consigne-sms-track.com/
 server=/noithaticon.vn/
+server=/novelhc.com/
 server=/nzy3tvbb72g3.top/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
@@ -275,6 +280,7 @@ server=/simit-pagos.co/
 server=/sinupakk.net/
 server=/sirault.be/
 server=/soft.110route.com/
+server=/softcatalog.ru/
 server=/solve.hhxe.org/
 server=/solve.pvsu.org/
 server=/solve.xtxy.org/
@@ -322,7 +328,6 @@ server=/u1.servicelandingkaraoke.shop/
 server=/up1035rwa5zk.prodemadoutorado.org/
 server=/upadaria.org/
 server=/update.cg100iii.com/
-server=/update.vlnguba.com/
 server=/update.volam2005pk.com/
 server=/updateinfo-portal.com/
 server=/ups-zolldienst.com/
@@ -341,6 +346,7 @@ server=/webmail.tracking-packages.com/
 server=/websites-security.com/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
+server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
 server=/www.flechabusretiro.com.ar/
@@ -377,4 +383,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 371
+# Number of entries: 377

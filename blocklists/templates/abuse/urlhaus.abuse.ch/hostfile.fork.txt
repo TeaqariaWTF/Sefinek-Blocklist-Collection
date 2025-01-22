@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 02:49:26 (UTC)                      #
+# Last updated: 2025-01-22 04:23:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,6 +21,7 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
 0.0.0.0 airhobi.com
+0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
 0.0.0.0 amende-stationnement-suivis.com
@@ -45,11 +46,13 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bargaincove.shop
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bigpick.shop
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 brazzyss.xyz
 0.0.0.0 budgetmart.shop
 0.0.0.0 budgetshop.shop
@@ -79,7 +82,6 @@
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
@@ -194,6 +196,7 @@
 0.0.0.0 lol.cursinqfirewall.ru
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mandarin.net.au
 0.0.0.0 markitos.shop
@@ -224,9 +227,11 @@
 0.0.0.0 mypackagingups.com
 0.0.0.0 mystartherehosting.net
 0.0.0.0 n2.aroundpayablequirk.shop
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 new-consigne-sms-track.com
 0.0.0.0 noithaticon.vn
+0.0.0.0 novelhc.com
 0.0.0.0 nzy3tvbb72g3.top
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
@@ -275,6 +280,7 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
+0.0.0.0 softcatalog.ru
 0.0.0.0 solve.hhxe.org
 0.0.0.0 solve.pvsu.org
 0.0.0.0 solve.xtxy.org
@@ -322,7 +328,6 @@
 0.0.0.0 up1035rwa5zk.prodemadoutorado.org
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
@@ -341,6 +346,7 @@
 0.0.0.0 websites-security.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.flechabusretiro.com.ar
@@ -377,4 +383,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 371
+# Number of entries: 377

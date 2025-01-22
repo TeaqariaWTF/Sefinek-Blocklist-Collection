@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,658
-# Updated: 1/20/2025  22:45 (10:45 PM CST)
+# Domains: 20,660
+# Updated: 1/21/2025  21:01 (9:01 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13695,6 +13695,7 @@ server=/momentumbyhavas.com/
 server=/monarchmarketing.com/
 server=/monetixads.com/
 server=/monetiza.co/
+server=/monetization.prod.invmed.co/
 server=/monetizd.com/
 server=/monetizead.com/
 server=/monetize.com/
@@ -15532,6 +15533,7 @@ server=/promo.purlive.com/
 server=/promos.camsoda.com/
 server=/promos.fling.com/
 server=/promos.gpniches.com/
+server=/promos.investing.com/
 server=/promo.skf.com/
 server=/promos.naked.com/
 server=/promos.ogdennews.com/
