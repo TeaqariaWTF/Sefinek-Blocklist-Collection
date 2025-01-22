@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012201 43200 3600 259200 300
   NS  localhost.
 007-dvd.com CNAME .
 *.007-dvd.com CNAME .
@@ -3995,6 +3995,8 @@ bridgetnjbeagles.com CNAME .
 *.bridgetnjbeagles.com CNAME .
 brighstale.com CNAME .
 *.brighstale.com CNAME .
+brighthave.com CNAME .
+*.brighthave.com CNAME .
 brighthe.com CNAME .
 *.brighthe.com CNAME .
 brightmaltipoofarm.com CNAME .
@@ -6711,6 +6713,8 @@ cookietee.com CNAME .
 *.cookietee.com CNAME .
 cool4mob.com CNAME .
 *.cool4mob.com CNAME .
+coolaimall.com CNAME .
+*.coolaimall.com CNAME .
 coolestpod.com CNAME .
 *.coolestpod.com CNAME .
 coolhoodie.co CNAME .
@@ -6777,10 +6781,14 @@ corradocanecorsopups.com CNAME .
 *.corradocanecorsopups.com CNAME .
 corralpanelsale.com CNAME .
 *.corralpanelsale.com CNAME .
+correlateh.com CNAME .
+*.correlateh.com CNAME .
 correlatem.com CNAME .
 *.correlatem.com CNAME .
 correos-eu.com CNAME .
 *.correos-eu.com CNAME .
+correspondine.com CNAME .
+*.correspondine.com CNAME .
 corsinoguardians.com CNAME .
 *.corsinoguardians.com CNAME .
 cosebel.com CNAME .
@@ -9453,6 +9461,8 @@ escobarinc.com CNAME .
 *.escobarinc.com CNAME .
 escootersstores.com CNAME .
 *.escootersstores.com CNAME .
+escortevenly.com CNAME .
+*.escortevenly.com CNAME .
 escortsexdates.com CNAME .
 *.escortsexdates.com CNAME .
 esenlerescort.com CNAME .
@@ -10539,6 +10549,8 @@ flagpublic.com CNAME .
 *.flagpublic.com CNAME .
 flagyourhome.com CNAME .
 *.flagyourhome.com CNAME .
+flair-frost.co.uk CNAME .
+*.flair-frost.co.uk CNAME .
 flamboyantgr.com CNAME .
 *.flamboyantgr.com CNAME .
 flammefinder.com CNAME .
@@ -10547,6 +10559,8 @@ flarecord.com CNAME .
 *.flarecord.com CNAME .
 flashspeed-logistics.com CNAME .
 *.flashspeed-logistics.com CNAME .
+flavourg.com CNAME .
+*.flavourg.com CNAME .
 flawlessbelgianmalinois.com CNAME .
 *.flawlessbelgianmalinois.com CNAME .
 flbusinessdaily.com CNAME .
@@ -11795,6 +11809,10 @@ giveaways-sg.com CNAME .
 *.giveaways-sg.com CNAME .
 glaciercountrynews.com CNAME .
 *.glaciercountrynews.com CNAME .
+gladevelop.com CNAME .
+*.gladevelop.com CNAME .
+gladfelt.com CNAME .
+*.gladfelt.com CNAME .
 glamaxshop.com CNAME .
 *.glamaxshop.com CNAME .
 glambagz.co CNAME .
@@ -11815,6 +11833,8 @@ glam-ours.com CNAME .
 *.glam-ours.com CNAME .
 glanceherc.com CNAME .
 *.glanceherc.com CNAME .
+glaprestige.com CNAME .
+*.glaprestige.com CNAME .
 glarosbordercolliepups.com CNAME .
 *.glarosbordercolliepups.com CNAME .
 gleamorn.com CNAME .
@@ -11945,6 +11965,8 @@ globalptyltd.co.za CNAME .
 *.globalptyltd.co.za CNAME .
 globalpuppieshome.com CNAME .
 *.globalpuppieshome.com CNAME .
+globalrapidlogistics.com CNAME .
+*.globalrapidlogistics.com CNAME .
 globalrealdocuments.com CNAME .
 *.globalrealdocuments.com CNAME .
 globalrootsdeliveryandlog.com CNAME .
@@ -11963,6 +11985,8 @@ globalsscoy.com CNAME .
 *.globalsscoy.com CNAME .
 globaltouchcargo.com CNAME .
 *.globaltouchcargo.com CNAME .
+global-translogistics.com CNAME .
+*.global-translogistics.com CNAME .
 global-tranzlogistics.com CNAME .
 *.global-tranzlogistics.com CNAME .
 globaluklicence.com CNAME .
@@ -14205,6 +14229,8 @@ instintlink.net CNAME .
 *.instintlink.net CNAME .
 institutem.com CNAME .
 *.institutem.com CNAME .
+instrumentak.com CNAME .
+*.instrumentak.com CNAME .
 insuranks.com CNAME .
 *.insuranks.com CNAME .
 insurelively.com CNAME .
@@ -14213,6 +14239,8 @@ insurelively.net CNAME .
 *.insurelively.net CNAME .
 intactlect.com CNAME .
 *.intactlect.com CNAME .
+integratef.com CNAME .
+*.integratef.com CNAME .
 integratev.com CNAME .
 *.integratev.com CNAME .
 integratew.com CNAME .
@@ -16921,6 +16949,8 @@ meallwants.com CNAME .
 *.meallwants.com CNAME .
 meaningift.com CNAME .
 *.meaningift.com CNAME .
+meanintend.com CNAME .
+*.meanintend.com CNAME .
 meanor.top CNAME .
 *.meanor.top CNAME .
 meantimely.com CNAME .
@@ -16931,6 +16961,8 @@ meccamall.net CNAME .
 *.meccamall.net CNAME .
 mechanicg.com CNAME .
 *.mechanicg.com CNAME .
+mechanicsn.com CNAME .
+*.mechanicsn.com CNAME .
 medengages.com CNAME .
 *.medengages.com CNAME .
 mediafiire.com CNAME .
@@ -19365,6 +19397,8 @@ oncondtitat.com CNAME .
 *.oncondtitat.com CNAME .
 ondutyearth.com CNAME .
 *.ondutyearth.com CNAME .
+oneafteranoth.com CNAME .
+*.oneafteranoth.com CNAME .
 oneamour.online CNAME .
 *.oneamour.online CNAME .
 onebordercolliefamily.com CNAME .
@@ -22483,12 +22517,16 @@ quartdheureamericain.com CNAME .
 *.quartdheureamericain.com CNAME .
 quartetleaf.com CNAME .
 *.quartetleaf.com CNAME .
+quatalitive.com CNAME .
+*.quatalitive.com CNAME .
 quatinuetio.com CNAME .
 *.quatinuetio.com CNAME .
 quatrongroupcargo.com CNAME .
 *.quatrongroupcargo.com CNAME .
 quattranpanasonic.xyz CNAME .
 *.quattranpanasonic.xyz CNAME .
+quechasult.com CNAME .
+*.quechasult.com CNAME .
 queencashtraders.com CNAME .
 *.queencashtraders.com CNAME .
 queenscattery.com CNAME .
@@ -26783,6 +26821,8 @@ tadevc.com CNAME .
 *.tadevc.com CNAME .
 tadlafil.com CNAME .
 *.tadlafil.com CNAME .
+tagdecal.com CNAME .
+*.tagdecal.com CNAME .
 tageousadore.net CNAME .
 *.tageousadore.net CNAME .
 tagotee.com CNAME .
@@ -30265,6 +30305,8 @@ ysupportnumber.com CNAME .
 *.ysupportnumber.com CNAME .
 ytwon.com CNAME .
 *.ytwon.com CNAME .
+yuanj0811.com CNAME .
+*.yuanj0811.com CNAME .
 yubasuttertimes.com CNAME .
 *.yubasuttertimes.com CNAME .
 yubiemaltipoopupsfamily.com CNAME .

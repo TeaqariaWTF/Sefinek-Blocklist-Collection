@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012201 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -22901,6 +22901,8 @@ cloud.wrengostic.com CNAME .
 *.cloud.wrengostic.com CNAME .
 cloud99.top CNAME .
 *.cloud99.top CNAME .
+cloudadvantage.live CNAME .
+*.cloudadvantage.live CNAME .
 cloudbmail.org CNAME .
 *.cloudbmail.org CNAME .
 cloudbst.com CNAME .
@@ -29997,6 +29999,8 @@ doctxyle.tk CNAME .
 *.doctxyle.tk CNAME .
 docu2data.com CNAME .
 *.docu2data.com CNAME .
+documentimail.com CNAME .
+*.documentimail.com CNAME .
 documentlegalisation.net CNAME .
 *.documentlegalisation.net CNAME .
 documentsproducers.online CNAME .
@@ -92241,6 +92245,8 @@ tepas.my.id CNAME .
 *.tepas.my.id CNAME .
 ter-se3der.com CNAME .
 *.ter-se3der.com CNAME .
+ter54-gevision.store CNAME .
+*.ter54-gevision.store CNAME .
 terapgd.shop CNAME .
 *.terapgd.shop CNAME .
 terasd.com CNAME .

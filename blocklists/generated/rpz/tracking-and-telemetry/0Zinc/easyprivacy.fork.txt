@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012201 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -4115,6 +4115,8 @@ cm-exchange.toast.com CNAME .
 *.cm-exchange.toast.com CNAME .
 dadispapi.gmarket.co.kr CNAME .
 *.dadispapi.gmarket.co.kr CNAME .
+dco.coupang.com CNAME .
+*.dco.coupang.com CNAME .
 dtr-onsite-feed.datarize.ai CNAME .
 *.dtr-onsite-feed.datarize.ai CNAME .
 event.hackle.io CNAME .
