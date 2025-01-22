@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 04:23:06 (UTC)                      #
+# Last updated: 2025-01-22 06:21:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
+server=/1717.1000uc.com/
 server=/360down7.miiyun.cn/
 server=/6sz.ru/
 server=/99smoothfm.com/
@@ -18,7 +19,6 @@ server=/admin.aishangzhua.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
 server=/agapi.cqjjb.cn/
-server=/ai-kling.online/
 server=/aide-acheminement-info.com/
 server=/airhobi.com/
 server=/alien-training.com/
@@ -27,7 +27,6 @@ server=/amende-renouvellement.com/
 server=/amende-stationnement-suivis.com/
 server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
-server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
@@ -60,7 +59,6 @@ server=/budgetsphere.shop/
 server=/budgetvibe.shop/
 server=/buscascolegios.diit.cl/
 server=/buyloom.shop/
-server=/caringforyousupport.com.au/
 server=/catbaparadisehotel.com.vn/
 server=/cdaonline.com.ar/
 server=/cdn-connect.docusigner.info/
@@ -91,11 +89,9 @@ server=/dhnconstrucciones.com.ar/
 server=/dienstmyhermes.de/
 server=/digitalcrafters.cyou/
 server=/disk.accord1key.cn/
-server=/divvanews.com/
 server=/djhyzhicai.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
-server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/doge-electrum.org/
@@ -176,13 +172,13 @@ server=/javierlopez.eu/
 server=/jobcity.com/
 server=/jointings.org/
 server=/jpinvrkp.my/
-server=/jrqh-hk.com/
 server=/kangshart.shop/
 server=/karer.by/
 server=/karoonpc.com/
 server=/keyser-api.eu/
 server=/keysertools.cc/
 server=/knightsinshiningarmor.net/
+server=/kypeti.com/
 server=/lafilledemavie.com/
 server=/library.arihantmbainstitute.ac.in/
 server=/lieferdienste-deutsche.com/
@@ -195,7 +191,6 @@ server=/lnterrac-ca.rebateit.net/
 server=/loeghaiofiehfihf.to/
 server=/lol.cursinqfirewall.ru/
 server=/lostheaven.com.cn/
-server=/lsks.volamngayxua.net/
 server=/m.gutousoft.com/
 server=/maciejowice.dobrybip.pl/
 server=/mandarin.net.au/
@@ -318,7 +313,6 @@ server=/tracking-suivie.com/
 server=/trackpacking-ups.com/
 server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
-server=/treinamento.convenio.to.gov.br/
 server=/tricazo.com/
 server=/truecoders.cyou/
 server=/tualcaldia.com/
@@ -366,11 +360,13 @@ server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.webaap2.site/
 server=/www.xn--on3b15m2lco2u.com/
+server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
 server=/ximonite.com/
+server=/xingpai.weilay.com.cn/
 server=/xn--ameli--niveau-sms-tob.com/
 server=/xn--espace-vitale--jours-sms-87b.com/
 server=/xn--espace-vitale--niveau-sms-zbc.com/
@@ -383,4 +379,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 377
+# Number of entries: 373

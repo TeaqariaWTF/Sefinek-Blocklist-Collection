@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 04:23:06 (UTC)                      #
+# Last updated: 2025-01-22 06:21:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 123.ywxww.net
+127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 6sz.ru
 127.0.0.1 99smoothfm.com
@@ -18,7 +19,6 @@
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
 127.0.0.1 agapi.cqjjb.cn
-127.0.0.1 ai-kling.online
 127.0.0.1 aide-acheminement-info.com
 127.0.0.1 airhobi.com
 127.0.0.1 alien-training.com
@@ -27,7 +27,6 @@
 127.0.0.1 amende-stationnement-suivis.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
-127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -60,7 +59,6 @@
 127.0.0.1 budgetvibe.shop
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 buyloom.shop
-127.0.0.1 caringforyousupport.com.au
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 cdn-connect.docusigner.info
@@ -91,11 +89,9 @@
 127.0.0.1 dienstmyhermes.de
 127.0.0.1 digitalcrafters.cyou
 127.0.0.1 disk.accord1key.cn
-127.0.0.1 divvanews.com
 127.0.0.1 djhyzhicai.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
-127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
 127.0.0.1 doge-electrum.org
@@ -176,13 +172,13 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jpinvrkp.my
-127.0.0.1 jrqh-hk.com
 127.0.0.1 kangshart.shop
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
 127.0.0.1 knightsinshiningarmor.net
+127.0.0.1 kypeti.com
 127.0.0.1 lafilledemavie.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
@@ -195,7 +191,6 @@
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lol.cursinqfirewall.ru
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 mandarin.net.au
@@ -318,7 +313,6 @@
 127.0.0.1 trackpacking-ups.com
 127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 travelwithmanta.co.za
-127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 tricazo.com
 127.0.0.1 truecoders.cyou
 127.0.0.1 tualcaldia.com
@@ -366,11 +360,13 @@
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.webaap2.site
 127.0.0.1 www.xn--on3b15m2lco2u.com
+127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
+127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--ameli--niveau-sms-tob.com
 127.0.0.1 xn--espace-vitale--jours-sms-87b.com
 127.0.0.1 xn--espace-vitale--niveau-sms-zbc.com
@@ -383,4 +379,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 377
+# Number of entries: 373

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012201 43200 3600 259200 300
   NS  localhost.
 1000fapvids.online CNAME .
 *.1000fapvids.online CNAME .
@@ -45,6 +45,8 @@ store.3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net CNAME .
 *.9vzn29.98kk89.com CNAME .
 aadirone.cc CNAME .
 *.aadirone.cc CNAME .
+store.aadirone.cc CNAME .
+*.store.aadirone.cc CNAME .
 abncbp.com CNAME .
 *.abncbp.com CNAME .
 account-cfe.mx CNAME .
@@ -177,10 +179,6 @@ an1.is CNAME .
 *.an1.is CNAME .
 andamente.pt CNAME .
 *.andamente.pt CNAME .
-animeshoppers.com CNAME .
-*.animeshoppers.com CNAME .
-store.animeshoppers.com CNAME .
-*.store.animeshoppers.com CNAME .
 anydebrid.com CNAME .
 *.anydebrid.com CNAME .
 app.identity-nexo.xborders.io CNAME .
@@ -843,6 +841,8 @@ expressmovers.com CNAME .
 *.expressmovers.com CNAME .
 ezdrivema.com-customerhnz.top CNAME .
 *.ezdrivema.com-customerhnz.top CNAME .
+f4jozsdvxv210624xg.xyz CNAME .
+*.f4jozsdvxv210624xg.xyz CNAME .
 facebook-google-15oqyxwtkremqyujsm.vercel.app CNAME .
 *.facebook-google-15oqyxwtkremqyujsm.vercel.app CNAME .
 store.facebook-google-15oqyxwtkremqyujsm.vercel.app CNAME .
@@ -921,6 +921,8 @@ store.fazpowerdenet.tumblr.com CNAME .
 *.store.fazpowerdenet.tumblr.com CNAME .
 fdrc-gov.org CNAME .
 *.fdrc-gov.org CNAME .
+felara.com.do CNAME .
+*.felara.com.do CNAME .
 femalecozy.com CNAME .
 *.femalecozy.com CNAME .
 fgtgr.buzz CNAME .
@@ -979,6 +981,8 @@ store.frest.info CNAME .
 *.store.frest.info CNAME .
 friday89.com CNAME .
 *.friday89.com CNAME .
+fridaylocalmanager.duckdns.org CNAME .
+*.fridaylocalmanager.duckdns.org CNAME .
 frostgoddess.com CNAME .
 *.frostgoddess.com CNAME .
 store.frostgoddess.com CNAME .
@@ -1009,6 +1013,8 @@ gearanime.com CNAME .
 *.gearanime.com CNAME .
 gearhomies.com CNAME .
 *.gearhomies.com CNAME .
+store.gearhomies.com CNAME .
+*.store.gearhomies.com CNAME .
 gearhuman.com CNAME .
 *.gearhuman.com CNAME .
 gearstastic.com CNAME .
@@ -1059,6 +1065,10 @@ store.gload.info CNAME .
 *.store.gload.info CNAME .
 globalvisacorp.com CNAME .
 *.globalvisacorp.com CNAME .
+glousism.co.in CNAME .
+*.glousism.co.in CNAME .
+store.glousism.co.in CNAME .
+*.store.glousism.co.in CNAME .
 gogiworld.com CNAME .
 *.gogiworld.com CNAME .
 goglle.com CNAME .
@@ -1565,8 +1575,6 @@ store.microsoft-notifcation.com CNAME .
 *.store.microsoft-notifcation.com CNAME .
 midnightsociety-x.com CNAME .
 *.midnightsociety-x.com CNAME .
-mila-vica.de CNAME .
-*.mila-vica.de CNAME .
 miles.plumenetwork.xyz CNAME .
 *.miles.plumenetwork.xyz CNAME .
 milgenial.uy CNAME .
@@ -1741,6 +1749,8 @@ navi39.ru CNAME .
 *.navi39.ru CNAME .
 navi4.com CNAME .
 *.navi4.com CNAME .
+store.navi4.com CNAME .
+*.store.navi4.com CNAME .
 navi45.ru CNAME .
 *.navi45.ru CNAME .
 navi5.com CNAME .
@@ -2129,10 +2139,14 @@ store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com CNAME .
 *.store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com CNAME .
 punyauang.xyz CNAME .
 *.punyauang.xyz CNAME .
+qbnwf061124g.cfd CNAME .
+*.qbnwf061124g.cfd CNAME .
 queenscattery.com CNAME .
 *.queenscattery.com CNAME .
 quitasueno.com CNAME .
 *.quitasueno.com CNAME .
+store.quitasueno.com CNAME .
+*.store.quitasueno.com CNAME .
 quotex.com.in CNAME .
 *.quotex.com.in CNAME .
 ra-bp0000.com CNAME .
@@ -2321,6 +2335,8 @@ snaklenest.com CNAME .
 *.snaklenest.com CNAME .
 sodipi.com CNAME .
 *.sodipi.com CNAME .
+softgetpc.com CNAME .
+*.softgetpc.com CNAME .
 software19797.blogspot.com CNAME .
 *.software19797.blogspot.com CNAME .
 store.software19797.blogspot.com CNAME .
@@ -2393,8 +2409,6 @@ store.startuplatte.com CNAME .
 *.store.startuplatte.com CNAME .
 steamgateways.com CNAME .
 *.steamgateways.com CNAME .
-steammcommunuty.ru CNAME .
-*.steammcommunuty.ru CNAME .
 steamunlock.com CNAME .
 *.steamunlock.com CNAME .
 stearncommunjty.net CNAME .
@@ -2589,6 +2603,8 @@ toko999.net CNAME .
 *.toko999.net CNAME .
 tomadamsenergy.com CNAME .
 *.tomadamsenergy.com CNAME .
+too-gle.com CNAME .
+*.too-gle.com CNAME .
 touristvisaonline.com CNAME .
 *.touristvisaonline.com CNAME .
 towerinstallation5g.com CNAME .
@@ -2699,6 +2715,8 @@ ussportabout.com CNAME .
 *.ussportabout.com CNAME .
 ussportpioneer.com CNAME .
 *.ussportpioneer.com CNAME .
+v5chb4tty0611249p.cfd CNAME .
+*.v5chb4tty0611249p.cfd CNAME .
 valeofoodsgroup.com CNAME .
 *.valeofoodsgroup.com CNAME .
 vegamartz.com CNAME .
@@ -2877,6 +2895,10 @@ zaz4o.securesolidlink.com CNAME .
 *.zaz4o.securesolidlink.com CNAME .
 store.zaz4o.securesolidlink.com CNAME .
 *.store.zaz4o.securesolidlink.com CNAME .
+zeqxamvh.glousism.co.in CNAME .
+*.zeqxamvh.glousism.co.in CNAME .
+store.zeqxamvh.glousism.co.in CNAME .
+*.store.zeqxamvh.glousism.co.in CNAME .
 zerowasteinitiative.com CNAME .
 *.zerowasteinitiative.com CNAME .
 store.zerowasteinitiative.com CNAME .

@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+1717.1000uc.com CNAME .
+*.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 6sz.ru CNAME .
@@ -25,8 +27,6 @@ aeufoeahfouefhg.top CNAME .
 *.aeufoeahfouefhg.top CNAME .
 agapi.cqjjb.cn CNAME .
 *.agapi.cqjjb.cn CNAME .
-ai-kling.online CNAME .
-*.ai-kling.online CNAME .
 aide-acheminement-info.com CNAME .
 *.aide-acheminement-info.com CNAME .
 airhobi.com CNAME .
@@ -43,8 +43,6 @@ aosafrica.co.za CNAME .
 *.aosafrica.co.za CNAME .
 api.accueil-coinbase.com CNAME .
 *.api.accueil-coinbase.com CNAME .
-api.aide-coinbase.com CNAME .
-*.api.aide-coinbase.com CNAME .
 api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
@@ -109,8 +107,6 @@ buscascolegios.diit.cl CNAME .
 *.buscascolegios.diit.cl CNAME .
 buyloom.shop CNAME .
 *.buyloom.shop CNAME .
-caringforyousupport.com.au CNAME .
-*.caringforyousupport.com.au CNAME .
 catbaparadisehotel.com.vn CNAME .
 *.catbaparadisehotel.com.vn CNAME .
 cdaonline.com.ar CNAME .
@@ -171,16 +167,12 @@ digitalcrafters.cyou CNAME .
 *.digitalcrafters.cyou CNAME .
 disk.accord1key.cn CNAME .
 *.disk.accord1key.cn CNAME .
-divvanews.com CNAME .
-*.divvanews.com CNAME .
 djhyzhicai.com CNAME .
 *.djhyzhicai.com CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
 dl.natgo.cn CNAME .
 *.dl.natgo.cn CNAME .
-dl.packetstormsecurity.net CNAME .
-*.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
 do-dear.com CNAME .
@@ -341,8 +333,6 @@ jointings.org CNAME .
 *.jointings.org CNAME .
 jpinvrkp.my CNAME .
 *.jpinvrkp.my CNAME .
-jrqh-hk.com CNAME .
-*.jrqh-hk.com CNAME .
 kangshart.shop CNAME .
 *.kangshart.shop CNAME .
 karer.by CNAME .
@@ -355,6 +345,8 @@ keysertools.cc CNAME .
 *.keysertools.cc CNAME .
 knightsinshiningarmor.net CNAME .
 *.knightsinshiningarmor.net CNAME .
+kypeti.com CNAME .
+*.kypeti.com CNAME .
 lafilledemavie.com CNAME .
 *.lafilledemavie.com CNAME .
 library.arihantmbainstitute.ac.in CNAME .
@@ -379,8 +371,6 @@ lol.cursinqfirewall.ru CNAME .
 *.lol.cursinqfirewall.ru CNAME .
 lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
-lsks.volamngayxua.net CNAME .
-*.lsks.volamngayxua.net CNAME .
 m.gutousoft.com CNAME .
 *.m.gutousoft.com CNAME .
 maciejowice.dobrybip.pl CNAME .
@@ -625,8 +615,6 @@ traefik-dashboard.val.io.vn CNAME .
 *.traefik-dashboard.val.io.vn CNAME .
 travelwithmanta.co.za CNAME .
 *.travelwithmanta.co.za CNAME .
-treinamento.convenio.to.gov.br CNAME .
-*.treinamento.convenio.to.gov.br CNAME .
 tricazo.com CNAME .
 *.tricazo.com CNAME .
 truecoders.cyou CNAME .
@@ -713,6 +701,8 @@ webaap2.site CNAME .
 *.webaap2.site CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
+ysbaojia.com CNAME .
+*.ysbaojia.com CNAME .
 zhikey.com CNAME .
 *.zhikey.com CNAME .
 wynecare.com CNAME .
@@ -723,6 +713,8 @@ xiangshunjy.com CNAME .
 *.xiangshunjy.com CNAME .
 ximonite.com CNAME .
 *.ximonite.com CNAME .
+xingpai.weilay.com.cn CNAME .
+*.xingpai.weilay.com.cn CNAME .
 xn--ameli--niveau-sms-tob.com CNAME .
 *.xn--ameli--niveau-sms-tob.com CNAME .
 xn--espace-vitale--jours-sms-87b.com CNAME .
