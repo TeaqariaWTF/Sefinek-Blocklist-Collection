@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 08:23:06 (UTC)                      #
+# Last updated: 2025-01-22 10:18:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,7 +15,6 @@ server=/abissnet.net/
 server=/aboverlangerung.com/
 server=/acheminement-suivis.fr/
 server=/adf6.adf6.com/
-server=/admin.aishangzhua.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
 server=/agapi.cqjjb.cn/
@@ -28,6 +27,7 @@ server=/amende-renouvellement.com/
 server=/amende-stationnement-suivis.com/
 server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
+server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
 server=/api.information-binance.com/
@@ -45,7 +45,6 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
-server=/avastpx.com/
 server=/azgint.com/
 server=/banthis.su/
 server=/bargaincove.shop/
@@ -75,9 +74,9 @@ server=/conn.masjesu.zip/
 server=/consulter-mon-amende.com/
 server=/contravinf.com/
 server=/corepatchcraft.com/
-server=/credovsnra.com/
 server=/crestereamuschilor.ro/
 server=/cryptopotato.net/
+server=/crystalpvp.ru/
 server=/csg-app.com/
 server=/dangtienluc.com/
 server=/data.yhydl.com/
@@ -258,6 +257,7 @@ server=/rddissisifigifidi.net/
 server=/rebateit.net/
 server=/reifenquick.de/
 server=/renouvellement-espace-vitale-ameli.com/
+server=/resourceedge.org/
 server=/reusable-flex.com/
 server=/ronnin-v2.com/
 server=/roofmanagementlnc.com/
@@ -316,7 +316,7 @@ server=/tracking-packages.com/
 server=/tracking-suivie.com/
 server=/trackpacking-ups.com/
 server=/traefik-dashboard.val.io.vn/
-server=/travelwithmanta.co.za/
+server=/treinamento.convenio.to.gov.br/
 server=/tricazo.com/
 server=/truecoders.cyou/
 server=/tualcaldia.com/
@@ -342,7 +342,6 @@ server=/wceecsit.international-conference.news/
 server=/webmail.tracking-packages.com/
 server=/websites-security.com/
 server=/win-network-checker.cc/
-server=/www.aqianniao.com/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
@@ -352,6 +351,7 @@ server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
+server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
@@ -379,7 +379,5 @@ server=/xn--yh4bx88a.com/
 server=/yaocanting.com/
 server=/youfirst.hradvanceportal.com/
 server=/ywxww.net/
-server=/yzkzixun.com/
 server=/z.shavsl.com/
-server=/znrq.zifwxq.cn/
-# Number of entries: 376
+# Number of entries: 374

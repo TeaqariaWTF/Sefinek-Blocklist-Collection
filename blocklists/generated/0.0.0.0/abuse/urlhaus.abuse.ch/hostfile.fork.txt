@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 08:23:06 (UTC)                      #
+# Last updated: 2025-01-22 10:18:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,7 +15,6 @@
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 agapi.cqjjb.cn
@@ -28,6 +27,7 @@
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
@@ -45,7 +45,6 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bargaincove.shop
@@ -75,9 +74,9 @@
 0.0.0.0 consulter-mon-amende.com
 0.0.0.0 contravinf.com
 0.0.0.0 corepatchcraft.com
-0.0.0.0 credovsnra.com
 0.0.0.0 crestereamuschilor.ro
 0.0.0.0 cryptopotato.net
+0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
@@ -258,6 +257,7 @@
 0.0.0.0 rebateit.net
 0.0.0.0 reifenquick.de
 0.0.0.0 renouvellement-espace-vitale-ameli.com
+0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 roofmanagementlnc.com
@@ -316,7 +316,7 @@
 0.0.0.0 tracking-suivie.com
 0.0.0.0 trackpacking-ups.com
 0.0.0.0 traefik-dashboard.val.io.vn
-0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tricazo.com
 0.0.0.0 truecoders.cyou
 0.0.0.0 tualcaldia.com
@@ -342,7 +342,6 @@
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -352,6 +351,7 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
@@ -379,7 +379,5 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 youfirst.hradvanceportal.com
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
-0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 376
+# Number of entries: 374
