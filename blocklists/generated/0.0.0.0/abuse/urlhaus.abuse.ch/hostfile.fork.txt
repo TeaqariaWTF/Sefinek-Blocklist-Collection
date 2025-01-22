@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 12:35:11 (UTC)                      #
+# Last updated: 2025-01-22 14:17:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
 0.0.0.0 99smoothfm.com
@@ -21,7 +20,6 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 aide-acheminement-info.com
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 amelcarte.com
 0.0.0.0 amende-renouvellement.com
@@ -33,7 +31,6 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
-0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 armanayegh.com
 0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
@@ -44,7 +41,6 @@
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
@@ -70,7 +66,6 @@
 0.0.0.0 chmod0777kk.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 codeguardians.cyou
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
@@ -87,7 +82,6 @@
 0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
-0.0.0.0 deepvibes.shop
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dienstmyhermes.de
@@ -95,6 +89,7 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dl.natgo.cn
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 do-dear.com
 0.0.0.0 doge-electrum.org
 0.0.0.0 dow.andylab.cn
@@ -162,6 +157,7 @@
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
+0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
 0.0.0.0 information-binance.com
 0.0.0.0 informations-colissimo.com
@@ -173,6 +169,7 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jpinvrkp.my
+0.0.0.0 jrqh-hk.com
 0.0.0.0 kangshart.shop
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
@@ -191,6 +188,7 @@
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lol.cursinqfirewall.ru
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 mandarin.net.au
@@ -231,7 +229,6 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
@@ -290,7 +287,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
@@ -330,7 +326,6 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verif-anti-bot.com
@@ -338,10 +333,11 @@
 0.0.0.0 wceecsit.international-conference.news
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
+0.0.0.0 weidbookid.world
 0.0.0.0 win-network-checker.cc
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
-0.0.0.0 www.chemsky.tn
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
@@ -362,7 +358,6 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -379,4 +374,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 373
+# Number of entries: 368
