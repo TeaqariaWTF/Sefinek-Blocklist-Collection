@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 16:22:06 (UTC)                      #
+# Last updated: 2025-01-22 18:19:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -28,10 +28,11 @@
 0.0.0.0 amende-stationnement-suivis.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
-0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
+0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 armanayegh.com
 0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
@@ -45,6 +46,7 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bargaincove.shop
@@ -89,14 +91,10 @@
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 digitalcrafters.cyou
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
-0.0.0.0 dl.1003b.56a.com
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
-0.0.0.0 do-dear.com
 0.0.0.0 doge-electrum.org
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
@@ -116,7 +114,6 @@
 0.0.0.0 ebuymore.shop
 0.0.0.0 ecartdirect.shop
 0.0.0.0 echoicedeals.shop
-0.0.0.0 ecolumy.com
 0.0.0.0 edirect.shop
 0.0.0.0 electrum-usdt.com
 0.0.0.0 electrum-xrp.net
@@ -170,6 +167,7 @@
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -212,6 +210,7 @@
 0.0.0.0 minu-pakk.com
 0.0.0.0 minupakk.com
 0.0.0.0 minupakk.net
+0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
 0.0.0.0 mjsqurej.com
@@ -236,24 +235,22 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 passagetoeastafrica.com
 0.0.0.0 pb.agnt.ru
-0.0.0.0 phimiclzwe.top
 0.0.0.0 pid.fly160.com
-0.0.0.0 pilzmacher.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
-0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quickauto24.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raw.brewmacos.com
-0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -281,7 +278,6 @@
 0.0.0.0 sinupakk.net
 0.0.0.0 sirault.be
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solve.hhxe.org
 0.0.0.0 solve.pvsu.org
 0.0.0.0 solve.xtxy.org
@@ -297,6 +293,7 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 supportameli.top
 0.0.0.0 symbiatec-fi.com
+0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
@@ -332,10 +329,8 @@
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
-0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
@@ -344,8 +339,8 @@
 0.0.0.0 wceecsit.international-conference.news
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
-0.0.0.0 weidbookid.world
 0.0.0.0 win-network-checker.cc
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -361,15 +356,16 @@
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sodiumlaurethsulfatedesyroyer.com
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
+0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
-0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
+0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--ameli--niveau-sms-tob.com
 0.0.0.0 xn--espace-vitale--jours-sms-87b.com
 0.0.0.0 xn--espace-vitale--niveau-sms-zbc.com
@@ -382,4 +378,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 376
+# Number of entries: 372
