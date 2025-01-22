@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-22 18:19:23 (UTC)                      #
+# Last updated: 2025-01-22 20:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
-0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
 0.0.0.0 99smoothfm.com
 0.0.0.0 abissnet.net
@@ -29,6 +28,7 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
@@ -36,7 +36,6 @@
 0.0.0.0 armanayegh.com
 0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
-0.0.0.0 aulist.com
 0.0.0.0 autoparts-online.us
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
@@ -52,7 +51,6 @@
 0.0.0.0 bargaincove.shop
 0.0.0.0 bethelkwabenya.org
 0.0.0.0 bigpick.shop
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 brazzyss.xyz
 0.0.0.0 budgetmart.shop
 0.0.0.0 budgetshop.shop
@@ -91,7 +89,9 @@
 0.0.0.0 dienstmyhermes.de
 0.0.0.0 digitalcrafters.cyou
 0.0.0.0 disk.accord1key.cn
+0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -114,6 +114,7 @@
 0.0.0.0 ebuymore.shop
 0.0.0.0 ecartdirect.shop
 0.0.0.0 echoicedeals.shop
+0.0.0.0 ecolumy.com
 0.0.0.0 edirect.shop
 0.0.0.0 electrum-usdt.com
 0.0.0.0 electrum-xrp.net
@@ -140,7 +141,6 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
-0.0.0.0 furryporn.top
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gemini-desktop.com
@@ -159,7 +159,7 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hradvanceportal.com
 0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
+0.0.0.0 http.vseuasthfxzzqxev.xyz
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
@@ -183,6 +183,7 @@
 0.0.0.0 knightsinshiningarmor.net
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
@@ -236,7 +237,6 @@
 0.0.0.0 organisme-renouvellement.com
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 passagetoeastafrica.com
@@ -244,13 +244,14 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
+0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quickauto24.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raw.brewmacos.com
+0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 rebateit.net
@@ -268,7 +269,6 @@
 0.0.0.0 schytcdagl.com
 0.0.0.0 securenet.cyou
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sergiolamoski.com
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
@@ -309,6 +309,7 @@
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
+0.0.0.0 too-gle.com
 0.0.0.0 towerofbabble.net
 0.0.0.0 tracking-packages.com
 0.0.0.0 tracking-suivie.com
@@ -329,13 +330,14 @@
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
+0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verif-anti-bot.com
-0.0.0.0 view-reserve.com
 0.0.0.0 wceecsit.international-conference.news
 0.0.0.0 webmail.tracking-packages.com
 0.0.0.0 websites-security.com
@@ -356,11 +358,11 @@
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sodiumlaurethsulfatedesyroyer.com
 0.0.0.0 www.sporcketngearforu.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-info-colis.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
+0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
@@ -378,4 +380,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 372
+# Number of entries: 374
