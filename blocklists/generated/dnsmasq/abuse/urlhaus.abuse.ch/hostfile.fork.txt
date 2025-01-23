@@ -1,16 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-23 01:34:45 (UTC)                      #
+# Last updated: 2025-01-23 02:44:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
-server=/1717.1000uc.com/
 server=/360down7.miiyun.cn/
 server=/6sz.ru/
-server=/99smoothfm.com/
 server=/abissnet.net/
 server=/aboverlangerung.com/
 server=/acheminement-suivis.fr/
@@ -35,8 +33,6 @@ server=/api.hostize.com/
 server=/armanayegh.com/
 server=/arting.ee/
 server=/assuresform.com/
-server=/aulist.com/
-server=/autoparts-online.us/
 server=/avastcxp.com/
 server=/avastcxt.com/
 server=/avastexodus.com/
@@ -162,7 +158,6 @@ server=/huyanhnongdo.io.vn/
 server=/hwebprint.com/
 server=/imtoken8.cc/
 server=/info-paiement-ligne.com/
-server=/information-binance.com/
 server=/informations-colissimo.com/
 server=/informationversand.com/
 server=/ini.sh-pp.com/
@@ -183,7 +178,6 @@ server=/lafilledemavie.com/
 server=/library.arihantmbainstitute.ac.in/
 server=/lieferdienste-deutsche.com/
 server=/lindenappliances.co.za/
-server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/liuyi.neectar.info/
 server=/live-sendungsverfolgung.com/
@@ -245,11 +239,10 @@ server=/pns.org.pk/
 server=/polytechnix.com/
 server=/protechasia.com/
 server=/qed245t3kreiscryoz-gueterslohewr33w.de/
-server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
+server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
 server=/quickauto24.com/
-server=/rappel-coinbase.com/
 server=/rb3.ftnt.io/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
@@ -289,17 +282,18 @@ server=/sufikhat.com/
 server=/support-abonnement.com/
 server=/support-colis-info.com/
 server=/supportameli.top/
-server=/symbiatec-fi.com/
 server=/symbietic.com/
 server=/symdlotic.com/
 server=/tao025.com/
 server=/tao221.com/
+server=/tao816.com/
 server=/tao977.com/
 server=/taodianla.com/
 server=/techstu.org/
 server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/telegramcn.co/
+server=/temirtau-adm.ru/
 server=/tengfeidn.com/
 server=/tianyinsoft.top/
 server=/tiaoshibao.com/
@@ -321,6 +315,7 @@ server=/u1.servicelandingkaraoke.shop/
 server=/up1035rwa5zk.prodemadoutorado.org/
 server=/upadaria.org/
 server=/update.cg100iii.com/
+server=/update.vlnguba.com/
 server=/updateinfo-portal.com/
 server=/ups-zolldienst.com/
 server=/utorrent-backup-server.top/
@@ -358,7 +353,6 @@ server=/www.support-info-colis.com/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
-server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
 server=/wz.3911.com/
@@ -376,4 +370,4 @@ server=/youfirst.hradvanceportal.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 370
+# Number of entries: 364

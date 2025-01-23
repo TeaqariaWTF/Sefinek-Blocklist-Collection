@@ -1,16 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-23 01:34:45 (UTC)                      #
+# Last updated: 2025-01-23 02:44:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6sz.ru
-0.0.0.0 99smoothfm.com
 0.0.0.0 abissnet.net
 0.0.0.0 aboverlangerung.com
 0.0.0.0 acheminement-suivis.fr
@@ -35,8 +33,6 @@
 0.0.0.0 armanayegh.com
 0.0.0.0 arting.ee
 0.0.0.0 assuresform.com
-0.0.0.0 aulist.com
-0.0.0.0 autoparts-online.us
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -162,7 +158,6 @@
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-paiement-ligne.com
-0.0.0.0 information-binance.com
 0.0.0.0 informations-colissimo.com
 0.0.0.0 informationversand.com
 0.0.0.0 ini.sh-pp.com
@@ -183,7 +178,6 @@
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lieferdienste-deutsche.com
 0.0.0.0 lindenappliances.co.za
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 liuyi.neectar.info
 0.0.0.0 live-sendungsverfolgung.com
@@ -245,11 +239,10 @@
 0.0.0.0 polytechnix.com
 0.0.0.0 protechasia.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quickauto24.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -289,17 +282,18 @@
 0.0.0.0 support-abonnement.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 supportameli.top
-0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
+0.0.0.0 tao816.com
 0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
 0.0.0.0 techstu.org
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
@@ -321,6 +315,7 @@
 0.0.0.0 up1035rwa5zk.prodemadoutorado.org
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 ups-zolldienst.com
 0.0.0.0 utorrent-backup-server.top
@@ -358,7 +353,6 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
-0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
@@ -376,4 +370,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 370
+# Number of entries: 364
