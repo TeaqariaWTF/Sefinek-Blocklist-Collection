@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012201 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012301 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -1427,6 +1427,8 @@ $TTL 300
 *.1yci.com CNAME .
 1yeah.net CNAME .
 *.1yeah.net CNAME .
+2-construction.store CNAME .
+*.2-construction.store CNAME .
 2.andshopin.xyz CNAME .
 *.2.andshopin.xyz CNAME .
 2.sexymail.ooo CNAME .
@@ -30417,6 +30419,8 @@ dostavka-72.ru CNAME .
 *.dostavka-72.ru CNAME .
 dostavka-cvetov-spb.ru CNAME .
 *.dostavka-cvetov-spb.ru CNAME .
+dostupno-vsem.shop CNAME .
+*.dostupno-vsem.shop CNAME .
 dot-coin.com CNAME .
 *.dot-coin.com CNAME .
 dot-mail.top CNAME .
@@ -51575,6 +51579,8 @@ jerseycityquote.com CNAME .
 *.jerseycityquote.com CNAME .
 jerseykui.com CNAME .
 *.jerseykui.com CNAME .
+jerseynflshop.com CNAME .
+*.jerseynflshop.com CNAME .
 jerseysv.com CNAME .
 *.jerseysv.com CNAME .
 jersto.com CNAME .
@@ -52977,6 +52983,8 @@ kajene.dev CNAME .
 *.kajene.dev CNAME .
 kajsdtjksr94922.ga CNAME .
 *.kajsdtjksr94922.ga CNAME .
+kak-kypit-v-ukraine.online CNAME .
+*.kak-kypit-v-ukraine.online CNAME .
 kakaofrucht.de CNAME .
 *.kakaofrucht.de CNAME .
 kakekbet.com CNAME .
@@ -93333,6 +93341,8 @@ think.wrengostic.com CNAME .
 *.think.wrengostic.com CNAME .
 thinkbiz.pro CNAME .
 *.thinkbiz.pro CNAME .
+thinkbusiness.cloudadvantage.live CNAME .
+*.thinkbusiness.cloudadvantage.live CNAME .
 thinkimpact.com CNAME .
 *.thinkimpact.com CNAME .
 thinkmerkdo.tk CNAME .
@@ -94049,6 +94059,8 @@ tmpmail.net CNAME .
 *.tmpmail.net CNAME .
 tmpmail.org CNAME .
 *.tmpmail.org CNAME .
+tmpnator.live CNAME .
+*.tmpnator.live CNAME .
 tmppg.tk CNAME .
 *.tmppg.tk CNAME .
 tmqb.com CNAME .
