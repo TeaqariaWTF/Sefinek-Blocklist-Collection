@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 23 Jan 2025, 21:23 UTC+01:00
-# Version: 2025.1.23.3
+# Last modified: Thu, 23 Jan 2025, 21:47 UTC+01:00
+# Version: 2025.1.23.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6912,6 +6912,7 @@
 127.0.0.1 ashstgelias.com
 127.0.0.1 ashutoshfinkpo.com
 127.0.0.1 ashvindx.com
+127.0.0.1 ashy-mushroom-0e9a05910.4.azurestaticapps.net
 127.0.0.1 ashyhope.co.zw
 127.0.0.1 asia-explorer.com
 127.0.0.1 asiabestbuy.com
@@ -8106,6 +8107,7 @@
 127.0.0.1 bitappesoteric.info
 127.0.0.1 bitappidiosyncratic.info
 127.0.0.1 bitappinscrutable.info
+127.0.0.1 bitappoutlet.com
 127.0.0.1 bitappshop.com
 127.0.0.1 bitappstore.com
 127.0.0.1 bitapptrade.com
@@ -24011,6 +24013,7 @@
 127.0.0.1 ogladaj.eu
 127.0.0.1 ogladamywypadek.rest
 127.0.0.1 oglaszamynowinki.pics
+127.0.0.1 ogloszenia-ukrainek.pl
 127.0.0.1 ogloszeniepilne.rest
 127.0.0.1 ogoichulub.com
 127.0.0.1 ogromnyproblem.rest
@@ -28182,7 +28185,6 @@
 127.0.0.1 postalmy.com
 127.0.0.1 postapk.shop
 127.0.0.1 postattm.top
-127.0.0.1 postcan-status.com
 127.0.0.1 postea-pl.help
 127.0.0.1 postecadredelivery.com
 127.0.0.1 postentracking.site
@@ -28267,6 +28269,7 @@
 127.0.0.1 poznaj3miasto.pl
 127.0.0.1 poznaj-singielki.pl
 127.0.0.1 poznajmy-sie.com
+127.0.0.1 poznajmysie.pl
 127.0.0.1 poznajpolke.pl
 127.0.0.1 poznangazeta24.eu
 127.0.0.1 pozosdlagodne.web.app
@@ -28975,7 +28978,6 @@
 127.0.0.1 qb.ytgs.lat
 127.0.0.1 qc.iqyd.skin
 127.0.0.1 qcjod51vy.top
-127.0.0.1 qd3khd.skin
 127.0.0.1 qd.heez.lat
 127.0.0.1 qd.vbax.top
 127.0.0.1 qebegey9.pro
@@ -30901,7 +30903,6 @@
 127.0.0.1 scrottad.gormandising.store
 127.0.0.1 scrumable.com
 127.0.0.1 scrumptiousmoments.com
-127.0.0.1 scsmyy.net
 127.0.0.1 scubaproeu.shop
 127.0.0.1 sculerom.com
 127.0.0.1 sculptureco.com.au
@@ -32313,6 +32314,7 @@
 127.0.0.1 spotcapital.site
 127.0.0.1 spotify-support-help.cfolks.pl
 127.0.0.1 spotipremium-de.help
+127.0.0.1 spotkaniamilosne.pl
 127.0.0.1 spotkaniednia.pics
 127.0.0.1 spotsrecovery.shop
 127.0.0.1 spotty-rose-crab.glitch.me
@@ -41226,6 +41228,7 @@
 127.0.0.1 www.ashstgelias.com
 127.0.0.1 www.ashutoshfinkpo.com
 127.0.0.1 www.ashvindx.com
+127.0.0.1 www.ashy-mushroom-0e9a05910.4.azurestaticapps.net
 127.0.0.1 www.ashyhope.co.zw
 127.0.0.1 www.asia-explorer.com
 127.0.0.1 www.asiabestbuy.com
@@ -42420,6 +42423,7 @@
 127.0.0.1 www.bitappesoteric.info
 127.0.0.1 www.bitappidiosyncratic.info
 127.0.0.1 www.bitappinscrutable.info
+127.0.0.1 www.bitappoutlet.com
 127.0.0.1 www.bitappshop.com
 127.0.0.1 www.bitappstore.com
 127.0.0.1 www.bitapptrade.com
@@ -58325,6 +58329,7 @@
 127.0.0.1 www.ogladaj.eu
 127.0.0.1 www.ogladamywypadek.rest
 127.0.0.1 www.oglaszamynowinki.pics
+127.0.0.1 www.ogloszenia-ukrainek.pl
 127.0.0.1 www.ogloszeniepilne.rest
 127.0.0.1 www.ogoichulub.com
 127.0.0.1 www.ogromnyproblem.rest
@@ -62443,7 +62448,6 @@
 127.0.0.1 www.postalmy.com
 127.0.0.1 www.postapk.shop
 127.0.0.1 www.postattm.top
-127.0.0.1 www.postcan-status.com
 127.0.0.1 www.postea-pl.help
 127.0.0.1 www.postecadredelivery.com
 127.0.0.1 www.postentracking.site
@@ -62528,6 +62532,7 @@
 127.0.0.1 www.poznaj3miasto.pl
 127.0.0.1 www.poznaj-singielki.pl
 127.0.0.1 www.poznajmy-sie.com
+127.0.0.1 www.poznajmysie.pl
 127.0.0.1 www.poznajpolke.pl
 127.0.0.1 www.poznangazeta24.eu
 127.0.0.1 www.pozosdlagodne.web.app
@@ -63236,7 +63241,6 @@
 127.0.0.1 www.qb.ytgs.lat
 127.0.0.1 www.qc.iqyd.skin
 127.0.0.1 www.qcjod51vy.top
-127.0.0.1 www.qd3khd.skin
 127.0.0.1 www.qd.heez.lat
 127.0.0.1 www.qd.vbax.top
 127.0.0.1 www.qebegey9.pro
@@ -65162,7 +65166,6 @@
 127.0.0.1 www.scrottad.gormandising.store
 127.0.0.1 www.scrumable.com
 127.0.0.1 www.scrumptiousmoments.com
-127.0.0.1 www.scsmyy.net
 127.0.0.1 www.scubaproeu.shop
 127.0.0.1 www.sculerom.com
 127.0.0.1 www.sculptureco.com.au
@@ -66574,6 +66577,7 @@
 127.0.0.1 www.spotcapital.site
 127.0.0.1 www.spotify-support-help.cfolks.pl
 127.0.0.1 www.spotipremium-de.help
+127.0.0.1 www.spotkaniamilosne.pl
 127.0.0.1 www.spotkaniednia.pics
 127.0.0.1 www.spotsrecovery.shop
 127.0.0.1 www.spotty-rose-crab.glitch.me
