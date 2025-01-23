@@ -1,14 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-23 02:44:05 (UTC)                      #
+# Last updated: 2025-01-23 04:22:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 123.ywxww.net
+127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
-127.0.0.1 6sz.ru
 127.0.0.1 abissnet.net
 127.0.0.1 aboverlangerung.com
 127.0.0.1 acheminement-suivis.fr
@@ -17,19 +17,20 @@
 127.0.0.1 admin.bookviewextranet.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
-127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
 127.0.0.1 aide-acheminement-info.com
+127.0.0.1 airhobi.com
 127.0.0.1 alien-training.com
 127.0.0.1 amelcarte.com
 127.0.0.1 amende-renouvellement.com
 127.0.0.1 amende-stationnement-suivis.com
 127.0.0.1 aosafrica.co.za
-127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 api.information-binance.com
+127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 armanayegh.com
 127.0.0.1 arting.ee
 127.0.0.1 assuresform.com
@@ -42,6 +43,7 @@
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
+127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 bargaincove.shop
 127.0.0.1 bethelkwabenya.org
@@ -51,12 +53,10 @@
 127.0.0.1 budgetshop.shop
 127.0.0.1 budgetsphere.shop
 127.0.0.1 budgetvibe.shop
-127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 buyloom.shop
 127.0.0.1 catbaparadisehotel.com.vn
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 centre-de-tri-ups.com
-127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 coach.028csc.com
@@ -84,11 +84,11 @@
 127.0.0.1 dewshine.shop
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dienstmyhermes.de
+127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 djhyzhicai.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
-127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
 127.0.0.1 doge-electrum.org
@@ -110,7 +110,6 @@
 127.0.0.1 ebuymore.shop
 127.0.0.1 ecartdirect.shop
 127.0.0.1 echoicedeals.shop
-127.0.0.1 ecolumy.com
 127.0.0.1 edirect.shop
 127.0.0.1 electrum-usdt.com
 127.0.0.1 electrum-xrp.net
@@ -147,17 +146,14 @@
 127.0.0.1 guichet-bpost.com
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hntngln1.com
 127.0.0.1 hobobot.net
-127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hradvanceportal.com
 127.0.0.1 hseda.com
 127.0.0.1 http.vseuasthfxzzqxev.xyz
-127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
-127.0.0.1 imtoken8.cc
 127.0.0.1 info-paiement-ligne.com
+127.0.0.1 information-binance.com
 127.0.0.1 informations-colissimo.com
 127.0.0.1 informationversand.com
 127.0.0.1 ini.sh-pp.com
@@ -169,6 +165,7 @@
 127.0.0.1 jointings.org
 127.0.0.1 jpinvrkp.my
 127.0.0.1 jrqh-hk.com
+127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 keysertools.cc
@@ -178,6 +175,7 @@
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lieferdienste-deutsche.com
 127.0.0.1 lindenappliances.co.za
+127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 liuyi.neectar.info
 127.0.0.1 live-sendungsverfolgung.com
@@ -186,6 +184,7 @@
 127.0.0.1 login-main.bigwnet.com
 127.0.0.1 lol.cursinqfirewall.ru
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 mandarin.net.au
@@ -203,12 +202,10 @@
 127.0.0.1 minu-pakk.com
 127.0.0.1 minupakk.com
 127.0.0.1 minupakk.net
-127.0.0.1 misljen.net
 127.0.0.1 mississippistemacademy.org
 127.0.0.1 mitgpssms.com
 127.0.0.1 mjsqurej.com
 127.0.0.1 mon-dossier-renouvellement.com
-127.0.0.1 mondialrelay-assistance-colis.com
 127.0.0.1 monformulaire-sante.com
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 myguyapp.com
@@ -218,16 +215,13 @@
 127.0.0.1 mypackagingups.com
 127.0.0.1 mystartherehosting.net
 127.0.0.1 n2.aroundpayablequirk.shop
-127.0.0.1 nabawitransport.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 new-consigne-sms-track.com
-127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 organisme-renouvellement.com
 127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
-127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 passagetoeastafrica.com
@@ -239,10 +233,12 @@
 127.0.0.1 polytechnix.com
 127.0.0.1 protechasia.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
+127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 quickauto24.com
+127.0.0.1 rappel-coinbase.com
 127.0.0.1 rb3.ftnt.io
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 rddissisifigifidi.net
@@ -275,13 +271,13 @@
 127.0.0.1 soportegira.net
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
-127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
-127.0.0.1 studioq202.com
 127.0.0.1 sufikhat.com
 127.0.0.1 support-abonnement.com
 127.0.0.1 support-colis-info.com
+127.0.0.1 support.clz.kr
 127.0.0.1 supportameli.top
+127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
 127.0.0.1 tao025.com
@@ -316,6 +312,7 @@
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 ups-zolldienst.com
 127.0.0.1 utorrent-backup-server.top
@@ -341,7 +338,6 @@
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
-127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
@@ -353,8 +349,8 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
+127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
-127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
@@ -369,5 +365,6 @@
 127.0.0.1 youfirst.hradvanceportal.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
+127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 364
+# Number of entries: 361
