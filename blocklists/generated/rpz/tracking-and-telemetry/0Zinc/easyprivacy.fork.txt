@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012201 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012301 43200 3600 259200 300
   NS  localhost.
 00px.net CNAME .
 *.00px.net CNAME .
@@ -3257,8 +3257,6 @@ d2wa5sea6guof0.cloudfront.net CNAME .
 *.d2wa5sea6guof0.cloudfront.net CNAME .
 d2wu036mkcz52n.cloudfront.net CNAME .
 *.d2wu036mkcz52n.cloudfront.net CNAME .
-d2wy8f7a9ursnm.cloudfront.net CNAME .
-*.d2wy8f7a9ursnm.cloudfront.net CNAME .
 d2z0bn1jv8xwtk.cloudfront.net CNAME .
 *.d2z0bn1jv8xwtk.cloudfront.net CNAME .
 d31y97ze264gaa.cloudfront.net CNAME .
