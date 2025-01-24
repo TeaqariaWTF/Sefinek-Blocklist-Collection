@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 14:09:20 (UTC)                      #
+# Last updated: 2025-01-24 16:22:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 60d427489.kliplubuziy.shop
 0.0.0.0 99smoothfm.com
@@ -18,6 +17,8 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
+0.0.0.0 alien-training.com
+0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
@@ -42,6 +43,7 @@
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bit.kliplubuziy.shop
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
@@ -49,13 +51,14 @@
 0.0.0.0 chmod0777kk.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 credovsnra.com
+0.0.0.0 crestereamuschilor.ro
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dawnbloom.shop
 0.0.0.0 daxiahealthcare.com
@@ -70,13 +73,13 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djhyzhicai.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -123,9 +126,11 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kypeti.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 loeghaiofiehfihf.to
@@ -164,7 +169,6 @@
 0.0.0.0 polytechnix.com
 0.0.0.0 pomppie.shop
 0.0.0.0 primepoint.cyou
-0.0.0.0 protechasia.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -197,12 +201,14 @@
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 studioq202.com
 0.0.0.0 sufikhat.com
 0.0.0.0 support-colis-info.com
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
+0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
@@ -212,7 +218,6 @@
 0.0.0.0 techstu.org
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tests.yjzj.org
@@ -245,9 +250,9 @@
 0.0.0.0 weidbookid.world
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
@@ -276,4 +281,4 @@
 0.0.0.0 zenocore.net
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zwaregroup.com
-# Number of entries: 270
+# Number of entries: 275
