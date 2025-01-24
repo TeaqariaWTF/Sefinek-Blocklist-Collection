@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 08:19:04 (UTC)                      #
+# Last updated: 2025-01-24 10:19:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -125,6 +125,7 @@ server=/hwebprint.com/
 server=/imtoken8.cc/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
+server=/inspirepk.org/
 server=/jaffarkhan.com/
 server=/jahez.me/
 server=/javierlopez.eu/
@@ -150,7 +151,6 @@ server=/messiku.com/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
 server=/milta.shop/
-server=/miner-tolken.com/
 server=/misljen.net/
 server=/mitgpssms.com/
 server=/moonloaderupdate.ru/
@@ -163,7 +163,6 @@ server=/ojang.pe.kr/
 server=/openline.cyou/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
-server=/paonancs.cn/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pb.agnt.ru/
@@ -177,7 +176,6 @@ server=/polytechnix.com/
 server=/pomppie.shop/
 server=/primepoint.cyou/
 server=/protechasia.com/
-server=/protek-tech.com/
 server=/qed245t3kreiscryoz-gueterslohewr33w.de/
 server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
@@ -188,6 +186,7 @@ server=/rappel-coinbase.com/
 server=/rb3.ftnt.io/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
+server=/re-botcheck.com/
 server=/reifenquick.de/
 server=/resourceedge.org/
 server=/resso-security.com/
@@ -254,10 +253,8 @@ server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
 server=/view-reserve.com/
-server=/websites-security.com/
 server=/weidbookid.world/
 server=/win-network-checker.cc/
-server=/www.aqianniao.com/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.chemsky.tn/
@@ -290,4 +287,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/zenocore.net/
 server=/znrq.zifwxq.cn/
-# Number of entries: 284
+# Number of entries: 281

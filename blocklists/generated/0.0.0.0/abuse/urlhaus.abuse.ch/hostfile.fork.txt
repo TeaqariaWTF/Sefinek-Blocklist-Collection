@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 08:19:04 (UTC)                      #
+# Last updated: 2025-01-24 10:19:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -125,6 +125,7 @@
 0.0.0.0 imtoken8.cc
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -150,7 +151,6 @@
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 milta.shop
-0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
 0.0.0.0 moonloaderupdate.ru
@@ -163,7 +163,6 @@
 0.0.0.0 openline.cyou
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 paonancs.cn
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
@@ -177,7 +176,6 @@
 0.0.0.0 pomppie.shop
 0.0.0.0 primepoint.cyou
 0.0.0.0 protechasia.com
-0.0.0.0 protek-tech.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -188,6 +186,7 @@
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
+0.0.0.0 re-botcheck.com
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 resso-security.com
@@ -254,10 +253,8 @@
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 view-reserve.com
-0.0.0.0 websites-security.com
 0.0.0.0 weidbookid.world
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
@@ -290,4 +287,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 zenocore.net
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 284
+# Number of entries: 281

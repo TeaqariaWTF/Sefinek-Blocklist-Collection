@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 08:19:04 (UTC)                      #
+# Last updated: 2025-01-24 10:19:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -125,6 +125,7 @@
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
+127.0.0.1 inspirepk.org
 127.0.0.1 jaffarkhan.com
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
@@ -150,7 +151,6 @@
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 milta.shop
-127.0.0.1 miner-tolken.com
 127.0.0.1 misljen.net
 127.0.0.1 mitgpssms.com
 127.0.0.1 moonloaderupdate.ru
@@ -163,7 +163,6 @@
 127.0.0.1 openline.cyou
 127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
-127.0.0.1 paonancs.cn
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
@@ -177,7 +176,6 @@
 127.0.0.1 pomppie.shop
 127.0.0.1 primepoint.cyou
 127.0.0.1 protechasia.com
-127.0.0.1 protek-tech.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
@@ -188,6 +186,7 @@
 127.0.0.1 rb3.ftnt.io
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 rddissisifigifidi.net
+127.0.0.1 re-botcheck.com
 127.0.0.1 reifenquick.de
 127.0.0.1 resourceedge.org
 127.0.0.1 resso-security.com
@@ -254,10 +253,8 @@
 127.0.0.1 valseg.com.br
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 view-reserve.com
-127.0.0.1 websites-security.com
 127.0.0.1 weidbookid.world
 127.0.0.1 win-network-checker.cc
-127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.chemsky.tn
@@ -290,4 +287,4 @@
 127.0.0.1 z.shavsl.com
 127.0.0.1 zenocore.net
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 284
+# Number of entries: 281
