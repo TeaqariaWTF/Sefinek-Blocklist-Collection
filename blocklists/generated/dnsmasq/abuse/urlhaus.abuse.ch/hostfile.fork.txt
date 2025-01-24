@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 02:40:32 (UTC)                      #
+# Last updated: 2025-01-24 04:21:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,6 +21,7 @@ server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/airhobi.com/
 server=/alien-training.com/
+server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
@@ -74,7 +75,6 @@ server=/dewdropbliss.shop/
 server=/dewshine.shop/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
-server=/divvanews.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
@@ -92,7 +92,6 @@ server=/downsexv.com/
 server=/dragonhack.shop/
 server=/e4l4.com/
 server=/ecolumy.com/
-server=/elisans.novayonetim.com/
 server=/eoufaoeuhoauengi.su/
 server=/epanpano.com/
 server=/f2pverifynow.com/
@@ -107,7 +106,6 @@ server=/fundrescuetech.com/
 server=/funletters.net/
 server=/furryporn.top/
 server=/gawx.florenda.com/
-server=/gemini-desktop.com/
 server=/gh-hr.cn/
 server=/glennmedina.com/
 server=/grupobramam.com.br/
@@ -134,20 +132,17 @@ server=/jrqh-hk.com/
 server=/karoonpc.com/
 server=/keyser-api.eu/
 server=/kypeti.com/
-server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/loeghaiofiehfihf.to/
 server=/login-main.bigwnet.com/
 server=/lostheaven.com.cn/
-server=/lsks.volamngayxua.net/
 server=/maciejowice.dobrybip.pl/
 server=/mail-cheker.nl/
 server=/mandarin.net.au/
 server=/mertvinc.com.tr/
 server=/messiku.com/
 server=/microsoft-analyse.com/
-server=/microsoft-auth-network.cc/
 server=/milta.shop/
 server=/miner-tolken.com/
 server=/misljen.net/
@@ -162,6 +157,7 @@ server=/ojang.pe.kr/
 server=/openline.cyou/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
+server=/paonancs.cn/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pb.agnt.ru/
@@ -178,6 +174,7 @@ server=/protechasia.com/
 server=/qed245t3kreiscryoz-gueterslohewr33w.de/
 server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
+server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
 server=/quickauto24.com/
 server=/rappel-coinbase.com/
@@ -185,14 +182,12 @@ server=/rb3.ftnt.io/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
 server=/reifenquick.de/
-server=/resourceedge.org/
 server=/resso-security.com/
 server=/reusable-flex.com/
 server=/rewardrobux.lat/
 server=/ronnin-v2.com/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
-server=/schytcdagl.com/
 server=/security-service-api-link.cc/
 server=/ser.nrovn.xyz/
 server=/sergiolamoski.com/
@@ -285,4 +280,4 @@ server=/youfirst.hradvanceportal.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zenocore.net/
-# Number of entries: 279
+# Number of entries: 274
