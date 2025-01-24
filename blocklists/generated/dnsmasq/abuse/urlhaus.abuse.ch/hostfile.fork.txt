@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 01:39:04 (UTC)                      #
+# Last updated: 2025-01-24 02:40:32 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -41,6 +41,7 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
+server=/avastpx.com/
 server=/azgint.com/
 server=/banthis.su/
 server=/bit.kliplubuziy.shop/
@@ -53,6 +54,7 @@ server=/chmod0777kk.com/
 server=/ciscocdn.com/
 server=/coach.028csc.com/
 server=/coadymarine.com/
+server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/credovsnra.com/
 server=/crestereamuschilor.ro/
@@ -73,7 +75,7 @@ server=/dewshine.shop/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
-server=/djhyzhicai.com/
+server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
@@ -104,7 +106,6 @@ server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
 server=/furryporn.top/
-server=/gachetroi.com/
 server=/gawx.florenda.com/
 server=/gemini-desktop.com/
 server=/gh-hr.cn/
@@ -119,6 +120,7 @@ server=/hr2019.vrcom7.com/
 server=/hradvanceportal.com/
 server=/http.vseuasthfxzzqxev.xyz/
 server=/huyanhnongdo.io.vn/
+server=/hwebprint.com/
 server=/imtoken8.cc/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
@@ -174,6 +176,7 @@ server=/pomppie.shop/
 server=/primepoint.cyou/
 server=/protechasia.com/
 server=/qed245t3kreiscryoz-gueterslohewr33w.de/
+server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanlyphongnet.com/
 server=/quickauto24.com/
@@ -194,6 +197,7 @@ server=/security-service-api-link.cc/
 server=/ser.nrovn.xyz/
 server=/sergiolamoski.com/
 server=/sfa.com.ar/
+server=/shell.dimitrimedia.com/
 server=/sirault.be/
 server=/skytrading-tr.com/
 server=/soft.110route.com/
@@ -245,6 +249,7 @@ server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
+server=/vbccorretoradeseguros.com.br/
 server=/view-reserve.com/
 server=/websites-security.com/
 server=/weidbookid.world/
@@ -280,5 +285,4 @@ server=/youfirst.hradvanceportal.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zenocore.net/
-server=/znrq.zifwxq.cn/
-# Number of entries: 275
+# Number of entries: 279

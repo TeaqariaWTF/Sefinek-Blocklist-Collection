@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-24 01:39:04 (UTC)                      #
+# Last updated: 2025-01-24 02:40:32 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -41,6 +41,7 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
+127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 bit.kliplubuziy.shop
@@ -53,6 +54,7 @@
 127.0.0.1 ciscocdn.com
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
+127.0.0.1 comteste.com
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 credovsnra.com
 127.0.0.1 crestereamuschilor.ro
@@ -73,7 +75,7 @@
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
-127.0.0.1 djhyzhicai.com
+127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
@@ -104,7 +106,6 @@
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
 127.0.0.1 furryporn.top
-127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
 127.0.0.1 gemini-desktop.com
 127.0.0.1 gh-hr.cn
@@ -119,6 +120,7 @@
 127.0.0.1 hradvanceportal.com
 127.0.0.1 http.vseuasthfxzzqxev.xyz
 127.0.0.1 huyanhnongdo.io.vn
+127.0.0.1 hwebprint.com
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
@@ -174,6 +176,7 @@
 127.0.0.1 primepoint.cyou
 127.0.0.1 protechasia.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
+127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 quickauto24.com
@@ -194,6 +197,7 @@
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 sergiolamoski.com
 127.0.0.1 sfa.com.ar
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 skytrading-tr.com
 127.0.0.1 soft.110route.com
@@ -245,6 +249,7 @@
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
+127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 view-reserve.com
 127.0.0.1 websites-security.com
 127.0.0.1 weidbookid.world
@@ -280,5 +285,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 zenocore.net
-127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 275
+# Number of entries: 279
