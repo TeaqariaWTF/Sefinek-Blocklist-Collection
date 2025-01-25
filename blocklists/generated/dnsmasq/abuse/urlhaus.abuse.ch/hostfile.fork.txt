@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-25 12:34:05 (UTC)                      #
+# Last updated: 2025-01-25 14:09:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -37,6 +37,7 @@ server=/avastcxt.com/
 server=/avastexodus.com/
 server=/avastmetamask.com/
 server=/avastng.com/
+server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
 server=/avastpx.com/
@@ -102,7 +103,6 @@ server=/fuckedserver.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
 server=/gachetroi.com/
-server=/gawx.florenda.com/
 server=/glennmedina.com/
 server=/grupobramam.com.br/
 server=/hhynetwork.com/
@@ -150,7 +150,6 @@ server=/mitgpssms.com/
 server=/moonloaderupdate.ru/
 server=/myguyapp.com/
 server=/nabawitransport.com/
-server=/namthaibinh.net/
 server=/noithaticon.vn/
 server=/nvntrk.com/
 server=/odoo.kseibitools.com/
@@ -175,6 +174,7 @@ server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
+server=/rappel-coinbase.com/
 server=/rb3.ftnt.io/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
@@ -257,6 +257,7 @@ server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
+server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
@@ -267,7 +268,6 @@ server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
-server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
 server=/xingpai.weilay.com.cn/
