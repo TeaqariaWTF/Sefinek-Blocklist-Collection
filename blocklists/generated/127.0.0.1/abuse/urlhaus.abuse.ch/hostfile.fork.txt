@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-26 16:13:04 (UTC)                      #
+# Last updated: 2025-01-26 18:24:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 123.ywxww.net
+127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 99smoothfm.com
 127.0.0.1 abissnet.net
@@ -24,6 +25,7 @@
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 apslline.com
 127.0.0.1 armanayegh.com
@@ -52,6 +54,7 @@
 127.0.0.1 chmod0777kk.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 coach.028csc.com
+127.0.0.1 coadymarine.com
 127.0.0.1 compltheroomchngnotific.com
 127.0.0.1 comteste.com
 127.0.0.1 conn.masjesu.zip
@@ -76,7 +79,6 @@
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
-127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
@@ -102,6 +104,7 @@
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
 127.0.0.1 gachetroi.com
+127.0.0.1 galeforce.com.tr
 127.0.0.1 gawx.florenda.com
 127.0.0.1 glennmedina.com
 127.0.0.1 grupobramam.com.br
@@ -111,7 +114,9 @@
 127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
+127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
+127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
@@ -167,6 +172,7 @@
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
+127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rb3.ftnt.io
@@ -183,7 +189,6 @@
 127.0.0.1 schytcdagl.com
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 ser.nrovn.xyz
-127.0.0.1 sergiolamoski.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
@@ -197,6 +202,7 @@
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 studioq202.com
 127.0.0.1 sufikhat.com
+127.0.0.1 support-microsofthelp.com
 127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
@@ -205,10 +211,12 @@
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
 127.0.0.1 tao977.com
+127.0.0.1 taodianla.com
+127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
+127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
-127.0.0.1 tests.yjzj.org
 127.0.0.1 thatsofar.top
 127.0.0.1 tianyinsoft.top
 127.0.0.1 tiaoshibao.com
@@ -220,7 +228,7 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.volam2005pk.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 usa11.info
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
@@ -233,6 +241,8 @@
 127.0.0.1 view-reserve.com
 127.0.0.1 websites-security.com
 127.0.0.1 win-network-checker.cc
+127.0.0.1 www.aqianniao.com
+127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
@@ -248,7 +258,8 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
-127.0.0.1 wynecare.com
+127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.zhikey.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
@@ -257,7 +268,6 @@
 127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zwaregroup.com
-# Number of entries: 254
+# Number of entries: 264

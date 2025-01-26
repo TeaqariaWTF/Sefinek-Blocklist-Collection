@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+1717.1000uc.com CNAME .
+*.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 99smoothfm.com CNAME .
@@ -37,6 +39,8 @@ api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
 *.api.hostize.com CNAME .
+api.information-binance.com CNAME .
+*.api.information-binance.com CNAME .
 api.rappel-coinbase.com CNAME .
 *.api.rappel-coinbase.com CNAME .
 apslline.com CNAME .
@@ -93,6 +97,8 @@ ciscocdn.com CNAME .
 *.ciscocdn.com CNAME .
 coach.028csc.com CNAME .
 *.coach.028csc.com CNAME .
+coadymarine.com CNAME .
+*.coadymarine.com CNAME .
 compltheroomchngnotific.com CNAME .
 *.compltheroomchngnotific.com CNAME .
 comteste.com CNAME .
@@ -141,8 +147,6 @@ dl.packetstormsecurity.net CNAME .
 *.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
-do-dear.com CNAME .
-*.do-dear.com CNAME .
 dow.andylab.cn CNAME .
 *.dow.andylab.cn CNAME .
 down.fwqlt.com CNAME .
@@ -193,6 +197,8 @@ funletters.net CNAME .
 *.funletters.net CNAME .
 gachetroi.com CNAME .
 *.gachetroi.com CNAME .
+galeforce.com.tr CNAME .
+*.galeforce.com.tr CNAME .
 gawx.florenda.com CNAME .
 *.gawx.florenda.com CNAME .
 glennmedina.com CNAME .
@@ -211,8 +217,12 @@ hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
 hseda.com CNAME .
 *.hseda.com CNAME .
+huyanhnongdo.io.vn CNAME .
+*.huyanhnongdo.io.vn CNAME .
 hwebprint.com CNAME .
 *.hwebprint.com CNAME .
+imtoken8.cc CNAME .
+*.imtoken8.cc CNAME .
 information-binance.com CNAME .
 *.information-binance.com CNAME .
 ini.sh-pp.com CNAME .
@@ -323,6 +333,8 @@ qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
+quanly.jxmienphi.net CNAME .
+*.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
 *.quanlyphongnet.com CNAME .
 rappel-coinbase.com CNAME .
@@ -355,8 +367,6 @@ security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
 ser.nrovn.xyz CNAME .
 *.ser.nrovn.xyz CNAME .
-sergiolamoski.com CNAME .
-*.sergiolamoski.com CNAME .
 sfa.com.ar CNAME .
 *.sfa.com.ar CNAME .
 shell.dimitrimedia.com CNAME .
@@ -383,6 +393,8 @@ studioq202.com CNAME .
 *.studioq202.com CNAME .
 sufikhat.com CNAME .
 *.sufikhat.com CNAME .
+support-microsofthelp.com CNAME .
+*.support-microsofthelp.com CNAME .
 support.clz.kr CNAME .
 *.support.clz.kr CNAME .
 symbiatec-fi.com CNAME .
@@ -399,14 +411,18 @@ tao816.com CNAME .
 *.tao816.com CNAME .
 tao977.com CNAME .
 *.tao977.com CNAME .
+taodianla.com CNAME .
+*.taodianla.com CNAME .
+tecni-soft.com CNAME .
+*.tecni-soft.com CNAME .
 tecunonline.com CNAME .
 *.tecunonline.com CNAME .
+telegramcn.co CNAME .
+*.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
 *.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
 *.tengfeidn.com CNAME .
-tests.yjzj.org CNAME .
-*.tests.yjzj.org CNAME .
 thatsofar.top CNAME .
 *.thatsofar.top CNAME .
 tianyinsoft.top CNAME .
@@ -429,8 +445,8 @@ upadaria.org CNAME .
 *.upadaria.org CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
-update.volam2005pk.com CNAME .
-*.update.volam2005pk.com CNAME .
+update.vlnguba.com CNAME .
+*.update.vlnguba.com CNAME .
 usa11.info CNAME .
 *.usa11.info CNAME .
 utorrent-backup-server.top CNAME .
@@ -455,6 +471,10 @@ websites-security.com CNAME .
 *.websites-security.com CNAME .
 win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
+aqianniao.com CNAME .
+*.aqianniao.com CNAME .
+beiletoys.com CNAME .
+*.beiletoys.com CNAME .
 blackhattoolz.com CNAME .
 *.blackhattoolz.com CNAME .
 flechabusretiro.com.ar CNAME .
@@ -477,8 +497,10 @@ tdejb.com CNAME .
 *.tdejb.com CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
-wynecare.com CNAME .
-*.wynecare.com CNAME .
+ysbaojia.com CNAME .
+*.ysbaojia.com CNAME .
+zhikey.com CNAME .
+*.zhikey.com CNAME .
 wz.3911.com CNAME .
 *.wz.3911.com CNAME .
 xiangshunjy.com CNAME .
@@ -495,8 +517,6 @@ ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
-z.shavsl.com CNAME .
-*.z.shavsl.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
 zwaregroup.com CNAME .
