@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-27 12:39:07 (UTC)                      #
+# Last updated: 2025-01-27 14:08:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,6 +42,7 @@
 127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
+127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 bot.floppaonyou.fr
 127.0.0.1 botnet.fantazy.space
 127.0.0.1 botnet.sapphirenet.xyz
@@ -54,7 +55,6 @@
 127.0.0.1 ciscocdn.com
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
-127.0.0.1 comteste.com
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 credovsnra.com
 127.0.0.1 cryptopotato.net
@@ -64,7 +64,6 @@
 127.0.0.1 data.yhydl.com
 127.0.0.1 dazhongyao.com
 127.0.0.1 dbasopma.shop
-127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 destinystealer.com
 127.0.0.1 device.redirec.com
@@ -92,6 +91,7 @@
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 ffn.theeyefirewall.su
 127.0.0.1 file.blackint3.com
+127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fundrescuetech.com
@@ -99,7 +99,6 @@
 127.0.0.1 gachetroi.com
 127.0.0.1 galeforce.com.tr
 127.0.0.1 gawx.florenda.com
-127.0.0.1 glennmedina.com
 127.0.0.1 grupobramam.com.br
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
@@ -157,6 +156,7 @@
 127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
 127.0.0.1 pns.org.pk
+127.0.0.1 protechasia.com
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
@@ -177,13 +177,13 @@
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 sergiolamoski.com
 127.0.0.1 sfa.com.ar
-127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 smartverysmart2.com
 127.0.0.1 soft.110route.com
 127.0.0.1 solve.xgnv.org
 127.0.0.1 soportegira.net
 127.0.0.1 spaceframe.mobi.space-frame.co.za
+127.0.0.1 sporcketngearforu.com
 127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
@@ -194,6 +194,7 @@
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
+127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
 127.0.0.1 taodianla.com
@@ -213,7 +214,7 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 us22.info
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
@@ -229,6 +230,7 @@
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
+127.0.0.1 www.clubedasluluzinhasro.com.br
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
@@ -248,12 +250,12 @@
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
-127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
+127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zwaregroup.com
-# Number of entries: 250
+# Number of entries: 252

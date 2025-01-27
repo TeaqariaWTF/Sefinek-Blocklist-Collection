@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-27 12:39:07 (UTC)                      #
+# Last updated: 2025-01-27 14:08:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,6 +42,7 @@
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bot.floppaonyou.fr
 0.0.0.0 botnet.fantazy.space
 0.0.0.0 botnet.sapphirenet.xyz
@@ -54,7 +55,6 @@
 0.0.0.0 ciscocdn.com
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 credovsnra.com
 0.0.0.0 cryptopotato.net
@@ -64,7 +64,6 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dbasopma.shop
-0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 destinystealer.com
 0.0.0.0 device.redirec.com
@@ -92,6 +91,7 @@
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 ffn.theeyefirewall.su
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
@@ -99,7 +99,6 @@
 0.0.0.0 gachetroi.com
 0.0.0.0 galeforce.com.tr
 0.0.0.0 gawx.florenda.com
-0.0.0.0 glennmedina.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 hhynetwork.com
 0.0.0.0 hitman-pro.ru
@@ -157,6 +156,7 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pns.org.pk
+0.0.0.0 protechasia.com
 0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -177,13 +177,13 @@
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sergiolamoski.com
 0.0.0.0 sfa.com.ar
-0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 smartverysmart2.com
 0.0.0.0 soft.110route.com
 0.0.0.0 solve.xgnv.org
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -194,6 +194,7 @@
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
+0.0.0.0 tao025.com
 0.0.0.0 tao221.com
 0.0.0.0 tao816.com
 0.0.0.0 taodianla.com
@@ -213,7 +214,7 @@
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 us22.info
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
@@ -229,6 +230,7 @@
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
@@ -248,12 +250,12 @@
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zwaregroup.com
-# Number of entries: 250
+# Number of entries: 252
