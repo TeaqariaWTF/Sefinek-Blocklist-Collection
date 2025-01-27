@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,740
-# Updated: 1/26/2025  15:51 (3:51 PM CST)
+# Domains: 20,741
+# Updated: 1/27/2025  15:41 (3:41 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1588,6 +1588,7 @@
 127.0.0.1 adflexaffiliate.com
 127.0.0.1 adflex.asia
 127.0.0.1 adflex.vn
+127.0.0.1 ad.flipboard.com
 127.0.0.1 adflips.com
 127.0.0.1 ad-flow.com
 127.0.0.1 adfluence.com
