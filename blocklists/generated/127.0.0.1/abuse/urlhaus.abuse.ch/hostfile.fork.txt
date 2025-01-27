@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-27 01:39:12 (UTC)                      #
+# Last updated: 2025-01-27 02:44:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -18,10 +18,8 @@
 127.0.0.1 agency.jameschans.de
 127.0.0.1 ai-kling.online
 127.0.0.1 airhobi.com
-127.0.0.1 alien-training.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
-127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -39,7 +37,6 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
-127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 bitkiselurunsiparis.com
@@ -109,10 +106,11 @@
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
+127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
+127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 jaffarkhan.com
 127.0.0.1 jahez.me
@@ -121,15 +119,16 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jpinvrkp.click
+127.0.0.1 jrqh-hk.com
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 kypeti.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 lsks.volamngayxua.net
+127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 maerchen-beat-frei.ch
 127.0.0.1 mandarin.net.au
@@ -161,7 +160,6 @@
 127.0.0.1 qed245t3kreiscryoz-gueterslohewr33w.de
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rb3.ftnt.io
@@ -174,8 +172,9 @@
 127.0.0.1 ronnin-v2.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 saveyourcinema.ca
-127.0.0.1 schytcdagl.com
 127.0.0.1 security-service-api-link.cc
+127.0.0.1 ser.nrovn.xyz
+127.0.0.1 sergiolamoski.com
 127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
@@ -224,6 +223,7 @@
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
+127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 view-reserve.com
 127.0.0.1 websites-security.com
 127.0.0.1 win-network-checker.cc
@@ -237,7 +237,6 @@
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.ojang.pe.kr
-127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.starcountry.net
@@ -252,9 +251,9 @@
 127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--yh4bx88a.com
+127.0.0.1 yaocanting.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zwaregroup.com
-# Number of entries: 251
+# Number of entries: 250
