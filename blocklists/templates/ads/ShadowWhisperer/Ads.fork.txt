@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,742
-# Updated: 1/27/2025  17:09 (5:09 PM CST)
+# Domains: 20,744
+# Updated: 1/27/2025  21:31 (9:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13399,6 +13399,8 @@
 0.0.0.0 mediakitlabs.com
 0.0.0.0 medialab.la
 0.0.0.0 medialead.de
+0.0.0.0 medialink-adx.moomoo.com
+0.0.0.0 medialink-jssdk.moomoo.com
 0.0.0.0 medialiveindia.com
 0.0.0.0 mediamath.com
 0.0.0.0 mediamind.com

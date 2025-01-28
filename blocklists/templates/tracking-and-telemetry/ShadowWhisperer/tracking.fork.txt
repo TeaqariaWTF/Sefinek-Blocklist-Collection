@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,533
-# Updated: 1/27/2025  15:41 (3:41 PM CST)
+# Domains: 96,535
+# Updated: 1/27/2025  21:31 (9:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -38946,6 +38946,7 @@
 0.0.0.0 media.kaipoke.biz
 0.0.0.0 media.kaspersky.com
 0.0.0.0 mediakit.hospitalitynet.org
+0.0.0.0 medialink-report.moomoo.com
 0.0.0.0 medialytics.com
 0.0.0.0 medialyticsninja.com
 0.0.0.0 media.mcclatchy.com
@@ -68626,6 +68627,7 @@
 0.0.0.0 sdata.sealedair.com
 0.0.0.0 sdata.wiley.com
 0.0.0.0 sda.tech
+0.0.0.0 sdauth.moomoo.com
 0.0.0.0 sdc2.credit-suisse.com
 0.0.0.0 sdc.allianz-autowelt.com
 0.0.0.0 sdc.allianz-autowelt.de
