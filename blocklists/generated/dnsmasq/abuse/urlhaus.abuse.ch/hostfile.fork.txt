@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-28 12:39:04 (UTC)                      #
+# Last updated: 2025-01-28 14:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,6 +23,7 @@ server=/alien-training.com/
 server=/aosafrica.co.za/
 server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
+server=/api.ewfiles.net/
 server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.rappel-coinbase.com/
@@ -97,6 +98,7 @@ server=/downsexv.com/
 server=/dragonhack.shop/
 server=/e4l4.com/
 server=/ecolumy.com/
+server=/elisans.novayonetim.com/
 server=/emorista.org/
 server=/energigroup.hu/
 server=/eoufaoeuhoauengi.su/
@@ -151,6 +153,7 @@ server=/microsoft-auth-network.cc/
 server=/miner-tolken.com/
 server=/misljen.net/
 server=/mocdrol.com.br/
+server=/moonloaderupdate.ru/
 server=/mrsclausagentofsanta.com/
 server=/mustre.com.my/
 server=/myguyapp.com/
@@ -231,15 +234,16 @@ server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
-server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
 server=/view-reserve.com/
+server=/weixe.ir/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
 server=/www.blackhattoolz.com/
 server=/www.clubedasluluzinhasro.com.br/
+server=/www.cuochiperungiorno.it/
 server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.hseda.com/
@@ -266,6 +270,8 @@ server=/xorok.shop/
 server=/yaocanting.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
+server=/z.shavsl.com/
 server=/zahlung-erhalten.site/
+server=/znrq.zifwxq.cn/
 server=/zwaregroup.com/
-# Number of entries: 262
+# Number of entries: 268

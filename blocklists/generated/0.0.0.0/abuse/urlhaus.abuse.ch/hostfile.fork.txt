@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-28 12:39:04 (UTC)                      #
+# Last updated: 2025-01-28 14:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,6 +23,7 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
@@ -97,6 +98,7 @@
 0.0.0.0 dragonhack.shop
 0.0.0.0 e4l4.com
 0.0.0.0 ecolumy.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 emorista.org
 0.0.0.0 energigroup.hu
 0.0.0.0 eoufaoeuhoauengi.su
@@ -151,6 +153,7 @@
 0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mocdrol.com.br
+0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mrsclausagentofsanta.com
 0.0.0.0 mustre.com.my
 0.0.0.0 myguyapp.com
@@ -231,15 +234,16 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 view-reserve.com
+0.0.0.0 weixe.ir
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
+0.0.0.0 www.cuochiperungiorno.it
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
@@ -266,6 +270,8 @@
 0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 zahlung-erhalten.site
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zwaregroup.com
-# Number of entries: 262
+# Number of entries: 268
