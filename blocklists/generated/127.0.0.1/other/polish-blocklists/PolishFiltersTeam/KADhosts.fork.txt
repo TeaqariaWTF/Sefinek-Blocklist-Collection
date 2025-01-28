@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 27 Jan 2025, 21:23 UTC+01:00
-# Version: 2025.1.27.3
+# Last modified: Tue, 28 Jan 2025, 09:28 UTC+01:00
+# Version: 2025.1.28.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5011,6 +5011,7 @@
 127.0.0.1 alebilet.pl-oferta472721.cfd
 127.0.0.1 alebilet.pl-oferta474265.icu
 127.0.0.1 alebilet.pl-oferta573721.icu
+127.0.0.1 alebilet.pl-oferta758469.icu
 127.0.0.1 alebilet.pl-oferta936267.cfd
 127.0.0.1 alebilet.pl-oferta936267.icu
 127.0.0.1 alebilet.pl-oferta936667.cfd
@@ -5078,7 +5079,6 @@
 127.0.0.1 alexstacks.org
 127.0.0.1 aleyciuss.com
 127.0.0.1 alforjascustom.com
-127.0.0.1 alfred77.serv00.net
 127.0.0.1 alfredtpalmer.com
 127.0.0.1 algocryptocurrency.com
 127.0.0.1 algointelligent.com
@@ -5308,6 +5308,7 @@
 127.0.0.1 allegro.pl-oferta472721.cfd
 127.0.0.1 allegro.pl-oferta474265.icu
 127.0.0.1 allegro.pl-oferta573721.icu
+127.0.0.1 allegro.pl-oferta758469.icu
 127.0.0.1 allegro.pl-oferta936267.cfd
 127.0.0.1 allegro.pl-oferta936267.icu
 127.0.0.1 allegro.pl-oferta936667.cfd
@@ -5368,9 +5369,11 @@
 127.0.0.1 allegrollokalnie.56592315.xyz
 127.0.0.1 allegrollokalnie.98342211.xyz
 127.0.0.1 allegrollokalnie.367234622.xyz
+127.0.0.1 allegrolokainie.pl2125.cfd
 127.0.0.1 allegrolokainie.pl2149.cfd
 127.0.0.1 allegrolokainie.pl2352.cfd
 127.0.0.1 allegrolokainie.pl2580.cfd
+127.0.0.1 allegrolokainie.pl3289.cfd
 127.0.0.1 allegrolokainie.pl4145.cfd
 127.0.0.1 allegrolokainie.pl5299.cfd
 127.0.0.1 allegrolokainie.pl09724item.pl
@@ -5900,6 +5903,7 @@
 127.0.0.1 allegrolokalnie.pl-id456g75678hg6gh564.buzz
 127.0.0.1 allegrolokalnie.pl-id3456f6354gf67.buzz
 127.0.0.1 allegrolokalnie.pl-id45345fg346gf34.buzz
+127.0.0.1 allegrolokalnie.pl-id51239.rest
 127.0.0.1 allegrolokalnie.pl-id534455.shop
 127.0.0.1 allegrolokalnie.pl-id6791021.org
 127.0.0.1 allegrolokalnie.pl-id34547456455423.buzz
@@ -5962,6 +5966,7 @@
 127.0.0.1 allegrolokalnie.pl-oferta754387.com
 127.0.0.1 allegrolokalnie.pl-oferta754917.com
 127.0.0.1 allegrolokalnie.pl-oferta758117.com
+127.0.0.1 allegrolokalnie.pl-oferta758469.icu
 127.0.0.1 allegrolokalnie.pl-oferta758917.com
 127.0.0.1 allegrolokalnie.pl-oferta875345.com
 127.0.0.1 allegrolokalnie.pl-oferta932417.com
@@ -8461,7 +8466,6 @@
 127.0.0.1 bnp.goimobnbp45.com
 127.0.0.1 bnp.paket24.site
 127.0.0.1 bnp.paket-24.com
-127.0.0.1 bnpgomob28724.com
 127.0.0.1 bnpp193647atrtrcnwaztihsqw1cy1774e.pages.dev
 127.0.0.1 bnppre.netmarket.de
 127.0.0.1 bnvdax.thenextstep.top
@@ -16257,9 +16261,9 @@
 127.0.0.1 haberbandi.net
 127.0.0.1 habeshalottery.com
 127.0.0.1 habibgirlsschool.com
-127.0.0.1 habilitar24.serv00.net
 127.0.0.1 habitareshowroom.com
 127.0.0.1 habitatbistro.com
+127.0.0.1 habitatnursing.com
 127.0.0.1 habitualwisdom.com
 127.0.0.1 habitudesdesucces.com
 127.0.0.1 hablemosdeinfancia.com
@@ -18404,7 +18408,6 @@
 127.0.0.1 iterativecode.com
 127.0.0.1 itgoshi.com
 127.0.0.1 ithosworld.com
-127.0.0.1 itincorpora.com
 127.0.0.1 itrell.com
 127.0.0.1 itsafe.pro
 127.0.0.1 itsnotasmallworldafterall.com
@@ -20625,6 +20628,7 @@
 127.0.0.1 lnpost-pl.check-buy1243.shop
 127.0.0.1 lnpost-pl.check-buy1262.shop
 127.0.0.1 lnpost-pl.check-buy1283.life
+127.0.0.1 lnpost-pl.check-buy1305.shop
 127.0.0.1 lnpost-pl.check-buy1323.shop
 127.0.0.1 lnpost-pl.post-buy311.shop
 127.0.0.1 lnpost-pl.post-buy1311.shop
@@ -23749,7 +23753,6 @@
 127.0.0.1 nvcor.com
 127.0.0.1 nvd.thenextstep.top
 127.0.0.1 nvda-presales.org
-127.0.0.1 nvgtn-pl.com
 127.0.0.1 nvgtnpolska.com
 127.0.0.1 nvod.pl
 127.0.0.1 nvvc.troove.top
@@ -25709,6 +25712,7 @@
 127.0.0.1 olx.pl-oferta472721.cfd
 127.0.0.1 olx.pl-oferta474265.icu
 127.0.0.1 olx.pl-oferta573721.icu
+127.0.0.1 olx.pl-oferta758469.icu
 127.0.0.1 olx.pl-oferta936267.cfd
 127.0.0.1 olx.pl-oferta936267.icu
 127.0.0.1 olx.pl-oferta936667.cfd
@@ -27432,6 +27436,7 @@
 127.0.0.1 pl-oferta472721.cfd
 127.0.0.1 pl-oferta474265.icu
 127.0.0.1 pl-oferta573721.icu
+127.0.0.1 pl-oferta758469.icu
 127.0.0.1 pl-oferta936267.cfd
 127.0.0.1 pl-oferta936267.icu
 127.0.0.1 pl-oferta936667.cfd
@@ -28188,6 +28193,7 @@
 127.0.0.1 porada24.eu
 127.0.0.1 poradnik-diet.pl
 127.0.0.1 porady-prawny.online
+127.0.0.1 porannamgla.pl
 127.0.0.1 porannyziew.eu
 127.0.0.1 pore.clickmazetribe.su
 127.0.0.1 porespray.quest
@@ -29701,6 +29707,7 @@
 127.0.0.1 reneemurray.shop
 127.0.0.1 renestate.com
 127.0.0.1 renew-account.net
+127.0.0.1 renew-domeny-nazwa-pl.ar-cloud.online
 127.0.0.1 renew-for-watch.com
 127.0.0.1 renew-infopl.com
 127.0.0.1 renew-pl.net
@@ -29916,6 +29923,7 @@
 127.0.0.1 rezerwacja.shop
 127.0.0.1 rf.dwaf.top
 127.0.0.1 rf.ytgs.lat
+127.0.0.1 rfdincidentview459002.world
 127.0.0.1 rfercenute.xyz
 127.0.0.1 rfg.deptesp.com
 127.0.0.1 rfghrgrdtterson-canions-ertrgtmai-rtyrgocale-updatregg-jhedf.freewebhostmost.com
@@ -33448,7 +33456,6 @@
 127.0.0.1 taraterno.com
 127.0.0.1 tarcoleshostel.com
 127.0.0.1 targi3267.site
-127.0.0.1 targo1.serv00.net
 127.0.0.1 targulpescarilor.ro
 127.0.0.1 tarosteeel.com
 127.0.0.1 tartariancoin.com
@@ -34614,6 +34621,7 @@
 127.0.0.1 trade-now.net
 127.0.0.1 trade.officetrader.online
 127.0.0.1 trade.officetrader.pro
+127.0.0.1 trade.plf-tchb.io
 127.0.0.1 trade.tredplx.com
 127.0.0.1 tradecolosseum.com
 127.0.0.1 tradeduac360.com
@@ -36559,6 +36567,7 @@
 127.0.0.1 w01dl7msu9bv6ke6jfdkmq5b.craftscoot.com
 127.0.0.1 w1dzien-gotowka.pl
 127.0.0.1 w1etlp3u450gqsu63p884tdm.moviefaux.com
+127.0.0.1 w1h7hj0jq17mbdb7j71iq38d.foodprey.com
 127.0.0.1 w1ldforest.xyz
 127.0.0.1 w1maco.cyou
 127.0.0.1 w1pid0c9qfmf7it53ap7blsi.makeupgap.com
@@ -39394,6 +39403,7 @@
 127.0.0.1 www.alebilet.pl-oferta472721.cfd
 127.0.0.1 www.alebilet.pl-oferta474265.icu
 127.0.0.1 www.alebilet.pl-oferta573721.icu
+127.0.0.1 www.alebilet.pl-oferta758469.icu
 127.0.0.1 www.alebilet.pl-oferta936267.cfd
 127.0.0.1 www.alebilet.pl-oferta936267.icu
 127.0.0.1 www.alebilet.pl-oferta936667.cfd
@@ -39461,7 +39471,6 @@
 127.0.0.1 www.alexstacks.org
 127.0.0.1 www.aleyciuss.com
 127.0.0.1 www.alforjascustom.com
-127.0.0.1 www.alfred77.serv00.net
 127.0.0.1 www.alfredtpalmer.com
 127.0.0.1 www.algocryptocurrency.com
 127.0.0.1 www.algointelligent.com
@@ -39691,6 +39700,7 @@
 127.0.0.1 www.allegro.pl-oferta472721.cfd
 127.0.0.1 www.allegro.pl-oferta474265.icu
 127.0.0.1 www.allegro.pl-oferta573721.icu
+127.0.0.1 www.allegro.pl-oferta758469.icu
 127.0.0.1 www.allegro.pl-oferta936267.cfd
 127.0.0.1 www.allegro.pl-oferta936267.icu
 127.0.0.1 www.allegro.pl-oferta936667.cfd
@@ -39751,9 +39761,11 @@
 127.0.0.1 www.allegrollokalnie.56592315.xyz
 127.0.0.1 www.allegrollokalnie.98342211.xyz
 127.0.0.1 www.allegrollokalnie.367234622.xyz
+127.0.0.1 www.allegrolokainie.pl2125.cfd
 127.0.0.1 www.allegrolokainie.pl2149.cfd
 127.0.0.1 www.allegrolokainie.pl2352.cfd
 127.0.0.1 www.allegrolokainie.pl2580.cfd
+127.0.0.1 www.allegrolokainie.pl3289.cfd
 127.0.0.1 www.allegrolokainie.pl4145.cfd
 127.0.0.1 www.allegrolokainie.pl5299.cfd
 127.0.0.1 www.allegrolokainie.pl09724item.pl
@@ -40283,6 +40295,7 @@
 127.0.0.1 www.allegrolokalnie.pl-id456g75678hg6gh564.buzz
 127.0.0.1 www.allegrolokalnie.pl-id3456f6354gf67.buzz
 127.0.0.1 www.allegrolokalnie.pl-id45345fg346gf34.buzz
+127.0.0.1 www.allegrolokalnie.pl-id51239.rest
 127.0.0.1 www.allegrolokalnie.pl-id534455.shop
 127.0.0.1 www.allegrolokalnie.pl-id6791021.org
 127.0.0.1 www.allegrolokalnie.pl-id34547456455423.buzz
@@ -40345,6 +40358,7 @@
 127.0.0.1 www.allegrolokalnie.pl-oferta754387.com
 127.0.0.1 www.allegrolokalnie.pl-oferta754917.com
 127.0.0.1 www.allegrolokalnie.pl-oferta758117.com
+127.0.0.1 www.allegrolokalnie.pl-oferta758469.icu
 127.0.0.1 www.allegrolokalnie.pl-oferta758917.com
 127.0.0.1 www.allegrolokalnie.pl-oferta875345.com
 127.0.0.1 www.allegrolokalnie.pl-oferta932417.com
@@ -42844,7 +42858,6 @@
 127.0.0.1 www.bnp.goimobnbp45.com
 127.0.0.1 www.bnp.paket24.site
 127.0.0.1 www.bnp.paket-24.com
-127.0.0.1 www.bnpgomob28724.com
 127.0.0.1 www.bnpp193647atrtrcnwaztihsqw1cy1774e.pages.dev
 127.0.0.1 www.bnppre.netmarket.de
 127.0.0.1 www.bnvdax.thenextstep.top
@@ -50640,9 +50653,9 @@
 127.0.0.1 www.haberbandi.net
 127.0.0.1 www.habeshalottery.com
 127.0.0.1 www.habibgirlsschool.com
-127.0.0.1 www.habilitar24.serv00.net
 127.0.0.1 www.habitareshowroom.com
 127.0.0.1 www.habitatbistro.com
+127.0.0.1 www.habitatnursing.com
 127.0.0.1 www.habitualwisdom.com
 127.0.0.1 www.habitudesdesucces.com
 127.0.0.1 www.hablemosdeinfancia.com
@@ -52787,7 +52800,6 @@
 127.0.0.1 www.iterativecode.com
 127.0.0.1 www.itgoshi.com
 127.0.0.1 www.ithosworld.com
-127.0.0.1 www.itincorpora.com
 127.0.0.1 www.itrell.com
 127.0.0.1 www.itsafe.pro
 127.0.0.1 www.itsnotasmallworldafterall.com
@@ -55008,6 +55020,7 @@
 127.0.0.1 www.lnpost-pl.check-buy1243.shop
 127.0.0.1 www.lnpost-pl.check-buy1262.shop
 127.0.0.1 www.lnpost-pl.check-buy1283.life
+127.0.0.1 www.lnpost-pl.check-buy1305.shop
 127.0.0.1 www.lnpost-pl.check-buy1323.shop
 127.0.0.1 www.lnpost-pl.post-buy311.shop
 127.0.0.1 www.lnpost-pl.post-buy1311.shop
@@ -58132,7 +58145,6 @@
 127.0.0.1 www.nvcor.com
 127.0.0.1 www.nvd.thenextstep.top
 127.0.0.1 www.nvda-presales.org
-127.0.0.1 www.nvgtn-pl.com
 127.0.0.1 www.nvgtnpolska.com
 127.0.0.1 www.nvod.pl
 127.0.0.1 www.nvvc.troove.top
@@ -60092,6 +60104,7 @@
 127.0.0.1 www.olx.pl-oferta472721.cfd
 127.0.0.1 www.olx.pl-oferta474265.icu
 127.0.0.1 www.olx.pl-oferta573721.icu
+127.0.0.1 www.olx.pl-oferta758469.icu
 127.0.0.1 www.olx.pl-oferta936267.cfd
 127.0.0.1 www.olx.pl-oferta936267.icu
 127.0.0.1 www.olx.pl-oferta936667.cfd
@@ -61799,6 +61812,7 @@
 127.0.0.1 www.pl-oferta472721.cfd
 127.0.0.1 www.pl-oferta474265.icu
 127.0.0.1 www.pl-oferta573721.icu
+127.0.0.1 www.pl-oferta758469.icu
 127.0.0.1 www.pl-oferta936267.cfd
 127.0.0.1 www.pl-oferta936267.icu
 127.0.0.1 www.pl-oferta936667.cfd
@@ -62518,6 +62532,7 @@
 127.0.0.1 www.porada24.eu
 127.0.0.1 www.poradnik-diet.pl
 127.0.0.1 www.porady-prawny.online
+127.0.0.1 www.porannamgla.pl
 127.0.0.1 www.porannyziew.eu
 127.0.0.1 www.pore.clickmazetribe.su
 127.0.0.1 www.porespray.quest
@@ -64031,6 +64046,7 @@
 127.0.0.1 www.reneemurray.shop
 127.0.0.1 www.renestate.com
 127.0.0.1 www.renew-account.net
+127.0.0.1 www.renew-domeny-nazwa-pl.ar-cloud.online
 127.0.0.1 www.renew-for-watch.com
 127.0.0.1 www.renew-infopl.com
 127.0.0.1 www.renew-pl.net
@@ -64246,6 +64262,7 @@
 127.0.0.1 www.rezerwacja.shop
 127.0.0.1 www.rf.dwaf.top
 127.0.0.1 www.rf.ytgs.lat
+127.0.0.1 www.rfdincidentview459002.world
 127.0.0.1 www.rfercenute.xyz
 127.0.0.1 www.rfg.deptesp.com
 127.0.0.1 www.rfghrgrdtterson-canions-ertrgtmai-rtyrgocale-updatregg-jhedf.freewebhostmost.com
@@ -67778,7 +67795,6 @@
 127.0.0.1 www.taraterno.com
 127.0.0.1 www.tarcoleshostel.com
 127.0.0.1 www.targi3267.site
-127.0.0.1 www.targo1.serv00.net
 127.0.0.1 www.targulpescarilor.ro
 127.0.0.1 www.tarosteeel.com
 127.0.0.1 www.tartariancoin.com
@@ -68944,6 +68960,7 @@
 127.0.0.1 www.trade-now.net
 127.0.0.1 www.trade.officetrader.online
 127.0.0.1 www.trade.officetrader.pro
+127.0.0.1 www.trade.plf-tchb.io
 127.0.0.1 www.trade.tredplx.com
 127.0.0.1 www.tradecolosseum.com
 127.0.0.1 www.tradeduac360.com
@@ -70889,6 +70906,7 @@
 127.0.0.1 www.w01dl7msu9bv6ke6jfdkmq5b.craftscoot.com
 127.0.0.1 www.w1dzien-gotowka.pl
 127.0.0.1 www.w1etlp3u450gqsu63p884tdm.moviefaux.com
+127.0.0.1 www.w1h7hj0jq17mbdb7j71iq38d.foodprey.com
 127.0.0.1 www.w1ldforest.xyz
 127.0.0.1 www.w1maco.cyou
 127.0.0.1 www.w1pid0c9qfmf7it53ap7blsi.makeupgap.com
@@ -72236,6 +72254,7 @@
 127.0.0.1 www.xh1ydt.rest
 127.0.0.1 www.xh59067qmo3by1.6m-plus.lat
 127.0.0.1 www.xh.cshp.lat
+127.0.0.1 www.xhaisveidhs.org
 127.0.0.1 www.xhaliowork.world
 127.0.0.1 www.xhgok5baj.top
 127.0.0.1 www.xhzay.com
@@ -72303,6 +72322,7 @@
 127.0.0.1 www.xobagao4.pro
 127.0.0.1 www.xoberny.click
 127.0.0.1 www.xoffersbot.com
+127.0.0.1 www.xofferunique.com
 127.0.0.1 www.xofyfyemeo.pro
 127.0.0.1 www.xojysei.com
 127.0.0.1 www.xokocif.store
@@ -72824,6 +72844,7 @@
 127.0.0.1 www.zerocodesystem.com
 127.0.0.1 www.zerocodetech.com
 127.0.0.1 www.zerogravityinflatables.com
+127.0.0.1 www.zeruka.reviewssphere.com
 127.0.0.1 www.zeshanhaider.com
 127.0.0.1 www.zesttyziing.xyz
 127.0.0.1 www.zestwebb.com
@@ -73210,6 +73231,7 @@
 127.0.0.1 xh1ydt.rest
 127.0.0.1 xh59067qmo3by1.6m-plus.lat
 127.0.0.1 xh.cshp.lat
+127.0.0.1 xhaisveidhs.org
 127.0.0.1 xhaliowork.world
 127.0.0.1 xhgok5baj.top
 127.0.0.1 xhzay.com
@@ -73277,6 +73299,7 @@
 127.0.0.1 xobagao4.pro
 127.0.0.1 xoberny.click
 127.0.0.1 xoffersbot.com
+127.0.0.1 xofferunique.com
 127.0.0.1 xofyfyemeo.pro
 127.0.0.1 xojysei.com
 127.0.0.1 xokocif.store
@@ -73798,6 +73821,7 @@
 127.0.0.1 zerocodesystem.com
 127.0.0.1 zerocodetech.com
 127.0.0.1 zerogravityinflatables.com
+127.0.0.1 zeruka.reviewssphere.com
 127.0.0.1 zeshanhaider.com
 127.0.0.1 zesttyziing.xyz
 127.0.0.1 zestwebb.com

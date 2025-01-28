@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-28 06:23:05 (UTC)                      !
+! Last updated: 2025-01-28 08:24:04 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -22,8 +22,10 @@
 ||airhobi.com^
 ||alien-training.com^
 ||aosafrica.co.za^
+||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
+||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||apslline.com^
@@ -31,7 +33,6 @@
 ||armanayegh.com^
 ||artikel-zahlung.website^
 ||aulist.com^
-||autoparts-online.uk^
 ||avastcxp.com^
 ||avastcxt.com^
 ||avastexodus.com^
@@ -41,6 +42,7 @@
 ||avastpdq.com^
 ||avastpdr.com^
 ||avastpx.com^
+||azgint.com^
 ||banthis.su^
 ||bezahlte-artikel.website^
 ||bezahlte-bestellung.website^
@@ -72,13 +74,13 @@
 ||dbasopma.shop^
 ||dcwblida.dz^
 ||deauduafzgezzfgm.top^
+||device.redirec.com^
 ||dhnconstrucciones.com.ar^
 ||dinopsych.com^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||djhyzhicai.com^
 ||dl.aginjector.com^
-||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
@@ -112,16 +114,14 @@
 ||glennmedina.com^
 ||grupobramam.com.br^
 ||hhynetwork.com^
-||hitman-pro.ru^
 ||hitstation.nl^
 ||hobobot.net^
 ||hr2019.vrcom7.com^
 ||hseda.com^
-||hwebprint.com^
 ||imtoken8.cc^
-||inspirepk.org^
+||information-binance.com^
+||ini.sh-pp.com^
 ||jade-associates.com.br^
-||jaffarkhan.com^
 ||jahez.me^
 ||javierlopez.eu^
 ||jobcity.com^
@@ -129,17 +129,19 @@
 ||jrqh-hk.com^
 ||karoonpc.com^
 ||keyser-api.eu^
+||kypeti.com^
+||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
+||lsks.volamngayxua.net^
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||maerchen-beat-frei.ch^
 ||mandarin.net.au^
 ||mertvinc.com.tr^
 ||messiku.com^
-||mffaccessories.com^
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||miner-tolken.com^
@@ -151,6 +153,7 @@
 ||myguyapp.com^
 ||nabawitransport.com^
 ||namthaibinh.net^
+||noithaticon.vn^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||ordrestatus.store^
@@ -165,28 +168,30 @@
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
+||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rappel-coinbase.com^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
 ||re-antibot.com^
 ||reifenquick.de^
-||resourceedge.org^
 ||reusable-flex.com^
+||ronnin-v2.com^
 ||safe.ywxww.net^
 ||saveyourcinema.ca^
 ||schytcdagl.com^
 ||security-service-api-link.cc^
 ||ser.nrovn.xyz^
+||sergiolamoski.com^
 ||sfa.com.ar^
 ||shell.dimitrimedia.com^
 ||sirault.be^
 ||smartverysmart2.com^
+||soft.110route.com^
 ||solve.dpqx.org^
 ||solve.lqwt.org^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
@@ -195,13 +200,13 @@
 ||sufikhat.com^
 ||support-microsofthelp.com^
 ||support.clz.kr^
+||symbiatec-fi.com^
 ||symbietic.com^
 ||symdlotic.com^
 ||tao025.com^
 ||tao221.com^
 ||tao816.com^
 ||tao977.com^
-||taodianla.com^
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
@@ -210,11 +215,13 @@
 ||tests.yjzj.org^
 ||tianyinsoft.top^
 ||tiaoshibao.com^
+||tjsemicoke.com^
 ||traefik-dashboard.val.io.vn^
 ||travelwithmanta.co.za^
 ||treinamento.convenio.to.gov.br^
 ||tualcaldia.com^
 ||twizt.net^
+||upadaria.org^
 ||update.cg100iii.com^
 ||update.vlnguba.com^
 ||update.volam2005pk.com^
@@ -222,19 +229,18 @@
 ||utorrent-backup-server.top^
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
-||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
 ||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vbccorretoradeseguros.com.br^
 ||view-reserve.com^
 ||win-network-checker.cc^
-||www.aqianniao.com^
 ||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.clubedasluluzinhasro.com.br^
 ||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
+||www.hseda.com^
 ||www.ingonherbal.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
@@ -243,6 +249,7 @@
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
 ||www.sporcketngearforu.com^
+||www.starcountry.net^
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.xn--on3b15m2lco2u.com^
@@ -252,6 +259,7 @@
 ||wz.3911.com^
 ||xiangshunjy.com^
 ||ximonite.com^
+||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
 ||xorok.shop^
 ||yaocanting.com^
@@ -261,4 +269,4 @@
 ||zahlung-erhalten.site^
 ||znrq.zifwxq.cn^
 ||zwaregroup.com^
-! Number of entries: 255
+! Number of entries: 263
