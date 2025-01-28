@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 15,238
-# Updated: 1/23/2025  10:28 (10:28 AM CST)
+# Domains: 15,244
+# Updated: 1/27/2025  23:38 (11:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -849,6 +849,7 @@ server=/anabolicsteroidssupps.com/
 server=/anacondamonster.com/
 server=/anakbvba.com/
 server=/analenvideos.com/
+server=/analytcdtch.com/
 server=/analyticaln.com/
 server=/anchorstaffingandrecruiting.com/
 server=/ancienflow.com/
@@ -7147,6 +7148,8 @@ server=/integrityhavanesehome.com/
 server=/inteligen.org/
 server=/intelligentbelgianmalinois.com/
 server=/intelligentpups.com/
+server=/intendjoy.com/
+server=/intenslate.com/
 server=/intentjunior.com/
 server=/intentonsweet.com/
 server=/interglobaltraveldocuments.com/
@@ -8932,6 +8935,7 @@ server=/mossberggunshop.com/
 server=/most2bar.com/
 server=/mostamazingdoodles.com/
 server=/mostary.com/
+server=/mostcheerful.com/
 server=/motherlandferretry.com/
 server=/motizy.com/
 server=/motocross4life.com/
@@ -10144,6 +10148,7 @@ server=/pedmi-store.com/
 server=/peedeenews.com/
 server=/peercharm.online/
 server=/peeters-garage.com/
+server=/pefctiordent.com/
 server=/pelicanstatenews.com/
 server=/pellethungarykft.com/
 server=/pelletlaurence.com/
@@ -10584,6 +10589,7 @@ server=/premiumweaponhouse.com/
 server=/premiumyorkiepuppies.com/
 server=/premuimaustralianshepherd.com/
 server=/premuimpsychedelics.com/
+server=/prepositioni.com/
 server=/prepsychedelics.com/
 server=/prerollsonlinesale.com/
 server=/presacanariotoday.com/
