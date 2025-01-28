@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-28 14:16:05 (UTC)                      !
+! Last updated: 2025-01-28 16:19:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -19,8 +19,10 @@
 ||agapi.cqjjb.cn^
 ||agency.jameschans.de^
 ||ai-kling.online^
+||airhobi.com^
 ||alien-training.com^
 ||aosafrica.co.za^
+||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
@@ -46,23 +48,19 @@
 ||banthis.su^
 ||bezahlte-artikel.website^
 ||bezahlte-bestellung.website^
-||bit.smogturfprance.shop^
 ||bitkiselurunsiparis.com^
 ||booking.complaingustase.com^
 ||booking.secureparners.com^
 ||botnet.sapphirenet.xyz^
 ||buscascolegios.diit.cl^
 ||bv.dopt.cc^
-||captivatingkeepsakes.shop^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
-||chinaapper.com^
 ||chmod0777kk.com^
 ||ciscocdn.com^
 ||clubedasluluzinhasro.com.br^
 ||coach.028csc.com^
 ||coadymarine.com^
-||comteste.com^
 ||conde-offer724.website^
 ||condeoffer724.website^
 ||conn.masjesu.zip^
@@ -74,6 +72,7 @@
 ||data.yhydl.com^
 ||dazhongyao.com^
 ||dbasopma.shop^
+||dcwblida.dz^
 ||deauduafzgezzfgm.top^
 ||device.redirec.com^
 ||dhnconstrucciones.com.ar^
@@ -97,7 +96,6 @@
 ||downsexv.com^
 ||dragonhack.shop^
 ||e4l4.com^
-||ecolumy.com^
 ||elisans.novayonetim.com^
 ||emorista.org^
 ||energigroup.hu^
@@ -121,9 +119,7 @@
 ||hobobot.net^
 ||hr2019.vrcom7.com^
 ||hseda.com^
-||huyanhnongdo.io.vn^
 ||hwebprint.com^
-||imtoken8.cc^
 ||information-binance.com^
 ||ini.sh-pp.com^
 ||inspirepk.org^
@@ -136,7 +132,6 @@
 ||jrqh-hk.com^
 ||karer.by^
 ||karoonpc.com^
-||keyser-api.eu^
 ||kypeti.com^
 ||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
@@ -153,7 +148,6 @@
 ||miner-tolken.com^
 ||misljen.net^
 ||mocdrol.com.br^
-||moonloaderupdate.ru^
 ||mrsclausagentofsanta.com^
 ||mustre.com.my^
 ||myguyapp.com^
@@ -168,6 +162,7 @@
 ||park.chuitian.cn^
 ||parmisbuilding.com^
 ||pb.agnt.ru^
+||pid.fly160.com^
 ||pilzmacher.com^
 ||pns.org.pk^
 ||protechasia.com^
@@ -181,6 +176,7 @@
 ||reifenquick.de^
 ||resourceedge.org^
 ||reusable-flex.com^
+||rgueapp.com^
 ||ronnin-v2.com^
 ||safe.ywxww.net^
 ||saveyourcinema.ca^
@@ -191,6 +187,7 @@
 ||shell.dimitrimedia.com^
 ||sirault.be^
 ||smartverysmart2.com^
+||soft.110route.com^
 ||solve.dpqx.org^
 ||solve.lqwt.org^
 ||soportegira.net^
@@ -205,10 +202,8 @@
 ||support-microsofthelp.com^
 ||support.clz.kr^
 ||symbiatec-fi.com^
-||symbietic.com^
-||symdlotic.com^
 ||tao025.com^
-||tao221.com^
+||tao816.com^
 ||tao977.com^
 ||taodianla.com^
 ||tecni-soft.com^
@@ -219,31 +214,27 @@
 ||tests.yjzj.org^
 ||tianyinsoft.top^
 ||tiaoshibao.com^
-||tjsemicoke.com^
 ||traefik-dashboard.val.io.vn^
 ||travelwithmanta.co.za^
 ||treinamento.convenio.to.gov.br^
-||tualcaldia.com^
 ||twizt.net^
 ||upadaria.org^
 ||update.cg100iii.com^
-||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||us22.info^
 ||utorrent-backup-server.top^
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
+||utorrent-backup-server5.top^
 ||utorrent-servers.xyz^
 ||valseg.com.br^
-||vbccorretoradeseguros.com.br^
 ||view-reserve.com^
-||weixe.ir^
 ||win-network-checker.cc^
 ||www.aqianniao.com^
+||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.clubedasluluzinhasro.com.br^
-||www.cuochiperungiorno.it^
 ||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.hseda.com^
@@ -259,12 +250,12 @@
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.xn--on3b15m2lco2u.com^
+||www.ysbaojia.com^
 ||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
 ||ximonite.com^
-||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
 ||xorok.shop^
 ||yaocanting.com^
@@ -272,6 +263,5 @@
 ||yzkzixun.com^
 ||z.shavsl.com^
 ||zahlung-erhalten.site^
-||znrq.zifwxq.cn^
 ||zwaregroup.com^
-! Number of entries: 268
+! Number of entries: 258
