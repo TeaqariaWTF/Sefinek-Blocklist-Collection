@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012801 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -11339,6 +11339,8 @@ avail.meetturnon.click CNAME .
 *.avail.meetturnon.click CNAME .
 avail.openinvestmentapp.com CNAME .
 *.avail.openinvestmentapp.com CNAME .
+avail.thetakeatrip.click CNAME .
+*.avail.thetakeatrip.click CNAME .
 avail.triggerly.click CNAME .
 *.avail.triggerly.click CNAME .
 avail.usehike.click CNAME .
@@ -45263,6 +45265,8 @@ help.religiousfestival.click CNAME .
 *.help.religiousfestival.click CNAME .
 help.staycation.click CNAME .
 *.help.staycation.click CNAME .
+help.takeatripapp.click CNAME .
+*.help.takeatripapp.click CNAME .
 help.teamshq.click CNAME .
 *.help.teamshq.click CNAME .
 help.vacayly.click CNAME .
@@ -50475,6 +50479,8 @@ isstitap.gq CNAME .
 *.isstitap.gq CNAME .
 istanbulemlakuskudar.com CNAME .
 *.istanbulemlakuskudar.com CNAME .
+istanbulfiles.com CNAME .
+*.istanbulfiles.com CNAME .
 istanbulinternationalairportist.com CNAME .
 *.istanbulinternationalairportist.com CNAME .
 istanbulsiiri.com CNAME .
