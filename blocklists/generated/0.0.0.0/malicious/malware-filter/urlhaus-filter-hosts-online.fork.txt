@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2025-01-28T00:09:31Z
+# Updated: 2025-01-28T12:09:33Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -19,7 +19,6 @@
 0.0.0.0 91-202-233-151.plesk.page
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 99smoothfm.com
-0.0.0.0 a.gandzy.shop
 0.0.0.0 a11xxx1.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 a12xxx1.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 a15aaa1.oss-cn-hongkong.aliyuncs.com
@@ -38,10 +37,8 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 alien-training.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
-0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
@@ -54,6 +51,7 @@
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
+0.0.0.0 avastng.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
@@ -61,10 +59,10 @@
 0.0.0.0 azgint.com
 0.0.0.0 b46.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link
-0.0.0.0 bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link
 0.0.0.0 baixetudopcwindows.github.io
 0.0.0.0 banthis.su
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
+0.0.0.0 bit.smogturfprance.shop
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blackhattoolz.com
 0.0.0.0 bruplong.oss-accelerate.aliyuncs.com
@@ -73,7 +71,6 @@
 0.0.0.0 c0e5b87c.solaraweb-alj.pages.dev
 0.0.0.0 c3poolbat.oss-accelerate.aliyuncs.com
 0.0.0.0 c3poolbat2.oss-ap-northeast-1.aliyuncs.com
-0.0.0.0 campingkaymakis.ath.forthnet.gr
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.ly.9377.com
@@ -90,7 +87,7 @@
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cpc138130-hatf10-2-0-cust814.9-3.cable.virginm.net
-0.0.0.0 cranky-nash.91-202-233-151.plesk.page
+0.0.0.0 credovsnra.com
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
@@ -100,7 +97,6 @@
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
-0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 desquer.ens.uabc.mx
 0.0.0.0 device.redirec.com
@@ -122,16 +118,16 @@
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.skycn.com
+0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
-0.0.0.0 dragonhack.shop
 0.0.0.0 dz0nhlj1q8ac3.cloudfront.net
 0.0.0.0 e4l4.com
 0.0.0.0 eager-haslett.91-202-233-151.plesk.page
 0.0.0.0 ec2-18-166-176-228.ap-east-1.compute.amazonaws.com
 0.0.0.0 ecolumy.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 emorista.org
 0.0.0.0 energigroup.hu
+0.0.0.0 epanpano.com
 0.0.0.0 epei77.direct.quickconnect.to
 0.0.0.0 everywhere-nat-enhanced-closing.trycloudflare.com
 0.0.0.0 f24-zfcloud.zdn.vn
@@ -149,9 +145,9 @@
 0.0.0.0 gets-quant.oss-ap-southeast-7.aliyuncs.com
 0.0.0.0 glennmedina.com
 0.0.0.0 globallaborsupply.com
-0.0.0.0 green-mandrill-989137.hostingersite.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 hardcore-cartwright.194-26-192-76.plesk.page
+0.0.0.0 hhbs.hhu.edu.cn
 0.0.0.0 hhynetwork.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
@@ -163,32 +159,34 @@
 0.0.0.0 host-95-255-114-11.business.telecomitalia.it
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 i0001.clarodrive.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 information-binance.com
 0.0.0.0 ingonherbal.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jaffarkhan.com
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kio.giize.com
 0.0.0.0 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 kypeti.com
 0.0.0.0 library.arihantmbainstitute.ac.in
+0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 loader.hxsoftwares.com
 0.0.0.0 loader.oxy.st
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lti.cs.vt.edu
 0.0.0.0 lusii.oss-ap-southeast-1.aliyuncs.com
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 maerchen-beat-frei.ch
 0.0.0.0 main.dsn.ovh
@@ -197,14 +195,13 @@
 0.0.0.0 medises.co.kr
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 messiku.com
-0.0.0.0 mffaccessories.com
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
+0.0.0.0 miner-tolken.com
 0.0.0.0 mininews.kpzip.com
 0.0.0.0 misljen.net
 0.0.0.0 mocdrol.com.br
 0.0.0.0 modest-sinoussi.91-202-233-151.plesk.page
-0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta0.kio.giize.com
 0.0.0.0 my.cloudme.com
 0.0.0.0 myguyapp.com
@@ -227,7 +224,6 @@
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
-0.0.0.0 petrjanicek.savana-hosting.cz
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pirati.privatedns.org
@@ -238,8 +234,9 @@
 0.0.0.0 pub-92c456788ff540628e0e809709842c78.r2.dev
 0.0.0.0 pub-cdd0dd27ae6a4aee9841d397e0496374.r2.dev
 0.0.0.0 pub-d6448def2aba44ce96071bebcc1ce641.r2.dev
-0.0.0.0 qed245t3kreiscryoz-gueterslohewr33w.de
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quit.do.am
 0.0.0.0 rappel-coinbase.com
@@ -258,7 +255,6 @@
 0.0.0.0 schytcdagl.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 ser.nrovn.xyz
-0.0.0.0 sergiolamoski.com
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 sfa.com.ar
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
@@ -266,7 +262,7 @@
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sister-1324943887.cos.ap-guangzhou.myqcloud.com
-0.0.0.0 soft.110route.com
+0.0.0.0 smartverysmart2.com
 0.0.0.0 soft.wsyhn.com
 0.0.0.0 softbank126023203236.bbtec.net
 0.0.0.0 softdl.360tpcdn.com
@@ -303,6 +299,7 @@
 0.0.0.0 test.aionclassic.pro
 0.0.0.0 tests.yjzj.org
 0.0.0.0 tianyinsoft.top
+0.0.0.0 tiaoshibao.com
 0.0.0.0 tjsemicoke.com
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
@@ -311,6 +308,7 @@
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 upload.vina-host.com
 0.0.0.0 utorrent-backup-server.top
@@ -322,6 +320,7 @@
 0.0.0.0 uyul.oss-cn-beijing.aliyuncs.com
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
+0.0.0.0 view-reserve.com
 0.0.0.0 vmi1547155.contaboserver.net
 0.0.0.0 weco.oss-eu-central-1.aliyuncs.com
 0.0.0.0 weco2.oss-me-east-1.aliyuncs.com
@@ -340,7 +339,6 @@
 0.0.0.0 xss-1253555722.cos.ap-singapore.myqcloud.com
 0.0.0.0 xww.bucea.edu.cn
 0.0.0.0 yaocanting.com
-0.0.0.0 ysbaojia.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zffsg.oss-ap-northeast-2.aliyuncs.com
@@ -348,5 +346,4 @@
 0.0.0.0 zhikey.com
 0.0.0.0 zip-store.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com
-0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zwaregroup.com

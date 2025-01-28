@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-28 10:19:04 (UTC)                      #
+# Last updated: 2025-01-28 12:39:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,7 +21,6 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 alien-training.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.hostize.com
@@ -29,6 +28,7 @@
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 apslline.com
 0.0.0.0 aquila.mt
+0.0.0.0 armanayegh.com
 0.0.0.0 artikel-zahlung.website
 0.0.0.0 aulist.com
 0.0.0.0 autoparts-online.uk
@@ -45,17 +45,20 @@
 0.0.0.0 banthis.su
 0.0.0.0 bezahlte-artikel.website
 0.0.0.0 bezahlte-bestellung.website
+0.0.0.0 bit.smogturfprance.shop
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 booking.complaingustase.com
 0.0.0.0 booking.secureparners.com
 0.0.0.0 botnet.sapphirenet.xyz
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bv.dopt.cc
+0.0.0.0 captivatingkeepsakes.shop
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
 0.0.0.0 ciscocdn.com
+0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 comteste.com
@@ -66,10 +69,10 @@
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dbasopma.shop
-0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
@@ -94,7 +97,6 @@
 0.0.0.0 dragonhack.shop
 0.0.0.0 e4l4.com
 0.0.0.0 ecolumy.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 emorista.org
 0.0.0.0 energigroup.hu
 0.0.0.0 eoufaoeuhoauengi.su
@@ -106,6 +108,7 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
+0.0.0.0 gachetroi.com
 0.0.0.0 galeforce.com.tr
 0.0.0.0 gawx.florenda.com
 0.0.0.0 glennmedina.com
@@ -119,6 +122,7 @@
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
+0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
@@ -127,10 +131,12 @@
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
+0.0.0.0 jrqh-hk.com
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kypeti.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 loeghaiofiehfihf.to
@@ -145,7 +151,6 @@
 0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mocdrol.com.br
-0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mrsclausagentofsanta.com
 0.0.0.0 mustre.com.my
 0.0.0.0 myguyapp.com
@@ -160,13 +165,11 @@
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
-0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
@@ -185,11 +188,11 @@
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 smartverysmart2.com
-0.0.0.0 soft.110route.com
 0.0.0.0 solve.dpqx.org
 0.0.0.0 solve.lqwt.org
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -203,7 +206,6 @@
 0.0.0.0 symdlotic.com
 0.0.0.0 tao025.com
 0.0.0.0 tao221.com
-0.0.0.0 tao816.com
 0.0.0.0 tao977.com
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
@@ -222,6 +224,7 @@
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 us22.info
 0.0.0.0 utorrent-backup-server.top
@@ -235,7 +238,6 @@
 0.0.0.0 view-reserve.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
-0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
@@ -248,11 +250,11 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
-0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
@@ -261,9 +263,9 @@
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xorok.shop
+0.0.0.0 yaocanting.com
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zahlung-erhalten.site
-0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zwaregroup.com
-# Number of entries: 260
+# Number of entries: 262
