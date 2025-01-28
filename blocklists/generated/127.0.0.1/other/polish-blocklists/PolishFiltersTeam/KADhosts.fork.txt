@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 28 Jan 2025, 17:26 UTC+01:00
-# Version: 2025.1.28.2
+# Last modified: Tue, 28 Jan 2025, 21:22 UTC+01:00
+# Version: 2025.1.28.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3429,6 +3429,7 @@
 127.0.0.1 0ix-904.info
 127.0.0.1 0ix.806263.xyz
 127.0.0.1 0ix.4748447.xyz
+127.0.0.1 0ix.6907453.xyz
 127.0.0.1 0ix.37834753.xyz
 127.0.0.1 0ix.82343243.xyz
 127.0.0.1 0jx.194805473.xyz
@@ -5004,6 +5005,7 @@
 127.0.0.1 alebilet.pl-app-82368.cfd
 127.0.0.1 alebilet.pl-aukcja-5774345.icu
 127.0.0.1 alebilet.pl-nr12315.icu
+127.0.0.1 alebilet.pl-oferta1317.icu
 127.0.0.1 alebilet.pl-oferta1852.pl
 127.0.0.1 alebilet.pl-oferta2949.online
 127.0.0.1 alebilet.pl-oferta7491.cfd
@@ -5021,6 +5023,7 @@
 127.0.0.1 alebilet.pl-oferta573721.icu
 127.0.0.1 alebilet.pl-oferta746837.icu
 127.0.0.1 alebilet.pl-oferta758469.icu
+127.0.0.1 alebilet.pl-oferta775397.pl
 127.0.0.1 alebilet.pl-oferta936267.cfd
 127.0.0.1 alebilet.pl-oferta936267.icu
 127.0.0.1 alebilet.pl-oferta936667.cfd
@@ -5309,6 +5312,7 @@
 127.0.0.1 allegro.pl-app-82368.cfd
 127.0.0.1 allegro.pl-aukcja-5774345.icu
 127.0.0.1 allegro.pl-nr12315.icu
+127.0.0.1 allegro.pl-oferta1317.icu
 127.0.0.1 allegro.pl-oferta7491.cfd
 127.0.0.1 allegro.pl-oferta7544.icu
 127.0.0.1 allegro.pl-oferta216217.cfd
@@ -5320,6 +5324,7 @@
 127.0.0.1 allegro.pl-oferta573721.icu
 127.0.0.1 allegro.pl-oferta746837.icu
 127.0.0.1 allegro.pl-oferta758469.icu
+127.0.0.1 allegro.pl-oferta775397.pl
 127.0.0.1 allegro.pl-oferta936267.cfd
 127.0.0.1 allegro.pl-oferta936267.icu
 127.0.0.1 allegro.pl-oferta936667.cfd
@@ -5775,17 +5780,20 @@
 127.0.0.1 allegrolokalnie.pl-969.icu
 127.0.0.1 allegrolokalnie.pl-1294.icu
 127.0.0.1 allegrolokalnie.pl-1416-id.shop
+127.0.0.1 allegrolokalnie.pl-1728.rest
 127.0.0.1 allegrolokalnie.pl-1782.shop
 127.0.0.1 allegrolokalnie.pl-1783.buzz
 127.0.0.1 allegrolokalnie.pl-2140.cfd
 127.0.0.1 allegrolokalnie.pl-2141.cfd
 127.0.0.1 allegrolokalnie.pl-2149.cfd
 127.0.0.1 allegrolokalnie.pl-2392.cfd
+127.0.0.1 allegrolokalnie.pl-2421.cfd
 127.0.0.1 allegrolokalnie.pl-2841.cfd
 127.0.0.1 allegrolokalnie.pl-2987.cfd
 127.0.0.1 allegrolokalnie.pl-3112.cfd
 127.0.0.1 allegrolokalnie.pl-3245dx235fd43565.buzz
 127.0.0.1 allegrolokalnie.pl-3261.cfd
+127.0.0.1 allegrolokalnie.pl-3292.cfd
 127.0.0.1 allegrolokalnie.pl-3294.cfd
 127.0.0.1 allegrolokalnie.pl-3823.cfd
 127.0.0.1 allegrolokalnie.pl-3934.cfd
@@ -5807,6 +5815,7 @@
 127.0.0.1 allegrolokalnie.pl-8749.cfd
 127.0.0.1 allegrolokalnie.pl-8912.buzz
 127.0.0.1 allegrolokalnie.pl-9122.buzz
+127.0.0.1 allegrolokalnie.pl-9212.cfd
 127.0.0.1 allegrolokalnie.pl-9432.cfd
 127.0.0.1 allegrolokalnie.pl-09844.icu
 127.0.0.1 allegrolokalnie.pl-13454.icu
@@ -5926,6 +5935,7 @@
 127.0.0.1 allegrolokalnie.pl-kategorie-pozostale.shop
 127.0.0.1 allegrolokalnie.pl-nr12315.icu
 127.0.0.1 allegrolokalnie.pl-nv345434.icu
+127.0.0.1 allegrolokalnie.pl-oferta1317.icu
 127.0.0.1 allegrolokalnie.pl-oferta1466.online
 127.0.0.1 allegrolokalnie.pl-oferta3341.online
 127.0.0.1 allegrolokalnie.pl-oferta4356f5647.buzz
@@ -5981,6 +5991,7 @@
 127.0.0.1 allegrolokalnie.pl-oferta758117.com
 127.0.0.1 allegrolokalnie.pl-oferta758469.icu
 127.0.0.1 allegrolokalnie.pl-oferta758917.com
+127.0.0.1 allegrolokalnie.pl-oferta775397.pl
 127.0.0.1 allegrolokalnie.pl-oferta875345.com
 127.0.0.1 allegrolokalnie.pl-oferta932417.com
 127.0.0.1 allegrolokalnie.pl-oferta936267.cfd
@@ -8624,6 +8635,7 @@
 127.0.0.1 booking.rescomunicationshow.com
 127.0.0.1 booking.rewiesbadcheked.com
 127.0.0.1 booking.rewiewsguestforhouse.com
+127.0.0.1 booking.rewiresgusterio.com
 127.0.0.1 booking.rewscomunicationgusty.com
 127.0.0.1 booking.sign-in27813.cfd
 127.0.0.1 booking.viollationpage.top
@@ -9236,6 +9248,7 @@
 127.0.0.1 bykome.com
 127.0.0.1 bykrissyann.com
 127.0.0.1 bykugya.com
+127.0.0.1 bylawoe.com
 127.0.0.1 bylicao.com
 127.0.0.1 bymarchitect.com
 127.0.0.1 bynazue.pics
@@ -9740,6 +9753,7 @@
 127.0.0.1 cemebe.markets4bridges.com
 127.0.0.1 cemjot.com
 127.0.0.1 cemuhi.treasurendtrovedeals.com
+127.0.0.1 cemukiu.com
 127.0.0.1 cemuwa.dat4defenders.com
 127.0.0.1 cenalog.com
 127.0.0.1 centermanagements-advertisings.online
@@ -12905,6 +12919,7 @@
 127.0.0.1 e2ilpc.icu
 127.0.0.1 e2qyso.rest
 127.0.0.1 e2wizb.hair
+127.0.0.1 e3ktfv.cyou
 127.0.0.1 e3llqv.lol
 127.0.0.1 e3zmxw.rest
 127.0.0.1 e4e7ae784878a55a.myplus.click
@@ -15133,6 +15148,7 @@
 127.0.0.1 fyjudaa.com
 127.0.0.1 fylagya6.pro
 127.0.0.1 fywewiula.xyz
+127.0.0.1 fywysey.com
 127.0.0.1 fyxasa.info
 127.0.0.1 fyxd.lat
 127.0.0.1 fz6tmg.lat
@@ -16133,7 +16149,6 @@
 127.0.0.1 grupawp.weebly.com
 127.0.0.1 grupluxury.com
 127.0.0.1 grupoazulejerodemayoristas.com
-127.0.0.1 grupocedva.mx
 127.0.0.1 grupodisal.com.co
 127.0.0.1 grupoeq.com
 127.0.0.1 grupomoebius.com
@@ -17221,6 +17236,7 @@
 127.0.0.1 hymetalproduct.com
 127.0.0.1 hynehou9.pro
 127.0.0.1 hynyjuy.com
+127.0.0.1 hypaag-mcdiouds-scroiaz.yolasite.com
 127.0.0.1 hypecliente.s-host.net
 127.0.0.1 hypeendurance.com
 127.0.0.1 hyperstt.com
@@ -18191,7 +18207,6 @@
 127.0.0.1 integratedsignal.com
 127.0.0.1 integratedsorbent.life
 127.0.0.1 intel-ark.com
-127.0.0.1 intelligentmoneyoffers.com
 127.0.0.1 intelligenttomorrow.com
 127.0.0.1 intelligentuniverse.life
 127.0.0.1 intelligentwaves.xyz
@@ -18642,6 +18657,7 @@
 127.0.0.1 jannsales44.com
 127.0.0.1 janodsale.shop
 127.0.0.1 jansan-canada.com
+127.0.0.1 jansendfig.glitch.me
 127.0.0.1 jansmawijngaarden.com
 127.0.0.1 jansportpoland.shop
 127.0.0.1 jantarika.com
@@ -18791,7 +18807,6 @@
 127.0.0.1 jh0spt0d.447383383.com
 127.0.0.1 jh0spt0d.757864378.com
 127.0.0.1 jh0spt0d.id6756588.shop
-127.0.0.1 jh4bng.lol
 127.0.0.1 jh.nwmw.skin
 127.0.0.1 jhbjhvhgcgfncnmvgfcjyh.co.in
 127.0.0.1 jhk.trdeone.top
@@ -23414,6 +23429,7 @@
 127.0.0.1 newsspypro.com
 127.0.0.1 newstandardgroup.site
 127.0.0.1 newstandardpro.site
+127.0.0.1 newstandardway.site
 127.0.0.1 newstartcounsellingservicesinc.com
 127.0.0.1 newstochka24.top
 127.0.0.1 newstodayabout-1.xyz
@@ -23970,6 +23986,7 @@
 127.0.0.1 o41gxny9qjfhmw.pl-plus.online
 127.0.0.1 o56p.space
 127.0.0.1 o-interior.com
+127.0.0.1 o-jx.58087464.xyz
 127.0.0.1 o-l-x.redirect-link.icu
 127.0.0.1 o-lx.406263.xyz
 127.0.0.1 o-lx.0533435.xyz
@@ -24214,7 +24231,6 @@
 127.0.0.1 ojx.79421548.xyz
 127.0.0.1 ojx.79478205.xyz
 127.0.0.1 ok4uju.hair
-127.0.0.1 ok6sto.rest
 127.0.0.1 ok.aofw.top
 127.0.0.1 okchichy.com
 127.0.0.1 okcrealestategroup.com
@@ -25821,6 +25837,7 @@
 127.0.0.1 olx.pl-aukcja-5774345.icu
 127.0.0.1 olx.pl-bezpiecznaoferta.store
 127.0.0.1 olx.pl-nr12315.icu
+127.0.0.1 olx.pl-oferta1317.icu
 127.0.0.1 olx.pl-oferta7491.cfd
 127.0.0.1 olx.pl-oferta7544.icu
 127.0.0.1 olx.pl-oferta8349.cfd
@@ -25834,6 +25851,7 @@
 127.0.0.1 olx.pl-oferta573721.icu
 127.0.0.1 olx.pl-oferta746837.icu
 127.0.0.1 olx.pl-oferta758469.icu
+127.0.0.1 olx.pl-oferta775397.pl
 127.0.0.1 olx.pl-oferta936267.cfd
 127.0.0.1 olx.pl-oferta936267.icu
 127.0.0.1 olx.pl-oferta936667.cfd
@@ -27494,11 +27512,13 @@
 127.0.0.1 pl-969.icu
 127.0.0.1 pl-2140.cfd
 127.0.0.1 pl-2141.cfd
+127.0.0.1 pl-3292.cfd
 127.0.0.1 pl-3294.cfd
 127.0.0.1 pl-4281.cfd
 127.0.0.1 pl-5185.cfd
 127.0.0.1 pl-8271.cfd
 127.0.0.1 pl-8540.cfd
+127.0.0.1 pl-9212.cfd
 127.0.0.1 pl-09844.icu
 127.0.0.1 pl-13454.icu
 127.0.0.1 pl-17824.com
@@ -27561,6 +27581,7 @@
 127.0.0.1 pl-netflix-v10927.cfolks.pl
 127.0.0.1 pl-nr12315.icu
 127.0.0.1 pl-of.com
+127.0.0.1 pl-oferta1317.icu
 127.0.0.1 pl-oferta7491.cfd
 127.0.0.1 pl-oferta7544.icu
 127.0.0.1 pl-oferta23342.top
@@ -27574,6 +27595,7 @@
 127.0.0.1 pl-oferta573721.icu
 127.0.0.1 pl-oferta746837.icu
 127.0.0.1 pl-oferta758469.icu
+127.0.0.1 pl-oferta775397.pl
 127.0.0.1 pl-oferta936267.cfd
 127.0.0.1 pl-oferta936267.icu
 127.0.0.1 pl-oferta936667.cfd
@@ -27931,7 +27953,9 @@
 127.0.0.1 poczta-polska-pl-zaplata.customsie.com
 127.0.0.1 poczta-polska-pl-zaplata.pl-zplt.info
 127.0.0.1 poczta-polska-pl.customsie.com
+127.0.0.1 poczta-polska-pl.pl-oplata.info
 127.0.0.1 poczta-polska-pl.pl-zplt.info
+127.0.0.1 poczta-polska-zaplata-pl.pl-oplata.info
 127.0.0.1 poczta-polska-zaplata-pl.pl-zplt.info
 127.0.0.1 poczta-polska-zaplata.pl-zplt.info
 127.0.0.1 poczta-polska-zaplata.pl-zpo.info
@@ -29409,7 +29433,6 @@
 127.0.0.1 qzxy-light.com
 127.0.0.1 r1cjga.top
 127.0.0.1 r1cjog.lol
-127.0.0.1 r1lixa.skin
 127.0.0.1 r1nk.space
 127.0.0.1 r1rhfo.skin
 127.0.0.1 r2kjtj.bond
@@ -31043,6 +31066,7 @@
 127.0.0.1 sc.bzot.top
 127.0.0.1 sc.oeej.skin
 127.0.0.1 scaleatsale.com
+127.0.0.1 scalttesta.com
 127.0.0.1 scanditoys.myfreesites.net
 127.0.0.1 scanmagfucku.com
 127.0.0.1 scanmineralsgh.com
@@ -35101,6 +35125,7 @@
 127.0.0.1 trustemmim.com
 127.0.0.1 trustmoneyx.com
 127.0.0.1 trustswalleverifuy.com
+127.0.0.1 trustwallet.group
 127.0.0.1 trusty.law
 127.0.0.1 trustycoupon.com
 127.0.0.1 truth-consult.com
@@ -36292,6 +36317,7 @@
 127.0.0.1 vinted.bid-click443.net
 127.0.0.1 vinted.charge281.run
 127.0.0.1 vinted.charge389.club
+127.0.0.1 vinted.checksales.info
 127.0.0.1 vinted.complete-deal.info
 127.0.0.1 vinted.complete-sale.com
 127.0.0.1 vinted.complete-status.com
@@ -36527,6 +36553,7 @@
 127.0.0.1 vjnteden.64327.shop
 127.0.0.1 vjntedes.53589.xyz
 127.0.0.1 vjntedes.64327.shop
+127.0.0.1 vjntedit.53589.xyz
 127.0.0.1 vjntedit.defen.info
 127.0.0.1 vjntedit.jetdl.info
 127.0.0.1 vjntednl.64327.shop
@@ -38022,6 +38049,7 @@
 127.0.0.1 www.0ix-904.info
 127.0.0.1 www.0ix.806263.xyz
 127.0.0.1 www.0ix.4748447.xyz
+127.0.0.1 www.0ix.6907453.xyz
 127.0.0.1 www.0ix.37834753.xyz
 127.0.0.1 www.0ix.82343243.xyz
 127.0.0.1 www.0jx.194805473.xyz
@@ -39597,6 +39625,7 @@
 127.0.0.1 www.alebilet.pl-app-82368.cfd
 127.0.0.1 www.alebilet.pl-aukcja-5774345.icu
 127.0.0.1 www.alebilet.pl-nr12315.icu
+127.0.0.1 www.alebilet.pl-oferta1317.icu
 127.0.0.1 www.alebilet.pl-oferta1852.pl
 127.0.0.1 www.alebilet.pl-oferta2949.online
 127.0.0.1 www.alebilet.pl-oferta7491.cfd
@@ -39614,6 +39643,7 @@
 127.0.0.1 www.alebilet.pl-oferta573721.icu
 127.0.0.1 www.alebilet.pl-oferta746837.icu
 127.0.0.1 www.alebilet.pl-oferta758469.icu
+127.0.0.1 www.alebilet.pl-oferta775397.pl
 127.0.0.1 www.alebilet.pl-oferta936267.cfd
 127.0.0.1 www.alebilet.pl-oferta936267.icu
 127.0.0.1 www.alebilet.pl-oferta936667.cfd
@@ -39902,6 +39932,7 @@
 127.0.0.1 www.allegro.pl-app-82368.cfd
 127.0.0.1 www.allegro.pl-aukcja-5774345.icu
 127.0.0.1 www.allegro.pl-nr12315.icu
+127.0.0.1 www.allegro.pl-oferta1317.icu
 127.0.0.1 www.allegro.pl-oferta7491.cfd
 127.0.0.1 www.allegro.pl-oferta7544.icu
 127.0.0.1 www.allegro.pl-oferta216217.cfd
@@ -39913,6 +39944,7 @@
 127.0.0.1 www.allegro.pl-oferta573721.icu
 127.0.0.1 www.allegro.pl-oferta746837.icu
 127.0.0.1 www.allegro.pl-oferta758469.icu
+127.0.0.1 www.allegro.pl-oferta775397.pl
 127.0.0.1 www.allegro.pl-oferta936267.cfd
 127.0.0.1 www.allegro.pl-oferta936267.icu
 127.0.0.1 www.allegro.pl-oferta936667.cfd
@@ -40368,17 +40400,20 @@
 127.0.0.1 www.allegrolokalnie.pl-969.icu
 127.0.0.1 www.allegrolokalnie.pl-1294.icu
 127.0.0.1 www.allegrolokalnie.pl-1416-id.shop
+127.0.0.1 www.allegrolokalnie.pl-1728.rest
 127.0.0.1 www.allegrolokalnie.pl-1782.shop
 127.0.0.1 www.allegrolokalnie.pl-1783.buzz
 127.0.0.1 www.allegrolokalnie.pl-2140.cfd
 127.0.0.1 www.allegrolokalnie.pl-2141.cfd
 127.0.0.1 www.allegrolokalnie.pl-2149.cfd
 127.0.0.1 www.allegrolokalnie.pl-2392.cfd
+127.0.0.1 www.allegrolokalnie.pl-2421.cfd
 127.0.0.1 www.allegrolokalnie.pl-2841.cfd
 127.0.0.1 www.allegrolokalnie.pl-2987.cfd
 127.0.0.1 www.allegrolokalnie.pl-3112.cfd
 127.0.0.1 www.allegrolokalnie.pl-3245dx235fd43565.buzz
 127.0.0.1 www.allegrolokalnie.pl-3261.cfd
+127.0.0.1 www.allegrolokalnie.pl-3292.cfd
 127.0.0.1 www.allegrolokalnie.pl-3294.cfd
 127.0.0.1 www.allegrolokalnie.pl-3823.cfd
 127.0.0.1 www.allegrolokalnie.pl-3934.cfd
@@ -40400,6 +40435,7 @@
 127.0.0.1 www.allegrolokalnie.pl-8749.cfd
 127.0.0.1 www.allegrolokalnie.pl-8912.buzz
 127.0.0.1 www.allegrolokalnie.pl-9122.buzz
+127.0.0.1 www.allegrolokalnie.pl-9212.cfd
 127.0.0.1 www.allegrolokalnie.pl-9432.cfd
 127.0.0.1 www.allegrolokalnie.pl-09844.icu
 127.0.0.1 www.allegrolokalnie.pl-13454.icu
@@ -40519,6 +40555,7 @@
 127.0.0.1 www.allegrolokalnie.pl-kategorie-pozostale.shop
 127.0.0.1 www.allegrolokalnie.pl-nr12315.icu
 127.0.0.1 www.allegrolokalnie.pl-nv345434.icu
+127.0.0.1 www.allegrolokalnie.pl-oferta1317.icu
 127.0.0.1 www.allegrolokalnie.pl-oferta1466.online
 127.0.0.1 www.allegrolokalnie.pl-oferta3341.online
 127.0.0.1 www.allegrolokalnie.pl-oferta4356f5647.buzz
@@ -40574,6 +40611,7 @@
 127.0.0.1 www.allegrolokalnie.pl-oferta758117.com
 127.0.0.1 www.allegrolokalnie.pl-oferta758469.icu
 127.0.0.1 www.allegrolokalnie.pl-oferta758917.com
+127.0.0.1 www.allegrolokalnie.pl-oferta775397.pl
 127.0.0.1 www.allegrolokalnie.pl-oferta875345.com
 127.0.0.1 www.allegrolokalnie.pl-oferta932417.com
 127.0.0.1 www.allegrolokalnie.pl-oferta936267.cfd
@@ -43217,6 +43255,7 @@
 127.0.0.1 www.booking.rescomunicationshow.com
 127.0.0.1 www.booking.rewiesbadcheked.com
 127.0.0.1 www.booking.rewiewsguestforhouse.com
+127.0.0.1 www.booking.rewiresgusterio.com
 127.0.0.1 www.booking.rewscomunicationgusty.com
 127.0.0.1 www.booking.sign-in27813.cfd
 127.0.0.1 www.booking.viollationpage.top
@@ -43829,6 +43868,7 @@
 127.0.0.1 www.bykome.com
 127.0.0.1 www.bykrissyann.com
 127.0.0.1 www.bykugya.com
+127.0.0.1 www.bylawoe.com
 127.0.0.1 www.bylicao.com
 127.0.0.1 www.bymarchitect.com
 127.0.0.1 www.bynazue.pics
@@ -44333,6 +44373,7 @@
 127.0.0.1 www.cemebe.markets4bridges.com
 127.0.0.1 www.cemjot.com
 127.0.0.1 www.cemuhi.treasurendtrovedeals.com
+127.0.0.1 www.cemukiu.com
 127.0.0.1 www.cemuwa.dat4defenders.com
 127.0.0.1 www.cenalog.com
 127.0.0.1 www.centermanagements-advertisings.online
@@ -47498,6 +47539,7 @@
 127.0.0.1 www.e2ilpc.icu
 127.0.0.1 www.e2qyso.rest
 127.0.0.1 www.e2wizb.hair
+127.0.0.1 www.e3ktfv.cyou
 127.0.0.1 www.e3llqv.lol
 127.0.0.1 www.e3zmxw.rest
 127.0.0.1 www.e4e7ae784878a55a.myplus.click
@@ -49726,6 +49768,7 @@
 127.0.0.1 www.fyjudaa.com
 127.0.0.1 www.fylagya6.pro
 127.0.0.1 www.fywewiula.xyz
+127.0.0.1 www.fywysey.com
 127.0.0.1 www.fyxasa.info
 127.0.0.1 www.fyxd.lat
 127.0.0.1 www.fz6tmg.lat
@@ -50726,7 +50769,6 @@
 127.0.0.1 www.grupawp.weebly.com
 127.0.0.1 www.grupluxury.com
 127.0.0.1 www.grupoazulejerodemayoristas.com
-127.0.0.1 www.grupocedva.mx
 127.0.0.1 www.grupodisal.com.co
 127.0.0.1 www.grupoeq.com
 127.0.0.1 www.grupomoebius.com
@@ -51814,6 +51856,7 @@
 127.0.0.1 www.hymetalproduct.com
 127.0.0.1 www.hynehou9.pro
 127.0.0.1 www.hynyjuy.com
+127.0.0.1 www.hypaag-mcdiouds-scroiaz.yolasite.com
 127.0.0.1 www.hypecliente.s-host.net
 127.0.0.1 www.hypeendurance.com
 127.0.0.1 www.hyperstt.com
@@ -52784,7 +52827,6 @@
 127.0.0.1 www.integratedsignal.com
 127.0.0.1 www.integratedsorbent.life
 127.0.0.1 www.intel-ark.com
-127.0.0.1 www.intelligentmoneyoffers.com
 127.0.0.1 www.intelligenttomorrow.com
 127.0.0.1 www.intelligentuniverse.life
 127.0.0.1 www.intelligentwaves.xyz
@@ -53235,6 +53277,7 @@
 127.0.0.1 www.jannsales44.com
 127.0.0.1 www.janodsale.shop
 127.0.0.1 www.jansan-canada.com
+127.0.0.1 www.jansendfig.glitch.me
 127.0.0.1 www.jansmawijngaarden.com
 127.0.0.1 www.jansportpoland.shop
 127.0.0.1 www.jantarika.com
@@ -53384,7 +53427,6 @@
 127.0.0.1 www.jh0spt0d.447383383.com
 127.0.0.1 www.jh0spt0d.757864378.com
 127.0.0.1 www.jh0spt0d.id6756588.shop
-127.0.0.1 www.jh4bng.lol
 127.0.0.1 www.jh.nwmw.skin
 127.0.0.1 www.jhbjhvhgcgfncnmvgfcjyh.co.in
 127.0.0.1 www.jhk.trdeone.top
@@ -58007,6 +58049,7 @@
 127.0.0.1 www.newsspypro.com
 127.0.0.1 www.newstandardgroup.site
 127.0.0.1 www.newstandardpro.site
+127.0.0.1 www.newstandardway.site
 127.0.0.1 www.newstartcounsellingservicesinc.com
 127.0.0.1 www.newstochka24.top
 127.0.0.1 www.newstodayabout-1.xyz
@@ -58563,6 +58606,7 @@
 127.0.0.1 www.o41gxny9qjfhmw.pl-plus.online
 127.0.0.1 www.o56p.space
 127.0.0.1 www.o-interior.com
+127.0.0.1 www.o-jx.58087464.xyz
 127.0.0.1 www.o-l-x.redirect-link.icu
 127.0.0.1 www.o-lx.406263.xyz
 127.0.0.1 www.o-lx.0533435.xyz
@@ -58807,7 +58851,6 @@
 127.0.0.1 www.ojx.79421548.xyz
 127.0.0.1 www.ojx.79478205.xyz
 127.0.0.1 www.ok4uju.hair
-127.0.0.1 www.ok6sto.rest
 127.0.0.1 www.ok.aofw.top
 127.0.0.1 www.okchichy.com
 127.0.0.1 www.okcrealestategroup.com
@@ -60414,6 +60457,7 @@
 127.0.0.1 www.olx.pl-aukcja-5774345.icu
 127.0.0.1 www.olx.pl-bezpiecznaoferta.store
 127.0.0.1 www.olx.pl-nr12315.icu
+127.0.0.1 www.olx.pl-oferta1317.icu
 127.0.0.1 www.olx.pl-oferta7491.cfd
 127.0.0.1 www.olx.pl-oferta7544.icu
 127.0.0.1 www.olx.pl-oferta8349.cfd
@@ -60427,6 +60471,7 @@
 127.0.0.1 www.olx.pl-oferta573721.icu
 127.0.0.1 www.olx.pl-oferta746837.icu
 127.0.0.1 www.olx.pl-oferta758469.icu
+127.0.0.1 www.olx.pl-oferta775397.pl
 127.0.0.1 www.olx.pl-oferta936267.cfd
 127.0.0.1 www.olx.pl-oferta936267.icu
 127.0.0.1 www.olx.pl-oferta936667.cfd
@@ -62071,11 +62116,13 @@
 127.0.0.1 www.pl-969.icu
 127.0.0.1 www.pl-2140.cfd
 127.0.0.1 www.pl-2141.cfd
+127.0.0.1 www.pl-3292.cfd
 127.0.0.1 www.pl-3294.cfd
 127.0.0.1 www.pl-4281.cfd
 127.0.0.1 www.pl-5185.cfd
 127.0.0.1 www.pl-8271.cfd
 127.0.0.1 www.pl-8540.cfd
+127.0.0.1 www.pl-9212.cfd
 127.0.0.1 www.pl-09844.icu
 127.0.0.1 www.pl-13454.icu
 127.0.0.1 www.pl-17824.com
@@ -62138,6 +62185,7 @@
 127.0.0.1 www.pl-netflix-v10927.cfolks.pl
 127.0.0.1 www.pl-nr12315.icu
 127.0.0.1 www.pl-of.com
+127.0.0.1 www.pl-oferta1317.icu
 127.0.0.1 www.pl-oferta7491.cfd
 127.0.0.1 www.pl-oferta7544.icu
 127.0.0.1 www.pl-oferta23342.top
@@ -62151,6 +62199,7 @@
 127.0.0.1 www.pl-oferta573721.icu
 127.0.0.1 www.pl-oferta746837.icu
 127.0.0.1 www.pl-oferta758469.icu
+127.0.0.1 www.pl-oferta775397.pl
 127.0.0.1 www.pl-oferta936267.cfd
 127.0.0.1 www.pl-oferta936267.icu
 127.0.0.1 www.pl-oferta936667.cfd
@@ -62471,7 +62520,9 @@
 127.0.0.1 www.poczta-polska-pl-zaplata.customsie.com
 127.0.0.1 www.poczta-polska-pl-zaplata.pl-zplt.info
 127.0.0.1 www.poczta-polska-pl.customsie.com
+127.0.0.1 www.poczta-polska-pl.pl-oplata.info
 127.0.0.1 www.poczta-polska-pl.pl-zplt.info
+127.0.0.1 www.poczta-polska-zaplata-pl.pl-oplata.info
 127.0.0.1 www.poczta-polska-zaplata-pl.pl-zplt.info
 127.0.0.1 www.poczta-polska-zaplata.pl-zplt.info
 127.0.0.1 www.poczta-polska-zaplata.pl-zpo.info
@@ -63949,7 +64000,6 @@
 127.0.0.1 www.qzxy-light.com
 127.0.0.1 www.r1cjga.top
 127.0.0.1 www.r1cjog.lol
-127.0.0.1 www.r1lixa.skin
 127.0.0.1 www.r1nk.space
 127.0.0.1 www.r1rhfo.skin
 127.0.0.1 www.r2kjtj.bond
@@ -65583,6 +65633,7 @@
 127.0.0.1 www.sc.bzot.top
 127.0.0.1 www.sc.oeej.skin
 127.0.0.1 www.scaleatsale.com
+127.0.0.1 www.scalttesta.com
 127.0.0.1 www.scanditoys.myfreesites.net
 127.0.0.1 www.scanmagfucku.com
 127.0.0.1 www.scanmineralsgh.com
@@ -69641,6 +69692,7 @@
 127.0.0.1 www.trustemmim.com
 127.0.0.1 www.trustmoneyx.com
 127.0.0.1 www.trustswalleverifuy.com
+127.0.0.1 www.trustwallet.group
 127.0.0.1 www.trusty.law
 127.0.0.1 www.trustycoupon.com
 127.0.0.1 www.truth-consult.com
@@ -70832,6 +70884,7 @@
 127.0.0.1 www.vinted.bid-click443.net
 127.0.0.1 www.vinted.charge281.run
 127.0.0.1 www.vinted.charge389.club
+127.0.0.1 www.vinted.checksales.info
 127.0.0.1 www.vinted.complete-deal.info
 127.0.0.1 www.vinted.complete-sale.com
 127.0.0.1 www.vinted.complete-status.com
@@ -71067,6 +71120,7 @@
 127.0.0.1 www.vjnteden.64327.shop
 127.0.0.1 www.vjntedes.53589.xyz
 127.0.0.1 www.vjntedes.64327.shop
+127.0.0.1 www.vjntedit.53589.xyz
 127.0.0.1 www.vjntedit.defen.info
 127.0.0.1 www.vjntedit.jetdl.info
 127.0.0.1 www.vjntednl.64327.shop
@@ -72531,7 +72585,6 @@
 127.0.0.1 www.wydarzeniaczytaj.rest
 127.0.0.1 www.wydarzeniaiwiadomosci.rest
 127.0.0.1 www.wydarzeniamiasteczko.rest
-127.0.0.1 www.wydarzeniapolska.com
 127.0.0.1 www.wydarzeniaswiat.rest
 127.0.0.1 www.wydarzeniatutaj.rest
 127.0.0.1 www.wyeld.woctchain.info
@@ -73511,7 +73564,6 @@
 127.0.0.1 wydarzeniaczytaj.rest
 127.0.0.1 wydarzeniaiwiadomosci.rest
 127.0.0.1 wydarzeniamiasteczko.rest
-127.0.0.1 wydarzeniapolska.com
 127.0.0.1 wydarzeniaswiat.rest
 127.0.0.1 wydarzeniatutaj.rest
 127.0.0.1 wyeld.woctchain.info

@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 15,244
-# Updated: 1/27/2025  23:38 (11:38 PM CST)
+# Domains: 15,248
+# Updated: 1/28/2025  15:47 (3:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5837,6 +5837,7 @@
 127.0.0.1 getlivepchelp.com
 127.0.0.1 getmoneyadhome.com
 127.0.0.1 getonce.com
+127.0.0.1 getoyahead.com
 127.0.0.1 getpinballs.com
 127.0.0.1 getprinterdrivers.net
 127.0.0.1 getrbx.club
@@ -6130,10 +6131,12 @@
 127.0.0.1 goloveyou.com
 127.0.0.1 gonogu.lol
 127.0.0.1 gonortoncom-setup.com
+127.0.0.1 gooddealm.com
 127.0.0.1 gooddog.com
 127.0.0.1 goodfamirottihouse.com
 127.0.0.1 goodfirms.co
 127.0.0.1 goodhealthpharmacy.net
+127.0.0.1 goodjobfull.com
 127.0.0.1 goodleadcourservice.com
 127.0.0.1 goodlogistics.com.tr
 127.0.0.1 goodmedsonline.com
@@ -11548,6 +11551,7 @@
 127.0.0.1 regalos-cuba.com
 127.0.0.1 regalragdollkittens.com
 127.0.0.1 regardingt.com
+127.0.0.1 regimcheck.com
 127.0.0.1 regionalni-zmenki.si
 127.0.0.1 regionflirts.com
 127.0.0.1 registeredboxerpups.org
