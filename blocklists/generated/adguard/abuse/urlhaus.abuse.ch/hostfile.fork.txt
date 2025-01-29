@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-29 04:24:08 (UTC)                      !
+! Last updated: 2025-01-29 06:20:13 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -26,7 +26,6 @@
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
-||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||apslline.com^
@@ -89,7 +88,6 @@
 ||djhyzhicai.com^
 ||dkf.regular.ptbaconsulting.com^
 ||dl.aginjector.com^
-||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
@@ -120,8 +118,10 @@
 ||ftp.ywxww.net^
 ||fundrescuetech.com^
 ||funletters.net^
+||gachetroi.com^
 ||gawx.florenda.com^
 ||gay.nguyenletriloc.pro^
+||gemini-desktop.com^
 ||glennmedina.com^
 ||grupobramam.com.br^
 ||gsfeb2oz1ub4.com^
@@ -146,6 +146,7 @@
 ||jobcity.com^
 ||jointings.org^
 ||jrqh-hk.com^
+||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
 ||kutnk.regular.ptbaconsulting.com^
@@ -157,7 +158,6 @@
 ||linkvilleplayers.org^
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
-||lsks.volamngayxua.net^
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||maerchen-beat-frei.ch^
@@ -166,6 +166,7 @@
 ||mcd.static.buyweatherstriponline.com^
 ||mcpa.regular.ptbaconsulting.com^
 ||mertvinc.com.tr^
+||messiku.com^
 ||mffaccessories.com^
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
@@ -189,12 +190,12 @@
 ||pid.fly160.com^
 ||pilzmacher.com^
 ||pjop.order.buyanemostatonline.com^
-||pns.org.pk^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||quanlyphongnet.com^
 ||qwamx.regular.ptbaconsulting.com^
+||rappel-coinbase.com^
 ||rcx.order.buyanemostatonline.com^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
@@ -224,7 +225,6 @@
 ||solve.ueeu.org^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||staatsgewalt.jameschans.de^
 ||stayfitcenter.com^
 ||staytechnation.com^

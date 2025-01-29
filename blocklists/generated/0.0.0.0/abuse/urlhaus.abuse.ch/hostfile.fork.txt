@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 04:24:08 (UTC)                      #
+# Last updated: 2025-01-29 06:20:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,7 +26,6 @@
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
-0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 apslline.com
@@ -89,7 +88,6 @@
 0.0.0.0 djhyzhicai.com
 0.0.0.0 dkf.regular.ptbaconsulting.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -120,8 +118,10 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
+0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gay.nguyenletriloc.pro
+0.0.0.0 gemini-desktop.com
 0.0.0.0 glennmedina.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 gsfeb2oz1ub4.com
@@ -146,6 +146,7 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kutnk.regular.ptbaconsulting.com
@@ -157,7 +158,6 @@
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 maerchen-beat-frei.ch
@@ -166,6 +166,7 @@
 0.0.0.0 mcd.static.buyweatherstriponline.com
 0.0.0.0 mcpa.regular.ptbaconsulting.com
 0.0.0.0 mertvinc.com.tr
+0.0.0.0 messiku.com
 0.0.0.0 mffaccessories.com
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
@@ -189,12 +190,12 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
 0.0.0.0 pjop.order.buyanemostatonline.com
-0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 qwamx.regular.ptbaconsulting.com
+0.0.0.0 rappel-coinbase.com
 0.0.0.0 rcx.order.buyanemostatonline.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -224,7 +225,6 @@
 0.0.0.0 solve.ueeu.org
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stayfitcenter.com
 0.0.0.0 staytechnation.com

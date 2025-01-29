@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 04:24:08 (UTC)                      #
+# Last updated: 2025-01-29 06:20:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,7 +26,6 @@ server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
-server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.rappel-coinbase.com/
 server=/apslline.com/
@@ -89,7 +88,6 @@ server=/divvanews.com/
 server=/djhyzhicai.com/
 server=/dkf.regular.ptbaconsulting.com/
 server=/dl.aginjector.com/
-server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
@@ -120,8 +118,10 @@ server=/files5.uludagbilisim.com/
 server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
+server=/gachetroi.com/
 server=/gawx.florenda.com/
 server=/gay.nguyenletriloc.pro/
+server=/gemini-desktop.com/
 server=/glennmedina.com/
 server=/grupobramam.com.br/
 server=/gsfeb2oz1ub4.com/
@@ -146,6 +146,7 @@ server=/jbkpb.regular.ptbaconsulting.com/
 server=/jobcity.com/
 server=/jointings.org/
 server=/jrqh-hk.com/
+server=/karer.by/
 server=/karoonpc.com/
 server=/keyser-api.eu/
 server=/kutnk.regular.ptbaconsulting.com/
@@ -157,7 +158,6 @@ server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
-server=/lsks.volamngayxua.net/
 server=/m.gutousoft.com/
 server=/maciejowice.dobrybip.pl/
 server=/maerchen-beat-frei.ch/
@@ -166,6 +166,7 @@ server=/mango.deewpn.com/
 server=/mcd.static.buyweatherstriponline.com/
 server=/mcpa.regular.ptbaconsulting.com/
 server=/mertvinc.com.tr/
+server=/messiku.com/
 server=/mffaccessories.com/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
@@ -189,12 +190,12 @@ server=/pb.agnt.ru/
 server=/pid.fly160.com/
 server=/pilzmacher.com/
 server=/pjop.order.buyanemostatonline.com/
-server=/pns.org.pk/
 server=/protechasia.com/
 server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanlyphongnet.com/
 server=/qwamx.regular.ptbaconsulting.com/
+server=/rappel-coinbase.com/
 server=/rcx.order.buyanemostatonline.com/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
@@ -224,7 +225,6 @@ server=/solve.ooeu.org/
 server=/solve.ueeu.org/
 server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
-server=/sporcketngearforu.com/
 server=/staatsgewalt.jameschans.de/
 server=/stayfitcenter.com/
 server=/staytechnation.com/
