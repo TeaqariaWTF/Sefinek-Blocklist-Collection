@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 06:20:13 (UTC)                      #
+# Last updated: 2025-01-29 08:23:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,6 +26,7 @@
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
+0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 apslline.com
@@ -65,6 +66,7 @@
 0.0.0.0 clubedasluluzinhasro.com.br
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
+0.0.0.0 comteste.com
 0.0.0.0 conde-offer724.website
 0.0.0.0 condeoffer724.website
 0.0.0.0 conn.masjesu.zip
@@ -73,7 +75,6 @@
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 ctiai.trial.buyintercomsonline.com
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dazhongyao.com
 0.0.0.0 dcwblida.dz
@@ -136,6 +137,7 @@
 0.0.0.0 huph.trial.buyintercomsonline.com
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
+0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
@@ -214,6 +216,7 @@
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 smartverysmart2.com
 0.0.0.0 soft.110route.com
@@ -232,6 +235,7 @@
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 studioq202.com
 0.0.0.0 su-6lto-v3-rlflc.online
+0.0.0.0 sufikhat.com
 0.0.0.0 support-microsofthelp.com
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
@@ -261,7 +265,6 @@
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
@@ -286,7 +289,9 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
@@ -313,4 +318,4 @@
 0.0.0.0 zszg.regular.ptbaconsulting.com
 0.0.0.0 zwaregroup.com
 0.0.0.0 zycz.zone.ebuilderssource.com
-# Number of entries: 307
+# Number of entries: 312
