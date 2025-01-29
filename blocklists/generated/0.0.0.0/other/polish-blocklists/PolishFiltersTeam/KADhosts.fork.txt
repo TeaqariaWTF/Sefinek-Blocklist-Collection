@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 29 Jan 2025, 17:27 UTC+01:00
-# Version: 2025.1.29.2
+# Last modified: Wed, 29 Jan 2025, 18:06 UTC+01:00
+# Version: 2025.1.29.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -139,7 +139,6 @@
 0.0.0.0 bg70c.doctorsicill.com
 0.0.0.0 bgconsulting.pl
 0.0.0.0 bialywidelec.pl
-0.0.0.0 bibo.myshoplaza.com
 0.0.0.0 bifrost.pl
 0.0.0.0 bigotka.pl
 0.0.0.0 binomo.com
@@ -332,7 +331,6 @@
 0.0.0.0 edymek.net
 0.0.0.0 eelhoe.us
 0.0.0.0 ehawr.com
-0.0.0.0 ekobutelka.pl
 0.0.0.0 elcap.pl
 0.0.0.0 electroline.pl
 0.0.0.0 elegrina.pl
@@ -578,7 +576,6 @@
 0.0.0.0 joy-box.pl
 0.0.0.0 juaabuy.com
 0.0.0.0 julalova.com
-0.0.0.0 julietique.com
 0.0.0.0 julyneeds.com
 0.0.0.0 jump.ogtrk.net
 0.0.0.0 kaie.pl
@@ -754,7 +751,6 @@
 0.0.0.0 mojepremium.pl
 0.0.0.0 molilulu.com
 0.0.0.0 mommybag.pl
-0.0.0.0 monclerpolska.com
 0.0.0.0 mondayblog.pl
 0.0.0.0 moonbootpolska.com
 0.0.0.0 moonbootpolskapl.com
@@ -1208,7 +1204,6 @@
 0.0.0.0 swagshoponline.pl
 0.0.0.0 swagster.pl
 0.0.0.0 sweet-her.pl
-0.0.0.0 swiatpremixow.pl
 0.0.0.0 swiatpsychoterapii.pl
 0.0.0.0 swiattesterow.pl
 0.0.0.0 swietna-pozyczka.pl
@@ -1226,7 +1221,6 @@
 0.0.0.0 tangoltd.com
 0.0.0.0 taniemedia.pl
 0.0.0.0 tanietesteryperfum.pl
-0.0.0.0 taniopremium.pl
 0.0.0.0 taraxinol-new.org
 0.0.0.0 tcrog.shop
 0.0.0.0 techfan.pl
@@ -1548,7 +1542,6 @@
 0.0.0.0 www.bg70c.doctorsicill.com
 0.0.0.0 www.bgconsulting.pl
 0.0.0.0 www.bialywidelec.pl
-0.0.0.0 www.bibo.myshoplaza.com
 0.0.0.0 www.bifrost.pl
 0.0.0.0 www.bigotka.pl
 0.0.0.0 www.binomo.com
@@ -1741,7 +1734,6 @@
 0.0.0.0 www.edymek.net
 0.0.0.0 www.eelhoe.us
 0.0.0.0 www.ehawr.com
-0.0.0.0 www.ekobutelka.pl
 0.0.0.0 www.elcap.pl
 0.0.0.0 www.electroline.pl
 0.0.0.0 www.elegrina.pl
@@ -1987,7 +1979,6 @@
 0.0.0.0 www.joy-box.pl
 0.0.0.0 www.juaabuy.com
 0.0.0.0 www.julalova.com
-0.0.0.0 www.julietique.com
 0.0.0.0 www.julyneeds.com
 0.0.0.0 www.jump.ogtrk.net
 0.0.0.0 www.kaie.pl
@@ -2163,7 +2154,6 @@
 0.0.0.0 www.mojepremium.pl
 0.0.0.0 www.molilulu.com
 0.0.0.0 www.mommybag.pl
-0.0.0.0 www.monclerpolska.com
 0.0.0.0 www.mondayblog.pl
 0.0.0.0 www.moonbootpolska.com
 0.0.0.0 www.moonbootpolskapl.com
@@ -2604,7 +2594,6 @@
 0.0.0.0 www.swagshoponline.pl
 0.0.0.0 www.swagster.pl
 0.0.0.0 www.sweet-her.pl
-0.0.0.0 www.swiatpremixow.pl
 0.0.0.0 www.swiatpsychoterapii.pl
 0.0.0.0 www.swiattesterow.pl
 0.0.0.0 www.swietna-pozyczka.pl
@@ -2622,7 +2611,6 @@
 0.0.0.0 www.tangoltd.com
 0.0.0.0 www.taniemedia.pl
 0.0.0.0 www.tanietesteryperfum.pl
-0.0.0.0 www.taniopremium.pl
 0.0.0.0 www.taraxinol-new.org
 0.0.0.0 www.tcrog.shop
 0.0.0.0 www.techfan.pl
@@ -2826,7 +2814,6 @@
 0.0.0.0 www.wytypowany-zwyciezca.com
 0.0.0.0 www.wytypowany-zwyciezca.pl
 0.0.0.0 www.wyudam.com
-0.0.0.0 www.xaroma.pl
 0.0.0.0 www.xbox360emulator.com
 0.0.0.0 www.xcartpro.com
 0.0.0.0 www.xmlgrab.com
@@ -2887,7 +2874,6 @@
 0.0.0.0 wytypowany-zwyciezca.com
 0.0.0.0 wytypowany-zwyciezca.pl
 0.0.0.0 wyudam.com
-0.0.0.0 xaroma.pl
 0.0.0.0 xbox360emulator.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xmlgrab.com
@@ -3002,6 +2988,7 @@
 0.0.0.0 ggbetpromo.com
 0.0.0.0 ggljjk.cc
 0.0.0.0 giftprizewinner.com
+0.0.0.0 go-link.network
 0.0.0.0 go.data1rtb.com
 0.0.0.0 graizoah.com
 0.0.0.0 gridglass32.co
@@ -3145,6 +3132,7 @@
 0.0.0.0 www.ggbetpromo.com
 0.0.0.0 www.ggljjk.cc
 0.0.0.0 www.giftprizewinner.com
+0.0.0.0 www.go-link.network
 0.0.0.0 www.go.data1rtb.com
 0.0.0.0 www.graizoah.com
 0.0.0.0 www.gridglass32.co
@@ -3399,6 +3387,7 @@
 0.0.0.0 0-1-x.509418154.xyz
 0.0.0.0 0-1-x.609418154.xyz
 0.0.0.0 0-1x.8632152.xyz
+0.0.0.0 0-ix.50765643.xyz
 0.0.0.0 0-lx.160382.xyz
 0.0.0.0 0-lx.3724353.xyz
 0.0.0.0 0-lx.3783530.xyz
@@ -3590,6 +3579,7 @@
 0.0.0.0 01x.59184872.xyz
 0.0.0.0 01x.69184872.xyz
 0.0.0.0 01x.69851736.xyz
+0.0.0.0 01x.70765643.xyz
 0.0.0.0 01x.79034363.xyz
 0.0.0.0 01x.79184872.xyz
 0.0.0.0 01x.79851736.xyz
@@ -4592,6 +4582,7 @@
 0.0.0.0 advb.trdechat.top
 0.0.0.0 advent-discount.luckypickr.com
 0.0.0.0 adventcalendarhouse.com
+0.0.0.0 adventuregamers.xyz
 0.0.0.0 advertise-bingads-microsoft.com
 0.0.0.0 advertisebingsadsmicrosofl.com
 0.0.0.0 advoc8cy.com
@@ -8009,7 +8000,6 @@
 0.0.0.0 betpublic2.com
 0.0.0.0 betpublic7.com
 0.0.0.0 betpublic9.com
-0.0.0.0 betpublic11.com
 0.0.0.0 betpublic12.com
 0.0.0.0 betpublic15.com
 0.0.0.0 betpublic16.com
@@ -21570,6 +21560,7 @@
 0.0.0.0 marinetrip.xyz
 0.0.0.0 marinifnrp.com
 0.0.0.0 marinostrattoria.com
+0.0.0.0 marinroz.com
 0.0.0.0 mariocimmino.com
 0.0.0.0 mariposabug.com
 0.0.0.0 maritimejourn.xyz
@@ -35267,6 +35258,7 @@
 0.0.0.0 trioculary.info
 0.0.0.0 tripadvisor-preapproved-listing82836119-e4643133n.travelbookingsonline.site
 0.0.0.0 tripadvisor-preapproved-listing384256823-a7653256c.traveloffice.site
+0.0.0.0 tripadvisor-rent.com-book872.com
 0.0.0.0 tripadvisor-up.com
 0.0.0.0 tripexe.com
 0.0.0.0 tripglobal.com
@@ -36046,7 +36038,6 @@
 0.0.0.0 usm.met-esm.top
 0.0.0.0 usnfljersey.com
 0.0.0.0 usold.skin
-0.0.0.0 uspsfh.icu
 0.0.0.0 uspspsulakm.top
 0.0.0.0 uspspsulava.top
 0.0.0.0 uspsr.buzz
@@ -38251,6 +38242,7 @@
 0.0.0.0 www.0-1-x.509418154.xyz
 0.0.0.0 www.0-1-x.609418154.xyz
 0.0.0.0 www.0-1x.8632152.xyz
+0.0.0.0 www.0-ix.50765643.xyz
 0.0.0.0 www.0-lx.160382.xyz
 0.0.0.0 www.0-lx.3724353.xyz
 0.0.0.0 www.0-lx.3783530.xyz
@@ -38442,6 +38434,7 @@
 0.0.0.0 www.01x.59184872.xyz
 0.0.0.0 www.01x.69184872.xyz
 0.0.0.0 www.01x.69851736.xyz
+0.0.0.0 www.01x.70765643.xyz
 0.0.0.0 www.01x.79034363.xyz
 0.0.0.0 www.01x.79184872.xyz
 0.0.0.0 www.01x.79851736.xyz
@@ -39444,6 +39437,7 @@
 0.0.0.0 www.advb.trdechat.top
 0.0.0.0 www.advent-discount.luckypickr.com
 0.0.0.0 www.adventcalendarhouse.com
+0.0.0.0 www.adventuregamers.xyz
 0.0.0.0 www.advertise-bingads-microsoft.com
 0.0.0.0 www.advertisebingsadsmicrosofl.com
 0.0.0.0 www.advoc8cy.com
@@ -42861,7 +42855,6 @@
 0.0.0.0 www.betpublic2.com
 0.0.0.0 www.betpublic7.com
 0.0.0.0 www.betpublic9.com
-0.0.0.0 www.betpublic11.com
 0.0.0.0 www.betpublic12.com
 0.0.0.0 www.betpublic15.com
 0.0.0.0 www.betpublic16.com
@@ -56422,6 +56415,7 @@
 0.0.0.0 www.marinetrip.xyz
 0.0.0.0 www.marinifnrp.com
 0.0.0.0 www.marinostrattoria.com
+0.0.0.0 www.marinroz.com
 0.0.0.0 www.mariocimmino.com
 0.0.0.0 www.mariposabug.com
 0.0.0.0 www.maritimejourn.xyz
@@ -70066,6 +70060,7 @@
 0.0.0.0 www.trioculary.info
 0.0.0.0 www.tripadvisor-preapproved-listing82836119-e4643133n.travelbookingsonline.site
 0.0.0.0 www.tripadvisor-preapproved-listing384256823-a7653256c.traveloffice.site
+0.0.0.0 www.tripadvisor-rent.com-book872.com
 0.0.0.0 www.tripadvisor-up.com
 0.0.0.0 www.tripexe.com
 0.0.0.0 www.tripglobal.com
@@ -70845,7 +70840,6 @@
 0.0.0.0 www.usm.met-esm.top
 0.0.0.0 www.usnfljersey.com
 0.0.0.0 www.usold.skin
-0.0.0.0 www.uspsfh.icu
 0.0.0.0 www.uspspsulakm.top
 0.0.0.0 www.uspspsulava.top
 0.0.0.0 www.uspsr.buzz
