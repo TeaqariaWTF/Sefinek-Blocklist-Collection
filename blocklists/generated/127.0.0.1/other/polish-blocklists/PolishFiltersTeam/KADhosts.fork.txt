@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 28 Jan 2025, 21:22 UTC+01:00
-# Version: 2025.1.28.3
+# Last modified: Tue, 28 Jan 2025, 23:43 UTC+01:00
+# Version: 2025.1.28.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4193,6 +4193,7 @@
 127.0.0.1 005808200a.dis-my.eu
 127.0.0.1 6544410.weebly.com
 127.0.0.1 6786555.weebly.com
+127.0.0.1 06872321.xyz
 127.0.0.1 7465658.weebly.com
 127.0.0.1 07659805.xyz
 127.0.0.1 7821284.shop
@@ -5686,6 +5687,7 @@
 127.0.0.1 allegrolokalnie.ogloszenia-894141.shop
 127.0.0.1 allegrolokalnie.ogloszenia-firmowe-981.buzz
 127.0.0.1 allegrolokalnie.ogloszenia-promowane.shop
+127.0.0.1 allegrolokalnie.ogloszenia-proponowane-7812.rest
 127.0.0.1 allegrolokalnie.ogloszenia-proponowane.shop
 127.0.0.1 allegrolokalnie.ogloszenia-prywatne-783546.shop
 127.0.0.1 allegrolokalnie.okazje-weekendowe-152.buzz
@@ -6047,6 +6049,7 @@
 127.0.0.1 allegrolokalnie.pl-oferta.buzz
 127.0.0.1 allegrolokalnie.pl-oferta.icu
 127.0.0.1 allegrolokalnie.pl-ofertaid5477549865.top
+127.0.0.1 allegrolokalnie.pl-ofertaid539002814572.shop
 127.0.0.1 allegrolokalnie.pl-ogloszenia-firmowe-8864.buzz
 127.0.0.1 allegrolokalnie.pl-ogloszenie2451.live
 127.0.0.1 allegrolokalnie.pl-ogloszenie142151.icu
@@ -7513,6 +7516,7 @@
 127.0.0.1 bafybeicmaobizmcwjrhyzipjkdwi7yjuunmew36bndg2ylr6i3m7h6hwna.ipfs.flk-ipfs.xyz
 127.0.0.1 bafybeicmd36nrguj3lm7dthuvm2yjh7enzutydcs654nfujveuprjzbina.ipfs.dweb.link
 127.0.0.1 bafybeiczesve4jjxklxnaw6bmc7aixcttysl3ess7puhjbh6o5pje3p67u.ipfs.flk-ipfs.xyz
+127.0.0.1 bafybeid2covxd4xhc7d6hde3x7336k7psvgl6a3hvc7dei56dknhrvervy.ipfs.dweb.link
 127.0.0.1 bafybeid2otrfc34eap7mjshbgvhet655ukxmvovs3ivkdaz2lz5bmp47zm.ipfs.dweb.link
 127.0.0.1 bafybeid4haisupae5lsxg2xjrwgnnbkhxsds3sdwahrk2xj4v2iyj7wr3i.ipfs.dweb.link
 127.0.0.1 bafybeidauxpofp6jfv5ruv5cbwirderk5svudstejglg5i6depqdeb2cua.ipfs.dweb.link
@@ -16248,7 +16252,6 @@
 127.0.0.1 gw.infplm.top
 127.0.0.1 gw.uyro.top
 127.0.0.1 gwc.npf.temporary.site
-127.0.0.1 gwo.swq.mybluehost.me
 127.0.0.1 gwxwzbhuem.autograalmann.de
 127.0.0.1 gx4mdy.hair
 127.0.0.1 gxtworld.com
@@ -27921,7 +27924,6 @@
 127.0.0.1 pobierzpliki.pl
 127.0.0.1 pociagipotracenia.rest
 127.0.0.1 pocketdates.com
-127.0.0.1 pocketoption.com
 127.0.0.1 pocketshopping.com
 127.0.0.1 pocketshops.com
 127.0.0.1 pocketstocks.com
@@ -32228,6 +32230,7 @@
 127.0.0.1 soc.meplatno.lol
 127.0.0.1 soc.mobywate.live
 127.0.0.1 soc.mojoby.info
+127.0.0.1 soc.pesewatel.today
 127.0.0.1 soc.wyplaty-pl.lol
 127.0.0.1 soc.wyplaty-pl.xyz
 127.0.0.1 socalbirding.com
@@ -38813,6 +38816,7 @@
 127.0.0.1 www.005808200a.dis-my.eu
 127.0.0.1 www.6544410.weebly.com
 127.0.0.1 www.6786555.weebly.com
+127.0.0.1 www.06872321.xyz
 127.0.0.1 www.7465658.weebly.com
 127.0.0.1 www.07659805.xyz
 127.0.0.1 www.7821284.shop
@@ -40306,6 +40310,7 @@
 127.0.0.1 www.allegrolokalnie.ogloszenia-894141.shop
 127.0.0.1 www.allegrolokalnie.ogloszenia-firmowe-981.buzz
 127.0.0.1 www.allegrolokalnie.ogloszenia-promowane.shop
+127.0.0.1 www.allegrolokalnie.ogloszenia-proponowane-7812.rest
 127.0.0.1 www.allegrolokalnie.ogloszenia-proponowane.shop
 127.0.0.1 www.allegrolokalnie.ogloszenia-prywatne-783546.shop
 127.0.0.1 www.allegrolokalnie.okazje-weekendowe-152.buzz
@@ -40667,6 +40672,7 @@
 127.0.0.1 www.allegrolokalnie.pl-oferta.buzz
 127.0.0.1 www.allegrolokalnie.pl-oferta.icu
 127.0.0.1 www.allegrolokalnie.pl-ofertaid5477549865.top
+127.0.0.1 www.allegrolokalnie.pl-ofertaid539002814572.shop
 127.0.0.1 www.allegrolokalnie.pl-ogloszenia-firmowe-8864.buzz
 127.0.0.1 www.allegrolokalnie.pl-ogloszenie2451.live
 127.0.0.1 www.allegrolokalnie.pl-ogloszenie142151.icu
@@ -42133,6 +42139,7 @@
 127.0.0.1 www.bafybeicmaobizmcwjrhyzipjkdwi7yjuunmew36bndg2ylr6i3m7h6hwna.ipfs.flk-ipfs.xyz
 127.0.0.1 www.bafybeicmd36nrguj3lm7dthuvm2yjh7enzutydcs654nfujveuprjzbina.ipfs.dweb.link
 127.0.0.1 www.bafybeiczesve4jjxklxnaw6bmc7aixcttysl3ess7puhjbh6o5pje3p67u.ipfs.flk-ipfs.xyz
+127.0.0.1 www.bafybeid2covxd4xhc7d6hde3x7336k7psvgl6a3hvc7dei56dknhrvervy.ipfs.dweb.link
 127.0.0.1 www.bafybeid2otrfc34eap7mjshbgvhet655ukxmvovs3ivkdaz2lz5bmp47zm.ipfs.dweb.link
 127.0.0.1 www.bafybeid4haisupae5lsxg2xjrwgnnbkhxsds3sdwahrk2xj4v2iyj7wr3i.ipfs.dweb.link
 127.0.0.1 www.bafybeidauxpofp6jfv5ruv5cbwirderk5svudstejglg5i6depqdeb2cua.ipfs.dweb.link
@@ -50868,7 +50875,6 @@
 127.0.0.1 www.gw.infplm.top
 127.0.0.1 www.gw.uyro.top
 127.0.0.1 www.gwc.npf.temporary.site
-127.0.0.1 www.gwo.swq.mybluehost.me
 127.0.0.1 www.gwxwzbhuem.autograalmann.de
 127.0.0.1 www.gx4mdy.hair
 127.0.0.1 www.gxtworld.com
@@ -62488,7 +62494,6 @@
 127.0.0.1 www.pobierzpliki.pl
 127.0.0.1 www.pociagipotracenia.rest
 127.0.0.1 www.pocketdates.com
-127.0.0.1 www.pocketoption.com
 127.0.0.1 www.pocketshopping.com
 127.0.0.1 www.pocketshops.com
 127.0.0.1 www.pocketstocks.com
@@ -66795,6 +66800,7 @@
 127.0.0.1 www.soc.meplatno.lol
 127.0.0.1 www.soc.mobywate.live
 127.0.0.1 www.soc.mojoby.info
+127.0.0.1 www.soc.pesewatel.today
 127.0.0.1 www.soc.wyplaty-pl.lol
 127.0.0.1 www.soc.wyplaty-pl.xyz
 127.0.0.1 www.socalbirding.com

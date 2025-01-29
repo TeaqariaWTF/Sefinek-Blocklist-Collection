@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012901 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -16831,6 +16831,8 @@ booi-casinolegacy.website CNAME .
 *.booi-casinolegacy.website CNAME .
 booi-casinolegacy.world CNAME .
 *.booi-casinolegacy.world CNAME .
+booi.beauty CNAME .
+*.booi.beauty CNAME .
 book.bthow.com CNAME .
 *.book.bthow.com CNAME .
 book178.tk CNAME .
@@ -22755,6 +22757,8 @@ clickwowm.pro CNAME .
 *.clickwowm.pro CNAME .
 client.festivalday.click CNAME .
 *.client.festivalday.click CNAME .
+client.gambolhq.click CNAME .
+*.client.gambolhq.click CNAME .
 client.getcaper.click CNAME .
 *.client.getcaper.click CNAME .
 client.getgambol.click CNAME .
@@ -30207,6 +30211,8 @@ dokin.store CNAME .
 *.dokin.store CNAME .
 dokomail.com CNAME .
 *.dokomail.com CNAME .
+dollarspace.pw CNAME .
+*.dollarspace.pw CNAME .
 dollbio.com CNAME .
 *.dollbio.com CNAME .
 dollfast.com CNAME .
@@ -56881,6 +56887,8 @@ lever-edge.net CNAME .
 *.lever-edge.net CNAME .
 levfatecraft.icu CNAME .
 *.levfatecraft.icu CNAME .
+levfortis.cyou CNAME .
+*.levfortis.cyou CNAME .
 levietthanh.info CNAME .
 *.levietthanh.info CNAME .
 levis-jeans.us CNAME .
@@ -66197,6 +66205,8 @@ my-mail.site CNAME .
 *.my-mail.site CNAME .
 my-mail.top CNAME .
 *.my-mail.top CNAME .
+my-toms.ru CNAME .
+*.my-toms.ru CNAME .
 my-toms.store CNAME .
 *.my-toms.store CNAME .
 my-turism.info CNAME .
@@ -70379,6 +70389,8 @@ oeomc.com CNAME .
 *.oeomc.com CNAME .
 oeoqzf.pl CNAME .
 *.oeoqzf.pl CNAME .
+oesophamail.com CNAME .
+*.oesophamail.com CNAME .
 oesw.com CNAME .
 *.oesw.com CNAME .
 oeth.com CNAME .
@@ -94101,6 +94113,8 @@ tlus.net CNAME .
 *.tlus.net CNAME .
 tlwpleasure.com CNAME .
 *.tlwpleasure.com CNAME .
+tm-zhukov.ru CNAME .
+*.tm-zhukov.ru CNAME .
 tm-zhukov.store CNAME .
 *.tm-zhukov.store CNAME .
 tm2mail.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025012901 43200 3600 259200 300
   NS  localhost.
 4life.com CNAME .
 *.4life.com CNAME .
@@ -4975,6 +4975,8 @@ zgarniij_vouchher.skroc.pl CNAME .
 *.6544410.weebly.com CNAME .
 6786555.weebly.com CNAME .
 *.6786555.weebly.com CNAME .
+06872321.xyz CNAME .
+*.06872321.xyz CNAME .
 7465658.weebly.com CNAME .
 *.7465658.weebly.com CNAME .
 07659805.xyz CNAME .
@@ -7961,6 +7963,8 @@ allegrolokalnie.ogloszenia-firmowe-981.buzz CNAME .
 *.allegrolokalnie.ogloszenia-firmowe-981.buzz CNAME .
 allegrolokalnie.ogloszenia-promowane.shop CNAME .
 *.allegrolokalnie.ogloszenia-promowane.shop CNAME .
+allegrolokalnie.ogloszenia-proponowane-7812.rest CNAME .
+*.allegrolokalnie.ogloszenia-proponowane-7812.rest CNAME .
 allegrolokalnie.ogloszenia-proponowane.shop CNAME .
 *.allegrolokalnie.ogloszenia-proponowane.shop CNAME .
 allegrolokalnie.ogloszenia-prywatne-783546.shop CNAME .
@@ -8683,6 +8687,8 @@ allegrolokalnie.pl-oferta.icu CNAME .
 *.allegrolokalnie.pl-oferta.icu CNAME .
 allegrolokalnie.pl-ofertaid5477549865.top CNAME .
 *.allegrolokalnie.pl-ofertaid5477549865.top CNAME .
+allegrolokalnie.pl-ofertaid539002814572.shop CNAME .
+*.allegrolokalnie.pl-ofertaid539002814572.shop CNAME .
 allegrolokalnie.pl-ogloszenia-firmowe-8864.buzz CNAME .
 *.allegrolokalnie.pl-ogloszenia-firmowe-8864.buzz CNAME .
 allegrolokalnie.pl-ogloszenie2451.live CNAME .
@@ -11615,6 +11621,8 @@ bafybeicmd36nrguj3lm7dthuvm2yjh7enzutydcs654nfujveuprjzbina.ipfs.dweb.link CNAME
 *.bafybeicmd36nrguj3lm7dthuvm2yjh7enzutydcs654nfujveuprjzbina.ipfs.dweb.link CNAME .
 bafybeiczesve4jjxklxnaw6bmc7aixcttysl3ess7puhjbh6o5pje3p67u.ipfs.flk-ipfs.xyz CNAME .
 *.bafybeiczesve4jjxklxnaw6bmc7aixcttysl3ess7puhjbh6o5pje3p67u.ipfs.flk-ipfs.xyz CNAME .
+bafybeid2covxd4xhc7d6hde3x7336k7psvgl6a3hvc7dei56dknhrvervy.ipfs.dweb.link CNAME .
+*.bafybeid2covxd4xhc7d6hde3x7336k7psvgl6a3hvc7dei56dknhrvervy.ipfs.dweb.link CNAME .
 bafybeid2otrfc34eap7mjshbgvhet655ukxmvovs3ivkdaz2lz5bmp47zm.ipfs.dweb.link CNAME .
 *.bafybeid2otrfc34eap7mjshbgvhet655ukxmvovs3ivkdaz2lz5bmp47zm.ipfs.dweb.link CNAME .
 bafybeid4haisupae5lsxg2xjrwgnnbkhxsds3sdwahrk2xj4v2iyj7wr3i.ipfs.dweb.link CNAME .
@@ -29085,8 +29093,6 @@ gw.uyro.top CNAME .
 *.gw.uyro.top CNAME .
 gwc.npf.temporary.site CNAME .
 *.gwc.npf.temporary.site CNAME .
-gwo.swq.mybluehost.me CNAME .
-*.gwo.swq.mybluehost.me CNAME .
 gwxwzbhuem.autograalmann.de CNAME .
 *.gwxwzbhuem.autograalmann.de CNAME .
 gx4mdy.hair CNAME .
@@ -52431,8 +52437,6 @@ pociagipotracenia.rest CNAME .
 *.pociagipotracenia.rest CNAME .
 pocketdates.com CNAME .
 *.pocketdates.com CNAME .
-pocketoption.com CNAME .
-*.pocketoption.com CNAME .
 pocketshopping.com CNAME .
 *.pocketshopping.com CNAME .
 pocketshops.com CNAME .
@@ -61045,6 +61049,8 @@ soc.mobywate.live CNAME .
 *.soc.mobywate.live CNAME .
 soc.mojoby.info CNAME .
 *.soc.mojoby.info CNAME .
+soc.pesewatel.today CNAME .
+*.soc.pesewatel.today CNAME .
 soc.wyplaty-pl.lol CNAME .
 *.soc.wyplaty-pl.lol CNAME .
 soc.wyplaty-pl.xyz CNAME .
