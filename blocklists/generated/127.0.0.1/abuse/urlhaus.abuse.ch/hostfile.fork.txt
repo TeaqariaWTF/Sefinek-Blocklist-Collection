@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 12:39:05 (UTC)                      #
+# Last updated: 2025-01-29 14:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 127.0.0.1 1717.1000uc.com
 127.0.0.1 1nbox.info
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 99smoothfm.com
 127.0.0.1 a.gandzy.shop
 127.0.0.1 abissnet.net
 127.0.0.1 admin.aishangzhua.com
@@ -20,16 +21,20 @@
 127.0.0.1 airhobi.com
 127.0.0.1 aistho.vip
 127.0.0.1 alien-training.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
+127.0.0.1 app-antiriciclaggio-mps.com
 127.0.0.1 apslline.com
 127.0.0.1 aquila.mt
 127.0.0.1 armanayegh.com
 127.0.0.1 artikel-zahlung.website
+127.0.0.1 aulist.com
 127.0.0.1 autoparts-online.uk
 127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
@@ -56,16 +61,18 @@
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
+127.0.0.1 chromeupd-mo.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 cloudvantage.net
-127.0.0.1 clubedasluluzinhasro.com.br
 127.0.0.1 coach.028csc.com
 127.0.0.1 coadymarine.com
+127.0.0.1 commavast.com
 127.0.0.1 comteste.com
 127.0.0.1 conde-offer724.website
 127.0.0.1 condeoffer724.website
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 credovsnra.com
+127.0.0.1 cryptopotato.net
 127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
 127.0.0.1 ctiai.trial.buyintercomsonline.com
@@ -100,7 +107,6 @@
 127.0.0.1 downsexv.com
 127.0.0.1 e4l4.com
 127.0.0.1 ecolumy.com
-127.0.0.1 elisans.novayonetim.com
 127.0.0.1 emorista.org
 127.0.0.1 energigroup.hu
 127.0.0.1 envuh.order.buyanemostatonline.com
@@ -120,12 +126,12 @@
 127.0.0.1 gawx.florenda.com
 127.0.0.1 gay.nguyenletriloc.pro
 127.0.0.1 gemini-desktop.com
+127.0.0.1 glennmedina.com
 127.0.0.1 grupobramam.com.br
 127.0.0.1 gsfeb2oz1ub4.com
 127.0.0.1 gwrwn.order.buyanemostatonline.com
 127.0.0.1 hhynetwork.com
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hrpost.vip
@@ -133,8 +139,8 @@
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
 127.0.0.1 imtoken8.cc
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
+127.0.0.1 it-mediolanumbanca.com
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jaffarkhan.com
 127.0.0.1 jahez.me
@@ -143,13 +149,13 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
+127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 kutnk.regular.ptbaconsulting.com
 127.0.0.1 kxwhf.order.buyanemostatonline.com
 127.0.0.1 kypeti.com
 127.0.0.1 lasso-security.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
@@ -173,6 +179,7 @@
 127.0.0.1 myguyapp.com
 127.0.0.1 nabawitransport.com
 127.0.0.1 namthaibinh.net
+127.0.0.1 nationwideavast.com
 127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
@@ -191,6 +198,7 @@
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 qwamx.regular.ptbaconsulting.com
+127.0.0.1 rappel-coinbase.com
 127.0.0.1 rcx.order.buyanemostatonline.com
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 rddissisifigifidi.net
@@ -232,12 +240,10 @@
 127.0.0.1 support-microsofthelp.com
 127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
-127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
 127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
-127.0.0.1 tao977.com
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -259,6 +265,7 @@
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
@@ -309,4 +316,4 @@
 127.0.0.1 zszg.regular.ptbaconsulting.com
 127.0.0.1 zwaregroup.com
 127.0.0.1 zycz.zone.ebuilderssource.com
-# Number of entries: 303
+# Number of entries: 310
