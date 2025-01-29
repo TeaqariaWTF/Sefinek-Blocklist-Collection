@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 14:16:05 (UTC)                      #
+# Last updated: 2025-01-29 16:23:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 127.0.0.1 1717.1000uc.com
 127.0.0.1 1nbox.info
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 56wdf7avyu1.kliplytd.shop
 127.0.0.1 99smoothfm.com
 127.0.0.1 a.gandzy.shop
 127.0.0.1 abissnet.net
@@ -44,6 +45,7 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
+127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 bezahlte-artikel.website
@@ -135,10 +137,12 @@
 127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hrpost.vip
+127.0.0.1 hseda.com
 127.0.0.1 huph.trial.buyintercomsonline.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 hwebprint.com
 127.0.0.1 imtoken8.cc
+127.0.0.1 information-binance.com
 127.0.0.1 inspirepk.org
 127.0.0.1 it-mediolanumbanca.com
 127.0.0.1 jade-associates.com.br
@@ -156,6 +160,7 @@
 127.0.0.1 kxwhf.order.buyanemostatonline.com
 127.0.0.1 kypeti.com
 127.0.0.1 lasso-security.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
@@ -186,6 +191,7 @@
 127.0.0.1 ordrestatus.store
 127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
+127.0.0.1 panel.subdeew.site
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
@@ -264,7 +270,6 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
@@ -290,6 +295,7 @@
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
+127.0.0.1 www.newkey.co.kr
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
@@ -316,4 +322,4 @@
 127.0.0.1 zszg.regular.ptbaconsulting.com
 127.0.0.1 zwaregroup.com
 127.0.0.1 zycz.zone.ebuilderssource.com
-# Number of entries: 310
+# Number of entries: 316

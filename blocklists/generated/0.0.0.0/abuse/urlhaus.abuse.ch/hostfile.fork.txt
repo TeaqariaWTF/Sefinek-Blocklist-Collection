@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 14:16:05 (UTC)                      #
+# Last updated: 2025-01-29 16:23:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 1nbox.info
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 56wdf7avyu1.kliplytd.shop
 0.0.0.0 99smoothfm.com
 0.0.0.0 a.gandzy.shop
 0.0.0.0 abissnet.net
@@ -44,6 +45,7 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bezahlte-artikel.website
@@ -135,10 +137,12 @@
 0.0.0.0 hobobot.net
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrpost.vip
+0.0.0.0 hseda.com
 0.0.0.0 huph.trial.buyintercomsonline.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 hwebprint.com
 0.0.0.0 imtoken8.cc
+0.0.0.0 information-binance.com
 0.0.0.0 inspirepk.org
 0.0.0.0 it-mediolanumbanca.com
 0.0.0.0 jade-associates.com.br
@@ -156,6 +160,7 @@
 0.0.0.0 kxwhf.order.buyanemostatonline.com
 0.0.0.0 kypeti.com
 0.0.0.0 lasso-security.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
@@ -186,6 +191,7 @@
 0.0.0.0 ordrestatus.store
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 panel.subdeew.site
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
@@ -264,7 +270,6 @@
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
@@ -290,6 +295,7 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
@@ -316,4 +322,4 @@
 0.0.0.0 zszg.regular.ptbaconsulting.com
 0.0.0.0 zwaregroup.com
 0.0.0.0 zycz.zone.ebuilderssource.com
-# Number of entries: 310
+# Number of entries: 316

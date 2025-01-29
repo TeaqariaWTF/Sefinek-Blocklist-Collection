@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-29 14:16:05 (UTC)                      #
+# Last updated: 2025-01-29 16:23:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@ server=/123.ywxww.net/
 server=/1717.1000uc.com/
 server=/1nbox.info/
 server=/360down7.miiyun.cn/
+server=/56wdf7avyu1.kliplytd.shop/
 server=/99smoothfm.com/
 server=/a.gandzy.shop/
 server=/abissnet.net/
@@ -44,6 +45,7 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
+server=/avastpx.com/
 server=/azgint.com/
 server=/banthis.su/
 server=/bezahlte-artikel.website/
@@ -135,10 +137,12 @@ server=/hitman-pro.ru/
 server=/hobobot.net/
 server=/hr2019.vrcom7.com/
 server=/hrpost.vip/
+server=/hseda.com/
 server=/huph.trial.buyintercomsonline.com/
 server=/huyanhnongdo.io.vn/
 server=/hwebprint.com/
 server=/imtoken8.cc/
+server=/information-binance.com/
 server=/inspirepk.org/
 server=/it-mediolanumbanca.com/
 server=/jade-associates.com.br/
@@ -156,6 +160,7 @@ server=/kutnk.regular.ptbaconsulting.com/
 server=/kxwhf.order.buyanemostatonline.com/
 server=/kypeti.com/
 server=/lasso-security.com/
+server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
 server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
@@ -186,6 +191,7 @@ server=/ojang.pe.kr/
 server=/ordrestatus.store/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
+server=/panel.subdeew.site/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pb.agnt.ru/
@@ -264,7 +270,6 @@ server=/tualcaldia.com/
 server=/twizt.net/
 server=/upadaria.org/
 server=/update.cg100iii.com/
-server=/update.vlnguba.com/
 server=/update.volam2005pk.com/
 server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
@@ -290,6 +295,7 @@ server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
+server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
@@ -316,4 +322,4 @@ server=/znrq.zifwxq.cn/
 server=/zszg.regular.ptbaconsulting.com/
 server=/zwaregroup.com/
 server=/zycz.zone.ebuilderssource.com/
-# Number of entries: 310
+# Number of entries: 316
