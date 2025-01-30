@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-30 01:34:42 (UTC)                      #
+# Last updated: 2025-01-30 02:39:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -50,6 +50,7 @@
 127.0.0.1 avastpm.com
 127.0.0.1 avastpn.com
 127.0.0.1 avastpr.com
+127.0.0.1 avastpx.com
 127.0.0.1 avastuo.com
 127.0.0.1 avastvx.com
 127.0.0.1 avastxp.com
@@ -74,6 +75,7 @@
 127.0.0.1 coadymarine.com
 127.0.0.1 commavast.com
 127.0.0.1 comteste.com
+127.0.0.1 credovsnra.com
 127.0.0.1 cryptopotato.net
 127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
@@ -81,6 +83,7 @@
 127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dazhongyao.com
+127.0.0.1 dazzlejoy.shop
 127.0.0.1 dcwblida.dz
 127.0.0.1 ddx.zone.ebuilderssource.com
 127.0.0.1 deauduafzgezzfgm.top
@@ -92,6 +95,7 @@
 127.0.0.1 divvanews.com
 127.0.0.1 djhyzhicai.com
 127.0.0.1 dkf.regular.ptbaconsulting.com
+127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
@@ -106,6 +110,7 @@
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
+127.0.0.1 dustglow.shop
 127.0.0.1 e4l4.com
 127.0.0.1 ecolumy.com
 127.0.0.1 elisans.novayonetim.com
@@ -186,6 +191,7 @@
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 myguyapp.com
 127.0.0.1 nabawitransport.com
+127.0.0.1 namthaibinh.net
 127.0.0.1 nationwideavast.com
 127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
@@ -200,6 +206,7 @@
 127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
 127.0.0.1 pjop.order.buyanemostatonline.com
+127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
@@ -255,10 +262,12 @@
 127.0.0.1 tao025.com
 127.0.0.1 tao221.com
 127.0.0.1 tao816.com
+127.0.0.1 tao977.com
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
+127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tests.yjzj.org
 127.0.0.1 thkdt.regular.ptbaconsulting.com
@@ -275,9 +284,7 @@
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.vlnguba.com
-127.0.0.1 update.volam2005pk.com
 127.0.0.1 updatemyacc.com
-127.0.0.1 us-east-1.tixte.net
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
@@ -328,6 +335,7 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
+127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zszg.regular.ptbaconsulting.com
 127.0.0.1 zycz.zone.ebuilderssource.com
-# Number of entries: 324
+# Number of entries: 332
