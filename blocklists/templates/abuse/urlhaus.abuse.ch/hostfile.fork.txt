@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 16:24:18 (UTC)                      #
+# Last updated: 2025-01-31 18:24:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,8 +11,6 @@
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 56wdf7avyu1.kliplytd.shop
 0.0.0.0 abissnet.net
-0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 agapi.cqjjb.cn
@@ -22,6 +20,7 @@
 0.0.0.0 alien-training.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
@@ -59,6 +58,7 @@
 0.0.0.0 bookingmanage.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bv.dopt.cc
+0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 certifica-bancamediolanum.com
 0.0.0.0 chinaapper.com
@@ -124,20 +124,19 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
-0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrpost.vip
-0.0.0.0 huyanhnongdo.io.vn
+0.0.0.0 hseda.com
 0.0.0.0 imtoken8.cc
+0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 it-mediolanumbanca.com
-0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jilas.net
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
-0.0.0.0 karer.by
+0.0.0.0 jrqh-hk.com
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 library.arihantmbainstitute.ac.in
@@ -170,7 +169,6 @@
 0.0.0.0 officeback.info
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panel.subdeew.site
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
@@ -180,8 +178,6 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qajaavjfw.michaeljacobs.info
-0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 qosf.free.thebitmeister.com
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -192,6 +188,7 @@
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
+0.0.0.0 rgueapp.com
 0.0.0.0 rhsantander.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 safe.ywxww.net
@@ -222,7 +219,6 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 testla.ddns.cam
 0.0.0.0 tests.yjzj.org
@@ -233,6 +229,7 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
+0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
@@ -248,7 +245,6 @@
 0.0.0.0 uybd.static.buyweatherstriponline.com
 0.0.0.0 valseg.com.br
 0.0.0.0 vbccorretoradeseguros.com.br
-0.0.0.0 vestertek.top
 0.0.0.0 vwi.trial.buyintercomsonline.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
@@ -266,14 +262,12 @@
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -282,5 +276,5 @@
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
-# Number of entries: 277
+0.0.0.0 znrq.zifwxq.cn
+# Number of entries: 271
