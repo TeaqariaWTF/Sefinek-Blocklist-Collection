@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 06:22:05 (UTC)                      #
+# Last updated: 2025-01-31 08:18:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -56,6 +56,7 @@ server=/awswesthosting.world/
 server=/azgint.com/
 server=/banthis.su/
 server=/bihpost.vip/
+server=/bit1.smogturfprance.shop/
 server=/bitkiselurunsiparis.com/
 server=/bookingmanage.com/
 server=/buscascolegios.diit.cl/
@@ -70,6 +71,7 @@ server=/clubedasluluzinhasro.com.br/
 server=/coach.028csc.com/
 server=/coadymarine.com/
 server=/commavast.com/
+server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/crestereamuschilor.ro/
 server=/cryptopotato.net/
@@ -82,6 +84,7 @@ server=/data02.info/
 server=/dazzlejoy.shop/
 server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
+server=/device.redirec.com/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
@@ -156,8 +159,10 @@ server=/moonloaderupdate.ru/
 server=/nabawitransport.com/
 server=/namthaibinh.net/
 server=/nationwideavast.com/
+server=/noithaticon.vn/
 server=/ns1.data02.info/
 server=/ns2.data02.info/
+server=/ny.lshdw.cc/
 server=/odoo.kseibitools.com/
 server=/officeback.info/
 server=/ojang.pe.kr/
@@ -167,6 +172,7 @@ server=/panel.subdeew.site/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pb.agnt.ru/
+server=/pid.fly160.com/
 server=/pns.org.pk/
 server=/protechasia.com/
 server=/qajaavjfw.michaeljacobs.info/
@@ -219,10 +225,12 @@ server=/tianyinsoft.top/
 server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
 server=/treinamento.convenio.to.gov.br/
+server=/trns.in/
 server=/tualcaldia.com/
 server=/twizt.net/
 server=/upadaria.org/
 server=/update.cg100iii.com/
+server=/update.vlnguba.com/
 server=/updatemyacc.com/
 server=/us-east-1.tixte.net/
 server=/utorrent-backup-server.top/
@@ -235,6 +243,7 @@ server=/uybd.static.buyweatherstriponline.com/
 server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
 server=/vwi.trial.buyintercomsonline.com/
+server=/weixe.ir/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
 server=/www.avastsp.com/
@@ -268,4 +277,4 @@ server=/xn--yh4bx88a.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 262
+# Number of entries: 271
