@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 20:06:05 (UTC)                      #
+# Last updated: 2025-01-31 22:04:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,6 +21,7 @@ server=/aistho.vip/
 server=/alien-training.com/
 server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
+server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
@@ -70,7 +71,6 @@ server=/cnc.stressamp.com/
 server=/coach.028csc.com/
 server=/coadymarine.com/
 server=/commavast.com/
-server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/crestereamuschilor.ro/
 server=/cryptopotato.net/
@@ -87,8 +87,9 @@ server=/device.redirec.com/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
+server=/dl.aginjector.com/
 server=/dl.natgo.cn/
-server=/dl.packetstormsecurity.net/
+server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/dow.andylab.cn/
 server=/down.fwqlt.com/
@@ -124,12 +125,11 @@ server=/hobobot.net/
 server=/hr2019.vrcom7.com/
 server=/hrpost.vip/
 server=/hseda.com/
-server=/huyanhnongdo.io.vn/
+server=/imtoken8.cc/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
 server=/it-mediolanumbanca.com/
-server=/jade-associates.com.br/
 server=/jahez.me/
 server=/javierlopez.eu/
 server=/jilas.net/
@@ -138,7 +138,6 @@ server=/jointings.org/
 server=/jrqh-hk.com/
 server=/karoonpc.com/
 server=/keyser-api.eu/
-server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/loeghaiofiehfihf.to/
@@ -172,6 +171,7 @@ server=/panel.subdeew.site/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pb.agnt.ru/
+server=/pid.fly160.com/
 server=/pilzmacher.com/
 server=/pns.org.pk/
 server=/protechasia.com/
@@ -193,9 +193,11 @@ server=/ronnin-v2.com/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
 server=/security-service-api-link.cc/
+server=/ser.nrovn.xyz/
 server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
+server=/soft.110route.com/
 server=/solve.eyuy.org/
 server=/solve.rywi.org/
 server=/solve.uayy.org/
@@ -208,6 +210,7 @@ server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/sufikhat.com/
 server=/swa-recloud.fun/
+server=/symbiatec-fi.com/
 server=/symbietic.com/
 server=/symdlotic.com/
 server=/taodianla.com/
@@ -265,7 +268,6 @@ server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
-server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
 server=/ximonite.com/
@@ -276,4 +278,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 270
+# Number of entries: 272
