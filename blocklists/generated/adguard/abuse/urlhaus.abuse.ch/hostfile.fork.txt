@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-01-31 04:24:24 (UTC)                      !
+! Last updated: 2025-01-31 06:22:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -15,13 +15,14 @@
 ||admin.aishangzhua.com^
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
-||agapi.cqjjb.cn^
 ||ai-kling.online^
 ||airhobi.com^
 ||aistho.vip^
 ||alien-training.com^
+||antibot-v2.com^
 ||aosafrica.co.za^
 ||api.accueil-coinbase.com^
+||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
 ||api.hostize.com^
@@ -92,7 +93,6 @@
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.mvip8.ru^
-||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.emailorganizer.com^
 ||download.suxiazai.com^
@@ -118,6 +118,7 @@
 ||hitstation.nl^
 ||hobobot.net^
 ||hrpost.vip^
+||hseda.com^
 ||huyanhnongdo.io.vn^
 ||imtoken8.cc^
 ||information-binance.com^
@@ -130,6 +131,7 @@
 ||jilas.net^
 ||jobcity.com^
 ||jointings.org^
+||jrqh-hk.com^
 ||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
@@ -154,7 +156,6 @@
 ||nabawitransport.com^
 ||namthaibinh.net^
 ||nationwideavast.com^
-||noithaticon.vn^
 ||ns1.data02.info^
 ||ns2.data02.info^
 ||odoo.kseibitools.com^
@@ -166,11 +167,9 @@
 ||park.chuitian.cn^
 ||parmisbuilding.com^
 ||pb.agnt.ru^
-||pilzmacher.com^
 ||pns.org.pk^
 ||protechasia.com^
 ||qajaavjfw.michaeljacobs.info^
-||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||qosf.free.thebitmeister.com^
 ||quanlyphongnet.com^
@@ -207,6 +206,7 @@
 ||swa-recloud.fun^
 ||symbiatec-fi.com^
 ||symbietic.com^
+||symdlotic.com^
 ||taodianla.com^
 ||tecni-soft.com^
 ||tecunonline.com^
@@ -223,7 +223,6 @@
 ||twizt.net^
 ||upadaria.org^
 ||update.cg100iii.com^
-||update.volam2005pk.com^
 ||updatemyacc.com^
 ||us-east-1.tixte.net^
 ||utorrent-backup-server.top^
@@ -259,6 +258,7 @@
 ||www.tecunonline.com^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
+||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
@@ -267,6 +267,5 @@
 ||xn--yh4bx88a.com^
 ||ywxww.net^
 ||yzkzixun.com^
-||z.shavsl.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 263
+! Number of entries: 262

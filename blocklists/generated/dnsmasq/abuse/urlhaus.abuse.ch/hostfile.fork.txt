@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 04:24:24 (UTC)                      #
+# Last updated: 2025-01-31 06:22:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,13 +15,14 @@ server=/adf6.adf6.com/
 server=/admin.aishangzhua.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
-server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/airhobi.com/
 server=/aistho.vip/
 server=/alien-training.com/
+server=/antibot-v2.com/
 server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
+server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
@@ -92,7 +93,6 @@ server=/do-dear.com/
 server=/dow.andylab.cn/
 server=/down.fwqlt.com/
 server=/down.mvip8.ru/
-server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
 server=/download.emailorganizer.com/
 server=/download.suxiazai.com/
@@ -118,6 +118,7 @@ server=/hitman-pro.ru/
 server=/hitstation.nl/
 server=/hobobot.net/
 server=/hrpost.vip/
+server=/hseda.com/
 server=/huyanhnongdo.io.vn/
 server=/imtoken8.cc/
 server=/information-binance.com/
@@ -130,6 +131,7 @@ server=/javierlopez.eu/
 server=/jilas.net/
 server=/jobcity.com/
 server=/jointings.org/
+server=/jrqh-hk.com/
 server=/karer.by/
 server=/karoonpc.com/
 server=/keyser-api.eu/
@@ -154,7 +156,6 @@ server=/moonloaderupdate.ru/
 server=/nabawitransport.com/
 server=/namthaibinh.net/
 server=/nationwideavast.com/
-server=/noithaticon.vn/
 server=/ns1.data02.info/
 server=/ns2.data02.info/
 server=/odoo.kseibitools.com/
@@ -166,11 +167,9 @@ server=/panel.subdeew.site/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pb.agnt.ru/
-server=/pilzmacher.com/
 server=/pns.org.pk/
 server=/protechasia.com/
 server=/qajaavjfw.michaeljacobs.info/
-server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
 server=/qosf.free.thebitmeister.com/
 server=/quanlyphongnet.com/
@@ -207,6 +206,7 @@ server=/support.clz.kr/
 server=/swa-recloud.fun/
 server=/symbiatec-fi.com/
 server=/symbietic.com/
+server=/symdlotic.com/
 server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
@@ -223,7 +223,6 @@ server=/tualcaldia.com/
 server=/twizt.net/
 server=/upadaria.org/
 server=/update.cg100iii.com/
-server=/update.volam2005pk.com/
 server=/updatemyacc.com/
 server=/us-east-1.tixte.net/
 server=/utorrent-backup-server.top/
@@ -259,6 +258,7 @@ server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
+server=/www.zhikey.com/
 server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
@@ -267,6 +267,5 @@ server=/xingpai.weilay.com.cn/
 server=/xn--yh4bx88a.com/
 server=/ywxww.net/
 server=/yzkzixun.com/
-server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 263
+# Number of entries: 262

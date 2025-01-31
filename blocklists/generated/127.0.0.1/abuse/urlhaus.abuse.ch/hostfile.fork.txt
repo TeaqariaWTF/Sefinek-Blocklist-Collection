@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 04:24:24 (UTC)                      #
+# Last updated: 2025-01-31 06:22:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,13 +15,14 @@
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 aefieiaehfiaehr.top
 127.0.0.1 aeufoeahfouefhg.top
-127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
 127.0.0.1 airhobi.com
 127.0.0.1 aistho.vip
 127.0.0.1 alien-training.com
+127.0.0.1 antibot-v2.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
+127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
@@ -92,7 +93,6 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
-127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
@@ -118,6 +118,7 @@
 127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
 127.0.0.1 hrpost.vip
+127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
@@ -130,6 +131,7 @@
 127.0.0.1 jilas.net
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
+127.0.0.1 jrqh-hk.com
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
@@ -154,7 +156,6 @@
 127.0.0.1 nabawitransport.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 nationwideavast.com
-127.0.0.1 noithaticon.vn
 127.0.0.1 ns1.data02.info
 127.0.0.1 ns2.data02.info
 127.0.0.1 odoo.kseibitools.com
@@ -166,11 +167,9 @@
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
-127.0.0.1 pilzmacher.com
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
 127.0.0.1 qajaavjfw.michaeljacobs.info
-127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 qosf.free.thebitmeister.com
 127.0.0.1 quanlyphongnet.com
@@ -207,6 +206,7 @@
 127.0.0.1 swa-recloud.fun
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
+127.0.0.1 symdlotic.com
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -223,7 +223,6 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.volam2005pk.com
 127.0.0.1 updatemyacc.com
 127.0.0.1 us-east-1.tixte.net
 127.0.0.1 utorrent-backup-server.top
@@ -259,6 +258,7 @@
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
@@ -267,6 +267,5 @@
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
-127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 263
+# Number of entries: 262
