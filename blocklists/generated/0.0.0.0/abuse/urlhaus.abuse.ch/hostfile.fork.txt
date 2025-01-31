@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 01:34:05 (UTC)                      #
+# Last updated: 2025-01-31 02:44:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,7 +19,6 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
 0.0.0.0 aistho.vip
-0.0.0.0 alien-training.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
@@ -69,14 +68,12 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crestereamuschilor.ro
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 cyberden.ng
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 data02.info
 0.0.0.0 dazzlejoy.shop
@@ -102,8 +99,10 @@
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 dustglow.shop
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
+0.0.0.0 escapeesrvclub.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
@@ -117,6 +116,7 @@
 0.0.0.0 glennmedina.com
 0.0.0.0 guaicui.com.br
 0.0.0.0 hitman-pro.ru
+0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrpost.vip
@@ -151,7 +151,6 @@
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mondialrelay-assistance-colis.com
 0.0.0.0 moonloaderupdate.ru
@@ -186,6 +185,7 @@
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
 0.0.0.0 reifenquick.de
+0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 rgueapp.com
 0.0.0.0 rhsantander.com
@@ -193,10 +193,10 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
+0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
-0.0.0.0 smartverysmart2.com
 0.0.0.0 soft.110route.com
 0.0.0.0 solve.eyuy.org
 0.0.0.0 solve.rywi.org
@@ -225,11 +225,11 @@
 0.0.0.0 tianyinsoft.top
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updatemyacc.com
 0.0.0.0 us-east-1.tixte.net
@@ -257,10 +257,8 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
-0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -277,4 +275,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 271
+# Number of entries: 269

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-31 01:34:05 (UTC)                      #
+# Last updated: 2025-01-31 02:44:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,7 +19,6 @@ server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
 server=/airhobi.com/
 server=/aistho.vip/
-server=/alien-training.com/
 server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
@@ -69,14 +68,12 @@ server=/clubedasluluzinhasro.com.br/
 server=/coach.028csc.com/
 server=/coadymarine.com/
 server=/commavast.com/
-server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/crestereamuschilor.ro/
 server=/cryptopotato.net/
 server=/crystalpvp.ru/
 server=/csg-app.com/
 server=/cyberden.ng/
-server=/dangtienluc.com/
 server=/data.yhydl.com/
 server=/data02.info/
 server=/dazzlejoy.shop/
@@ -102,8 +99,10 @@ server=/download.emailorganizer.com/
 server=/download.suxiazai.com/
 server=/downsexv.com/
 server=/dustglow.shop/
+server=/elisans.novayonetim.com/
 server=/eoufaoeuhoauengi.su/
 server=/epanpano.com/
+server=/escapeesrvclub.com/
 server=/file.blackint3.com/
 server=/file.edunet.ac/
 server=/files5.uludagbilisim.com/
@@ -117,6 +116,7 @@ server=/gemini-desktop.com/
 server=/glennmedina.com/
 server=/guaicui.com.br/
 server=/hitman-pro.ru/
+server=/hitstation.nl/
 server=/hobobot.net/
 server=/hr2019.vrcom7.com/
 server=/hrpost.vip/
@@ -151,7 +151,6 @@ server=/mandarin.net.au/
 server=/mertvinc.com.tr/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
-server=/miner-tolken.com/
 server=/misljen.net/
 server=/mondialrelay-assistance-colis.com/
 server=/moonloaderupdate.ru/
@@ -186,6 +185,7 @@ server=/raw.automatica.mx/
 server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
 server=/reifenquick.de/
+server=/resourceedge.org/
 server=/reusable-flex.com/
 server=/rgueapp.com/
 server=/rhsantander.com/
@@ -193,10 +193,10 @@ server=/ronnin-v2.com/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
 server=/security-service-api-link.cc/
+server=/ser.nrovn.xyz/
 server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
-server=/smartverysmart2.com/
 server=/soft.110route.com/
 server=/solve.eyuy.org/
 server=/solve.rywi.org/
@@ -225,11 +225,11 @@ server=/thposto.vip/
 server=/tianyinsoft.top/
 server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
+server=/treinamento.convenio.to.gov.br/
 server=/tualcaldia.com/
 server=/twizt.net/
 server=/upadaria.org/
 server=/update.cg100iii.com/
-server=/update.vlnguba.com/
 server=/update.volam2005pk.com/
 server=/updatemyacc.com/
 server=/us-east-1.tixte.net/
@@ -257,10 +257,8 @@ server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
-server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
-server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
@@ -277,4 +275,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 271
+# Number of entries: 269
