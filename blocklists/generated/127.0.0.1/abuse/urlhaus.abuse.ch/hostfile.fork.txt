@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-01 04:22:05 (UTC)                      #
+# Last updated: 2025-02-01 06:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -54,6 +54,7 @@
 127.0.0.1 certifica-bancamediolanum.com
 127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
+127.0.0.1 chromeupd-mo.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 cloudledger.me
 127.0.0.1 clubedasluluzinhasro.com.br
@@ -97,6 +98,7 @@
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
+127.0.0.1 escapeesrvclub.com
 127.0.0.1 ethunder.ddns.cam
 127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
@@ -110,10 +112,9 @@
 127.0.0.1 glennmedina.com
 127.0.0.1 guaicui.com.br
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
-127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
+127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
@@ -123,13 +124,13 @@
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jilas.net
-127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
 127.0.0.1 jsf12.com
 127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 lnbox.info
@@ -144,6 +145,7 @@
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
+127.0.0.1 miner-tolken.com
 127.0.0.1 misljen.net
 127.0.0.1 mondialrelay-assistance-colis.com
 127.0.0.1 moonloaderupdate.ru
@@ -187,17 +189,17 @@
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 sfa.com.ar
-127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
+127.0.0.1 soft.110route.com
 127.0.0.1 solve.feqy.org
 127.0.0.1 solve.qabi.org
 127.0.0.1 solve.wyji.org
 127.0.0.1 solve.zyde.org
 127.0.0.1 soportegira.net
-127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 staatsgewalt.jameschans.de
+127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 sufikhat.com
 127.0.0.1 support.clz.kr
@@ -206,7 +208,6 @@
 127.0.0.1 symdlotic.com
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
-127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
@@ -215,10 +216,14 @@
 127.0.0.1 tianyinsoft.top
 127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 travelwithmanta.co.za
+127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 trns.in
 127.0.0.1 tualcaldia.com
 127.0.0.1 twizt.net
+127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 us-east-1.tixte.net
 127.0.0.1 uthinker.ddns.cam
 127.0.0.1 utorrent-backup-server.top
@@ -232,6 +237,7 @@
 127.0.0.1 vestertek.top
 127.0.0.1 weixe.ir
 127.0.0.1 win-network-checker.cc
+127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.clubedasluluzinhasro.com.br
@@ -248,7 +254,6 @@
 127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
-127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
@@ -262,4 +267,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 256
+# Number of entries: 261
