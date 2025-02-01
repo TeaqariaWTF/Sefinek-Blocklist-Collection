@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-01 08:20:06 (UTC)                      #
+# Last updated: 2025-02-01 10:19:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -36,7 +36,6 @@
 127.0.0.1 avastexodus.com
 127.0.0.1 avastmetamask.com
 127.0.0.1 avastng.com
-127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
@@ -114,7 +113,9 @@
 127.0.0.1 guaicui.com.br
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
+127.0.0.1 hlag.cc
 127.0.0.1 hobobot.net
+127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
@@ -126,6 +127,7 @@
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jilas.net
+127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
 127.0.0.1 jsf12.com
@@ -144,6 +146,7 @@
 127.0.0.1 mail.automatica.mx
 127.0.0.1 mandarin.net.au
 127.0.0.1 mertvinc.com.tr
+127.0.0.1 mffaccessories.com
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 miner-tolken.com
@@ -190,6 +193,7 @@
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 ser.nrovn.xyz
 127.0.0.1 sfa.com.ar
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
 127.0.0.1 soft.110route.com
@@ -198,7 +202,7 @@
 127.0.0.1 solve.wyji.org
 127.0.0.1 solve.zyde.org
 127.0.0.1 soportegira.net
-127.0.0.1 sporcketngearforu.com
+127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
@@ -211,10 +215,8 @@
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
-127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 testla.ddns.cam
-127.0.0.1 tests.yjzj.org
 127.0.0.1 tianyinsoft.top
 127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 travelwithmanta.co.za
@@ -270,5 +272,6 @@
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
+127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 265
+# Number of entries: 268

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-01 08:20:06 (UTC)                      #
+# Last updated: 2025-02-01 10:19:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -36,7 +36,6 @@
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
@@ -114,7 +113,9 @@
 0.0.0.0 guaicui.com.br
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 hlag.cc
 0.0.0.0 hobobot.net
+0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
@@ -126,6 +127,7 @@
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jilas.net
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 jsf12.com
@@ -144,6 +146,7 @@
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mandarin.net.au
 0.0.0.0 mertvinc.com.tr
+0.0.0.0 mffaccessories.com
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
@@ -190,6 +193,7 @@
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 ser.nrovn.xyz
 0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
@@ -198,7 +202,7 @@
 0.0.0.0 solve.wyji.org
 0.0.0.0 solve.zyde.org
 0.0.0.0 soportegira.net
-0.0.0.0 sporcketngearforu.com
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -211,10 +215,8 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 testla.ddns.cam
-0.0.0.0 tests.yjzj.org
 0.0.0.0 tianyinsoft.top
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
@@ -270,5 +272,6 @@
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 265
+# Number of entries: 268
