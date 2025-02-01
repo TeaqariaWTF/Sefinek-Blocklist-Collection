@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-01 16:13:04 (UTC)                      !
+! Last updated: 2025-02-01 18:23:04 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -27,13 +27,17 @@
 ||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
+||app-antiriciclaggio-mps.com^
 ||apslline.com^
 ||armanayegh.com^
+||avastcxp.com^
+||avastcxt.com^
 ||avastexodus.com^
 ||avastmetamask.com^
 ||avastng.com^
 ||avastop.com^
 ||avastpdq.com^
+||avastpdr.com^
 ||awswesthosting.world^
 ||azgint.com^
 ||banthis.su^
@@ -41,6 +45,7 @@
 ||bitkiselurunsiparis.com^
 ||booking.badrewies-guste.com^
 ||bookingmanage.com^
+||buggi.kliprirob.shop^
 ||buscascolegios.diit.cl^
 ||bv.dopt.cc^
 ||catbaparadisehotel.com.vn^
@@ -71,11 +76,11 @@
 ||ddddd.kliprexep.shop^
 ||deauduafzgezzfgm.top^
 ||deepsek.icu^
-||device.redirec.com^
 ||dhnconstrucciones.com.ar^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.aginjector.com^
+||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||dow.andylab.cn^
@@ -95,7 +100,6 @@
 ||escapeesrvclub.com^
 ||ethunder.ddns.cam^
 ||file.blackint3.com^
-||file.edunet.ac^
 ||files5.uludagbilisim.com^
 ||ftp.ywxww.net^
 ||fundrescuetech.com^
@@ -125,11 +129,12 @@
 ||jsf12.com^
 ||karoonpc.com^
 ||keyser-api.eu^
+||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
+||linkvilleplayers.org^
 ||lnbox.info^
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
-||lsks.volamngayxua.net^
 ||m.gutousoft.com^
 ||maciejowice.dobrybip.pl^
 ||maerchen-beat-frei.ch^
@@ -163,8 +168,10 @@
 ||pid.fly160.com^
 ||pilzmacher.com^
 ||pns.org.pk^
+||protechasia.com^
 ||qajaavjfw.michaeljacobs.info^
 ||qlqd5zqefmkcr34a.onion.sh^
+||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rappel-coinbase.com^
 ||raw.automatica.mx^
@@ -172,6 +179,7 @@
 ||rddissisifigifidi.net^
 ||recetpcha.com^
 ||reifenquick.de^
+||requinos.shop^
 ||resourceedge.org^
 ||reusable-flex.com^
 ||rgueapp.com^
@@ -196,11 +204,13 @@
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||sufikhat.com^
+||sumala.shop^
 ||support.clz.kr^
 ||symbiatec-fi.com^
 ||symbietic.com^
 ||symdlotic.com^
 ||taodianla.com^
+||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
 ||temirtau-adm.ru^
@@ -214,8 +224,11 @@
 ||trns.in^
 ||tualcaldia.com^
 ||twizt.net^
+||ugg.kliprirob.shop^
+||uggi.kliprirob.shop^
 ||upadaria.org^
 ||update.cg100iii.com^
+||update.vlnguba.com^
 ||us-east-1.tixte.net^
 ||uthinker.ddns.cam^
 ||utorrent-backup-server.top^
@@ -223,12 +236,12 @@
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
-||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vbccorretoradeseguros.com.br^
 ||vestertek.top^
 ||weixe.ir^
 ||win-network-checker.cc^
+||woolav.shop^
 ||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.clubedasluluzinhasro.com.br^
@@ -251,6 +264,7 @@
 ||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
+||xiangshunjy.com^
 ||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
@@ -258,4 +272,5 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||z.shavsl.com^
-! Number of entries: 252
+||znrq.zifwxq.cn^
+! Number of entries: 267
