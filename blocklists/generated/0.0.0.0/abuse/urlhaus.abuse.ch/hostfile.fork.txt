@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-02 14:04:04 (UTC)                      #
+# Last updated: 2025-02-02 16:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,6 +21,7 @@
 0.0.0.0 anti-robot-check.com
 0.0.0.0 antibot-v2.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
@@ -30,6 +31,7 @@
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 apslline.com
 0.0.0.0 armanayegh.com
+0.0.0.0 atlantida.team
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -38,7 +40,7 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 azgint.com
+0.0.0.0 avastpx.com
 0.0.0.0 banthis.su
 0.0.0.0 bayerngrow.com
 0.0.0.0 bit1.smogturfprance.shop
@@ -63,7 +65,6 @@
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cracanada.org
-0.0.0.0 crestereamuschilor.ro
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
@@ -77,14 +78,17 @@
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 do-dear.com
 0.0.0.0 docshare.icu
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
@@ -112,6 +116,7 @@
 0.0.0.0 hlag.cc
 0.0.0.0 hobobot.net
 0.0.0.0 hq-office.us
+0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
@@ -153,6 +158,7 @@
 0.0.0.0 mta45.bentons.place
 0.0.0.0 myguyapp.com
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nurturepetwellness.com
@@ -170,6 +176,7 @@
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
@@ -184,9 +191,11 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
+0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
+0.0.0.0 soft.110route.com
 0.0.0.0 solve.feqy.org
 0.0.0.0 solve.kxlv.org
 0.0.0.0 solve.qabi.org
@@ -195,11 +204,9 @@
 0.0.0.0 solve.wyji.org
 0.0.0.0 solve.xclb.org
 0.0.0.0 solve.zyde.org
-0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srv9-mivocloud.500apps.net
-0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
@@ -211,6 +218,7 @@
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 testla.ddns.cam
@@ -242,7 +250,7 @@
 0.0.0.0 weixe.ir
 0.0.0.0 win-network-checker.cc
 0.0.0.0 woolav.shop
-0.0.0.0 www.beiletoys.com
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
@@ -250,13 +258,13 @@
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
@@ -270,6 +278,7 @@
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 266
+# Number of entries: 275
