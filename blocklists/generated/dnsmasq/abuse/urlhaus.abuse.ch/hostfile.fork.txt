@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-02 04:23:04 (UTC)                      #
+# Last updated: 2025-02-02 06:23:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,9 @@
 #
 server=/123.ywxww.net/
 server=/1717.1000uc.com/
+server=/360down7.miiyun.cn/
 server=/abissnet.net/
+server=/adf6.adf6.com/
 server=/admin.aishangzhua.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
@@ -76,6 +78,7 @@ server=/deepsek.icu/
 server=/device.redirec.com/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
+server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
@@ -105,7 +108,6 @@ server=/fundrescuetech.com/
 server=/funletters.net/
 server=/gachetroi.com/
 server=/gawx.florenda.com/
-server=/gemini-desktop.com/
 server=/glennmedina.com/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
@@ -114,7 +116,6 @@ server=/hobobot.net/
 server=/hq-office.us/
 server=/hr2019.vrcom7.com/
 server=/hseda.com/
-server=/huyanhnongdo.io.vn/
 server=/imtoken8.cc/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
@@ -135,6 +136,7 @@ server=/kittlez.ru/
 server=/kurwa.barsoeb.space/
 server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
+server=/linkvilleplayers.org/
 server=/lnbox.info/
 server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
@@ -143,7 +145,6 @@ server=/maciejowice.dobrybip.pl/
 server=/maerchen-beat-frei.ch/
 server=/mandarin.net.au/
 server=/mertvinc.com.tr/
-server=/mffaccessories.com/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
 server=/miner-tolken.com/
@@ -162,12 +163,13 @@ server=/ojang.pe.kr/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
+server=/parmisbuilding.com/
 server=/pb.agnt.ru/
+server=/pid.fly160.com/
 server=/pilzmacher.com/
 server=/pns.org.pk/
 server=/protechasia.com/
 server=/qiniuyunxz.yxflzs.com/
-server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanlyphongnet.com/
 server=/rappel-coinbase.com/
 server=/rd.chuitian.cn/
@@ -218,7 +220,6 @@ server=/tests.yjzj.org/
 server=/tianyinsoft.top/
 server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
-server=/treinamento.convenio.to.gov.br/
 server=/trns.in/
 server=/tualcaldia.com/
 server=/twizt.net/
@@ -260,6 +261,7 @@ server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
+server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
@@ -272,4 +274,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
-# Number of entries: 266
+# Number of entries: 268
