@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-02 12:34:05 (UTC)                      #
+# Last updated: 2025-02-02 14:04:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,7 +21,6 @@
 127.0.0.1 anti-robot-check.com
 127.0.0.1 antibot-v2.com
 127.0.0.1 aosafrica.co.za
-127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
@@ -31,7 +30,6 @@
 127.0.0.1 app-antiriciclaggio-mps.com
 127.0.0.1 apslline.com
 127.0.0.1 armanayegh.com
-127.0.0.1 aulist.com
 127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
 127.0.0.1 avastexodus.com
@@ -40,7 +38,6 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
-127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 bayerngrow.com
@@ -80,13 +77,13 @@
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
-127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 docshare.icu
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
+127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
@@ -108,15 +105,13 @@
 127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
 127.0.0.1 gemini-desktop.com
+127.0.0.1 genericfixer.com
 127.0.0.1 glennmedina.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
 127.0.0.1 hlag.cc
 127.0.0.1 hobobot.net
 127.0.0.1 hq-office.us
-127.0.0.1 hr2019.vrcom7.com
-127.0.0.1 hseda.com
-127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
@@ -141,6 +136,7 @@
 127.0.0.1 lnbox.info
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 maerchen-beat-frei.ch
@@ -157,7 +153,6 @@
 127.0.0.1 mta45.bentons.place
 127.0.0.1 myguyapp.com
 127.0.0.1 nabawitransport.com
-127.0.0.1 namthaibinh.net
 127.0.0.1 nationwideavast.com
 127.0.0.1 noithaticon.vn
 127.0.0.1 nurturepetwellness.com
@@ -184,15 +179,14 @@
 127.0.0.1 requinos.shop
 127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
+127.0.0.1 rgueapp.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 saveyourcinema.ca
 127.0.0.1 security-service-api-link.cc
-127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
-127.0.0.1 soft.110route.com
 127.0.0.1 solve.feqy.org
 127.0.0.1 solve.kxlv.org
 127.0.0.1 solve.qabi.org
@@ -248,7 +242,6 @@
 127.0.0.1 weixe.ir
 127.0.0.1 win-network-checker.cc
 127.0.0.1 woolav.shop
-127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.clubedasluluzinhasro.com.br
@@ -264,7 +257,6 @@
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.sporcketngearforu.com
-127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
@@ -278,7 +270,6 @@
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
-127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 275
+# Number of entries: 266

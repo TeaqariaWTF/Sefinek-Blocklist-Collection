@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-02 12:34:05 (UTC)                      #
+# Last updated: 2025-02-02 14:04:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -21,7 +21,6 @@
 0.0.0.0 anti-robot-check.com
 0.0.0.0 antibot-v2.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
@@ -31,7 +30,6 @@
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 apslline.com
 0.0.0.0 armanayegh.com
-0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -40,7 +38,6 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bayerngrow.com
@@ -80,13 +77,13 @@
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 docshare.icu
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
@@ -108,15 +105,13 @@
 0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gemini-desktop.com
+0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hlag.cc
 0.0.0.0 hobobot.net
 0.0.0.0 hq-office.us
-0.0.0.0 hr2019.vrcom7.com
-0.0.0.0 hseda.com
-0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
@@ -141,6 +136,7 @@
 0.0.0.0 lnbox.info
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 maciejowice.dobrybip.pl
 0.0.0.0 maerchen-beat-frei.ch
@@ -157,7 +153,6 @@
 0.0.0.0 mta45.bentons.place
 0.0.0.0 myguyapp.com
 0.0.0.0 nabawitransport.com
-0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nurturepetwellness.com
@@ -184,15 +179,14 @@
 0.0.0.0 requinos.shop
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
+0.0.0.0 rgueapp.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
-0.0.0.0 soft.110route.com
 0.0.0.0 solve.feqy.org
 0.0.0.0 solve.kxlv.org
 0.0.0.0 solve.qabi.org
@@ -248,7 +242,6 @@
 0.0.0.0 weixe.ir
 0.0.0.0 win-network-checker.cc
 0.0.0.0 woolav.shop
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
@@ -264,7 +257,6 @@
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sporcketngearforu.com
-0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
@@ -278,7 +270,6 @@
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 275
+# Number of entries: 266
