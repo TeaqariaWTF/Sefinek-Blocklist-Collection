@@ -5,8 +5,6 @@ $TTL 300
 *.123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
-360down7.miiyun.cn CNAME .
-*.360down7.miiyun.cn CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
 admin.aishangzhua.com CNAME .
@@ -189,6 +187,8 @@ ethunder.ddns.cam CNAME .
 *.ethunder.ddns.cam CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
+file.edunet.ac CNAME .
+*.file.edunet.ac CNAME .
 files5.uludagbilisim.com CNAME .
 *.files5.uludagbilisim.com CNAME .
 free-spirit-reiki.com CNAME .
@@ -221,6 +221,8 @@ hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
 hseda.com CNAME .
 *.hseda.com CNAME .
+huyanhnongdo.io.vn CNAME .
+*.huyanhnongdo.io.vn CNAME .
 imtoken8.cc CNAME .
 *.imtoken8.cc CNAME .
 ini.sh-pp.com CNAME .
@@ -257,6 +259,8 @@ kurwa.barsoeb.space CNAME .
 *.kurwa.barsoeb.space CNAME .
 library.arihantmbainstitute.ac.in CNAME .
 *.library.arihantmbainstitute.ac.in CNAME .
+lindnerelektroanlagen.de CNAME .
+*.lindnerelektroanlagen.de CNAME .
 lnbox.info CNAME .
 *.lnbox.info CNAME .
 loeghaiofiehfihf.to CNAME .
@@ -305,12 +309,12 @@ odoo.kseibitools.com CNAME .
 *.odoo.kseibitools.com CNAME .
 ojang.pe.kr CNAME .
 *.ojang.pe.kr CNAME .
+osecweb.ir CNAME .
+*.osecweb.ir CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
-parmisbuilding.com CNAME .
-*.parmisbuilding.com CNAME .
 pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 pilzmacher.com CNAME .
@@ -451,8 +455,6 @@ utorrent-backup-server3.top CNAME .
 *.utorrent-backup-server3.top CNAME .
 utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
-utorrent-backup-server5.top CNAME .
-*.utorrent-backup-server5.top CNAME .
 utorrent-servers.xyz CNAME .
 *.utorrent-servers.xyz CNAME .
 valseg.com.br CNAME .
@@ -493,8 +495,6 @@ rphingenieria.com CNAME .
 *.rphingenieria.com CNAME .
 tdejb.com CNAME .
 *.tdejb.com CNAME .
-xn--on3b15m2lco2u.com CNAME .
-*.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
 zhikey.com CNAME .
