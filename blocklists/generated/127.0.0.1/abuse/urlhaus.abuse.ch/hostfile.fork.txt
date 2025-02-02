@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-02 10:10:07 (UTC)                      #
+# Last updated: 2025-02-02 12:34:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,7 +55,6 @@
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 certifica-bancamediolanum.com
 127.0.0.1 check-antibot-v3.com
-127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
 127.0.0.1 chromeupd-mo.com
 127.0.0.1 ciscocdn.com
@@ -78,19 +77,17 @@
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deepsek.icu
 127.0.0.1 device.redirec.com
+127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
-127.0.0.1 do-dear.com
 127.0.0.1 docshare.icu
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
-127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
-127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
@@ -108,7 +105,9 @@
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
+127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
+127.0.0.1 gemini-desktop.com
 127.0.0.1 glennmedina.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
@@ -117,11 +116,13 @@
 127.0.0.1 hq-office.us
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
+127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 it-mediolanumbanca.com
+127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jilas.net
@@ -140,7 +141,6 @@
 127.0.0.1 lnbox.info
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 maciejowice.dobrybip.pl
 127.0.0.1 maerchen-beat-frei.ch
@@ -152,6 +152,7 @@
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 miner-tolken.com
 127.0.0.1 misljen.net
+127.0.0.1 moonloaderupdate.ru
 127.0.0.1 mta179.insuretn.com
 127.0.0.1 mta45.bentons.place
 127.0.0.1 myguyapp.com
@@ -166,6 +167,7 @@
 127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
+127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
 127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
@@ -173,22 +175,20 @@
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 rddissisifigifidi.net
-127.0.0.1 recapchav3.com
 127.0.0.1 recetpcha.com
 127.0.0.1 reifenquick.de
 127.0.0.1 requinos.shop
 127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
-127.0.0.1 rgueapp.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 saveyourcinema.ca
 127.0.0.1 security-service-api-link.cc
+127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
@@ -217,7 +217,6 @@
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
-127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 testla.ddns.cam
@@ -241,6 +240,7 @@
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
+127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 verification-user.live
@@ -268,6 +268,7 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
+127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
@@ -279,4 +280,5 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
-# Number of entries: 273
+127.0.0.1 znrq.zifwxq.cn
+# Number of entries: 275
