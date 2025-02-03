@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-03 01:32:05 (UTC)                      #
+# Last updated: 2025-02-03 02:42:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,7 +27,6 @@ server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
-server=/api.rappel-coinbase.com/
 server=/app-antiriciclaggio-mps.com/
 server=/apslline.com/
 server=/armanayegh.com/
@@ -121,7 +120,6 @@ server=/hr2019.vrcom7.com/
 server=/hrpost.vip/
 server=/hseda.com/
 server=/imtoken8.cc/
-server=/information-binance.com/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
 server=/it-mediolanumbanca.com/
@@ -187,7 +185,6 @@ server=/rgueapp.com/
 server=/ronnin-v2.com/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
-server=/security-service-api-link.cc/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
 server=/sms-szfang.com/
@@ -221,6 +218,7 @@ server=/tests.yjzj.org/
 server=/thposto.vip/
 server=/tianyinsoft.top/
 server=/travelwithmanta.co.za/
+server=/treinamento.convenio.to.gov.br/
 server=/tualcaldia.com/
 server=/twizt.net/
 server=/ugg.kliprirob.shop/
@@ -228,12 +226,11 @@ server=/uggi.kliprirob.shop/
 server=/upadaria.org/
 server=/update.cg100iii.com/
 server=/update.vlnguba.com/
+server=/update.volam2005pk.com/
 server=/uthinker.ddns.cam/
 server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
-server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
-server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
@@ -272,4 +269,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 266
+# Number of entries: 263

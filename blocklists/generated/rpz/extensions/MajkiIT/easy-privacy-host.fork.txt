@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025020201 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025020301 43200 3600 259200 300
   NS  localhost.
 0.myikas.com CNAME .
 *.0.myikas.com CNAME .
@@ -27861,6 +27861,8 @@ gw-analytics.panasonic.com CNAME .
 *.gw-analytics.panasonic.com CNAME .
 gw-dv.vip CNAME .
 *.gw-dv.vip CNAME .
+gw.conversionsapigateway.com CNAME .
+*.gw.conversionsapigateway.com CNAME .
 gwguyh.edreams.es CNAME .
 *.gwguyh.edreams.es CNAME .
 gwizal.yumbutter.com CNAME .
@@ -35861,6 +35863,8 @@ log-lb.skyperfectv.co.jp CNAME .
 *.log-lb.skyperfectv.co.jp CNAME .
 log-pq.shopfully.cloud CNAME .
 *.log-pq.shopfully.cloud CNAME .
+log-upload-os.hoyolab.com CNAME .
+*.log-upload-os.hoyolab.com CNAME .
 log-upload-os.hoyoverse.com CNAME .
 *.log-upload-os.hoyoverse.com CNAME .
 log.adplex.co.kr CNAME .
