@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-03 10:23:05 (UTC)                      !
+! Last updated: 2025-02-03 12:36:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -17,13 +17,16 @@
 ||agapi.cqjjb.cn^
 ||ai-kling.online^
 ||airhobi.com^
-||aistho.vip^
 ||alien-training.com^
 ||anti-robot-check.com^
 ||antlb0tv2.com^
 ||aosafrica.co.za^
+||api.accueil-coinbase.com^
+||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
+||api.information-binance.com^
+||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
 ||apslline.com^
 ||armanayegh.com^
@@ -41,7 +44,6 @@
 ||azgint.com^
 ||banthis.su^
 ||bayerngrow.com^
-||bihpost.vip^
 ||bitkiselurunsiparis.com^
 ||botverifity.com^
 ||buggi.kliprirob.shop^
@@ -49,6 +51,7 @@
 ||bv.dopt.cc^
 ||catbaparadisehotel.com.vn^
 ||cdaonline.com.ar^
+||certifica-bancamediolanum.com^
 ||check-antibot-v3.com^
 ||chinaapper.com^
 ||chmod0777kk.com^
@@ -68,6 +71,7 @@
 ||csg-app.com^
 ||dangtienluc.com^
 ||data.yhydl.com^
+||dcwblida.dz^
 ||deauduafzgezzfgm.top^
 ||deepsek.icu^
 ||device.redirec.com^
@@ -76,7 +80,6 @@
 ||divvanews.com^
 ||dl.1003b.56a.com^
 ||dl.aginjector.com^
-||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
@@ -85,7 +88,6 @@
 ||down.fwqlt.com^
 ||down.mvip8.ru^
 ||down.pcclear.com^
-||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
 ||download.suxiazai.com^
@@ -103,9 +105,7 @@
 ||ftp.ywxww.net^
 ||fundrescuetech.com^
 ||funletters.net^
-||gachetroi.com^
 ||gawx.florenda.com^
-||gemini-desktop.com^
 ||genericfixer.com^
 ||glennmedina.com^
 ||hitman-pro.ru^
@@ -114,10 +114,11 @@
 ||hobobot.net^
 ||hq-office.us^
 ||hr2019.vrcom7.com^
-||hrpost.vip^
 ||hseda.com^
+||huyanhnongdo.io.vn^
 ||imtoken8.cc^
-||ini.sh-pp.com^
+||infobookingcenter.com^
+||information-binance.com^
 ||inspirepk.org^
 ||it-mediolanumbanca.com^
 ||jade-associates.com.br^
@@ -132,7 +133,6 @@
 ||keyser-api.eu^
 ||kittlez.ru^
 ||kurwa.barsoeb.space^
-||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||littlemtlogistics.net^
@@ -140,12 +140,12 @@
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
 ||m.gutousoft.com^
-||maciejowice.dobrybip.pl^
 ||maerchen-beat-frei.ch^
 ||mail1.tech-notifications.com^
 ||mandarin.net.au^
 ||mertvinc.com.tr^
 ||microsoft-analyse.com^
+||microsoft-auth-network.cc^
 ||miner-tolken.com^
 ||misljen.net^
 ||moonloaderupdate.ru^
@@ -170,7 +170,6 @@
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
-||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rd.chuitian.cn^
 ||rddissisifigifidi.net^
@@ -185,11 +184,11 @@
 ||ronnin-v2.com^
 ||safe.ywxww.net^
 ||saveyourcinema.ca^
+||security-service-api-link.cc^
 ||sfa.com.ar^
 ||shell.dimitrimedia.com^
 ||sirault.be^
 ||sms-szfang.com^
-||soft.110route.com^
 ||solve.kxlv.org^
 ||solve.nrxk.org^
 ||solve.rlvw.org^
@@ -218,8 +217,8 @@
 ||tengfeidn.com^
 ||testla.ddns.cam^
 ||tests.yjzj.org^
-||thposto.vip^
 ||tianyinsoft.top^
+||traefik-dashboard.val.io.vn^
 ||travelwithmanta.co.za^
 ||treinamento.convenio.to.gov.br^
 ||tualcaldia.com^
@@ -228,15 +227,23 @@
 ||uggi.kliprirob.shop^
 ||upadaria.org^
 ||update.cg100iii.com^
+||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||uthinker.ddns.cam^
+||utorrent-backup-server.top^
+||utorrent-backup-server2.top^
+||utorrent-backup-server3.top^
+||utorrent-backup-server4.top^
+||utorrent-backup-server5.top^
 ||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vbccorretoradeseguros.com.br^
 ||verification-user.live^
 ||vestertek.top^
+||win-network-checker.cc^
 ||woolav.shop^
 ||www.aqianniao.com^
+||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.clubedasluluzinhasro.com.br^
 ||www.flechabusretiro.com.ar^
@@ -255,6 +262,7 @@
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.xn--on3b15m2lco2u.com^
+||www.ysbaojia.com^
 ||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
@@ -266,4 +274,4 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 260
+! Number of entries: 268
