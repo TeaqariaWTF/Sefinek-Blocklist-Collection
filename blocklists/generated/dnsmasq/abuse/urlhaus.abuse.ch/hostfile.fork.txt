@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-03 08:23:07 (UTC)                      #
+# Last updated: 2025-02-03 10:23:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,6 +15,7 @@ server=/admin.aishangzhua.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
 server=/agapi.cqjjb.cn/
+server=/ai-kling.online/
 server=/airhobi.com/
 server=/aistho.vip/
 server=/alien-training.com/
@@ -27,6 +28,7 @@ server=/app-antiriciclaggio-mps.com/
 server=/apslline.com/
 server=/armanayegh.com/
 server=/atlantida.team/
+server=/aulist.com/
 server=/avastcxp.com/
 server=/avastcxt.com/
 server=/avastexodus.com/
@@ -47,7 +49,6 @@ server=/buscascolegios.diit.cl/
 server=/bv.dopt.cc/
 server=/catbaparadisehotel.com.vn/
 server=/cdaonline.com.ar/
-server=/certifica-bancamediolanum.com/
 server=/check-antibot-v3.com/
 server=/chinaapper.com/
 server=/chmod0777kk.com/
@@ -70,8 +71,10 @@ server=/data.yhydl.com/
 server=/deauduafzgezzfgm.top/
 server=/deepsek.icu/
 server=/device.redirec.com/
+server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
+server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
@@ -100,6 +103,7 @@ server=/free-spirit-reiki.com/
 server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
+server=/gachetroi.com/
 server=/gawx.florenda.com/
 server=/gemini-desktop.com/
 server=/genericfixer.com/
@@ -112,7 +116,6 @@ server=/hq-office.us/
 server=/hr2019.vrcom7.com/
 server=/hrpost.vip/
 server=/hseda.com/
-server=/huyanhnongdo.io.vn/
 server=/imtoken8.cc/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
@@ -194,6 +197,7 @@ server=/solve.vjgh.org/
 server=/solve.vsdd.org/
 server=/solve.wbth.org/
 server=/solve.xclb.org/
+server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/sporcketngearforu.com/
 server=/srv9-mivocloud.500apps.net/
@@ -240,6 +244,7 @@ server=/www.globallaborsupply.com/
 server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
+server=/www.medises.co.kr/
 server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
@@ -260,6 +265,5 @@ server=/xn--yh4bx88a.com/
 server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
-server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 256
+# Number of entries: 260
