@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-03 20:07:04 (UTC)                      #
+# Last updated: 2025-02-03 22:19:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -16,8 +16,9 @@
 0.0.0.0 aeufoeahfouefhg.top
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
+0.0.0.0 airhobi.com
 0.0.0.0 aistho.vip
-0.0.0.0 antbotsv3.com
+0.0.0.0 alien-training.com
 0.0.0.0 anti-robot-check.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
@@ -25,7 +26,6 @@
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
-0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 apslline.com
@@ -74,7 +74,6 @@
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 deepsek.icu
-0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -85,10 +84,12 @@
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 docshare.icu
+0.0.0.0 docshare.sbs
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
@@ -98,7 +99,6 @@
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 escapeesrvclub.com
-0.0.0.0 ethunder.ddns.cam
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
@@ -120,6 +120,7 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrpost.vip
 0.0.0.0 hseda.com
+0.0.0.0 imtoken8.cc
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
@@ -131,6 +132,7 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kittlez.ru
@@ -141,6 +143,8 @@
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 lnbox.info
 0.0.0.0 loeghaiofiehfihf.to
+0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 maerchen-beat-frei.ch
 0.0.0.0 mail1.tech-notifications.com
 0.0.0.0 mandarin.net.au
@@ -153,8 +157,10 @@
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 mta45.bentons.place
 0.0.0.0 myguyapp.com
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
+0.0.0.0 niggabutt.lol
 0.0.0.0 noithaticon.vn
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
@@ -170,6 +176,7 @@
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
@@ -199,6 +206,7 @@
 0.0.0.0 solve.wbth.org
 0.0.0.0 solve.xclb.org
 0.0.0.0 soportegira.net
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srv9-mivocloud.500apps.net
 0.0.0.0 staatsgewalt.jameschans.de
@@ -209,8 +217,10 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
+0.0.0.0 symdlotic.com
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
+0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -228,7 +238,6 @@
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.volam2005pk.com
-0.0.0.0 uthinker.ddns.cam
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
@@ -242,12 +251,15 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 woolav.shop
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -256,7 +268,11 @@
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
+0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
+0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -265,5 +281,6 @@
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 260
+# Number of entries: 277
