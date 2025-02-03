@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-03 04:23:05 (UTC)                      #
+# Last updated: 2025-02-03 06:24:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,11 +24,10 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
-0.0.0.0 api.hostize.com
 0.0.0.0 app-antiriciclaggio-mps.com
+0.0.0.0 apslline.com
 0.0.0.0 armanayegh.com
 0.0.0.0 atlantida.team
-0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -86,6 +85,7 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
@@ -116,6 +116,7 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrpost.vip
 0.0.0.0 hseda.com
+0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 imtoken8.cc
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
@@ -167,8 +168,8 @@
 0.0.0.0 pilzmacher.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
@@ -200,13 +201,13 @@
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srv9-mivocloud.500apps.net
 0.0.0.0 staatsgewalt.jameschans.de
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
 0.0.0.0 sumala.shop
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
-0.0.0.0 symdlotic.com
 0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -218,13 +219,13 @@
 0.0.0.0 thposto.vip
 0.0.0.0 tianyinsoft.top
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
 0.0.0.0 ugg.kliprirob.shop
 0.0.0.0 uggi.kliprirob.shop
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 uthinker.ddns.cam
 0.0.0.0 utorrent-servers.xyz
@@ -243,12 +244,10 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -266,4 +265,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 260
+# Number of entries: 259

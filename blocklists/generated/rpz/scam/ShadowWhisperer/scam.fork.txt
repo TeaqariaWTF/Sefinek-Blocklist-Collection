@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025013101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025020301 43200 3600 259200 300
   NS  localhost.
 007-dvd.com CNAME .
 *.007-dvd.com CNAME .
@@ -1277,6 +1277,8 @@ allstarshirt.com CNAME .
 *.allstarshirt.com CNAME .
 allstaryorkies.com CNAME .
 *.allstaryorkies.com CNAME .
+allthingspersonalised.com CNAME .
+*.allthingspersonalised.com CNAME .
 alltimedesk.com CNAME .
 *.alltimedesk.com CNAME .
 alltraveldoc.com CNAME .
@@ -3547,6 +3549,8 @@ blissfulpersiankittens.com CNAME .
 *.blissfulpersiankittens.com CNAME .
 blissfulpugpuppies.com CNAME .
 *.blissfulpugpuppies.com CNAME .
+blisspomeranians.net CNAME .
+*.blisspomeranians.net CNAME .
 blisswish.net CNAME .
 *.blisswish.net CNAME .
 blizzdachshunds.com CNAME .
@@ -8597,6 +8601,8 @@ earthlypuppieshome.co.za CNAME .
 *.earthlypuppieshome.co.za CNAME .
 easecutecloud.com CNAME .
 *.easecutecloud.com CNAME .
+easiiosports.com CNAME .
+*.easiiosports.com CNAME .
 eastalamedanews.com CNAME .
 *.eastalamedanews.com CNAME .
 eastarapahoenews.com CNAME .
