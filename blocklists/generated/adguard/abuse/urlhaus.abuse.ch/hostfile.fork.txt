@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-04 01:39:29 (UTC)                      !
+! Last updated: 2025-02-04 02:44:04 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -29,7 +29,9 @@
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
 ||apslline.com^
+||armanayegh.com^
 ||atlantida.team^
+||aulist.com^
 ||authentications-safeguard.com^
 ||avastcxp.com^
 ||avastcxt.com^
@@ -52,10 +54,10 @@
 ||cf-unstable.media^
 ||chinaapper.com^
 ||chmod0777kk.com^
-||chromeupd-mo.com^
 ||ciscocdn.com^
 ||cloudnexo.org^
 ||clubedasluluzinhasro.com.br^
+||cnc.kotomari-vn.dev^
 ||cnc.stressamp.com^
 ||coach.028csc.com^
 ||coadymarine.com^
@@ -63,6 +65,7 @@
 ||comteste.com^
 ||conn.masjesu.zip^
 ||cryptopotato.net^
+||crystalpvp.ru^
 ||csg-app.com^
 ||dangtienluc.com^
 ||data.yhydl.com^
@@ -74,9 +77,7 @@
 ||divvanews.com^
 ||dl.1003b.56a.com^
 ||dl.aginjector.com^
-||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
-||dld.jxwan.com^
 ||do-dear.com^
 ||docshare.icu^
 ||docshare.sbs^
@@ -85,13 +86,16 @@
 ||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
+||download.caihong.com^
 ||download.emailorganizer.com^
+||download.haozip.com^
 ||download.suxiazai.com^
 ||downsexv.com^
 ||e4l4.com^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
+||escapeesrvclub.com^
 ||file.blackint3.com^
 ||file.edunet.ac^
 ||files5.uludagbilisim.com^
@@ -105,13 +109,11 @@
 ||glennmedina.com^
 ||grupobramam.com.br^
 ||hitman-pro.ru^
-||hitstation.nl^
 ||hobobot.net^
 ||hq-office.us^
 ||hr2019.vrcom7.com^
 ||hrpost.vip^
 ||hseda.com^
-||huyanhnongdo.io.vn^
 ||imtoken8.cc^
 ||infobookingcenter.com^
 ||information-binance.com^
@@ -143,6 +145,7 @@
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||miner-tolken.com^
+||misljen.net^
 ||moonloaderupdate.ru^
 ||mta179.insuretn.com^
 ||mta45.bentons.place^
@@ -161,8 +164,8 @@
 ||park.chuitian.cn^
 ||parmisbuilding.com^
 ||pb.agnt.ru^
+||pbs-acheminement.com^
 ||pid.fly160.com^
-||pilzmacher.com^
 ||pns.org.pk^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
@@ -176,7 +179,6 @@
 ||reifenquick.de^
 ||resourceedge.org^
 ||reusable-flex.com^
-||rgueapp.com^
 ||ronnin-v2.com^
 ||safe.ywxww.net^
 ||saveyourcinema.ca^
@@ -200,17 +202,18 @@
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
 ||sporcketngearforu.com^
+||srogland.com^
 ||srv9-mivocloud.500apps.net^
 ||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||sufikhat.com^
 ||support.clz.kr^
-||symbiatec-fi.com^
 ||symbietic.com^
 ||symdlotic.com^
 ||tecni-soft.com^
 ||tecunonline.com^
+||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tests.yjzj.org^
@@ -218,38 +221,37 @@
 ||tianyinsoft.top^
 ||traefik-dashboard.val.io.vn^
 ||travelwithmanta.co.za^
+||treinamento.convenio.to.gov.br^
 ||tualcaldia.com^
 ||twizt.net^
 ||upadaria.org^
 ||update.cg100iii.com^
-||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||utorrent-backup-server.top^
+||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
 ||utorrent-backup-server4.top^
+||utorrent-backup-server5.top^
+||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vbccorretoradeseguros.com.br^
 ||vestertek.top^
 ||win-network-checker.cc^
+||www.aqianniao.com^
 ||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.clubedasluluzinhasro.com.br^
-||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.hseda.com^
-||www.ingonherbal.com^
 ||www.maxmoney.com^
-||www.medises.co.kr^
 ||www.newkey.co.kr^
 ||www.opolis.io^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
 ||www.sporcketngearforu.com^
-||www.starcountry.net^
-||www.tdejb.com^
 ||www.tecunonline.com^
-||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
+||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
@@ -257,7 +259,6 @@
 ||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
 ||ywxww.net^
-||yzkzixun.com^
 ||z.shavsl.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 254
+! Number of entries: 255
