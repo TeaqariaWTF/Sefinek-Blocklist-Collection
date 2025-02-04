@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-04 20:16:04 (UTC)                      #
+# Last updated: 2025-02-04 22:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,8 +24,8 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
-127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
+127.0.0.1 api.hostize.com
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
@@ -148,7 +148,6 @@
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
-127.0.0.1 miner-tolken.com
 127.0.0.1 misljen.net
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 mta179.insuretn.com
@@ -221,7 +220,6 @@
 127.0.0.1 symdlotic.com
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
-127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 testla.ddns.cam
@@ -243,7 +241,6 @@
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
 127.0.0.1 vbccorretoradeseguros.com.br
-127.0.0.1 vestertek.top
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
@@ -277,4 +274,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 271
+# Number of entries: 268

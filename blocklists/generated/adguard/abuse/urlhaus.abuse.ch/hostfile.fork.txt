@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-04 20:16:04 (UTC)                      !
+! Last updated: 2025-02-04 22:19:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -24,8 +24,8 @@
 ||aosafrica.co.za^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
-||api.co-operativefinance.com^
 ||api.ewfiles.net^
+||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
@@ -148,7 +148,6 @@
 ||mertvinc.com.tr^
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
-||miner-tolken.com^
 ||misljen.net^
 ||moonloaderupdate.ru^
 ||mta179.insuretn.com^
@@ -221,7 +220,6 @@
 ||symdlotic.com^
 ||taodianla.com^
 ||tecni-soft.com^
-||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
 ||testla.ddns.cam^
@@ -243,7 +241,6 @@
 ||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vbccorretoradeseguros.com.br^
-||vestertek.top^
 ||win-network-checker.cc^
 ||www.aqianniao.com^
 ||www.beiletoys.com^
@@ -277,4 +274,4 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 271
+! Number of entries: 268

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025020301 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025020401 43200 3600 259200 300
   NS  localhost.
 007-dvd.com CNAME .
 *.007-dvd.com CNAME .
@@ -21463,6 +21463,8 @@ printplussupport.be CNAME .
 *.printplussupport.be CNAME .
 printscandriver.com CNAME .
 *.printscandriver.com CNAME .
+prints-care.com CNAME .
+*.prints-care.com CNAME .
 printsupportusa.com CNAME .
 *.printsupportusa.com CNAME .
 prioatfew.com CNAME .

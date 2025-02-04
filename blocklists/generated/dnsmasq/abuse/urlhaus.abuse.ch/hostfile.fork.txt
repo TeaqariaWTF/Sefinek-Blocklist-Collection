@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-04 20:16:04 (UTC)                      #
+# Last updated: 2025-02-04 22:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,8 +24,8 @@ server=/antlb0tv2.com/
 server=/aosafrica.co.za/
 server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
-server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
+server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.rappel-coinbase.com/
 server=/app-antiriciclaggio-mps.com/
@@ -148,7 +148,6 @@ server=/marketscan.me/
 server=/mertvinc.com.tr/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
-server=/miner-tolken.com/
 server=/misljen.net/
 server=/moonloaderupdate.ru/
 server=/mta179.insuretn.com/
@@ -221,7 +220,6 @@ server=/symbietic.com/
 server=/symdlotic.com/
 server=/taodianla.com/
 server=/tecni-soft.com/
-server=/telegramcn.co/
 server=/temirtau-adm.ru/
 server=/tengfeidn.com/
 server=/testla.ddns.cam/
@@ -243,7 +241,6 @@ server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
-server=/vestertek.top/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
 server=/www.beiletoys.com/
@@ -277,4 +274,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 271
+# Number of entries: 268
