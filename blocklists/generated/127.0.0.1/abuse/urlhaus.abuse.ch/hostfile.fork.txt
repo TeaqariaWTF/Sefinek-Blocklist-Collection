@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-04 12:34:33 (UTC)                      #
+# Last updated: 2025-02-04 14:19:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 123.ywxww.net
+127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 abissnet.net
 127.0.0.1 adf6.adf6.com
@@ -19,16 +20,18 @@
 127.0.0.1 alien-training.com
 127.0.0.1 antbotsv3.com
 127.0.0.1 antlb0tv2.com
+127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
+127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
 127.0.0.1 apslline.com
+127.0.0.1 armanayegh.com
 127.0.0.1 atlantida.team
 127.0.0.1 aulist.com
 127.0.0.1 authentications-safeguard.com
-127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
 127.0.0.1 avastexodus.com
 127.0.0.1 avastmetamask.com
@@ -71,6 +74,7 @@
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
+127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
 127.0.0.1 docshare.icu
@@ -80,7 +84,9 @@
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
+127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
+127.0.0.1 download.haozip.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 e4l4.com
@@ -96,6 +102,7 @@
 127.0.0.1 gawx.florenda.com
 127.0.0.1 gemini-desktop.com
 127.0.0.1 genericfixer.com
+127.0.0.1 glennmedina.com
 127.0.0.1 grupobramam.com.br
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
@@ -118,6 +125,7 @@
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
 127.0.0.1 karoonpc.com
+127.0.0.1 keyser-api.eu
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -152,6 +160,7 @@
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
+127.0.0.1 pb.agnt.ru
 127.0.0.1 pbs-acheminement.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
@@ -164,10 +173,12 @@
 127.0.0.1 rddissisifigifidi.net
 127.0.0.1 rdmfile.eu
 127.0.0.1 recapchav3.com
+127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
 127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
 127.0.0.1 rgueapp.com
+127.0.0.1 ronnin-v2.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
@@ -210,6 +221,7 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
@@ -218,7 +230,6 @@
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
-127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 vestertek.top
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
@@ -248,5 +259,6 @@
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 ywxww.net
+127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 243
+# Number of entries: 255

@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-04 12:34:33 (UTC)                      #
+# Last updated: 2025-02-04 14:19:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
+server=/1717.1000uc.com/
 server=/360down7.miiyun.cn/
 server=/abissnet.net/
 server=/adf6.adf6.com/
@@ -19,16 +20,18 @@ server=/airhobi.com/
 server=/alien-training.com/
 server=/antbotsv3.com/
 server=/antlb0tv2.com/
+server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
+server=/api.information-binance.com/
 server=/api.rappel-coinbase.com/
 server=/app-antiriciclaggio-mps.com/
 server=/apslline.com/
+server=/armanayegh.com/
 server=/atlantida.team/
 server=/aulist.com/
 server=/authentications-safeguard.com/
-server=/avastcxp.com/
 server=/avastcxt.com/
 server=/avastexodus.com/
 server=/avastmetamask.com/
@@ -71,6 +74,7 @@ server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.1003b.56a.com/
+server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/docshare.icu/
@@ -80,7 +84,9 @@ server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
+server=/download.caihong.com/
 server=/download.emailorganizer.com/
+server=/download.haozip.com/
 server=/download.suxiazai.com/
 server=/downsexv.com/
 server=/e4l4.com/
@@ -96,6 +102,7 @@ server=/funletters.net/
 server=/gawx.florenda.com/
 server=/gemini-desktop.com/
 server=/genericfixer.com/
+server=/glennmedina.com/
 server=/grupobramam.com.br/
 server=/hitman-pro.ru/
 server=/hitstation.nl/
@@ -118,6 +125,7 @@ server=/jobcity.com/
 server=/jointings.org/
 server=/jrqh-hk.com/
 server=/karoonpc.com/
+server=/keyser-api.eu/
 server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
@@ -152,6 +160,7 @@ server=/osecweb.ir/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
+server=/pb.agnt.ru/
 server=/pbs-acheminement.com/
 server=/pid.fly160.com/
 server=/pilzmacher.com/
@@ -164,10 +173,12 @@ server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
 server=/rdmfile.eu/
 server=/recapchav3.com/
+server=/recepchtav3.com/
 server=/reifenquick.de/
 server=/resourceedge.org/
 server=/reusable-flex.com/
 server=/rgueapp.com/
+server=/ronnin-v2.com/
 server=/safe.ywxww.net/
 server=/security-service-api-link.cc/
 server=/sfa.com.ar/
@@ -210,6 +221,7 @@ server=/tualcaldia.com/
 server=/twizt.net/
 server=/upadaria.org/
 server=/update.cg100iii.com/
+server=/update.vlnguba.com/
 server=/update.volam2005pk.com/
 server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
@@ -218,7 +230,6 @@ server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/valseg.com.br/
-server=/vbccorretoradeseguros.com.br/
 server=/vestertek.top/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
@@ -248,5 +259,6 @@ server=/ximonite.com/
 server=/xingpai.weilay.com.cn/
 server=/xn--yh4bx88a.com/
 server=/ywxww.net/
+server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 243
+# Number of entries: 255

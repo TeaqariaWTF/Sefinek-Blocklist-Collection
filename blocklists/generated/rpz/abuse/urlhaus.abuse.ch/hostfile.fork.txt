@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+1717.1000uc.com CNAME .
+*.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 abissnet.net CNAME .
@@ -27,26 +29,30 @@ antbotsv3.com CNAME .
 *.antbotsv3.com CNAME .
 antlb0tv2.com CNAME .
 *.antlb0tv2.com CNAME .
+api.accueil-coinbase.com CNAME .
+*.api.accueil-coinbase.com CNAME .
 api.aide-coinbase.com CNAME .
 *.api.aide-coinbase.com CNAME .
 api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
+api.information-binance.com CNAME .
+*.api.information-binance.com CNAME .
 api.rappel-coinbase.com CNAME .
 *.api.rappel-coinbase.com CNAME .
 app-antiriciclaggio-mps.com CNAME .
 *.app-antiriciclaggio-mps.com CNAME .
 apslline.com CNAME .
 *.apslline.com CNAME .
+armanayegh.com CNAME .
+*.armanayegh.com CNAME .
 atlantida.team CNAME .
 *.atlantida.team CNAME .
 aulist.com CNAME .
 *.aulist.com CNAME .
 authentications-safeguard.com CNAME .
 *.authentications-safeguard.com CNAME .
-avastcxp.com CNAME .
-*.avastcxp.com CNAME .
 avastcxt.com CNAME .
 *.avastcxt.com CNAME .
 avastexodus.com CNAME .
@@ -131,6 +137,8 @@ divvanews.com CNAME .
 *.divvanews.com CNAME .
 dl.1003b.56a.com CNAME .
 *.dl.1003b.56a.com CNAME .
+dl.packetstormsecurity.net CNAME .
+*.dl.packetstormsecurity.net CNAME .
 dld.jxwan.com CNAME .
 *.dld.jxwan.com CNAME .
 do-dear.com CNAME .
@@ -149,8 +157,12 @@ down.pcclear.com CNAME .
 *.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
 *.down.qqfarmer.com.cn CNAME .
+download.caihong.com CNAME .
+*.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
+download.haozip.com CNAME .
+*.download.haozip.com CNAME .
 download.suxiazai.com CNAME .
 *.download.suxiazai.com CNAME .
 downsexv.com CNAME .
@@ -181,6 +193,8 @@ gemini-desktop.com CNAME .
 *.gemini-desktop.com CNAME .
 genericfixer.com CNAME .
 *.genericfixer.com CNAME .
+glennmedina.com CNAME .
+*.glennmedina.com CNAME .
 grupobramam.com.br CNAME .
 *.grupobramam.com.br CNAME .
 hitman-pro.ru CNAME .
@@ -225,6 +239,8 @@ jrqh-hk.com CNAME .
 *.jrqh-hk.com CNAME .
 karoonpc.com CNAME .
 *.karoonpc.com CNAME .
+keyser-api.eu CNAME .
+*.keyser-api.eu CNAME .
 library.arihantmbainstitute.ac.in CNAME .
 *.library.arihantmbainstitute.ac.in CNAME .
 lindnerelektroanlagen.de CNAME .
@@ -293,6 +309,8 @@ park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 parmisbuilding.com CNAME .
 *.parmisbuilding.com CNAME .
+pb.agnt.ru CNAME .
+*.pb.agnt.ru CNAME .
 pbs-acheminement.com CNAME .
 *.pbs-acheminement.com CNAME .
 pid.fly160.com CNAME .
@@ -317,6 +335,8 @@ rdmfile.eu CNAME .
 *.rdmfile.eu CNAME .
 recapchav3.com CNAME .
 *.recapchav3.com CNAME .
+recepchtav3.com CNAME .
+*.recepchtav3.com CNAME .
 reifenquick.de CNAME .
 *.reifenquick.de CNAME .
 resourceedge.org CNAME .
@@ -325,6 +345,8 @@ reusable-flex.com CNAME .
 *.reusable-flex.com CNAME .
 rgueapp.com CNAME .
 *.rgueapp.com CNAME .
+ronnin-v2.com CNAME .
+*.ronnin-v2.com CNAME .
 safe.ywxww.net CNAME .
 *.safe.ywxww.net CNAME .
 security-service-api-link.cc CNAME .
@@ -409,6 +431,8 @@ upadaria.org CNAME .
 *.upadaria.org CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
+update.vlnguba.com CNAME .
+*.update.vlnguba.com CNAME .
 update.volam2005pk.com CNAME .
 *.update.volam2005pk.com CNAME .
 utorrent-backup-server.top CNAME .
@@ -425,8 +449,6 @@ utorrent-servers.xyz CNAME .
 *.utorrent-servers.xyz CNAME .
 valseg.com.br CNAME .
 *.valseg.com.br CNAME .
-vbccorretoradeseguros.com.br CNAME .
-*.vbccorretoradeseguros.com.br CNAME .
 vestertek.top CNAME .
 *.vestertek.top CNAME .
 win-network-checker.cc CNAME .
@@ -477,5 +499,7 @@ xn--yh4bx88a.com CNAME .
 *.xn--yh4bx88a.com CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
+z.shavsl.com CNAME .
+*.z.shavsl.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
