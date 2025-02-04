@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-04 04:23:05 (UTC)                      #
+# Last updated: 2025-02-04 06:19:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,6 +10,7 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 abissnet.net
+0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 aefieiaehfiaehr.top
 0.0.0.0 aeufoeahfouefhg.top
@@ -26,6 +27,7 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
+0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 apslline.com
 0.0.0.0 armanayegh.com
 0.0.0.0 atlantida.team
@@ -40,9 +42,8 @@
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
-0.0.0.0 azgint.com
 0.0.0.0 banthis.su
-0.0.0.0 bihpost.vip
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bv.dopt.cc
 0.0.0.0 capcut.media
@@ -70,12 +71,12 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deauduafzgezzfgm.top
-0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -83,9 +84,12 @@
 0.0.0.0 docshare.sbs
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
+0.0.0.0 download.haozip.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
@@ -94,7 +98,6 @@
 0.0.0.0 epanpano.com
 0.0.0.0 escapeesrvclub.com
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
@@ -103,7 +106,9 @@
 0.0.0.0 gawx.florenda.com
 0.0.0.0 gemini-desktop.com
 0.0.0.0 genericfixer.com
+0.0.0.0 glennmedina.com
 0.0.0.0 hitman-pro.ru
+0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hq-office.us
 0.0.0.0 hr2019.vrcom7.com
@@ -112,7 +117,6 @@
 0.0.0.0 imtoken8.cc
 0.0.0.0 infobookingcenter.com
 0.0.0.0 information-binance.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 it-mediolanumbanca.com
 0.0.0.0 jade-associates.com.br
@@ -126,13 +130,16 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 library.arihantmbainstitute.ac.in
+0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
-0.0.0.0 maciejowice.dobrybip.pl
+0.0.0.0 m.gutousoft.com
 0.0.0.0 maerchen-beat-frei.ch
 0.0.0.0 mail1.tech-notifications.com
+0.0.0.0 mandarin.net.au
 0.0.0.0 marketscan.me
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-analyse.com
@@ -151,16 +158,14 @@
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
+0.0.0.0 osecweb.ir
 0.0.0.0 park.chuitian.cn
-0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pbs-acheminement.com
-0.0.0.0 pilzmacher.com
+0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
@@ -170,12 +175,14 @@
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
+0.0.0.0 rgueapp.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
+0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
 0.0.0.0 solve.gesz.org
 0.0.0.0 solve.lnww.org
@@ -201,11 +208,12 @@
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
+0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
-0.0.0.0 tests.yjzj.org
 0.0.0.0 tianyinsoft.top
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
@@ -214,7 +222,6 @@
 0.0.0.0 twizt.net
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
@@ -232,9 +239,9 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
@@ -253,5 +260,6 @@
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 ywxww.net
-0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 248
+0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
+# Number of entries: 256

@@ -2001,6 +2001,8 @@ $TTL 300
 *.2skjqy.pl CNAME .
 2tellmystory.com CNAME .
 *.2tellmystory.com CNAME .
+2ul.disciplinethecity.sg CNAME .
+*.2ul.disciplinethecity.sg CNAME .
 2wslhost.com CNAME .
 *.2wslhost.com CNAME .
 2young4u.ru CNAME .
@@ -91329,6 +91331,8 @@ takeaspill.click CNAME .
 *.takeaspill.click CNAME .
 takeatripapp.click CNAME .
 *.takeatripapp.click CNAME .
+takeatriply.click CNAME .
+*.takeatriply.click CNAME .
 takebacktheregent.com CNAME .
 *.takebacktheregent.com CNAME .
 takeitme.site CNAME .
