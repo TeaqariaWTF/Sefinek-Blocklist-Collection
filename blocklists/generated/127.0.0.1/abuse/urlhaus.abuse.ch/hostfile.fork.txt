@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-05 14:19:12 (UTC)                      #
+# Last updated: 2025-02-05 16:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,7 @@
 127.0.0.1 123.ywxww.net
 127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
-127.0.0.1 abissnet.net
+127.0.0.1 abodeefix.shop
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 aefieiaehfiaehr.top
@@ -25,10 +25,10 @@
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.ewfiles.net
+127.0.0.1 api.hostize.com
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
-127.0.0.1 apslline.com
 127.0.0.1 armanayegh.com
 127.0.0.1 aulist.com
 127.0.0.1 authentications-safeguard.com
@@ -102,11 +102,11 @@
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 e4l4.com
-127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
 127.0.0.1 escapeesrvclub.com
 127.0.0.1 file.blackint3.com
+127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fundrescuetech.com
@@ -147,7 +147,6 @@
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 m.gutousoft.com
 127.0.0.1 maerchen-beat-frei.ch
 127.0.0.1 mandarin.net.au
 127.0.0.1 marketscan.me
@@ -169,6 +168,7 @@
 127.0.0.1 noithaticon.vn
 127.0.0.1 ns1.base01.info
 127.0.0.1 ns2.base01.info
+127.0.0.1 ny.lshdw.cc
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 osecweb.ir
@@ -177,14 +177,12 @@
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
 127.0.0.1 pbs-acheminement.com
-127.0.0.1 pid.fly160.com
 127.0.0.1 pilzmacher.com
 127.0.0.1 pns.org.pk
 127.0.0.1 portaal.com.my
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 raw.igxhost.ru
@@ -193,7 +191,6 @@
 127.0.0.1 rdmfile.eu
 127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
-127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
 127.0.0.1 rgueapp.com
 127.0.0.1 rolimonss.com
@@ -228,11 +225,9 @@
 127.0.0.1 solve.xecy.run
 127.0.0.1 solve.zera.bet
 127.0.0.1 solve.zexd.org
-127.0.0.1 soportegira.net
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 srogland.com
-127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 sufikhat.com
@@ -256,7 +251,6 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 uthinker.ddns.cam
 127.0.0.1 utorrent-backup-server.top
@@ -269,7 +263,6 @@
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 vestertek.top
 127.0.0.1 win-network-checker.cc
-127.0.0.1 www.albuspsikoloji.com.tr
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
@@ -304,4 +297,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 298
+# Number of entries: 291
