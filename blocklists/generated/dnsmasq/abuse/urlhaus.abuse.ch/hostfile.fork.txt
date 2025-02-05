@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-05 04:23:07 (UTC)                      #
+# Last updated: 2025-02-05 06:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -69,7 +69,6 @@ server=/cnc.stressamp.com/
 server=/coach.028csc.com/
 server=/coadymarine.com/
 server=/commavast.com/
-server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/cryptopotato.net/
 server=/crystalpvp.ru/
@@ -81,6 +80,7 @@ server=/deepsek.cfd/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
+server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
@@ -91,6 +91,7 @@ server=/dow.andylab.cn/
 server=/down.fwqlt.com/
 server=/down.mvip8.ru/
 server=/down.pcclear.com/
+server=/down.qqfarmer.com.cn/
 server=/download.caihong.com/
 server=/download.emailorganizer.com/
 server=/download.suxiazai.com/
@@ -101,7 +102,6 @@ server=/eoufaoeuhoauengi.su/
 server=/epanpano.com/
 server=/escapeesrvclub.com/
 server=/file.blackint3.com/
-server=/file.edunet.ac/
 server=/files5.uludagbilisim.com/
 server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
@@ -135,11 +135,11 @@ server=/karoonpc.com/
 server=/keyser-api.eu/
 server=/l1nxx.para.rip/
 server=/library.arihantmbainstitute.ac.in/
+server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/littlemtlogistics.net/
 server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
-server=/lsks.volamngayxua.net/
 server=/m.gutousoft.com/
 server=/maerchen-beat-frei.ch/
 server=/mandarin.net.au/
@@ -148,7 +148,6 @@ server=/mertvinc.com.tr/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
 server=/miner-tolken.com/
-server=/misljen.net/
 server=/moonloaderupdate.ru/
 server=/mta179.insuretn.com/
 server=/mta45.bentons.place/
@@ -174,7 +173,7 @@ server=/pid.fly160.com/
 server=/pilzmacher.com/
 server=/pns.org.pk/
 server=/portaal.com.my/
-server=/protechasia.com/
+server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
@@ -228,11 +227,11 @@ server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/sufikhat.com/
 server=/support.clz.kr/
+server=/symbiatec-fi.com/
 server=/symbietic.com/
 server=/symdlotic.com/
+server=/taodianla.com/
 server=/tecni-soft.com/
-server=/tecunonline.com/
-server=/telegramcn.co/
 server=/temirtau-adm.ru/
 server=/tengfeidn.com/
 server=/testla.ddns.cam/
@@ -240,6 +239,7 @@ server=/tests.yjzj.org/
 server=/tianyinsoft.top/
 server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
+server=/treinamento.convenio.to.gov.br/
 server=/tualcaldia.com/
 server=/twizt.net/
 server=/upadaria.org/
@@ -258,6 +258,7 @@ server=/vbccorretoradeseguros.com.br/
 server=/vestertek.top/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
+server=/www.blackhattoolz.com/
 server=/www.clubedasluluzinhasro.com.br/
 server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
@@ -288,4 +289,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 282
+# Number of entries: 283
