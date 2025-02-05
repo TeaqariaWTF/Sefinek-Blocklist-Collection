@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-05 06:16:05 (UTC)                      #
+# Last updated: 2025-02-05 08:21:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -17,6 +17,7 @@
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
+0.0.0.0 airtbn.shop
 0.0.0.0 alien-training.com
 0.0.0.0 anizom.com
 0.0.0.0 antbotsv3.com
@@ -60,6 +61,7 @@
 0.0.0.0 check.xufx.run
 0.0.0.0 chinaapper.com
 0.0.0.0 chmod0777kk.com
+0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cloudbeam.openm.ist
 0.0.0.0 cloudnexo.org
@@ -99,7 +101,6 @@
 0.0.0.0 e4l4.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
-0.0.0.0 epanpano.com
 0.0.0.0 escapeesrvclub.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 files5.uludagbilisim.com
@@ -242,6 +243,7 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 tualcaldia.com
 0.0.0.0 twizt.net
+0.0.0.0 ugg.kliprisydie.shop
 0.0.0.0 upadaria.org
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
@@ -258,8 +260,10 @@
 0.0.0.0 vestertek.top
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
+0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
@@ -271,6 +275,7 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
+0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
@@ -289,4 +294,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 283
+# Number of entries: 288
