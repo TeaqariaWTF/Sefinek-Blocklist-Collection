@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-05 10:19:05 (UTC)                      #
+# Last updated: 2025-02-05 12:34:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,7 +24,6 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
-0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
@@ -43,7 +42,6 @@
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
-0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 banthis.su
 0.0.0.0 base01.info
 0.0.0.0 bitkiselurunsiparis.com
@@ -143,6 +141,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 l1nxx.para.rip
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
@@ -175,6 +174,7 @@
 0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
+0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pbs-acheminement.com
 0.0.0.0 pid.fly160.com
@@ -198,6 +198,7 @@
 0.0.0.0 rgueapp.com
 0.0.0.0 rolimonss.com
 0.0.0.0 ronnin-v2.com
+0.0.0.0 sadonsgithub.site
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
@@ -257,7 +258,6 @@
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
-0.0.0.0 upload.venomtools.in
 0.0.0.0 uthinker.ddns.cam
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
