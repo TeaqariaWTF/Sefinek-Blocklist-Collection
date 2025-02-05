@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-05 02:49:06 (UTC)                      #
+# Last updated: 2025-02-05 04:23:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -31,7 +31,6 @@
 127.0.0.1 app-antiriciclaggio-mps.com
 127.0.0.1 apslline.com
 127.0.0.1 armanayegh.com
-127.0.0.1 aulist.com
 127.0.0.1 authentications-safeguard.com
 127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
@@ -77,10 +76,8 @@
 127.0.0.1 csg-app.com
 127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
-127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deepsek.cfd
-127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
@@ -121,12 +118,12 @@
 127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
-127.0.0.1 huyanhnongdo.io.vn
 127.0.0.1 imtoken8.cc
 127.0.0.1 infobookingcenter.com
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
+127.0.0.1 it-mediolanumbanca.com
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
@@ -134,10 +131,10 @@
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
-127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 l1nxx.para.rip
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 loeghaiofiehfihf.to
@@ -171,7 +168,6 @@
 127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
-127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
 127.0.0.1 pbs-acheminement.com
 127.0.0.1 pid.fly160.com
@@ -248,10 +244,13 @@
 127.0.0.1 twizt.net
 127.0.0.1 upadaria.org
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 uthinker.ddns.cam
 127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
+127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 valseg.com.br
@@ -259,8 +258,8 @@
 127.0.0.1 vestertek.top
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
-127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.clubedasluluzinhasro.com.br
+127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
@@ -285,6 +284,8 @@
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 yunger.ddns.cam
+127.0.0.1 ywxww.net
+127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 281
+# Number of entries: 282
