@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-06 12:34:04 (UTC)                      #
+# Last updated: 2025-02-06 14:19:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -74,6 +74,7 @@ server=/check.xyms.run/
 server=/check.zyfu.site/
 server=/chinaapper.com/
 server=/chmod0777kk.com/
+server=/chromeupd-mo.com/
 server=/ciscocdn.com/
 server=/cloudbeam.openm.ist/
 server=/clubedasluluzinhasro.com.br/
@@ -92,9 +93,9 @@ server=/data.yhydl.com/
 server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
 server=/deepsek.cfd/
+server=/device.redirec.com/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
-server=/dl.1003b.56a.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
@@ -105,12 +106,15 @@ server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
 server=/download.emailorganizer.com/
+server=/download.haozip.com/
 server=/download.suxiazai.com/
 server=/downsexv.com/
 server=/e4l4.com/
 server=/electrum-bch.net/
+server=/elisans.novayonetim.com/
 server=/eoufaoeuhoauengi.su/
 server=/epanpano.com/
+server=/escapeesrvclub.com/
 server=/facturasolegs.shop/
 server=/file-download.esshard.com/
 server=/file.blackint3.com/
@@ -135,7 +139,6 @@ server=/imtoken8.cc/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
-server=/iq.bjvfle7.bar/
 server=/it-mediolanumbanca.com/
 server=/jade-associates.com.br/
 server=/jahez.me/
@@ -208,7 +211,9 @@ server=/sadonsgithub.site/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
 server=/sb.bombeirocivil2.digital/
+server=/securewireless.sbs/
 server=/security-service-api-link.cc/
+server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
 server=/sms-szfang.com/
@@ -234,7 +239,6 @@ server=/staatsgewalt.jameschans.de/
 server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/sufikhat.com/
-server=/support.clz.kr/
 server=/symbietic.com/
 server=/symdlotic.com/
 server=/taodianla.com/
@@ -260,8 +264,8 @@ server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
-server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
+server=/v3-cetpcha.com/
 server=/valseg.com.br/
 server=/vbccorretoradeseguros.com.br/
 server=/vestertek.top/
@@ -276,7 +280,6 @@ server=/www.elefantenfutter.de/
 server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.hseda.com/
-server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
@@ -288,8 +291,10 @@ server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
+server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
+server=/wynecare.com/
 server=/wz.3911.com/
 server=/xiangshunjy.com/
 server=/ximonite.com/
@@ -300,4 +305,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zero-cdn.click/
 server=/znrq.zifwxq.cn/
-# Number of entries: 294
+# Number of entries: 299
