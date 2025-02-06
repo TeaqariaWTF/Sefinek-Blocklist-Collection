@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-06 06:34:23 (UTC)                      !
+! Last updated: 2025-02-06 08:23:03 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -73,6 +73,7 @@
 ||chinaapper.com^
 ||chmod0777kk.com^
 ||chromeupd-mo.com^
+||ciscocdn.com^
 ||cloudbeam.openm.ist^
 ||clubedasluluzinhasro.com.br^
 ||cnc.kotomari-vn.dev^
@@ -122,20 +123,23 @@
 ||ftp.ywxww.net^
 ||fundrescuetech.com^
 ||funletters.net^
+||gachetroi.com^
 ||gawx.florenda.com^
 ||gemini-desktop.com^
 ||genericfixer.com^
 ||glennmedina.com^
 ||grupobramam.com.br^
 ||hasll.com.my^
-||hitstation.nl^
+||hitman-pro.ru^
 ||hobobot.net^
 ||hr2019.vrcom7.com^
+||huyanhnongdo.io.vn^
 ||imtoken8.cc^
 ||information-binance.com^
 ||ini.sh-pp.com^
 ||inspirepk.org^
 ||it-mediolanumbanca.com^
+||jade-associates.com.br^
 ||jahez.me^
 ||javierlopez.eu^
 ||jilas.net^
@@ -299,4 +303,4 @@
 ||z.shavsl.com^
 ||zero-cdn.click^
 ||znrq.zifwxq.cn^
-! Number of entries: 293
+! Number of entries: 297
