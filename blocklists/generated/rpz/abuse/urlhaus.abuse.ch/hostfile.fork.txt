@@ -3,6 +3,8 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+1717.1000uc.com CNAME .
+*.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 abissnet.net CNAME .
@@ -43,6 +45,8 @@ api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
+api.information-binance.com CNAME .
+*.api.information-binance.com CNAME .
 api.rappel-coinbase.com CNAME .
 *.api.rappel-coinbase.com CNAME .
 app-antiriciclaggio-mps.com CNAME .
@@ -69,6 +73,8 @@ avastpdq.com CNAME .
 *.avastpdq.com CNAME .
 avastpdr.com CNAME .
 *.avastpdr.com CNAME .
+avastpx.com CNAME .
+*.avastpx.com CNAME .
 azgint.com CNAME .
 *.azgint.com CNAME .
 babaszepsegverseny.hu CNAME .
@@ -95,6 +101,8 @@ catbaparadisehotel.com.vn CNAME .
 *.catbaparadisehotel.com.vn CNAME .
 cdaonline.com.ar CNAME .
 *.cdaonline.com.ar CNAME .
+certifica-bancamediolanum.com CNAME .
+*.certifica-bancamediolanum.com CNAME .
 check.dejh.run CNAME .
 *.check.dejh.run CNAME .
 check.djtvx.online CNAME .
@@ -165,18 +173,12 @@ deauduafzgezzfgm.top CNAME .
 *.deauduafzgezzfgm.top CNAME .
 deepsek.cfd CNAME .
 *.deepsek.cfd CNAME .
-device.redirec.com CNAME .
-*.device.redirec.com CNAME .
-dhnconstrucciones.com.ar CNAME .
-*.dhnconstrucciones.com.ar CNAME .
 disk.accord1key.cn CNAME .
 *.disk.accord1key.cn CNAME .
 divvanews.com CNAME .
 *.divvanews.com CNAME .
 dl.1003b.56a.com CNAME .
 *.dl.1003b.56a.com CNAME .
-dl.aginjector.com CNAME .
-*.dl.aginjector.com CNAME .
 dl.natgo.cn CNAME .
 *.dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
@@ -193,6 +195,8 @@ down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
 down.pcclear.com CNAME .
 *.down.pcclear.com CNAME .
+down.qqfarmer.com.cn CNAME .
+*.down.qqfarmer.com.cn CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
 download.suxiazai.com CNAME .
@@ -209,6 +213,8 @@ epanpano.com CNAME .
 *.epanpano.com CNAME .
 facturasolegs.shop CNAME .
 *.facturasolegs.shop CNAME .
+file-download.esshard.com CNAME .
+*.file-download.esshard.com CNAME .
 file.blackint3.com CNAME .
 *.file.blackint3.com CNAME .
 file.edunet.ac CNAME .
@@ -351,8 +357,12 @@ pb.agnt.ru CNAME .
 *.pb.agnt.ru CNAME .
 pbs-acheminement.com CNAME .
 *.pbs-acheminement.com CNAME .
+pid.fly160.com CNAME .
+*.pid.fly160.com CNAME .
 pilzmacher.com CNAME .
 *.pilzmacher.com CNAME .
+pns.org.pk CNAME .
+*.pns.org.pk CNAME .
 portaal.com.my CNAME .
 *.portaal.com.my CNAME .
 protechasia.com CNAME .
@@ -449,8 +459,6 @@ sufikhat.com CNAME .
 *.sufikhat.com CNAME .
 support.clz.kr CNAME .
 *.support.clz.kr CNAME .
-symbiatec-fi.com CNAME .
-*.symbiatec-fi.com CNAME .
 symbietic.com CNAME .
 *.symbietic.com CNAME .
 symdlotic.com CNAME .
@@ -501,6 +509,8 @@ utorrent-backup-server3.top CNAME .
 *.utorrent-backup-server3.top CNAME .
 utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
+utorrent-backup-server5.top CNAME .
+*.utorrent-backup-server5.top CNAME .
 utorrent-servers.xyz CNAME .
 *.utorrent-servers.xyz CNAME .
 valseg.com.br CNAME .
@@ -531,8 +541,6 @@ ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 maxmoney.com CNAME .
 *.maxmoney.com CNAME .
-medises.co.kr CNAME .
-*.medises.co.kr CNAME .
 newkey.co.kr CNAME .
 *.newkey.co.kr CNAME .
 opolis.io CNAME .
