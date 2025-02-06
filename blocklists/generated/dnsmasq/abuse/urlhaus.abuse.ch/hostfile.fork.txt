@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-06 18:23:04 (UTC)                      #
+# Last updated: 2025-02-06 20:19:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 server=/123.ywxww.net/
 server=/1717.1000uc.com/
-server=/360down7.miiyun.cn/
 server=/abissnet.net/
 server=/abodeefix.shop/
 server=/adf6.adf6.com/
@@ -129,6 +128,7 @@ server=/gawx.florenda.com/
 server=/gemini-desktop.com/
 server=/genericfixer.com/
 server=/glennmedina.com/
+server=/global-protect.us/
 server=/grupobramam.com.br/
 server=/hasll.com.my/
 server=/hitman-pro.ru/
@@ -155,7 +155,6 @@ server=/karoonpc.com/
 server=/keyser-api.eu/
 server=/l1nxx.para.rip/
 server=/library.arihantmbainstitute.ac.in/
-server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/littlemtlogistics.net/
 server=/loeghaiofiehfihf.to/
@@ -167,7 +166,6 @@ server=/mandarin.net.au/
 server=/mertvinc.com.tr/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
-server=/miner-tolken.com/
 server=/misljen.net/
 server=/mogagrocol.ru/
 server=/moonloaderupdate.ru/
@@ -184,7 +182,9 @@ server=/ns1.base01.info/
 server=/ns2.base01.info/
 server=/ny.lshdw.cc/
 server=/odoo.kseibitools.com/
+server=/ohart.top/
 server=/ojang.pe.kr/
+server=/osecweb.ir/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
@@ -209,12 +209,13 @@ server=/resourceedge.org/
 server=/reusable-flex.com/
 server=/rgueapp.com/
 server=/rolimonss.com/
+server=/ronnin-v2.com/
 server=/sadonsgithub.site/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
 server=/sb.bombeirocivil2.digital/
-server=/securewireless.sbs/
 server=/security-service-api-link.cc/
+server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
 server=/sms-szfang.com/
@@ -258,6 +259,8 @@ server=/tualcaldia.com/
 server=/twizt.net/
 server=/ugg.kliprisydie.shop/
 server=/update.cg100iii.com/
+server=/update.vlnguba.com/
+server=/update.volam2005pk.com/
 server=/upload.venomtools.in/
 server=/uthinker.ddns.cam/
 server=/utorrent-backup-server.top/
@@ -287,6 +290,7 @@ server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.seventools.de/
+server=/www.sporcketngearforu.com/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
@@ -301,7 +305,6 @@ server=/xn--yh4bx88a.com/
 server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
-server=/z.shavsl.com/
 server=/zero-cdn.click/
 server=/znrq.zifwxq.cn/
-# Number of entries: 298
+# Number of entries: 301

@@ -5,8 +5,6 @@ $TTL 300
 *.123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
-360down7.miiyun.cn CNAME .
-*.360down7.miiyun.cn CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
 abodeefix.shop CNAME .
@@ -247,6 +245,8 @@ genericfixer.com CNAME .
 *.genericfixer.com CNAME .
 glennmedina.com CNAME .
 *.glennmedina.com CNAME .
+global-protect.us CNAME .
+*.global-protect.us CNAME .
 grupobramam.com.br CNAME .
 *.grupobramam.com.br CNAME .
 hasll.com.my CNAME .
@@ -299,8 +299,6 @@ l1nxx.para.rip CNAME .
 *.l1nxx.para.rip CNAME .
 library.arihantmbainstitute.ac.in CNAME .
 *.library.arihantmbainstitute.ac.in CNAME .
-lindnerelektroanlagen.de CNAME .
-*.lindnerelektroanlagen.de CNAME .
 linkvilleplayers.org CNAME .
 *.linkvilleplayers.org CNAME .
 littlemtlogistics.net CNAME .
@@ -323,8 +321,6 @@ microsoft-analyse.com CNAME .
 *.microsoft-analyse.com CNAME .
 microsoft-auth-network.cc CNAME .
 *.microsoft-auth-network.cc CNAME .
-miner-tolken.com CNAME .
-*.miner-tolken.com CNAME .
 misljen.net CNAME .
 *.misljen.net CNAME .
 mogagrocol.ru CNAME .
@@ -357,8 +353,12 @@ ny.lshdw.cc CNAME .
 *.ny.lshdw.cc CNAME .
 odoo.kseibitools.com CNAME .
 *.odoo.kseibitools.com CNAME .
+ohart.top CNAME .
+*.ohart.top CNAME .
 ojang.pe.kr CNAME .
 *.ojang.pe.kr CNAME .
+osecweb.ir CNAME .
+*.osecweb.ir CNAME .
 palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
 park.chuitian.cn CNAME .
@@ -407,6 +407,8 @@ rgueapp.com CNAME .
 *.rgueapp.com CNAME .
 rolimonss.com CNAME .
 *.rolimonss.com CNAME .
+ronnin-v2.com CNAME .
+*.ronnin-v2.com CNAME .
 sadonsgithub.site CNAME .
 *.sadonsgithub.site CNAME .
 safe.ywxww.net CNAME .
@@ -415,10 +417,10 @@ saveyourcinema.ca CNAME .
 *.saveyourcinema.ca CNAME .
 sb.bombeirocivil2.digital CNAME .
 *.sb.bombeirocivil2.digital CNAME .
-securewireless.sbs CNAME .
-*.securewireless.sbs CNAME .
 security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
+sfa.com.ar CNAME .
+*.sfa.com.ar CNAME .
 shell.dimitrimedia.com CNAME .
 *.shell.dimitrimedia.com CNAME .
 sirault.be CNAME .
@@ -505,6 +507,10 @@ ugg.kliprisydie.shop CNAME .
 *.ugg.kliprisydie.shop CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
+update.vlnguba.com CNAME .
+*.update.vlnguba.com CNAME .
+update.volam2005pk.com CNAME .
+*.update.volam2005pk.com CNAME .
 upload.venomtools.in CNAME .
 *.upload.venomtools.in CNAME .
 uthinker.ddns.cam CNAME .
@@ -581,8 +587,6 @@ ywxww.net CNAME .
 *.ywxww.net CNAME .
 yzkzixun.com CNAME .
 *.yzkzixun.com CNAME .
-z.shavsl.com CNAME .
-*.z.shavsl.com CNAME .
 zero-cdn.click CNAME .
 *.zero-cdn.click CNAME .
 znrq.zifwxq.cn CNAME .

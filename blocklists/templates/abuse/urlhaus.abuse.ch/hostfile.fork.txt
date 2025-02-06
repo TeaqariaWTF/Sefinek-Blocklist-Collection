@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-06 18:23:04 (UTC)                      #
+# Last updated: 2025-02-06 20:19:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
-0.0.0.0 360down7.miiyun.cn
 0.0.0.0 abissnet.net
 0.0.0.0 abodeefix.shop
 0.0.0.0 adf6.adf6.com
@@ -129,6 +128,7 @@
 0.0.0.0 gemini-desktop.com
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
+0.0.0.0 global-protect.us
 0.0.0.0 grupobramam.com.br
 0.0.0.0 hasll.com.my
 0.0.0.0 hitman-pro.ru
@@ -155,7 +155,6 @@
 0.0.0.0 keyser-api.eu
 0.0.0.0 l1nxx.para.rip
 0.0.0.0 library.arihantmbainstitute.ac.in
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 loeghaiofiehfihf.to
@@ -167,7 +166,6 @@
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mogagrocol.ru
 0.0.0.0 moonloaderupdate.ru
@@ -184,7 +182,9 @@
 0.0.0.0 ns2.base01.info
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
+0.0.0.0 ohart.top
 0.0.0.0 ojang.pe.kr
+0.0.0.0 osecweb.ir
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
@@ -209,12 +209,13 @@
 0.0.0.0 reusable-flex.com
 0.0.0.0 rgueapp.com
 0.0.0.0 rolimonss.com
+0.0.0.0 ronnin-v2.com
 0.0.0.0 sadonsgithub.site
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 sb.bombeirocivil2.digital
-0.0.0.0 securewireless.sbs
 0.0.0.0 security-service-api-link.cc
+0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
@@ -258,6 +259,8 @@
 0.0.0.0 twizt.net
 0.0.0.0 ugg.kliprisydie.shop
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 upload.venomtools.in
 0.0.0.0 uthinker.ddns.cam
 0.0.0.0 utorrent-backup-server.top
@@ -287,6 +290,7 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.seventools.de
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
@@ -301,7 +305,6 @@
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 298
+# Number of entries: 301
