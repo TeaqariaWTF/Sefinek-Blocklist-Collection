@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-06 16:24:32 (UTC)                      #
+# Last updated: 2025-02-06 18:23:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,11 +42,11 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
+server=/avastpx.com/
 server=/azgint.com/
 server=/babaszepsegverseny.hu/
 server=/banthis.su/
 server=/base01.info/
-server=/bitkiselurunsiparis.com/
 server=/bitlunch.smogturfprance.shop/
 server=/blockchainsdev.net/
 server=/budgetttysnzm.shop/
@@ -92,13 +92,13 @@ server=/data.yhydl.com/
 server=/dcwblida.dz/
 server=/deauduafzgezzfgm.top/
 server=/deepsek.cfd/
-server=/device.redirec.com/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
+server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/dow.andylab.cn/
@@ -243,7 +243,6 @@ server=/sufikhat.com/
 server=/symbiatec-fi.com/
 server=/symbietic.com/
 server=/symdlotic.com/
-server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/telegramcn.co/
@@ -259,7 +258,6 @@ server=/tualcaldia.com/
 server=/twizt.net/
 server=/ugg.kliprisydie.shop/
 server=/update.cg100iii.com/
-server=/update.vlnguba.com/
 server=/upload.venomtools.in/
 server=/uthinker.ddns.cam/
 server=/utorrent-backup-server.top/
@@ -285,11 +283,10 @@ server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.newkey.co.kr/
+server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
-server=/www.rphingenieria.com/
 server=/www.seventools.de/
-server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/
@@ -307,4 +304,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/zero-cdn.click/
 server=/znrq.zifwxq.cn/
-# Number of entries: 301
+# Number of entries: 298

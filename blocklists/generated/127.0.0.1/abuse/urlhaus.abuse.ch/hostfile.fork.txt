@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-06 16:24:32 (UTC)                      #
+# Last updated: 2025-02-06 18:23:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,11 +42,11 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
+127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 babaszepsegverseny.hu
 127.0.0.1 banthis.su
 127.0.0.1 base01.info
-127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 bitlunch.smogturfprance.shop
 127.0.0.1 blockchainsdev.net
 127.0.0.1 budgetttysnzm.shop
@@ -92,13 +92,13 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 deepsek.cfd
-127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
+127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
@@ -243,7 +243,6 @@
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
-127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
@@ -259,7 +258,6 @@
 127.0.0.1 twizt.net
 127.0.0.1 ugg.kliprisydie.shop
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 upload.venomtools.in
 127.0.0.1 uthinker.ddns.cam
 127.0.0.1 utorrent-backup-server.top
@@ -285,11 +283,10 @@
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.newkey.co.kr
+127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
-127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.seventools.de
-127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
@@ -307,4 +304,4 @@
 127.0.0.1 z.shavsl.com
 127.0.0.1 zero-cdn.click
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 301
+# Number of entries: 298
