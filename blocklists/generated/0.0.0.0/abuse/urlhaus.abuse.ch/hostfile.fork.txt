@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-07 18:23:20 (UTC)                      #
+# Last updated: 2025-02-07 20:14:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 abissnet.net
 0.0.0.0 abodeefix.shop
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
@@ -22,7 +23,6 @@
 0.0.0.0 antiquebotv3.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
@@ -44,6 +44,7 @@
 0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 banthis.su
 0.0.0.0 barleyjack.com
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blockchainsdev.net
 0.0.0.0 booking.exsrtra-cancellesd.com
 0.0.0.0 booking.securealertsb.com
@@ -52,10 +53,8 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bv.dopt.cc
 0.0.0.0 catbaparadisehotel.com.vn
-0.0.0.0 cattozzo.it
 0.0.0.0 caymanluxurycars.com
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 certifica-bancamediolanum.com
 0.0.0.0 check.alku.ink
 0.0.0.0 check.amda.ink
 0.0.0.0 check.bxayj.site
@@ -103,7 +102,6 @@
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
@@ -138,7 +136,6 @@
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 global-protect.us
-0.0.0.0 gopay.stockadv.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
@@ -166,6 +163,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 kes3.constructoramelgarejo.cl
 0.0.0.0 keyser-api.eu
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
@@ -173,11 +171,9 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lqhm.constructoramelgarejo.cl
 0.0.0.0 m.gutousoft.com
-0.0.0.0 mac-only.site
 0.0.0.0 mandarin.net.au
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-analyse.com
-0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mogagrocol.ru
@@ -217,7 +213,6 @@
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
-0.0.0.0 rgueapp.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 sabt.conformalegal.com
 0.0.0.0 sadonsgithub.site
@@ -260,7 +255,6 @@
 0.0.0.0 u2.fondnesssprayamiable.shop
 0.0.0.0 ugg.kliprisydie.shop
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 upload.venomtools.in
 0.0.0.0 uthinker.ddns.cam
@@ -268,15 +262,14 @@
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
-0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 v3-cetpcha.com
 0.0.0.0 valseg.com.br
-0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 weixe.ir
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.albuspsikoloji.com.tr
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.elefantenfutter.de
@@ -299,6 +292,7 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
+0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xn--yh4bx88a.com
@@ -309,4 +303,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 303
+# Number of entries: 297

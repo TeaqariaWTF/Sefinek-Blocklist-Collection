@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-07 18:23:20 (UTC)                      #
+# Last updated: 2025-02-07 20:14:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 127.0.0.1 123.ywxww.net
 127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 abissnet.net
 127.0.0.1 abodeefix.shop
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
@@ -22,7 +23,6 @@
 127.0.0.1 antiquebotv3.com
 127.0.0.1 antlb0tv2.com
 127.0.0.1 aosafrica.co.za
-127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
@@ -44,6 +44,7 @@
 127.0.0.1 babaszepsegverseny.hu
 127.0.0.1 banthis.su
 127.0.0.1 barleyjack.com
+127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blockchainsdev.net
 127.0.0.1 booking.exsrtra-cancellesd.com
 127.0.0.1 booking.securealertsb.com
@@ -52,10 +53,8 @@
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 bv.dopt.cc
 127.0.0.1 catbaparadisehotel.com.vn
-127.0.0.1 cattozzo.it
 127.0.0.1 caymanluxurycars.com
 127.0.0.1 cdaonline.com.ar
-127.0.0.1 certifica-bancamediolanum.com
 127.0.0.1 check.alku.ink
 127.0.0.1 check.amda.ink
 127.0.0.1 check.bxayj.site
@@ -103,7 +102,6 @@
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
-127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
@@ -138,7 +136,6 @@
 127.0.0.1 genericfixer.com
 127.0.0.1 glennmedina.com
 127.0.0.1 global-protect.us
-127.0.0.1 gopay.stockadv.com
 127.0.0.1 grupobramam.com.br
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
@@ -166,6 +163,7 @@
 127.0.0.1 karoonpc.com
 127.0.0.1 kes3.constructoramelgarejo.cl
 127.0.0.1 keyser-api.eu
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
@@ -173,11 +171,9 @@
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 lqhm.constructoramelgarejo.cl
 127.0.0.1 m.gutousoft.com
-127.0.0.1 mac-only.site
 127.0.0.1 mandarin.net.au
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-analyse.com
-127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 miner-tolken.com
 127.0.0.1 misljen.net
 127.0.0.1 mogagrocol.ru
@@ -217,7 +213,6 @@
 127.0.0.1 reifenquick.de
 127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
-127.0.0.1 rgueapp.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 sabt.conformalegal.com
 127.0.0.1 sadonsgithub.site
@@ -260,7 +255,6 @@
 127.0.0.1 u2.fondnesssprayamiable.shop
 127.0.0.1 ugg.kliprisydie.shop
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 upload.venomtools.in
 127.0.0.1 uthinker.ddns.cam
@@ -268,15 +262,14 @@
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
-127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 v3-cetpcha.com
 127.0.0.1 valseg.com.br
-127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 weixe.ir
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.albuspsikoloji.com.tr
 127.0.0.1 www.aqianniao.com
+127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.clubedasluluzinhasro.com.br
 127.0.0.1 www.elefantenfutter.de
@@ -299,6 +292,7 @@
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
+127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
 127.0.0.1 xn--yh4bx88a.com
@@ -309,4 +303,4 @@
 127.0.0.1 z.shavsl.com
 127.0.0.1 zero-cdn.click
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 303
+# Number of entries: 297
