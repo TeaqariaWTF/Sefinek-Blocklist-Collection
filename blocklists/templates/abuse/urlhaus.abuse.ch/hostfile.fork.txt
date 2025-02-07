@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-07 01:39:05 (UTC)                      #
+# Last updated: 2025-02-07 02:43:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,7 +19,6 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
 0.0.0.0 airtbn.shop
-0.0.0.0 alien-training.com
 0.0.0.0 antiquebotv3.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
@@ -29,6 +28,7 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
+0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 armanayegh.com
 0.0.0.0 assumedtribsosp.shop
@@ -46,9 +46,7 @@
 0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 banthis.su
 0.0.0.0 barleyjack.com
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blockchainsdev.net
-0.0.0.0 booking-5721.com
 0.0.0.0 booking.exsrtra-cancellesd.com
 0.0.0.0 booking.securealertsb.com
 0.0.0.0 booking.secureverifys.com
@@ -90,13 +88,14 @@
 0.0.0.0 cnc.kotomari-vn.dev
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
 0.0.0.0 comteste.com
 0.0.0.0 confirmbookid.info
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
+0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 data03.info
 0.0.0.0 data3.info
@@ -108,7 +107,6 @@
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
@@ -117,7 +115,6 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
@@ -148,6 +145,7 @@
 0.0.0.0 hobobot.net
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
+0.0.0.0 huyanhnongdo.io.vn
 0.0.0.0 iamkarenwsmith.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 info-regionsapproval.com
@@ -162,7 +160,7 @@
 0.0.0.0 jilas.net
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
-0.0.0.0 karer.by
+0.0.0.0 jrqh-hk.com
 0.0.0.0 karoonpc.com
 0.0.0.0 kes3.constructoramelgarejo.cl
 0.0.0.0 keyser-api.eu
@@ -173,7 +171,6 @@
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lqhm.constructoramelgarejo.cl
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 mertvinc.com.tr
@@ -191,7 +188,6 @@
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 neodoctopress.com
-0.0.0.0 noithaticon.vn
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ohart.top
@@ -204,11 +200,8 @@
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pid.fly160.com
 0.0.0.0 pilzmacher.com
-0.0.0.0 pns.org.pk
 0.0.0.0 ptno.constructoramelgarejo.cl
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 raw.igxhost.ru
@@ -218,6 +211,8 @@
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
+0.0.0.0 rgueapp.com
+0.0.0.0 ronnin-v2.com
 0.0.0.0 sabt.conformalegal.com
 0.0.0.0 sadonsgithub.site
 0.0.0.0 safe.ywxww.net
@@ -228,21 +223,21 @@
 0.0.0.0 secureviewmode.com
 0.0.0.0 securewireless.sbs
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srogland.com
 0.0.0.0 staatsgewalt.jameschans.de
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
 0.0.0.0 support.clz.kr
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
+0.0.0.0 taodianla.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -257,7 +252,6 @@
 0.0.0.0 twizt.net
 0.0.0.0 ugg.kliprisydie.shop
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 upload.venomtools.in
 0.0.0.0 uthinker.ddns.cam
 0.0.0.0 utorrent-backup-server.top
@@ -280,13 +274,12 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
+0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
@@ -303,7 +296,6 @@
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 300
+# Number of entries: 292
