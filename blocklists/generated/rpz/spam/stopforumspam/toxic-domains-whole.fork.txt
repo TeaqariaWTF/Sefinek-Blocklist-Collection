@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025020601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025020701 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -88025,6 +88025,8 @@ solutions.gethike.click CNAME .
 *.solutions.gethike.click CNAME .
 solutions.meetflip.click CNAME .
 *.solutions.meetflip.click CNAME .
+solutions.openfrisk.click CNAME .
+*.solutions.openfrisk.click CNAME .
 solutions.switchon.click CNAME .
 *.solutions.switchon.click CNAME .
 solutions.theflip.click CNAME .
