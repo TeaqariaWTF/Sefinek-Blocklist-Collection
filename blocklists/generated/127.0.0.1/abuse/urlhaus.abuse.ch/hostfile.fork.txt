@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-07 16:24:04 (UTC)                      #
+# Last updated: 2025-02-07 18:23:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -40,7 +40,6 @@
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
 127.0.0.1 avastpdr.com
-127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 babaszepsegverseny.hu
 127.0.0.1 banthis.su
@@ -174,6 +173,7 @@
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 lqhm.constructoramelgarejo.cl
 127.0.0.1 m.gutousoft.com
+127.0.0.1 mac-only.site
 127.0.0.1 mandarin.net.au
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-analyse.com
@@ -191,7 +191,6 @@
 127.0.0.1 nascacs.co.za
 127.0.0.1 nationwideavast.com
 127.0.0.1 neodoctopress.com
-127.0.0.1 noithaticon.vn
 127.0.0.1 ny.lshdw.cc
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ohart.top
@@ -223,7 +222,6 @@
 127.0.0.1 sabt.conformalegal.com
 127.0.0.1 sadonsgithub.site
 127.0.0.1 safe.ywxww.net
-127.0.0.1 saveyourcinema.ca
 127.0.0.1 sb.bombeirocivil2.digital
 127.0.0.1 secureverifys.com
 127.0.0.1 secureviewmode.cloud
@@ -231,14 +229,12 @@
 127.0.0.1 securewireless.sbs
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
-127.0.0.1 shadowinject.com
 127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
 127.0.0.1 soft.110route.com
 127.0.0.1 soportegira.net
 127.0.0.1 spaceframe.mobi.space-frame.co.za
-127.0.0.1 sporcketngearforu.com
 127.0.0.1 srogland.com
 127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
@@ -313,4 +309,4 @@
 127.0.0.1 z.shavsl.com
 127.0.0.1 zero-cdn.click
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 307
+# Number of entries: 303

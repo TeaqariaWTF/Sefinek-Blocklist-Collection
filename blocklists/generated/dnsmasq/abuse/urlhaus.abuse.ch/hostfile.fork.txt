@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-07 16:24:04 (UTC)                      #
+# Last updated: 2025-02-07 18:23:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -40,7 +40,6 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
-server=/avastpx.com/
 server=/azgint.com/
 server=/babaszepsegverseny.hu/
 server=/banthis.su/
@@ -174,6 +173,7 @@ server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
 server=/lqhm.constructoramelgarejo.cl/
 server=/m.gutousoft.com/
+server=/mac-only.site/
 server=/mandarin.net.au/
 server=/mertvinc.com.tr/
 server=/microsoft-analyse.com/
@@ -191,7 +191,6 @@ server=/namthaibinh.net/
 server=/nascacs.co.za/
 server=/nationwideavast.com/
 server=/neodoctopress.com/
-server=/noithaticon.vn/
 server=/ny.lshdw.cc/
 server=/odoo.kseibitools.com/
 server=/ohart.top/
@@ -223,7 +222,6 @@ server=/ronnin-v2.com/
 server=/sabt.conformalegal.com/
 server=/sadonsgithub.site/
 server=/safe.ywxww.net/
-server=/saveyourcinema.ca/
 server=/sb.bombeirocivil2.digital/
 server=/secureverifys.com/
 server=/secureviewmode.cloud/
@@ -231,14 +229,12 @@ server=/secureviewmode.com/
 server=/securewireless.sbs/
 server=/security-service-api-link.cc/
 server=/sfa.com.ar/
-server=/shadowinject.com/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
 server=/sms-szfang.com/
 server=/soft.110route.com/
 server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
-server=/sporcketngearforu.com/
 server=/srogland.com/
 server=/staatsgewalt.jameschans.de/
 server=/stdown.dinju.com/
@@ -313,4 +309,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/zero-cdn.click/
 server=/znrq.zifwxq.cn/
-# Number of entries: 307
+# Number of entries: 303

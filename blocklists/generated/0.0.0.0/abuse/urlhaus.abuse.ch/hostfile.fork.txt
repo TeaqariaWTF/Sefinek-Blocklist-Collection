@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-07 16:24:04 (UTC)                      #
+# Last updated: 2025-02-07 18:23:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -40,7 +40,6 @@
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 banthis.su
@@ -174,6 +173,7 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lqhm.constructoramelgarejo.cl
 0.0.0.0 m.gutousoft.com
+0.0.0.0 mac-only.site
 0.0.0.0 mandarin.net.au
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-analyse.com
@@ -191,7 +191,6 @@
 0.0.0.0 nascacs.co.za
 0.0.0.0 nationwideavast.com
 0.0.0.0 neodoctopress.com
-0.0.0.0 noithaticon.vn
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ohart.top
@@ -223,7 +222,6 @@
 0.0.0.0 sabt.conformalegal.com
 0.0.0.0 sadonsgithub.site
 0.0.0.0 safe.ywxww.net
-0.0.0.0 saveyourcinema.ca
 0.0.0.0 sb.bombeirocivil2.digital
 0.0.0.0 secureverifys.com
 0.0.0.0 secureviewmode.cloud
@@ -231,14 +229,12 @@
 0.0.0.0 securewireless.sbs
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
-0.0.0.0 shadowinject.com
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 srogland.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
@@ -313,4 +309,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 307
+# Number of entries: 303

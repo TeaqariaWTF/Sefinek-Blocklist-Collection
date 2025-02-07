@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-07 16:24:04 (UTC)                      !
+! Last updated: 2025-02-07 18:23:20 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -40,7 +40,6 @@
 ||avastop.com^
 ||avastpdq.com^
 ||avastpdr.com^
-||avastpx.com^
 ||azgint.com^
 ||babaszepsegverseny.hu^
 ||banthis.su^
@@ -174,6 +173,7 @@
 ||lostheaven.com.cn^
 ||lqhm.constructoramelgarejo.cl^
 ||m.gutousoft.com^
+||mac-only.site^
 ||mandarin.net.au^
 ||mertvinc.com.tr^
 ||microsoft-analyse.com^
@@ -191,7 +191,6 @@
 ||nascacs.co.za^
 ||nationwideavast.com^
 ||neodoctopress.com^
-||noithaticon.vn^
 ||ny.lshdw.cc^
 ||odoo.kseibitools.com^
 ||ohart.top^
@@ -223,7 +222,6 @@
 ||sabt.conformalegal.com^
 ||sadonsgithub.site^
 ||safe.ywxww.net^
-||saveyourcinema.ca^
 ||sb.bombeirocivil2.digital^
 ||secureverifys.com^
 ||secureviewmode.cloud^
@@ -231,14 +229,12 @@
 ||securewireless.sbs^
 ||security-service-api-link.cc^
 ||sfa.com.ar^
-||shadowinject.com^
 ||shell.dimitrimedia.com^
 ||sirault.be^
 ||sms-szfang.com^
 ||soft.110route.com^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||srogland.com^
 ||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
@@ -313,4 +309,4 @@
 ||z.shavsl.com^
 ||zero-cdn.click^
 ||znrq.zifwxq.cn^
-! Number of entries: 307
+! Number of entries: 303
