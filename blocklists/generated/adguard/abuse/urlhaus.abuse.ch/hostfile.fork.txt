@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-08 18:24:04 (UTC)                      !
+! Last updated: 2025-02-08 20:19:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -107,11 +107,8 @@
 ||device.redirec.com^
 ||dhnconstrucciones.com.ar^
 ||disk.accord1key.cn^
-||divvanews.com^
-||dl.1003b.56a.com^
 ||dl.aginjector.com^
 ||dl.natgo.cn^
-||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||doodlz-art.com^
@@ -163,7 +160,6 @@
 ||info-regionsapproval.com^
 ||information-binance.com^
 ||ini.sh-pp.com^
-||inspirepk.org^
 ||iq.bjvfle7.bar^
 ||j4jb.constructoramelgarejo.cl^
 ||jade-associates.com.br^
@@ -171,13 +167,12 @@
 ||javierlopez.eu^
 ||jilas.net^
 ||jobcity.com^
-||jointings.org^
 ||jrqh-hk.com^
+||karer.by^
 ||karoonpc.com^
 ||kes3.constructoramelgarejo.cl^
 ||keyser-api.eu^
 ||kovbas.market^
-||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||littlemtlogistics.net^
@@ -193,12 +188,13 @@
 ||mexfex.com^
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
+||miner-tolken.com^
 ||misljen.net^
 ||moonloaderupdate.ru^
 ||mta179.insuretn.com^
-||mta45.bentons.place^
 ||myguyapp.com^
 ||nabawitransport.com^
+||namthaibinh.net^
 ||nascacs.co.za^
 ||nationwideavast.com^
 ||neodoctopress.com^
@@ -214,7 +210,6 @@
 ||parmisbuilding.com^
 ||payber.store^
 ||pb.agnt.ru^
-||pid.fly160.com^
 ||pns.org.pk^
 ||protechasia.com^
 ||ptno.constructoramelgarejo.cl^
@@ -248,9 +243,11 @@
 ||shell.dimitrimedia.com^
 ||sirault.be^
 ||sms-szfang.com^
+||soft.110route.com^
 ||sojusundays.com^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
+||sporcketngearforu.com^
 ||staatsgewalt.jameschans.de^
 ||starzmi.com^
 ||stdown.dinju.com^
@@ -258,11 +255,9 @@
 ||sufikhat.com^
 ||support.clz.kr^
 ||symbiatec-fi.com^
-||symbietic.com^
 ||symdlotic.com^
 ||taodianla.com^
 ||tecni-soft.com^
-||tecunonline.com^
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tempsend.com^
@@ -272,7 +267,6 @@
 ||tianyinsoft.top^
 ||traefik-dashboard.val.io.vn^
 ||travelwithmanta.co.za^
-||treinamento.convenio.to.gov.br^
 ||twizt.net^
 ||u2.fondnesssprayamiable.shop^
 ||upchemicals.co.in^
@@ -304,7 +298,6 @@
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.newkey.co.kr^
-||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
@@ -315,11 +308,11 @@
 ||www.tecunonline.com^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
+||www.zhikey.com^
 ||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
 ||ximonite.com^
-||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
 ||xurupitacoin.digital^
 ||xxo.colo.oystergarden.net^
@@ -327,4 +320,4 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 321
+! Number of entries: 314
