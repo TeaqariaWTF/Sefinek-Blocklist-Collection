@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-08 02:44:04 (UTC)                      #
+# Last updated: 2025-02-08 04:24:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -89,6 +89,7 @@ server=/cnc.stressamp.com/
 server=/coach.028csc.com/
 server=/coadymarine.com/
 server=/commavast.com/
+server=/comteste.com/
 server=/confirmbookid.info/
 server=/conn.masjesu.zip/
 server=/cryptopotato.net/
@@ -185,7 +186,6 @@ server=/mertvinc.com.tr/
 server=/mexfex.com/
 server=/microsoft-analyse.com/
 server=/microsoft-auth-network.cc/
-server=/miner-tolken.com/
 server=/misljen.net/
 server=/moonloaderupdate.ru/
 server=/mta179.insuretn.com/
@@ -205,8 +205,10 @@ server=/ojang.pe.kr/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
+server=/parmisbuilding.com/
 server=/payber.store/
 server=/pb.agnt.ru/
+server=/pid.fly160.com/
 server=/pns.org.pk/
 server=/protechasia.com/
 server=/ptno.constructoramelgarejo.cl/
@@ -221,8 +223,8 @@ server=/rd.chuitian.cn/
 server=/rddissisifigifidi.net/
 server=/recepchtav3.com/
 server=/reifenquick.de/
+server=/resourceedge.org/
 server=/reusable-flex.com/
-server=/ronnin-v2.com/
 server=/sabt.conformalegal.com/
 server=/safe.ywxww.net/
 server=/saveyourcinema.ca/
@@ -254,6 +256,7 @@ server=/symbietic.com/
 server=/symdlotic.com/
 server=/taodianla.com/
 server=/tecni-soft.com/
+server=/tecunonline.com/
 server=/telegramcn.co/
 server=/temirtau-adm.ru/
 server=/tempsend.com/
@@ -272,6 +275,7 @@ server=/update.volam2005pk.com/
 server=/userauthme02.com/
 server=/uthinker.ddns.cam/
 server=/utorrent-backup-server.top/
+server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
@@ -314,4 +318,4 @@ server=/xxo.colo.oystergarden.net/
 server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/znrq.zifwxq.cn/
-# Number of entries: 308
+# Number of entries: 312

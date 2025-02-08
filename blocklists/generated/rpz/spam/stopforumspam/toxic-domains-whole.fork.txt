@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025020701 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025020801 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -19233,6 +19233,8 @@ cakk.us CNAME .
 *.cakk.us CNAME .
 cakokalrect.tk CNAME .
 *.cakokalrect.tk CNAME .
+cakybo.com CNAME .
+*.cakybo.com CNAME .
 cal.onlmktng.life CNAME .
 *.cal.onlmktng.life CNAME .
 calabreseassociates.com CNAME .
@@ -60585,6 +60587,8 @@ mailmae.com CNAME .
 *.mailmae.com CNAME .
 mailmaeil.eu CNAME .
 *.mailmaeil.eu CNAME .
+mailmagnet.co CNAME .
+*.mailmagnet.co CNAME .
 mailmail.biz CNAME .
 *.mailmail.biz CNAME .
 mailmailv.eu CNAME .
