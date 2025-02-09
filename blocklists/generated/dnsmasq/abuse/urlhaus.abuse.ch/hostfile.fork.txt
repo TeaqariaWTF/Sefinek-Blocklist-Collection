@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-09 18:21:21 (UTC)                      #
+# Last updated: 2025-02-09 20:19:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,7 +11,6 @@ server=/1717.1000uc.com/
 server=/360down7.miiyun.cn/
 server=/3b5s.supermariocoin1.info/
 server=/abissnet.net/
-server=/adf6.adf6.com/
 server=/admin.aishangzhua.com/
 server=/aefieiaehfiaehr.top/
 server=/aeufoeahfouefhg.top/
@@ -41,6 +40,7 @@ server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
 server=/avastpdr.com/
+server=/avastpx.com/
 server=/azgint.com/
 server=/banthis.su/
 server=/base-airdrop.co/
@@ -124,7 +124,6 @@ server=/fundrescuetech.com/
 server=/funletters.net/
 server=/gachetroi.com/
 server=/gawx.florenda.com/
-server=/gemini-desktop.com/
 server=/genericfixer.com/
 server=/ggnmcomas.site/
 server=/glennmedina.com/
@@ -137,7 +136,6 @@ server=/gmoosomnoem.site/
 server=/googlevoice.net/
 server=/gopay.stockadv.com/
 server=/groundgamehealth.com/
-server=/grupobramam.com.br/
 server=/gsoonmann.site/
 server=/gyo-lighting.com/
 server=/hitman-pro.ru/
@@ -146,6 +144,7 @@ server=/hobobot.net/
 server=/hr2019.vrcom7.com/
 server=/hseda.com/
 server=/hub.unlimitedcashflowevent.com/
+server=/huyanhnongdo.io.vn/
 server=/ilimed.ro/
 server=/imgdown.shop/
 server=/imtoken8.cc/
@@ -199,7 +198,6 @@ server=/ojang.pe.kr/
 server=/osecweb.ir/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
-server=/parmisbuilding.com/
 server=/pb.agnt.ru/
 server=/pid.fly160.com/
 server=/pns.org.pk/
@@ -238,7 +236,6 @@ server=/starzmi.com/
 server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/sufikhat.com/
-server=/support.clz.kr/
 server=/symbiatec-fi.com/
 server=/symbietic.com/
 server=/symdlotic.com/
@@ -246,6 +243,7 @@ server=/taodianla.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/telegramcn.co/
+server=/temirtau-adm.ru/
 server=/tempsend.com/
 server=/tengfeidn.com/
 server=/testla.ddns.cam/
@@ -259,7 +257,6 @@ server=/u2.fondnesssprayamiable.shop/
 server=/u3.fondnesssprayamiable.shop/
 server=/upchemicals.co.in/
 server=/update.cg100iii.com/
-server=/update.vlnguba.com/
 server=/update.volam2005pk.com/
 server=/updatetiker.site/
 server=/userauthme02.com/
@@ -295,7 +292,6 @@ server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
-server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
 server=/wynecare.com/
@@ -311,6 +307,5 @@ server=/yodartustteam.xyz/
 server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
-server=/znrq.zifwxq.cn/
 server=/zoomlu.shop/
-# Number of entries: 307
+# Number of entries: 302
