@@ -5,6 +5,8 @@ $TTL 300
 *.123.ywxww.net CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
+abissnet.net CNAME .
+*.abissnet.net CNAME .
 adf6.adf6.com CNAME .
 *.adf6.adf6.com CNAME .
 admin.aishangzhua.com CNAME .
@@ -191,6 +193,8 @@ download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
 *.download.emailorganizer.com CNAME .
+download.suxiazai.com CNAME .
+*.download.suxiazai.com CNAME .
 downsexv.com CNAME .
 *.downsexv.com CNAME .
 e4l4.com CNAME .
@@ -387,8 +391,6 @@ rcaptcha.click CNAME .
 *.rcaptcha.click CNAME .
 rd.chuitian.cn CNAME .
 *.rd.chuitian.cn CNAME .
-rddissisifigifidi.net CNAME .
-*.rddissisifigifidi.net CNAME .
 recepchtav3.com CNAME .
 *.recepchtav3.com CNAME .
 reifenquick.de CNAME .
@@ -421,6 +423,8 @@ sirault.be CNAME .
 *.sirault.be CNAME .
 sms-szfang.com CNAME .
 *.sms-szfang.com CNAME .
+soft.110route.com CNAME .
+*.soft.110route.com CNAME .
 sojusundays.com CNAME .
 *.sojusundays.com CNAME .
 soportegira.net CNAME .
@@ -441,6 +445,8 @@ storage.soowim.co.kr CNAME .
 *.storage.soowim.co.kr CNAME .
 sufikhat.com CNAME .
 *.sufikhat.com CNAME .
+support.clz.kr CNAME .
+*.support.clz.kr CNAME .
 symbiatec-fi.com CNAME .
 *.symbiatec-fi.com CNAME .
 symbietic.com CNAME .
@@ -489,6 +495,8 @@ updatetiker.site CNAME .
 *.updatetiker.site CNAME .
 userauthme02.com CNAME .
 *.userauthme02.com CNAME .
+userverifybot.com CNAME .
+*.userverifybot.com CNAME .
 uthinker.ddns.cam CNAME .
 *.uthinker.ddns.cam CNAME .
 utorrent-backup-server.top CNAME .
@@ -569,8 +577,6 @@ yunger.ddns.cam CNAME .
 *.yunger.ddns.cam CNAME .
 ywxww.net CNAME .
 *.ywxww.net CNAME .
-yzkzixun.com CNAME .
-*.yzkzixun.com CNAME .
 znrq.zifwxq.cn CNAME .
 *.znrq.zifwxq.cn CNAME .
 zoomlu.shop CNAME .
