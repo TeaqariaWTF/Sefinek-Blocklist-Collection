@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-10 10:24:04 (UTC)                      #
+# Last updated: 2025-02-10 12:39:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,6 +24,8 @@ server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
+server=/api.information-binance.com/
+server=/api.rappel-coinbase.com/
 server=/app-antiriciclaggio-mps.com/
 server=/armanayegh.com/
 server=/assumedtribsosp.shop/
@@ -280,4 +282,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
 server=/zoomlu.shop/
-# Number of entries: 274
+# Number of entries: 276
