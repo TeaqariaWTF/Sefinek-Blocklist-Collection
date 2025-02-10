@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 03FEB25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 10FEB25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -60,6 +60,7 @@
 0.0.0.0 aquaticowl.com
 0.0.0.0 ar1nvz5.com
 0.0.0.0 archswimming.com
+0.0.0.0 ariseboundary.com
 0.0.0.0 arizonapuzzle.com
 0.0.0.0 aromamirror.com
 0.0.0.0 arrivegrowth.com
@@ -227,6 +228,7 @@
 0.0.0.0 cutecalculator.com
 0.0.0.0 cutechin.com
 0.0.0.0 cutepopcorn.com
+0.0.0.0 cuteturkey.com
 0.0.0.0 damagedadvice.com
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
@@ -411,6 +413,7 @@
 0.0.0.0 handsomeindustry.com
 0.0.0.0 handsomelythumb.com
 0.0.0.0 handsomeyam.com
+0.0.0.0 handyfield.com
 0.0.0.0 handyfireman.com
 0.0.0.0 harborcub.com
 0.0.0.0 hatefulrequest.com
@@ -502,6 +505,7 @@
 0.0.0.0 maddeningpowder.com
 0.0.0.0 magnetairport.com
 0.0.0.0 makeshiftmine.com
+0.0.0.0 markedcrayon.com
 0.0.0.0 markedmeasure.com
 0.0.0.0 marketspiders.com
 0.0.0.0 marriedmailbox.com
@@ -532,6 +536,7 @@
 0.0.0.0 modularmental.com
 0.0.0.0 moorshoes.com
 0.0.0.0 motionflowers.com
+0.0.0.0 motionlessbag.com
 0.0.0.0 motionlessbelief.com
 0.0.0.0 mountainouspear.com
 0.0.0.0 movemeal.com
@@ -629,6 +634,7 @@
 0.0.0.0 pricklydebt.com
 0.0.0.0 pricklypollution.com
 0.0.0.0 producecopy.com
+0.0.0.0 productivepear.com
 0.0.0.0 profitrumour.com
 0.0.0.0 profusesupport.com
 0.0.0.0 promopassage.com
@@ -719,6 +725,7 @@
 0.0.0.0 sandstrophies.com
 0.0.0.0 satisfycork.com
 0.0.0.0 savoryorange.com
+0.0.0.0 savorystructure.com
 0.0.0.0 scarceshock.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarcestream.com
@@ -883,6 +890,7 @@
 0.0.0.0 synthesizescarecrow.com
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangyamount.com
+0.0.0.0 tarttendency.com
 0.0.0.0 tastelesstrees.com
 0.0.0.0 tastesnake.com
 0.0.0.0 tawdryson.com
@@ -903,6 +911,7 @@
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
 0.0.0.0 thomastorch.com
+0.0.0.0 thrillasoft.com
 0.0.0.0 thrivecover.com
 0.0.0.0 ticketaunt.com
 0.0.0.0 ticketjolly.com
