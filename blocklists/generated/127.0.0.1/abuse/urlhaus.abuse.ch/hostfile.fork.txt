@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-10 18:21:33 (UTC)                      #
+# Last updated: 2025-02-10 20:22:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,12 +24,12 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
-127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
+127.0.0.1 armanayegh.com
 127.0.0.1 assumedtribsosp.shop
 127.0.0.1 aulist.com
 127.0.0.1 avastcxp.com
@@ -44,6 +44,7 @@
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 base-airdrop.co
+127.0.0.1 bayerngrow.com
 127.0.0.1 bears.pet
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 booking.extrannet-globalled.com
@@ -58,6 +59,7 @@
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
+127.0.0.1 chromeupd-mo.com
 127.0.0.1 cioudfiare.ru
 127.0.0.1 ciscocdn.com
 127.0.0.1 cnc.kotomari-vn.dev
@@ -67,12 +69,14 @@
 127.0.0.1 cochran.training
 127.0.0.1 commavast.com
 127.0.0.1 comteste.com
+127.0.0.1 congdichvu.cc
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 connect-cdn-api.tastinessrebaterunny.shop
 127.0.0.1 cryptopotato.net
 127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
 127.0.0.1 dangtienluc.com
+127.0.0.1 data.yhydl.com
 127.0.0.1 dcwblida.dz
 127.0.0.1 deauduafzgezzfgm.top
 127.0.0.1 device.redirec.com
@@ -89,7 +93,6 @@
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
-127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
@@ -126,6 +129,7 @@
 127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
+127.0.0.1 hseda.com
 127.0.0.1 ilimed.ro
 127.0.0.1 imtoken8.cc
 127.0.0.1 infernoenjoyer.cfd
@@ -138,6 +142,8 @@
 127.0.0.1 jilas.net
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
+127.0.0.1 jrqh-hk.com
+127.0.0.1 karer.by
 127.0.0.1 karoonpc.com
 127.0.0.1 keyser-api.eu
 127.0.0.1 kick.bh
@@ -145,13 +151,13 @@
 127.0.0.1 klingpremium.xyz
 127.0.0.1 konami.community
 127.0.0.1 kvndbb3.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lolz.mosco.cc
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 mandarin.net.au
 127.0.0.1 mcpperformance.com.br
@@ -164,7 +170,6 @@
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 mta179.insuretn.com
 127.0.0.1 namerowem.site
-127.0.0.1 namthaibinh.net
 127.0.0.1 nasanecesoi.site
 127.0.0.1 nationwideavast.com
 127.0.0.1 netskope.charity
@@ -178,8 +183,8 @@
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
+127.0.0.1 pb.agnt.ru
 127.0.0.1 pid.fly160.com
-127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
@@ -207,19 +212,16 @@
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 srogland.com
-127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 strosom.soniarocha.blog
 127.0.0.1 sufikhat.com
-127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
 127.0.0.1 taodianla.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
-127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 testla.ddns.cam
@@ -233,8 +235,6 @@
 127.0.0.1 u3.fondnesssprayamiable.shop
 127.0.0.1 upchemicals.co.in
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
-127.0.0.1 update.volam2005pk.com
 127.0.0.1 updatetiker.site
 127.0.0.1 userauthme02.com
 127.0.0.1 userverifybot.com
@@ -245,18 +245,16 @@
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
-127.0.0.1 valseg.com.br
 127.0.0.1 vbccorretoradeseguros.com.br
+127.0.0.1 weixe.ir
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.assumedtribsosp.shop
 127.0.0.1 www.beiletoys.com
-127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.budgetttysnzm.shop
 127.0.0.1 www.clubedasluluzinhasro.com.br
 127.0.0.1 www.elefantenfutter.de
 127.0.0.1 www.flechabusretiro.com.ar
-127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
@@ -267,7 +265,6 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
-127.0.0.1 www.seventools.de
 127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
@@ -284,7 +281,6 @@
 127.0.0.1 yodartustteam.xyz
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
-127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoomlu.shop
-# Number of entries: 281
+# Number of entries: 277
