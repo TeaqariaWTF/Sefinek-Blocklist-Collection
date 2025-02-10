@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-10 14:19:04 (UTC)                      !
+! Last updated: 2025-02-10 16:24:08 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -15,8 +15,8 @@
 ||admin.aishangzhua.com^
 ||aefieiaehfiaehr.top^
 ||aeufoeahfouefhg.top^
+||agapi.cqjjb.cn^
 ||ai-kling.online^
-||airhobi.com^
 ||alien-training.com^
 ||alphabit.vc^
 ||antlb0tv2.com^
@@ -28,8 +28,6 @@
 ||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
-||app-antiriciclaggio-mps.com^
-||armanayegh.com^
 ||assumedtribsosp.shop^
 ||aulist.com^
 ||avastcxp.com^
@@ -45,6 +43,7 @@
 ||banthis.su^
 ||base-airdrop.co^
 ||bears.pet^
+||bitkiselurunsiparis.com^
 ||booking.extrannet-globalled.com^
 ||booking.rewiewsgustforhouse.com^
 ||budgetttysnzm.shop^
@@ -57,9 +56,7 @@
 ||cdaonline.com.ar^
 ||chinaapper.com^
 ||chmod0777kk.com^
-||chromeupd-mo.com^
 ||ciscocdn.com^
-||clubedasluluzinhasro.com.br^
 ||cnc.kotomari-vn.dev^
 ||cnc.stressamp.com^
 ||coach.028csc.com^
@@ -67,7 +64,6 @@
 ||cochran.training^
 ||commavast.com^
 ||comteste.com^
-||confirmbookid.info^
 ||conn.masjesu.zip^
 ||connect-cdn-api.tastinessrebaterunny.shop^
 ||cryptopotato.net^
@@ -89,6 +85,7 @@
 ||do-dear.com^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
+||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
@@ -105,7 +102,6 @@
 ||ftp.ywxww.net^
 ||fundrescuetech.com^
 ||funletters.net^
-||gachetroi.com^
 ||gawx.florenda.com^
 ||gemini-desktop.com^
 ||genericfixer.com^
@@ -118,6 +114,7 @@
 ||gmoonsom.site^
 ||gmoosomnoem.site^
 ||googlevoice.net^
+||gopay.stockadv.com^
 ||groundgamehealth.com^
 ||grupobramam.com.br^
 ||gsoonmann.site^
@@ -133,6 +130,7 @@
 ||infernoenjoyer.cfd^
 ||information-binance.com^
 ||ini.sh-pp.com^
+||inspirepk.org^
 ||jade-associates.com.br^
 ||jahez.me^
 ||javierlopez.eu^
@@ -140,19 +138,18 @@
 ||jobcity.com^
 ||jointings.org^
 ||jrqh-hk.com^
-||karer.by^
 ||karoonpc.com^
 ||keyser-api.eu^
 ||kieudjrie.live^
 ||klingpremium.xyz^
 ||konami.community^
 ||kvndbb3.com^
+||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||littlemtlogistics.net^
 ||loeghaiofiehfihf.to^
 ||lostheaven.com.cn^
-||lsks.volamngayxua.net^
 ||m.gutousoft.com^
 ||mandarin.net.au^
 ||mcpperformance.com.br^
@@ -164,7 +161,6 @@
 ||mncomgom.site^
 ||moonloaderupdate.ru^
 ||mta179.insuretn.com^
-||nabawitransport.com^
 ||namerowem.site^
 ||namthaibinh.net^
 ||nasanecesoi.site^
@@ -176,16 +172,12 @@
 ||odoo.kseibitools.com^
 ||ohart.top^
 ||ojang.pe.kr^
-||osecweb.ir^
 ||palharesinformatica.com.br^
 ||park.chuitian.cn^
 ||parmisbuilding.com^
-||pb.agnt.ru^
-||pid.fly160.com^
 ||pns.org.pk^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
-||qlqd5zqefmkcr34a.onion.sh^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rappel-coinbase.com^
@@ -207,7 +199,6 @@
 ||soft.110route.com^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||srogland.com^
 ||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
@@ -233,6 +224,7 @@
 ||u3.fondnesssprayamiable.shop^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
+||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updatetiker.site^
 ||userauthme02.com^
@@ -246,7 +238,6 @@
 ||utorrent-servers.xyz^
 ||valseg.com.br^
 ||vbccorretoradeseguros.com.br^
-||weixe.ir^
 ||win-network-checker.cc^
 ||www.aqianniao.com^
 ||www.assumedtribsosp.shop^
@@ -258,7 +249,6 @@
 ||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.hseda.com^
-||www.ingonherbal.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
 ||www.myticketbenefits.com^
@@ -269,22 +259,23 @@
 ||www.rphingenieria.com^
 ||www.seventools.de^
 ||www.sporcketngearforu.com^
+||www.starcountry.net^
 ||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
+||wynecare.com^
 ||wz.3911.com^
 ||xcvoqweol.com^
 ||xiangshunjy.com^
 ||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||xn--yh4bx88a.com^
-||xurupitacoin.digital^
 ||yodartustteam.xyz^
 ||yunger.ddns.cam^
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
 ||zoomlu.shop^
-! Number of entries: 281
+! Number of entries: 272
