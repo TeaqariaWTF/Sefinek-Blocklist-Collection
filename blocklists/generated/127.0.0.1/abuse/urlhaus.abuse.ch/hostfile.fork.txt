@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-10 01:39:06 (UTC)                      #
+# Last updated: 2025-02-10 02:43:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,7 +30,6 @@
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
-127.0.0.1 armanayegh.com
 127.0.0.1 assumedtribsosp.shop
 127.0.0.1 aulist.com
 127.0.0.1 avastcxp.com
@@ -58,6 +57,7 @@
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
+127.0.0.1 chromeupd-mo.com
 127.0.0.1 ciscocdn.com
 127.0.0.1 clubedasluluzinhasro.com.br
 127.0.0.1 cnc.kotomari-vn.dev
@@ -89,7 +89,6 @@
 127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
-127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
@@ -150,7 +149,6 @@
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 loeghaiofiehfihf.to
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 mandarin.net.au
 127.0.0.1 mcpperformance.com.br
@@ -250,10 +248,10 @@
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.budgetttysnzm.shop
 127.0.0.1 www.clubedasluluzinhasro.com.br
+127.0.0.1 www.elefantenfutter.de
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
-127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.myticketbenefits.com
@@ -282,4 +280,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zoomlu.shop
-# Number of entries: 276
+# Number of entries: 274

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-10 01:39:06 (UTC)                      #
+# Last updated: 2025-02-10 02:43:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,7 +30,6 @@ server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.rappel-coinbase.com/
 server=/app-antiriciclaggio-mps.com/
-server=/armanayegh.com/
 server=/assumedtribsosp.shop/
 server=/aulist.com/
 server=/avastcxp.com/
@@ -58,6 +57,7 @@ server=/cattozzo.it/
 server=/cdaonline.com.ar/
 server=/chinaapper.com/
 server=/chmod0777kk.com/
+server=/chromeupd-mo.com/
 server=/ciscocdn.com/
 server=/clubedasluluzinhasro.com.br/
 server=/cnc.kotomari-vn.dev/
@@ -89,7 +89,6 @@ server=/dld.jxwan.com/
 server=/do-dear.com/
 server=/dow.andylab.cn/
 server=/down.fwqlt.com/
-server=/down.mvip8.ru/
 server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
 server=/download.caihong.com/
@@ -150,7 +149,6 @@ server=/linkvilleplayers.org/
 server=/littlemtlogistics.net/
 server=/loeghaiofiehfihf.to/
 server=/lostheaven.com.cn/
-server=/lsks.volamngayxua.net/
 server=/m.gutousoft.com/
 server=/mandarin.net.au/
 server=/mcpperformance.com.br/
@@ -250,10 +248,10 @@ server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.budgetttysnzm.shop/
 server=/www.clubedasluluzinhasro.com.br/
+server=/www.elefantenfutter.de/
 server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.hseda.com/
-server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.myticketbenefits.com/
@@ -282,4 +280,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
 server=/zoomlu.shop/
-# Number of entries: 276
+# Number of entries: 274
