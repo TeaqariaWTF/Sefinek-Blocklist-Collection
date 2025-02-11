@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-11 20:19:05 (UTC)                      #
+# Last updated: 2025-02-11 22:14:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -18,9 +18,7 @@
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 afrizalzona.my.id
-0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
-0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
@@ -48,7 +46,6 @@
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
-0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 base-airdrop.co
 0.0.0.0 bitkiselurunsiparis.com
@@ -134,8 +131,8 @@
 0.0.0.0 e4l4.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
+0.0.0.0 epanpano.com
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 flinkcart.com
 0.0.0.0 free3dmaxmodel.com
@@ -165,7 +162,7 @@
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
-0.0.0.0 jade-associates.com.br
+0.0.0.0 izumi-31.ru
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
@@ -189,6 +186,7 @@
 0.0.0.0 lovettsgallery.goregasm23.com
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
+0.0.0.0 mail.automatica.mx
 0.0.0.0 mail.kakakslot88winamp.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 mapelmoulds.com
@@ -214,8 +212,10 @@
 0.0.0.0 ohart.top
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
+0.0.0.0 otrsolutons.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
+0.0.0.0 parmisbuilding.com
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pid.fly160.com
 0.0.0.0 playlandng.com
@@ -258,7 +258,6 @@
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
-0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -272,10 +271,10 @@
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 twitch.tj
 0.0.0.0 twizt.net
+0.0.0.0 u1.landladyscreenconnected.shop
 0.0.0.0 u2.latenativereunion.shop
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 userverifybot.com
 0.0.0.0 uthinker.ddns.cam
 0.0.0.0 utorrent-backup-server.top
@@ -306,12 +305,10 @@
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.free3dmaxmodel.com
 0.0.0.0 www.globallaborsupply.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.i.d.afrizalzona.my.id
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.internal.queticollc.com
 0.0.0.0 www.lovettsgallery.com.goregasm23.com
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.myticketbenefits.com
 0.0.0.0 www.newkey.co.kr
@@ -329,6 +326,7 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -338,4 +336,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 332
+# Number of entries: 330
