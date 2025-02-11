@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-11 18:24:33 (UTC)                      #
+# Last updated: 2025-02-11 20:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,6 +8,7 @@
 #
 127.0.0.1 123.ywxww.net
 127.0.0.1 1717.1000uc.com
+127.0.0.1 2205.doctools.online
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 3b5s.supermariocoin1.info
 127.0.0.1 6ae565684e1f.goregasm23.com
@@ -50,6 +51,7 @@
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
 127.0.0.1 base-airdrop.co
+127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 bolsterflipgaming.com
 127.0.0.1 bot-ping.pl
 127.0.0.1 botanicallandscapes.shop
@@ -114,10 +116,12 @@
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
+127.0.0.1 dl.natgo.cn
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dns-verify-me.pro
 127.0.0.1 do-dear.com
+127.0.0.1 doctools.online
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.mvip8.ru
@@ -130,7 +134,6 @@
 127.0.0.1 e4l4.com
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 eoufaoeuhoauengi.su
-127.0.0.1 epanpano.com
 127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
@@ -147,6 +150,7 @@
 127.0.0.1 genericfixer.com
 127.0.0.1 glennmedina.com
 127.0.0.1 global-protect.us
+127.0.0.1 googlevoice.net
 127.0.0.1 gopay.stockadv.com
 127.0.0.1 goregasm23.com
 127.0.0.1 grupobramam.com.br
@@ -166,6 +170,7 @@
 127.0.0.1 javierlopez.eu
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
+127.0.0.1 jrqh-hk.com
 127.0.0.1 kakakslot88ampcuan.org
 127.0.0.1 kakakslot88winamp.com
 127.0.0.1 karoonpc.com
@@ -182,6 +187,7 @@
 127.0.0.1 lolz.mosco.cc
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 lovettsgallery.goregasm23.com
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 m.gutousoft.com
 127.0.0.1 mail.kakakslot88winamp.com
 127.0.0.1 mandarin.net.au
@@ -191,6 +197,7 @@
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 miner-tolken.com
+127.0.0.1 misljen.net
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 mta179.insuretn.com
 127.0.0.1 my.acabear.com
@@ -209,15 +216,12 @@
 127.0.0.1 osecweb.ir
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
-127.0.0.1 parmisbuilding.com
 127.0.0.1 pb.agnt.ru
 127.0.0.1 pid.fly160.com
 127.0.0.1 playlandng.com
 127.0.0.1 pns.org.pk
 127.0.0.1 protechasia.com
-127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rbk.scalingposturestrife.shop
@@ -254,6 +258,7 @@
 127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
+127.0.0.1 symdlotic.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
@@ -264,13 +269,12 @@
 127.0.0.1 tianyinsoft.top
 127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 travelwithmanta.co.za
+127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 twitch.tj
 127.0.0.1 twizt.net
-127.0.0.1 u1.wroughtunrulysteed.shop
 127.0.0.1 u2.latenativereunion.shop
 127.0.0.1 upchemicals.co.in
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 userverifybot.com
 127.0.0.1 uthinker.ddns.cam
@@ -278,6 +282,7 @@
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
+127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 webmail.buyli.in
@@ -303,6 +308,7 @@
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.i.d.afrizalzona.my.id
+127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.internal.queticollc.com
 127.0.0.1 www.lovettsgallery.com.goregasm23.com
 127.0.0.1 www.maxmoney.com
@@ -323,13 +329,13 @@
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
-127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
+127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 yodartustteam.xyz
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 326
+# Number of entries: 332
