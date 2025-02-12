@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-12 08:24:07 (UTC)                      #
+# Last updated: 2025-02-12 10:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,7 +9,9 @@
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2205.doctools.online
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 6ae565684e1f.goregasm23.com
+0.0.0.0 abissnet.net
 0.0.0.0 acabear.com
 0.0.0.0 acesso-digital-br.pro
 0.0.0.0 adf6.adf6.com
@@ -21,10 +23,9 @@
 0.0.0.0 alien-training.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
-0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
+0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
@@ -36,12 +37,13 @@
 0.0.0.0 autodiscover.goregasm23.com
 0.0.0.0 autodiscover.yanci.in
 0.0.0.0 avastcxp.com
+0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
+0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bitkiselurunsiparis.com
@@ -51,8 +53,6 @@
 0.0.0.0 budgetttysnzm.shop
 0.0.0.0 burnfatandfast.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 catbaparadisehotel.com.vn
-0.0.0.0 cattozzo.it
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 check.agility.website
 0.0.0.0 check.alienable.shop
@@ -125,13 +125,12 @@
 0.0.0.0 dailyweathercity.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
-0.0.0.0 dcwblida.dz
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dns-verify-me.pro
@@ -178,9 +177,7 @@
 0.0.0.0 hseda.com
 0.0.0.0 implantesdentalesjmartinezr.com.ar
 0.0.0.0 imtoken8.cc
-0.0.0.0 infernoenjoyer.cfd
 0.0.0.0 information-binance.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 izumi-31.ru
 0.0.0.0 jade-associates.com.br
@@ -206,7 +203,6 @@
 0.0.0.0 lolz.mosco.cc
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lovettsgallery.goregasm23.com
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mail.kakakslot88winamp.com
 0.0.0.0 mandarin.net.au
@@ -239,11 +235,13 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 playlandng.com
 0.0.0.0 pns.org.pk
+0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 rappel-coinbase.com
 0.0.0.0 rbk.scalingposturestrife.shop
 0.0.0.0 rd.chuitian.cn
+0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
@@ -255,6 +253,7 @@
 0.0.0.0 rumble.tube
 0.0.0.0 safe.ywxww.net
 0.0.0.0 samp.acabear.com
+0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
@@ -274,6 +273,7 @@
 0.0.0.0 sufikhat.com
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
+0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -284,7 +284,6 @@
 0.0.0.0 tianyinsoft.top
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
-0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 twitch.tj
 0.0.0.0 twizt.net
 0.0.0.0 u1.landladyscreenconnected.shop
@@ -334,9 +333,9 @@
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.tiltcast.goregasm23.com
@@ -344,7 +343,7 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wz.3911.com
+0.0.0.0 wynecare.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
@@ -354,4 +353,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 348
+# Number of entries: 347
