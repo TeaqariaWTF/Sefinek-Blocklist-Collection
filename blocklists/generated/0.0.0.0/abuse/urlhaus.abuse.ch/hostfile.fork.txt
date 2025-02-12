@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-12 06:19:21 (UTC)                      #
+# Last updated: 2025-02-12 08:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -17,6 +17,7 @@
 0.0.0.0 afrizalzona.my.id
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
+0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
@@ -24,7 +25,6 @@
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
-0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
@@ -36,14 +36,12 @@
 0.0.0.0 autodiscover.goregasm23.com
 0.0.0.0 autodiscover.yanci.in
 0.0.0.0 avastcxp.com
-0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
-0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 bitkiselurunsiparis.com
@@ -143,6 +141,7 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
@@ -192,6 +191,7 @@
 0.0.0.0 jrqh-hk.com
 0.0.0.0 kakakslot88ampcuan.org
 0.0.0.0 kakakslot88winamp.com
+0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
 0.0.0.0 kick.bh
@@ -220,6 +220,7 @@
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 my.acabear.com
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
@@ -238,15 +239,11 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 playlandng.com
 0.0.0.0 pns.org.pk
-0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 rbk.scalingposturestrife.shop
 0.0.0.0 rd.chuitian.cn
-0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
@@ -258,9 +255,9 @@
 0.0.0.0 rumble.tube
 0.0.0.0 safe.ywxww.net
 0.0.0.0 samp.acabear.com
-0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shibaqq.shop
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
@@ -275,8 +272,8 @@
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 strosom.soniarocha.blog
 0.0.0.0 sufikhat.com
+0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -315,6 +312,7 @@
 0.0.0.0 winstar365.in
 0.0.0.0 www.acabear.com
 0.0.0.0 www.app.buyli.in
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.assumedtribsosp.shop
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
@@ -346,7 +344,6 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -357,4 +354,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 351
+# Number of entries: 348
