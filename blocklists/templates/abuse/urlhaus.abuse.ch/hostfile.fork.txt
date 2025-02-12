@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-12 16:19:06 (UTC)                      #
+# Last updated: 2025-02-12 18:22:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -20,6 +20,7 @@
 0.0.0.0 ai-kling.online
 0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
+0.0.0.0 americanexpressloginus.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
@@ -38,6 +39,7 @@
 0.0.0.0 autoconfig.buyli.in
 0.0.0.0 autodiscover.goregasm23.com
 0.0.0.0 autodiscover.yanci.in
+0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
@@ -134,6 +136,7 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -149,6 +152,7 @@
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 elmariachismenu.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
@@ -178,10 +182,10 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 implantesdentalesjmartinezr.com.ar
-0.0.0.0 imtoken8.cc
 0.0.0.0 infernoenjoyer.cfd
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 izumi-31.ru
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
@@ -206,6 +210,7 @@
 0.0.0.0 lolz.mosco.cc
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lovettsgallery.goregasm23.com
+0.0.0.0 mail.alapaev.ru
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mail.kakakslot88winamp.com
 0.0.0.0 mandarin.net.au
@@ -214,8 +219,8 @@
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
-0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
+0.0.0.0 mitgpssms.com
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 my.acabear.com
@@ -236,9 +241,11 @@
 0.0.0.0 pb.agnt.ru
 0.0.0.0 pid.fly160.com
 0.0.0.0 playlandng.com
+0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rbk.scalingposturestrife.shop
@@ -253,15 +260,18 @@
 0.0.0.0 rprtinfog6st.world
 0.0.0.0 rprtinfog6sy.world
 0.0.0.0 rumble.tube
+0.0.0.0 rustbakingtable.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 samp.acabear.com
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shemaleescorts.uk
 0.0.0.0 shibaqq.shop
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
+0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
 0.0.0.0 soyelsolylaluna.online
@@ -273,14 +283,17 @@
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 strosom.soniarocha.blog
 0.0.0.0 sufikhat.com
+0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
+0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
+0.0.0.0 tests.yjzj.org
 0.0.0.0 tianyinsoft.top
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
@@ -295,6 +308,7 @@
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
+0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.venomtools.in
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
@@ -354,4 +368,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 348
+# Number of entries: 362
