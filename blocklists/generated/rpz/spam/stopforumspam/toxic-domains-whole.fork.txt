@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025021101 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025021201 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -17877,6 +17877,8 @@ broiltr.com CNAME .
 *.broiltr.com CNAME .
 brokenplanet.net CNAME .
 *.brokenplanet.net CNAME .
+brokered.net CNAME .
+*.brokered.net CNAME .
 brokesmail.com CNAME .
 *.brokesmail.com CNAME .
 broknote.com CNAME .
@@ -32659,6 +32661,8 @@ ejez.com CNAME .
 *.ejez.com CNAME .
 ejumail.com CNAME .
 *.ejumail.com CNAME .
+ekanun.net CNAME .
+*.ekanun.net CNAME .
 ekarmail.com CNAME .
 *.ekarmail.com CNAME .
 ekbasia.com CNAME .
@@ -33211,6 +33215,8 @@ emailnestpro.com CNAME .
 *.emailnestpro.com CNAME .
 emailnode.net CNAME .
 *.emailnode.net CNAME .
+emailnow.net CNAME .
+*.emailnow.net CNAME .
 emailnube.com CNAME .
 *.emailnube.com CNAME .
 emailon.online CNAME .
@@ -66801,6 +66807,8 @@ mymailbox.tech CNAME .
 *.mymailbox.tech CNAME .
 mymailcr.com CNAME .
 *.mymailcr.com CNAME .
+mymaildew.ru CNAME .
+*.mymaildew.ru CNAME .
 mymailer.buzz CNAME .
 *.mymailer.buzz CNAME .
 mymails.pw CNAME .
@@ -103763,6 +103771,8 @@ write-me.xyz CNAME .
 *.write-me.xyz CNAME .
 write.caperhq.click CNAME .
 *.write.caperhq.click CNAME .
+write.caperlabs.click CNAME .
+*.write.caperlabs.click CNAME .
 write.cruiselabs.click CNAME .
 *.write.cruiselabs.click CNAME .
 write.festivalday.click CNAME .
