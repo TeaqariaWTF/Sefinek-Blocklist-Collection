@@ -1,17 +1,17 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-13 10:19:13 (UTC)                      #
+# Last updated: 2025-02-13 12:38:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
+0.0.0.0 1717.1000uc.com
 0.0.0.0 2205.doctools.online
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 abissnet.net
 0.0.0.0 acesso-digital-br.pro
-0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
@@ -24,14 +24,14 @@
 0.0.0.0 api-fgg3.cname.ah73g.xyz
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
-0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 applepistudios.com
 0.0.0.0 armanayegh.com
-0.0.0.0 assumedtribsosp.shop
+0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -48,7 +48,6 @@
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bolsterflipgaming.com
 0.0.0.0 booking.rewiewsohrbadhot.com
-0.0.0.0 budgetttysnzm.shop
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cattozzo.it
@@ -103,14 +102,15 @@
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 device.redirec.com
 0.0.0.0 dfwcomedyfestival.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -150,9 +150,9 @@
 0.0.0.0 homesip.ru
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
-0.0.0.0 imtoken8.cc
 0.0.0.0 infernoenjoyer.cfd
 0.0.0.0 information-binance.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 izumi-31.ru
 0.0.0.0 jade-associates.com.br
@@ -160,6 +160,7 @@
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
+0.0.0.0 jrqh-hk.com
 0.0.0.0 karer.by
 0.0.0.0 karoonpc.com
 0.0.0.0 keyser-api.eu
@@ -167,11 +168,9 @@
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 littlemtlogistics.net
 0.0.0.0 lmlm.activaterants.agency
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
-0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.alapaev.ru
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mandarin.net.au
@@ -182,7 +181,6 @@
 0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
-0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
@@ -201,13 +199,12 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
+0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 rewiewsohrbadhot.com
 0.0.0.0 ronnin-v2.com
@@ -227,6 +224,7 @@
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 srogland.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
@@ -260,24 +258,20 @@
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.venomtools.in
-0.0.0.0 userveriff02.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
+0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.aqianniao.com
-0.0.0.0 www.assumedtribsosp.shop
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
-0.0.0.0 www.budgetttysnzm.shop
 0.0.0.0 www.clubedasluluzinhasro.com.br
 0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -286,7 +280,6 @@
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
-0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
@@ -299,9 +292,10 @@
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
+0.0.0.0 yaytek.com.tr
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zero-cdn.click
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 298
+# Number of entries: 292
