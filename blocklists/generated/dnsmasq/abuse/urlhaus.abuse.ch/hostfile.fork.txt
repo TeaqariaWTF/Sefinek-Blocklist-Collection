@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-13 08:24:04 (UTC)                      #
+# Last updated: 2025-02-13 10:19:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,7 +24,6 @@ server=/aosafrica.co.za/
 server=/api-fgg3.cname.ah73g.xyz/
 server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
-server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
 server=/api.information-binance.com/
@@ -112,7 +111,6 @@ server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.1003b.56a.com/
-server=/dl.aginjector.com/
 server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
@@ -155,7 +153,6 @@ server=/hseda.com/
 server=/imtoken8.cc/
 server=/infernoenjoyer.cfd/
 server=/information-binance.com/
-server=/ini.sh-pp.com/
 server=/inspirepk.org/
 server=/izumi-31.ru/
 server=/jade-associates.com.br/
@@ -174,6 +171,7 @@ server=/littlemtlogistics.net/
 server=/lmlm.activaterants.agency/
 server=/lostheaven.com.cn/
 server=/lsks.volamngayxua.net/
+server=/m.gutousoft.com/
 server=/mail.alapaev.ru/
 server=/mail.automatica.mx/
 server=/mandarin.net.au/
@@ -238,6 +236,7 @@ server=/suomi-app.net/
 server=/support.clz.kr/
 server=/symbiatec-fi.com/
 server=/symbietic.com/
+server=/symdlotic.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
 server=/telegramcn.co/
@@ -266,7 +265,6 @@ server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
-server=/utorrent-backup-server5.top/
 server=/utorrent-servers.xyz/
 server=/vbccorretoradeseguros.com.br/
 server=/win-network-checker.cc/
@@ -285,10 +283,12 @@ server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
+server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
 server=/www.seventools.de/
 server=/www.sporcketngearforu.com/
+server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.xn--on3b15m2lco2u.com/

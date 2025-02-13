@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025021201 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025021301 43200 3600 259200 300
   NS  localhost.
 api-adservices.apple.com CNAME .
 *.api-adservices.apple.com CNAME .
@@ -24615,6 +24615,8 @@ agorahtag.tech CNAME .
 *.agorahtag.tech CNAME .
 agqoshfujku.com CNAME .
 *.agqoshfujku.com CNAME .
+agxoxnyum.com CNAME .
+*.agxoxnyum.com CNAME .
 ah-ha.com CNAME .
 *.ah-ha.com CNAME .
 ahalogy.com CNAME .
@@ -24647,6 +24649,8 @@ ajfnee.com CNAME .
 *.ajfnee.com CNAME .
 ajggirci.com CNAME .
 *.ajggirci.com CNAME .
+ajghtafutjt.com CNAME .
+*.ajghtafutjt.com CNAME .
 ajglirsuk.com CNAME .
 *.ajglirsuk.com CNAME .
 ajouter.net CNAME .
@@ -27857,6 +27861,8 @@ guvnatar.com CNAME .
 *.guvnatar.com CNAME .
 gwallet.com CNAME .
 *.gwallet.com CNAME .
+gwfqxkelp.com CNAME .
+*.gwfqxkelp.com CNAME .
 gyfumobo.com CNAME .
 *.gyfumobo.com CNAME .
 gzefitkcep.com CNAME .
@@ -32605,6 +32611,8 @@ uitopadxdy.com CNAME .
 *.uitopadxdy.com CNAME .
 ukbanners.com CNAME .
 *.ukbanners.com CNAME .
+uktwvhfezyvxn.com CNAME .
+*.uktwvhfezyvxn.com CNAME .
 ulmoyc.com CNAME .
 *.ulmoyc.com CNAME .
 ulrzovfukgkljw.com CNAME .
@@ -33139,6 +33147,8 @@ wmeozwavstre.com CNAME .
 *.wmeozwavstre.com CNAME .
 wmirk.ru CNAME .
 *.wmirk.ru CNAME .
+woamoogloow.net CNAME .
+*.woamoogloow.net CNAME .
 wokseephishopty.net CNAME .
 *.wokseephishopty.net CNAME .
 wombierfloc.com CNAME .
