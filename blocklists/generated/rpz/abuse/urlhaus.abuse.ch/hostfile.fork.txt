@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-1717.1000uc.com CNAME .
-*.1717.1000uc.com CNAME .
 2205.doctools.online CNAME .
 *.2205.doctools.online CNAME .
 360down7.miiyun.cn CNAME .
@@ -165,8 +163,6 @@ chinaapper.com CNAME .
 *.chinaapper.com CNAME .
 chmod0777kk.com CNAME .
 *.chmod0777kk.com CNAME .
-chromeupd-mo.com CNAME .
-*.chromeupd-mo.com CNAME .
 cioudfiare.ru CNAME .
 *.cioudfiare.ru CNAME .
 ciscocdn.com CNAME .
@@ -289,6 +285,8 @@ hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
 hseda.com CNAME .
 *.hseda.com CNAME .
+imtoken8.cc CNAME .
+*.imtoken8.cc CNAME .
 infernoenjoyer.cfd CNAME .
 *.infernoenjoyer.cfd CNAME .
 information-binance.com CNAME .
@@ -325,6 +323,8 @@ lindnerelektroanlagen.de CNAME .
 *.lindnerelektroanlagen.de CNAME .
 linkvilleplayers.org CNAME .
 *.linkvilleplayers.org CNAME .
+littlemtlogistics.net CNAME .
+*.littlemtlogistics.net CNAME .
 lmlm.activaterants.agency CNAME .
 *.lmlm.activaterants.agency CNAME .
 lostheaven.com.cn CNAME .
@@ -351,6 +351,8 @@ misljen.net CNAME .
 *.misljen.net CNAME .
 mitgpssms.com CNAME .
 *.mitgpssms.com CNAME .
+moonloaderupdate.ru CNAME .
+*.moonloaderupdate.ru CNAME .
 mta179.insuretn.com CNAME .
 *.mta179.insuretn.com CNAME .
 nabawitransport.com CNAME .
@@ -387,14 +389,14 @@ protechasia.com CNAME .
 *.protechasia.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
+qlqd5zqefmkcr34a.onion.sh CNAME .
+*.qlqd5zqefmkcr34a.onion.sh CNAME .
 quanlyphongnet.com CNAME .
 *.quanlyphongnet.com CNAME .
 rappel-coinbase.com CNAME .
 *.rappel-coinbase.com CNAME .
 rd.chuitian.cn CNAME .
 *.rd.chuitian.cn CNAME .
-recepchtav3.com CNAME .
-*.recepchtav3.com CNAME .
 reifenquick.de CNAME .
 *.reifenquick.de CNAME .
 resourceedge.org CNAME .
@@ -515,8 +517,6 @@ utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
 utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
-utorrent-servers.xyz CNAME .
-*.utorrent-servers.xyz CNAME .
 vbccorretoradeseguros.com.br CNAME .
 *.vbccorretoradeseguros.com.br CNAME .
 win-network-checker.cc CNAME .
@@ -543,6 +543,8 @@ opolis.io CNAME .
 *.opolis.io CNAME .
 rphingenieria.com CNAME .
 *.rphingenieria.com CNAME .
+seventools.de CNAME .
+*.seventools.de CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
 tdejb.com CNAME .

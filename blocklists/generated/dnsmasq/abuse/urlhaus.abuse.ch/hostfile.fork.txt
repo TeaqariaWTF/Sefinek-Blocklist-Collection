@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-13 12:38:04 (UTC)                      #
+# Last updated: 2025-02-13 14:14:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
-server=/1717.1000uc.com/
 server=/2205.doctools.online/
 server=/360down7.miiyun.cn/
 server=/abissnet.net/
@@ -88,7 +87,6 @@ server=/check.zwxhm.icu/
 server=/check.zxdsq.site/
 server=/chinaapper.com/
 server=/chmod0777kk.com/
-server=/chromeupd-mo.com/
 server=/cioudfiare.ru/
 server=/ciscocdn.com/
 server=/clubedasluluzinhasro.com.br/
@@ -150,6 +148,7 @@ server=/hobobot.net/
 server=/homesip.ru/
 server=/hr2019.vrcom7.com/
 server=/hseda.com/
+server=/imtoken8.cc/
 server=/infernoenjoyer.cfd/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
@@ -168,6 +167,7 @@ server=/kieudjrie.live/
 server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
+server=/littlemtlogistics.net/
 server=/lmlm.activaterants.agency/
 server=/lostheaven.com.cn/
 server=/lsks.volamngayxua.net/
@@ -181,6 +181,7 @@ server=/microsoft-auth-network.cc/
 server=/miner-tolken.com/
 server=/misljen.net/
 server=/mitgpssms.com/
+server=/moonloaderupdate.ru/
 server=/mta179.insuretn.com/
 server=/nabawitransport.com/
 server=/namthaibinh.net/
@@ -199,10 +200,10 @@ server=/pid.fly160.com/
 server=/pns.org.pk/
 server=/protechasia.com/
 server=/qiniuyunxz.yxflzs.com/
+server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanlyphongnet.com/
 server=/rappel-coinbase.com/
 server=/rd.chuitian.cn/
-server=/recepchtav3.com/
 server=/reifenquick.de/
 server=/resourceedge.org/
 server=/reusable-flex.com/
@@ -263,7 +264,6 @@ server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
-server=/utorrent-servers.xyz/
 server=/vbccorretoradeseguros.com.br/
 server=/win-network-checker.cc/
 server=/www.beiletoys.com/
@@ -272,6 +272,7 @@ server=/www.clubedasluluzinhasro.com.br/
 server=/www.elefantenfutter.de/
 server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
+server=/www.hseda.com/
 server=/www.ingonherbal.com/
 server=/www.maxmoney.com/
 server=/www.medises.co.kr/
@@ -280,6 +281,7 @@ server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
+server=/www.seventools.de/
 server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.tdejb.com/
@@ -298,4 +300,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zero-cdn.click/
 server=/znrq.zifwxq.cn/
-# Number of entries: 292
+# Number of entries: 294
