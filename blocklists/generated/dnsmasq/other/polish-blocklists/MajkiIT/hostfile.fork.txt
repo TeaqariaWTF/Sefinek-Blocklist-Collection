@@ -187,7 +187,7 @@ server=/zukxd6fkxqn.com/
 server=/render.geozo.com/
 server=/mustreadfeed.com/
 server=/newssomesun.com/
-# 0.0.0.0 userload.co/maroc.js$script
+# server=/userload.co/maroc.js$script/
 server=/allepharm.com/
 server=/trichomist.store/
 server=/mostnewsfeed.com/
@@ -209,7 +209,7 @@ server=/back.marketing/
 server=/behavioralengine.com/
 server=/caringcast.com/
 server=/cassini.efigence.com/
-# 0.0.0.0 cdn.cookielaw.org
+# server=/cdn.cookielaw.org/
 server=/clickcounters.com/
 server=/clickmatic.pl/
 server=/clickmeter.com/
@@ -270,7 +270,7 @@ server=/stats.aptelink.pl/
 server=/stats.asp24.pl/
 server=/stats.goldenline.pl/
 server=/stats.landingi.com/
-# 0.0.0.0 stg.wp.pl$script
+# server=/stg.wp.pl$script/
 server=/sylaba.net/
 server=/tealium.hs.llnwd.net/
 server=/track.buybox.click/
@@ -286,3 +286,4 @@ server=/ut.o2.pl/
 server=/vendimob.pl/
 server=/x.sare25.com/
 server=/ymetrica.com/
+server=/sus-wel.com/
