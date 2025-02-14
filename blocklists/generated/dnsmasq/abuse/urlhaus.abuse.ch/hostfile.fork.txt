@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-14 12:31:06 (UTC)                      #
+# Last updated: 2025-02-14 14:06:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -22,7 +22,6 @@ server=/antiuserbot-v3.com/
 server=/antlb0tv2.com/
 server=/api-fgg3.cname.ah73g.xyz/
 server=/api.accueil-coinbase.com/
-server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
@@ -130,7 +129,6 @@ server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
 server=/gawx.florenda.com/
-server=/gemini-desktop.com/
 server=/genericfixer.com/
 server=/glennmedina.com/
 server=/gopay.stockadv.com/
@@ -144,6 +142,7 @@ server=/imtoken8.cc/
 server=/infernoenjoyer.cfd/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
+server=/jade-associates.com.br/
 server=/jahez.me/
 server=/javierlopez.eu/
 server=/jobcity.com/
@@ -190,7 +189,6 @@ server=/pns.org.pk/
 server=/protechasia.com/
 server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
-server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
 server=/rappel-coinbase.com/
 server=/rd.chuitian.cn/
@@ -295,4 +293,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 289
+# Number of entries: 287
