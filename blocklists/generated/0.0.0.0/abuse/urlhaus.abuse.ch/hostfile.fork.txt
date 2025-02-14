@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-14 20:18:05 (UTC)                      #
+# Last updated: 2025-02-14 22:14:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
-0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
@@ -22,7 +21,6 @@
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api-fgg3.cname.ah73g.xyz
-0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
@@ -37,6 +35,7 @@
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
 0.0.0.0 avastop.com
+0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
@@ -158,7 +157,6 @@
 0.0.0.0 lmlm.activaterants.agency
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
-0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.alapaev.ru
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mandarin.net.au
@@ -169,7 +167,6 @@
 0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
-0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
@@ -179,9 +176,11 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
 0.0.0.0 otrsolutons.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pid.fly160.com
+0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -207,9 +206,9 @@
 0.0.0.0 shemaleescorts.uk
 0.0.0.0 showroom-autosales.com
 0.0.0.0 sirault.be
-0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
+0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 srogland.com
@@ -249,6 +248,7 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
+0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 win-network-checker.cc
@@ -263,7 +263,7 @@
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.medises.co.kr
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.meetingroomconfigurator.com
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
@@ -275,7 +275,6 @@
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
-0.0.0.0 www.tronlink.plus
 0.0.0.0 www.vcompdocs.com
 0.0.0.0 www.vcompdocsproposal.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
@@ -292,4 +291,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zcjs888.cfd
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 286
+# Number of entries: 285

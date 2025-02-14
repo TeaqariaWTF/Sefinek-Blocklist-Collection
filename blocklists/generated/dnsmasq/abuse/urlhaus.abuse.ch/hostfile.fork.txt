@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-14 20:18:05 (UTC)                      #
+# Last updated: 2025-02-14 22:14:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 server=/123.ywxww.net/
-server=/1717.1000uc.com/
 server=/360down7.miiyun.cn/
 server=/abissnet.net/
 server=/acusense.ae/
@@ -22,7 +21,6 @@ server=/antiuserbot-v3.com/
 server=/antlb0tv2.com/
 server=/aosafrica.co.za/
 server=/api-fgg3.cname.ah73g.xyz/
-server=/api.aide-coinbase.com/
 server=/api.ewfiles.net/
 server=/api.hostize.com/
 server=/api.information-binance.com/
@@ -37,6 +35,7 @@ server=/avastexodus.com/
 server=/avastmetamask.com/
 server=/avastng.com/
 server=/avastop.com/
+server=/avastpdq.com/
 server=/avastpdr.com/
 server=/avastpx.com/
 server=/azgint.com/
@@ -158,7 +157,6 @@ server=/livetrack.in/
 server=/lmlm.activaterants.agency/
 server=/lostheaven.com.cn/
 server=/lsks.volamngayxua.net/
-server=/m.gutousoft.com/
 server=/mail.alapaev.ru/
 server=/mail.automatica.mx/
 server=/mandarin.net.au/
@@ -169,7 +167,6 @@ server=/microsoft-auth-network.cc/
 server=/miner-tolken.com/
 server=/misljen.net/
 server=/mitgpssms.com/
-server=/moonloaderupdate.ru/
 server=/mta179.insuretn.com/
 server=/nabawitransport.com/
 server=/namthaibinh.net/
@@ -179,9 +176,11 @@ server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
 server=/osecweb.ir/
 server=/otrsolutons.com/
+server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pid.fly160.com/
+server=/pns.org.pk/
 server=/protechasia.com/
 server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
@@ -207,9 +206,9 @@ server=/shell.dimitrimedia.com/
 server=/shemaleescorts.uk/
 server=/showroom-autosales.com/
 server=/sirault.be/
-server=/sms-szfang.com/
 server=/smsfastersend.com/
 server=/soft.110route.com/
+server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/sporcketngearforu.com/
 server=/srogland.com/
@@ -249,6 +248,7 @@ server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
+server=/utorrent-server-api.cc/
 server=/utorrent-servers.xyz/
 server=/vbccorretoradeseguros.com.br/
 server=/win-network-checker.cc/
@@ -263,7 +263,7 @@ server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.hseda.com/
 server=/www.ingonherbal.com/
-server=/www.medises.co.kr/
+server=/www.maxmoney.com/
 server=/www.meetingroomconfigurator.com/
 server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
@@ -275,7 +275,6 @@ server=/www.sporcketngearforu.com/
 server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
-server=/www.tronlink.plus/
 server=/www.vcompdocs.com/
 server=/www.vcompdocsproposal.com/
 server=/www.xn--on3b15m2lco2u.com/
@@ -292,4 +291,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/zcjs888.cfd/
 server=/znrq.zifwxq.cn/
-# Number of entries: 286
+# Number of entries: 285

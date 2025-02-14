@@ -3,8 +3,6 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
-1717.1000uc.com CNAME .
-*.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 abissnet.net CNAME .
@@ -33,8 +31,6 @@ aosafrica.co.za CNAME .
 *.aosafrica.co.za CNAME .
 api-fgg3.cname.ah73g.xyz CNAME .
 *.api-fgg3.cname.ah73g.xyz CNAME .
-api.aide-coinbase.com CNAME .
-*.api.aide-coinbase.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
 api.hostize.com CNAME .
@@ -63,6 +59,8 @@ avastng.com CNAME .
 *.avastng.com CNAME .
 avastop.com CNAME .
 *.avastop.com CNAME .
+avastpdq.com CNAME .
+*.avastpdq.com CNAME .
 avastpdr.com CNAME .
 *.avastpdr.com CNAME .
 avastpx.com CNAME .
@@ -305,8 +303,6 @@ lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
 lsks.volamngayxua.net CNAME .
 *.lsks.volamngayxua.net CNAME .
-m.gutousoft.com CNAME .
-*.m.gutousoft.com CNAME .
 mail.alapaev.ru CNAME .
 *.mail.alapaev.ru CNAME .
 mail.automatica.mx CNAME .
@@ -327,8 +323,6 @@ misljen.net CNAME .
 *.misljen.net CNAME .
 mitgpssms.com CNAME .
 *.mitgpssms.com CNAME .
-moonloaderupdate.ru CNAME .
-*.moonloaderupdate.ru CNAME .
 mta179.insuretn.com CNAME .
 *.mta179.insuretn.com CNAME .
 nabawitransport.com CNAME .
@@ -347,12 +341,16 @@ osecweb.ir CNAME .
 *.osecweb.ir CNAME .
 otrsolutons.com CNAME .
 *.otrsolutons.com CNAME .
+palharesinformatica.com.br CNAME .
+*.palharesinformatica.com.br CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 parmisbuilding.com CNAME .
 *.parmisbuilding.com CNAME .
 pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
+pns.org.pk CNAME .
+*.pns.org.pk CNAME .
 protechasia.com CNAME .
 *.protechasia.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
@@ -403,12 +401,12 @@ showroom-autosales.com CNAME .
 *.showroom-autosales.com CNAME .
 sirault.be CNAME .
 *.sirault.be CNAME .
-sms-szfang.com CNAME .
-*.sms-szfang.com CNAME .
 smsfastersend.com CNAME .
 *.smsfastersend.com CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
+soportegira.net CNAME .
+*.soportegira.net CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 *.spaceframe.mobi.space-frame.co.za CNAME .
 sporcketngearforu.com CNAME .
@@ -487,6 +485,8 @@ utorrent-backup-server4.top CNAME .
 *.utorrent-backup-server4.top CNAME .
 utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
+utorrent-server-api.cc CNAME .
+*.utorrent-server-api.cc CNAME .
 utorrent-servers.xyz CNAME .
 *.utorrent-servers.xyz CNAME .
 vbccorretoradeseguros.com.br CNAME .
@@ -511,8 +511,8 @@ globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
-medises.co.kr CNAME .
-*.medises.co.kr CNAME .
+maxmoney.com CNAME .
+*.maxmoney.com CNAME .
 meetingroomconfigurator.com CNAME .
 *.meetingroomconfigurator.com CNAME .
 newkey.co.kr CNAME .
@@ -527,8 +527,6 @@ starcountry.net CNAME .
 *.starcountry.net CNAME .
 tdejb.com CNAME .
 *.tdejb.com CNAME .
-tronlink.plus CNAME .
-*.tronlink.plus CNAME .
 vcompdocs.com CNAME .
 *.vcompdocs.com CNAME .
 vcompdocsproposal.com CNAME .
