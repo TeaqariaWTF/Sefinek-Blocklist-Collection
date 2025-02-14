@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-14 14:06:04 (UTC)                      #
+# Last updated: 2025-02-14 16:24:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -20,6 +20,7 @@ server=/amacys.shop/
 server=/americanexpressloginus.com/
 server=/antiuserbot-v3.com/
 server=/antlb0tv2.com/
+server=/aosafrica.co.za/
 server=/api-fgg3.cname.ah73g.xyz/
 server=/api.accueil-coinbase.com/
 server=/api.co-operativefinance.com/
@@ -81,6 +82,7 @@ server=/chmod0777kk.com/
 server=/chromeupd-mo.com/
 server=/cioudfiare.ru/
 server=/ciscocdn.com/
+server=/clubedasluluzinhasro.com.br/
 server=/cnc.kotomari-vn.dev/
 server=/cnc.stressamp.com/
 server=/coach.028csc.com/
@@ -100,6 +102,7 @@ server=/disk.accord1key.cn/
 server=/divvanews.com/
 server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
+server=/dl.natgo.cn/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
 server=/do-dear.com/
@@ -112,6 +115,7 @@ server=/down.pcclear.com/
 server=/down.qqfarmer.com.cn/
 server=/download.caihong.com/
 server=/download.emailorganizer.com/
+server=/download.suxiazai.com/
 server=/downsexv.com/
 server=/dw.arsnb.cc/
 server=/e4l4.com/
@@ -124,6 +128,7 @@ server=/fashionghana.shop/
 server=/file.blackint3.com/
 server=/file.edunet.ac/
 server=/files5.uludagbilisim.com/
+server=/fox-news-checker.cc/
 server=/fsic.regular.ptbaconsulting.com/
 server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
@@ -140,6 +145,7 @@ server=/hobobot.net/
 server=/hseda.com/
 server=/imtoken8.cc/
 server=/infernoenjoyer.cfd/
+server=/information-binance.com/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
 server=/jade-associates.com.br/
@@ -151,7 +157,6 @@ server=/jrqh-hk.com/
 server=/karer.by/
 server=/karoonpc.com/
 server=/keyser-api.eu/
-server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
 server=/littlemtlogistics.net/
 server=/livetrack.in/
@@ -211,7 +216,6 @@ server=/sirault.be/
 server=/sms-szfang.com/
 server=/smsfastersend.com/
 server=/soft.110route.com/
-server=/soportegira.net/
 server=/spaceframe.mobi.space-frame.co.za/
 server=/sporcketngearforu.com/
 server=/srogland.com/
@@ -251,6 +255,7 @@ server=/utorrent-backup-server2.top/
 server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
+server=/utorrent-server-api.cc/
 server=/utorrent-servers.xyz/
 server=/vbccorretoradeseguros.com.br/
 server=/win-network-checker.cc/
@@ -293,4 +298,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 287
+# Number of entries: 292
