@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025021401 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025021501 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -81703,6 +81703,8 @@ rgcincy.com CNAME .
 *.rgcincy.com CNAME .
 rgdoubtdhq.com CNAME .
 *.rgdoubtdhq.com CNAME .
+rgmail.my.id CNAME .
+*.rgmail.my.id CNAME .
 rgpz.com CNAME .
 *.rgpz.com CNAME .
 rgriwigcae.ga CNAME .

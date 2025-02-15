@@ -3,12 +3,16 @@ $TTL 300
   NS  localhost.
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 90erpartyberlin.com CNAME .
 *.90erpartyberlin.com CNAME .
+912648.aioc.qbgxl.com CNAME .
+*.912648.aioc.qbgxl.com CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
 acusense.ae CNAME .
@@ -69,8 +73,6 @@ avastop.com CNAME .
 *.avastop.com CNAME .
 avastpdq.com CNAME .
 *.avastpdq.com CNAME .
-avastpdr.com CNAME .
-*.avastpdr.com CNAME .
 avastpx.com CNAME .
 *.avastpx.com CNAME .
 azgint.com CNAME .
@@ -233,6 +235,8 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.gmexiochappt.com CNAME .
 *.down.gmexiochappt.com CNAME .
+down.mvip8.ru CNAME .
+*.down.mvip8.ru CNAME .
 down.pcclear.com CNAME .
 *.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
@@ -343,8 +347,6 @@ lsks.volamngayxua.net CNAME .
 *.lsks.volamngayxua.net CNAME .
 ly.aoaee.shop CNAME .
 *.ly.aoaee.shop CNAME .
-m.gutousoft.com CNAME .
-*.m.gutousoft.com CNAME .
 mail.alapaev.ru CNAME .
 *.mail.alapaev.ru CNAME .
 mail.automatica.mx CNAME .
@@ -393,10 +395,14 @@ palharesinformatica.com.br CNAME .
 *.palharesinformatica.com.br CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
+pid.fly160.com CNAME .
+*.pid.fly160.com CNAME .
 pns.org.pk CNAME .
 *.pns.org.pk CNAME .
 qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
+quanly.jxmienphi.net CNAME .
+*.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
 *.quanlyphongnet.com CNAME .
 quwatt.kz CNAME .

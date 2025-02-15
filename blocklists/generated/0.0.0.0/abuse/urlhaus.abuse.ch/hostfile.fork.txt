@@ -1,15 +1,17 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-15 02:49:05 (UTC)                      #
+# Last updated: 2025-02-15 04:23:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 123.ywxww.net
+0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 90erpartyberlin.com
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
@@ -40,7 +42,6 @@
 0.0.0.0 avastng.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
-0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
 0.0.0.0 azsolver.com
@@ -122,6 +123,7 @@
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.gmexiochappt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -177,7 +179,6 @@
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 ly.aoaee.shop
-0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.alapaev.ru
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mandarin.net.au
@@ -202,8 +203,10 @@
 0.0.0.0 otrsolutons.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
+0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quwatt.kz
 0.0.0.0 rappel-coinbase.com
@@ -306,4 +309,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 zcjs888.cfd
-# Number of entries: 300
+# Number of entries: 303
