@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-15 20:17:05 (UTC)                      #
+# Last updated: 2025-02-15 22:14:26 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -46,6 +46,7 @@ server=/backgroundtasks.info/
 server=/banthis.su/
 server=/bestsoftwaredownloads.com/
 server=/bolsterflipgaming.com/
+server=/book.rollingvideogames.com/
 server=/booking.extranemt-heosting.com/
 server=/bot-challenge-2.com/
 server=/bot.weizaipay.xyz/
@@ -144,7 +145,6 @@ server=/funletters.net/
 server=/gawx.florenda.com/
 server=/genericfixer.com/
 server=/glennmedina.com/
-server=/gopay.stockadv.com/
 server=/gostepdas.world/
 server=/grupobramam.com.br/
 server=/havajel.com/
