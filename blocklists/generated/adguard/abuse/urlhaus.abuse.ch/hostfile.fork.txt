@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-15 08:24:17 (UTC)                      !
+! Last updated: 2025-02-15 10:13:04 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -23,9 +23,11 @@
 ||americanexpressloginus.com^
 ||antlb0tv2.com^
 ||aosafrica.co.za^
+||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
+||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
@@ -40,6 +42,8 @@
 ||avastop.com^
 ||avastpdq.com^
 ||avastpdr.com^
+||avastpx.com^
+||azgint.com^
 ||azsolver.com^
 ||backgroundtasks.info^
 ||bestsoftwaredownloads.com^
@@ -97,10 +101,12 @@
 ||cnc.kotomari-vn.dev^
 ||cnc.stressamp.com^
 ||coach.028csc.com^
+||coadymarine.com^
 ||commavast.com^
 ||comteste.com^
 ||conn.masjesu.zip^
 ||cryptopotato.net^
+||crystalpvp.ru^
 ||csg-app.com^
 ||cta.berlmember.com^
 ||dangtienluc.com^
@@ -122,7 +128,7 @@
 ||down.gmexiochappt.com^
 ||down.mvip8.ru^
 ||down.pcclear.com^
-||down.qqfarmer.com.cn^
+||download.caihong.com^
 ||download.emailorganizer.com^
 ||download.suxiazai.com^
 ||downsexv.com^
@@ -134,13 +140,12 @@
 ||eyupsultan.com.tr^
 ||fashionghana.shop^
 ||file.blackint3.com^
+||file.edunet.ac^
 ||files5.uludagbilisim.com^
 ||fox-news-checker.cc^
 ||fsic.regular.ptbaconsulting.com^
 ||ftp.ywxww.net^
-||fundrescuetech.com^
 ||funletters.net^
-||gachetroi.com^
 ||gawx.florenda.com^
 ||genericfixer.com^
 ||glennmedina.com^
@@ -152,6 +157,7 @@
 ||hitstation.nl^
 ||hobobot.net^
 ||hr2019.vrcom7.com^
+||hseda.com^
 ||huadongarmouredcable.com^
 ||idbookexetraknet.world^
 ||imtoken8.cc^
@@ -169,18 +175,18 @@
 ||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
-||littlemtlogistics.net^
-||livetrack.in^
 ||lostheaven.com.cn^
 ||ly.aoaee.shop^
 ||m.gutousoft.com^
 ||mail.alapaev.ru^
 ||mail.automatica.mx^
 ||mandarin.net.au^
+||mcpperformance.com.br^
 ||mertvinc.com.tr^
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||miner-tolken.com^
+||misljen.net^
 ||mitgpssms.com^
 ||moonloaderupdate.ru^
 ||mta179.insuretn.com^
@@ -188,6 +194,7 @@
 ||namthaibinh.net^
 ||nationwideavast.com^
 ||noithaticon.vn^
+||ny.lshdw.cc^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||osecweb.ir^
@@ -199,7 +206,7 @@
 ||pns.org.pk^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
-||qlqd5zqefmkcr34a.onion.sh^
+||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||quwatt.kz^
 ||rappel-coinbase.com^
@@ -216,7 +223,6 @@
 ||safe.ywxww.net^
 ||saveyourcinema.ca^
 ||security-service-api-link.cc^
-||sfa.com.ar^
 ||shell.dimitrimedia.com^
 ||shemaleescorts.uk^
 ||showroom-autosales.com^
@@ -224,10 +230,12 @@
 ||slavutych-57.ru^
 ||sms-szfang.com^
 ||smsfastersend.com^
+||soft.110route.com^
 ||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
 ||sporcketngearforu.com^
 ||srogland.com^
+||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||sufikhat.com^
@@ -245,12 +253,10 @@
 ||tianyinsoft.top^
 ||traefik-dashboard.val.io.vn^
 ||travelwithmanta.co.za^
-||treinamento.convenio.to.gov.br^
 ||twizt.net^
 ||u1.snorehedging.shop^
 ||u1.subtyperesource.shop^
 ||update.cg100iii.com^
-||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upload.venomtools.in^
 ||userveriff02.com^
@@ -260,7 +266,6 @@
 ||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
 ||utorrent-server-api.cc^
-||utorrent-servers.xyz^
 ||vbccorretoradeseguros.com.br^
 ||win-network-checker.cc^
 ||www.aqianniao.com^
@@ -269,6 +274,7 @@
 ||www.clubedasluluzinhasro.com.br^
 ||www.cmcmarkets.work^
 ||www.downloadpropsdocs.com^
+||www.elefantenfutter.de^
 ||www.globallaborsupply.com^
 ||www.hseda.com^
 ||www.ingonherbal.com^
@@ -284,12 +290,13 @@
 ||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.tdejb.com^
+||www.tecunonline.com^
 ||www.tronlink.plus^
 ||www.vcompdocs.com^
 ||www.vcompdocsproposal.com^
+||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
-||wynecare.com^
 ||wz.3911.com^
 ||xiangshunjy.com^
 ||ximonite.com^
@@ -300,4 +307,4 @@
 ||yzkzixun.com^
 ||zcjs888.cfd^
 ||znrq.zifwxq.cn^
-! Number of entries: 294
+! Number of entries: 301
