@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025021301 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025021601 43200 3600 259200 300
   NS  localhost.
 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
 *.0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
@@ -5471,6 +5471,8 @@ ads.alive.com CNAME .
 *.ads.alive.com CNAME .
 ads.allenbrothers.co.uk CNAME .
 *.ads.allenbrothers.co.uk CNAME .
+adsalliance.xyz CNAME .
+*.adsalliance.xyz CNAME .
 ads.almakos.com CNAME .
 *.ads.almakos.com CNAME .
 ads.almanar-tv.org CNAME .
@@ -12637,6 +12639,8 @@ adzymic.co CNAME .
 *.adzymic.co CNAME .
 ae-136.global.ssl.fastly.net CNAME .
 *.ae-136.global.ssl.fastly.net CNAME .
+a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com CNAME .
+*.a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com CNAME .
 aebcyq.com CNAME .
 *.aebcyq.com CNAME .
 a.ebolat.xyz CNAME .
@@ -23093,6 +23097,8 @@ gosoo.steeelm.xyz CNAME .
 *.gosoo.steeelm.xyz CNAME .
 go-srv.com CNAME .
 *.go-srv.com CNAME .
+gossamerwing.com CNAME .
+*.gossamerwing.com CNAME .
 go.tadadamads.com CNAME .
 *.go.tadadamads.com CNAME .
 go.tadamads.com CNAME .
