@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-16 02:47:04 (UTC)                      #
+# Last updated: 2025-02-16 04:17:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -105,10 +105,10 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 device.redirec.com
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
-0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -118,6 +118,7 @@
 0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
@@ -128,6 +129,7 @@
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 filenet.online
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fox-news-checker.cc
@@ -181,6 +183,7 @@
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 netconf.online
 0.0.0.0 nl1.shawty.network
@@ -197,6 +200,7 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 porannyrozruch.pl
 0.0.0.0 protechasia.com
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -272,11 +276,13 @@
 0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.meetingroomconfigurator.com
 0.0.0.0 www.newkey.co.kr
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
@@ -301,4 +307,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zcjs888.cfd
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 295
+# Number of entries: 301
