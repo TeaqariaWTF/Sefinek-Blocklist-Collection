@@ -1,12 +1,11 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-17 20:11:05 (UTC)                      #
+# Last updated: 2025-02-17 22:18:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-127.0.0.1 0x2394world.com
 127.0.0.1 123.ywxww.net
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
@@ -82,6 +81,7 @@
 127.0.0.1 check.zuzcq.icu
 127.0.0.1 chinaapper.com
 127.0.0.1 chmod0777kk.com
+127.0.0.1 chromeupd-mo.com
 127.0.0.1 cioudfiare.ru
 127.0.0.1 ciscocdn.com
 127.0.0.1 cnc.stressamp.com
@@ -97,10 +97,10 @@
 127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dcwblida.dz
-127.0.0.1 deliveryday1.com
 127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
+127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.natgo.cn
@@ -128,6 +128,7 @@
 127.0.0.1 fox-news-checker.cc
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 funletters.net
+127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
 127.0.0.1 genericfixer.com
 127.0.0.1 ghostbin.site
@@ -158,7 +159,6 @@
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 ly.ardentlysqueamish.autos
 127.0.0.1 m.gutousoft.com
 127.0.0.1 mail.alapaev.ru
@@ -200,6 +200,7 @@
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
+127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 rumble.tube
@@ -247,7 +248,6 @@
 127.0.0.1 u1.giddinessrebirth.shop
 127.0.0.1 u1.subtyperesource.shop
 127.0.0.1 u1.sulkuntie.shop
-127.0.0.1 ukrulruabank.pro
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
@@ -262,7 +262,6 @@
 127.0.0.1 vovpro.ru
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
-127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.cmcmarkets.work
 127.0.0.1 www.downloadpropsdocs.com
@@ -271,14 +270,17 @@
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
+127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.meetingroomconfigurator.com
 127.0.0.1 www.newkey.co.kr
+127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.seventools.de
 127.0.0.1 www.sporcketngearforu.com
+127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.vcompdocs.com
@@ -296,4 +298,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 290
+# Number of entries: 292

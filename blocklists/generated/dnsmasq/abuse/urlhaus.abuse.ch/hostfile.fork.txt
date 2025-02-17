@@ -1,12 +1,11 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-17 20:11:05 (UTC)                      #
+# Last updated: 2025-02-17 22:18:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-server=/0x2394world.com/
 server=/123.ywxww.net/
 server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
@@ -82,6 +81,7 @@ server=/check.zovof.icu/
 server=/check.zuzcq.icu/
 server=/chinaapper.com/
 server=/chmod0777kk.com/
+server=/chromeupd-mo.com/
 server=/cioudfiare.ru/
 server=/ciscocdn.com/
 server=/cnc.stressamp.com/
@@ -97,10 +97,10 @@ server=/csg-app.com/
 server=/dangtienluc.com/
 server=/data.yhydl.com/
 server=/dcwblida.dz/
-server=/deliveryday1.com/
 server=/device.redirec.com/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
+server=/divvanews.com/
 server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
 server=/dl.natgo.cn/
@@ -128,6 +128,7 @@ server=/files5.uludagbilisim.com/
 server=/fox-news-checker.cc/
 server=/ftp.ywxww.net/
 server=/funletters.net/
+server=/gachetroi.com/
 server=/gawx.florenda.com/
 server=/genericfixer.com/
 server=/ghostbin.site/
@@ -158,7 +159,6 @@ server=/linkvilleplayers.org/
 server=/littlemtlogistics.net/
 server=/livetrack.in/
 server=/lostheaven.com.cn/
-server=/lsks.volamngayxua.net/
 server=/ly.ardentlysqueamish.autos/
 server=/m.gutousoft.com/
 server=/mail.alapaev.ru/
@@ -200,6 +200,7 @@ server=/rappel-coinbase.com/
 server=/rd.chuitian.cn/
 server=/recepchtav3.com/
 server=/reifenquick.de/
+server=/resourceedge.org/
 server=/reusable-flex.com/
 server=/ronnin-v2.com/
 server=/rumble.tube/
@@ -247,7 +248,6 @@ server=/twizt.net/
 server=/u1.giddinessrebirth.shop/
 server=/u1.subtyperesource.shop/
 server=/u1.sulkuntie.shop/
-server=/ukrulruabank.pro/
 server=/update.cg100iii.com/
 server=/update.volam2005pk.com/
 server=/updateinfo-portal.com/
@@ -262,7 +262,6 @@ server=/vbccorretoradeseguros.com.br/
 server=/vovpro.ru/
 server=/win-network-checker.cc/
 server=/www.aqianniao.com/
-server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
 server=/www.cmcmarkets.work/
 server=/www.downloadpropsdocs.com/
@@ -271,14 +270,17 @@ server=/www.flechabusretiro.com.ar/
 server=/www.globallaborsupply.com/
 server=/www.hseda.com/
 server=/www.ingonherbal.com/
+server=/www.maxmoney.com/
 server=/www.medises.co.kr/
 server=/www.meetingroomconfigurator.com/
 server=/www.newkey.co.kr/
+server=/www.ojang.pe.kr/
 server=/www.opolis.io/
 server=/www.reifenquick.de/
 server=/www.rphingenieria.com/
 server=/www.seventools.de/
 server=/www.sporcketngearforu.com/
+server=/www.starcountry.net/
 server=/www.tdejb.com/
 server=/www.tecunonline.com/
 server=/www.vcompdocs.com/
@@ -296,4 +298,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 290
+# Number of entries: 292
