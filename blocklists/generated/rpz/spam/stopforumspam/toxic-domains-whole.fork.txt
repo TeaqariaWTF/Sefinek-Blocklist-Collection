@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025021601 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025021701 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -12457,6 +12457,8 @@ bacsinhan.com CNAME .
 *.bacsinhan.com CNAME .
 bacteriomail.com CNAME .
 *.bacteriomail.com CNAME .
+bactrangtinhdoj.site CNAME .
+*.bactrangtinhdoj.site CNAME .
 bacu8x.com CNAME .
 *.bacu8x.com CNAME .
 badassmail.com CNAME .
