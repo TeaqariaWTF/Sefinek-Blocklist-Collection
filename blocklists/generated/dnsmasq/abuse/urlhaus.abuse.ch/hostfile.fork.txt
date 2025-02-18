@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-18 10:19:06 (UTC)                      #
+# Last updated: 2025-02-18 12:39:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -142,6 +142,7 @@ server=/fox-news-checker.cc/
 server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
+server=/gachetroi.com/
 server=/gawx.florenda.com/
 server=/genericfixer.com/
 server=/glennmedina.com/
@@ -163,6 +164,7 @@ server=/jointings.org/
 server=/jrqh-hk.com/
 server=/karoonpc.com/
 server=/keyser-api.eu/
+server=/lakestreetsolar.com/
 server=/library.arihantmbainstitute.ac.in/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
@@ -193,7 +195,6 @@ server=/noithaticon.vn/
 server=/ny.lshdw.cc/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
-server=/osecweb.ir/
 server=/otrsolutons.com/
 server=/ouhfuosuoosrhfzr.su/
 server=/palharesinformatica.com.br/
@@ -209,7 +210,6 @@ server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
 server=/rappel-coinbase.com/
 server=/rd.chuitian.cn/
-server=/recepchtav3.com/
 server=/reifenquick.de/
 server=/resourceedge.org/
 server=/reusable-flex.com/
@@ -235,7 +235,6 @@ server=/sparrowmodules.com/
 server=/sporcketngearforu.com/
 server=/src1.minibai.com/
 server=/srogland.com/
-server=/stdown.dinju.com/
 server=/storage.soowim.co.kr/
 server=/subit.ro/
 server=/sufikhat.com/
@@ -279,7 +278,6 @@ server=/win-network-checker.cc/
 server=/www.aqianniao.com/
 server=/www.beiletoys.com/
 server=/www.blackhattoolz.com/
-server=/www.cmcmarkets.work/
 server=/www.downloadpropsdocs.com/
 server=/www.elefantenfutter.de/
 server=/www.flechabusretiro.com.ar/
@@ -311,10 +309,9 @@ server=/wynecare.com/
 server=/wz.3911.com/
 server=/xemhang.vn/
 server=/xiangshunjy.com/
-server=/ximonite.com/
 server=/xingpai.weilay.com.cn/
 server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 311
+# Number of entries: 308
