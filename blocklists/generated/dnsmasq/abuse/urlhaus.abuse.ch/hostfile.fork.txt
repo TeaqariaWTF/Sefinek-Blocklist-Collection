@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-18 12:39:04 (UTC)                      #
+# Last updated: 2025-02-18 14:17:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -48,6 +48,7 @@ server=/bchainpro.com/
 server=/bitkiselurunsiparis.com/
 server=/book.rollingvideogames.com/
 server=/booking.preview-chekaer.com/
+server=/br-01.hydrac2.net/
 server=/buscascolegios.diit.cl/
 server=/catbaparadisehotel.com.vn/
 server=/cattozzo.it/
@@ -154,6 +155,7 @@ server=/hitstation.nl/
 server=/hobobot.net/
 server=/hr2019.vrcom7.com/
 server=/hseda.com/
+server=/hydrac2.net/
 server=/information-binance.com/
 server=/ini.sh-pp.com/
 server=/inspirepk.org/
@@ -225,6 +227,7 @@ server=/security-service-api-link.cc/
 server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
 server=/sirault.be/
+server=/sizqlesaux.top/
 server=/smartservers25.com/
 server=/sms-szfang.com/
 server=/smsfastersend.com/
@@ -314,4 +317,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 308
+# Number of entries: 311
