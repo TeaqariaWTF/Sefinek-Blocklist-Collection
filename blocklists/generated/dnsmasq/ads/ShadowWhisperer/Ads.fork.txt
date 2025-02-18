@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,984
-# Updated: 2/17/2025  10:52 (10:52 AM CST)
+# Domains: 20,986
+# Updated: 2/17/2025  21:14 (9:14 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1968,6 +1968,7 @@ server=/adk2x.com/
 server=/ad.kakaocorp.com/
 server=/ad.kanbu.cn/
 server=/ad.kancelarie.sk/
+server=/adkaora.space/
 server=/ad.kase.kz/
 server=/ad.kddi-fs.com/
 server=/ad.khan.co.kr/
@@ -16657,6 +16658,7 @@ server=/revenueaccelerator.io/
 server=/revenue-ads.online/
 server=/revenueflex.com/
 server=/revenuehits.com/
+server=/revenuemakerdata.com/
 server=/revenuemantra.com/
 server=/revenue.net/
 server=/revenuenetwork.com/
