@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-18 08:22:33 (UTC)                      #
+# Last updated: 2025-02-18 10:19:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 0x2394world.com
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
@@ -23,16 +24,15 @@
 0.0.0.0 americanexpressloginus.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
-0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 applepistudios.com
 0.0.0.0 armanayegh.com
-0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -99,6 +99,7 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
+0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
@@ -113,7 +114,9 @@
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 do-dear.com
 0.0.0.0 doorwooden.online
@@ -137,11 +140,13 @@
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fox-news-checker.cc
 0.0.0.0 ftp.ywxww.net
+0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
+0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 grupobramam.com.br
+0.0.0.0 gruposermac.net
 0.0.0.0 historli.ru
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
@@ -151,7 +156,6 @@
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
-0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
@@ -200,6 +204,7 @@
 0.0.0.0 preview-chekaer.com
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
@@ -230,7 +235,6 @@
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 srogland.com
-0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 subit.ro
@@ -260,7 +264,6 @@
 0.0.0.0 ukrbord-uacom.com
 0.0.0.0 ukrulruabank.pro
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 utorrent-backup-server.top
@@ -278,6 +281,7 @@
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.downloadpropsdocs.com
+0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
@@ -285,6 +289,7 @@
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.meetingroomconfigurator.com
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -312,4 +317,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 306
+# Number of entries: 311

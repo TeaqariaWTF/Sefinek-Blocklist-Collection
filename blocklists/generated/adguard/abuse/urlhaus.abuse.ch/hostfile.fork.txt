@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-18 08:22:33 (UTC)                      !
+! Last updated: 2025-02-18 10:19:06 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -9,6 +9,7 @@
 ||0x2394world.com^
 ||123.ywxww.net^
 ||139520.aioc.qbgxl.com^
+||1717.1000uc.com^
 ||360down7.miiyun.cn^
 ||912648.aioc.qbgxl.com^
 ||abissnet.net^
@@ -23,16 +24,15 @@
 ||americanexpressloginus.com^
 ||antlb0tv2.com^
 ||aosafrica.co.za^
+||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
-||api.ewfiles.net^
 ||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
 ||applepistudios.com^
 ||armanayegh.com^
-||aulist.com^
 ||avastcxp.com^
 ||avastcxt.com^
 ||avastexodus.com^
@@ -99,6 +99,7 @@
 ||coach.028csc.com^
 ||coadymarine.com^
 ||commavast.com^
+||comteste.com^
 ||conn.masjesu.zip^
 ||cryptopotato.net^
 ||crystalpvp.ru^
@@ -113,7 +114,9 @@
 ||dhnconstrucciones.com.ar^
 ||disk.accord1key.cn^
 ||divvanews.com^
+||dl.1003b.56a.com^
 ||dl.aginjector.com^
+||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
 ||do-dear.com^
 ||doorwooden.online^
@@ -137,11 +140,13 @@
 ||files5.uludagbilisim.com^
 ||fox-news-checker.cc^
 ||ftp.ywxww.net^
+||fundrescuetech.com^
 ||funletters.net^
-||gachetroi.com^
 ||gawx.florenda.com^
+||genericfixer.com^
 ||glennmedina.com^
 ||grupobramam.com.br^
+||gruposermac.net^
 ||historli.ru^
 ||hitman-pro.ru^
 ||hitstation.nl^
@@ -151,7 +156,6 @@
 ||information-binance.com^
 ||ini.sh-pp.com^
 ||inspirepk.org^
-||jade-associates.com.br^
 ||jahez.me^
 ||javierlopez.eu^
 ||jobcity.com^
@@ -200,6 +204,7 @@
 ||preview-chekaer.com^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
+||qlqd5zqefmkcr34a.onion.sh^
 ||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rappel-coinbase.com^
@@ -230,7 +235,6 @@
 ||sporcketngearforu.com^
 ||src1.minibai.com^
 ||srogland.com^
-||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||subit.ro^
@@ -260,7 +264,6 @@
 ||ukrbord-uacom.com^
 ||ukrulruabank.pro^
 ||update.cg100iii.com^
-||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||utorrent-backup-server.top^
@@ -278,6 +281,7 @@
 ||www.blackhattoolz.com^
 ||www.cmcmarkets.work^
 ||www.downloadpropsdocs.com^
+||www.elefantenfutter.de^
 ||www.flechabusretiro.com.ar^
 ||www.globallaborsupply.com^
 ||www.hseda.com^
@@ -285,6 +289,7 @@
 ||www.littlemoroccanthings.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
+||www.meetingroomconfigurator.com^
 ||www.newkey.co.kr^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
@@ -312,4 +317,4 @@
 ||ywxww.net^
 ||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 306
+! Number of entries: 311
