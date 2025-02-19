@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 18:23:05 (UTC)                      #
+# Last updated: 2025-02-19 20:17:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,6 +13,7 @@
 127.0.0.1 634009.dataupdate.online
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 abissnet.net
+127.0.0.1 acusense.ae
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 agapi.cqjjb.cn
@@ -133,8 +134,8 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.gmexiochappt.com
+127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
-127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
@@ -152,6 +153,7 @@
 127.0.0.1 fixuplink.com
 127.0.0.1 fox-news-checker.cc
 127.0.0.1 ftp.ywxww.net
+127.0.0.1 fu-asufa.top
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
 127.0.0.1 gachetroi.com
@@ -169,7 +171,6 @@
 127.0.0.1 hydrac2.net
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
-127.0.0.1 inspirepk.org
 127.0.0.1 iodggev.com
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
@@ -184,7 +185,7 @@
 127.0.0.1 keyser-api.eu
 127.0.0.1 kismetguzelim.com
 127.0.0.1 lakestreetsolar.com
-127.0.0.1 library.arihantmbainstitute.ac.in
+127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livetrack.in
@@ -208,7 +209,6 @@
 127.0.0.1 namthaibinh.net
 127.0.0.1 nationwideavast.com
 127.0.0.1 nmvhf.com
-127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 osecweb.ir
@@ -236,6 +236,7 @@
 127.0.0.1 saieguard.world
 127.0.0.1 sandramosquedamx.com
 127.0.0.1 saveyourcinema.ca
+127.0.0.1 sdoolksd.com
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
 127.0.0.1 sirault.be
@@ -245,15 +246,18 @@
 127.0.0.1 smsfastersend.com
 127.0.0.1 soft.110route.com
 127.0.0.1 sonic-claim.run
+127.0.0.1 soportegira.net
 127.0.0.1 spaceframe.mobi.space-frame.co.za
+127.0.0.1 sporcketngearforu.com
 127.0.0.1 src1.minibai.com
 127.0.0.1 srogland.com
+127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 sufikhat.com
 127.0.0.1 suomi-app.net
+127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
-127.0.0.1 symdlotic.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
@@ -313,6 +317,7 @@
 127.0.0.1 www.viplataukraine.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.zhikey.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xemhang.vn
 127.0.0.1 xiangshunjy.com
@@ -321,4 +326,4 @@
 127.0.0.1 xspacet.wiki
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
-# Number of entries: 315
+# Number of entries: 320
