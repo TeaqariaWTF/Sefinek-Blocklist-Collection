@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 04:24:34 (UTC)                      #
+# Last updated: 2025-02-19 06:26:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 55780.netorder.online
 127.0.0.1 634009.dataupdate.online
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 abissnet.net
@@ -25,6 +26,7 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
+127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 api.information-binance.com
@@ -44,6 +46,7 @@
 127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
+127.0.0.1 backupdocscloud.site
 127.0.0.1 banthis.su
 127.0.0.1 bchainpro.com
 127.0.0.1 beatnikbrews.com
@@ -116,6 +119,7 @@
 127.0.0.1 deliveryday1.com
 127.0.0.1 device.redirec.com
 127.0.0.1 devmodebeta.dev
+127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
@@ -150,11 +154,9 @@
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
-127.0.0.1 gachetroi.com
 127.0.0.1 gawx.florenda.com
 127.0.0.1 genericfixer.com
 127.0.0.1 glennmedina.com
-127.0.0.1 grupobramam.com.br
 127.0.0.1 gruposermac.net
 127.0.0.1 hila.lessons.southsidechurchofchristla.org
 127.0.0.1 historli.ru
@@ -163,6 +165,7 @@
 127.0.0.1 hseda.com
 127.0.0.1 hydrac2.net
 127.0.0.1 information-binance.com
+127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 iodggev.com
 127.0.0.1 jade-associates.com.br
@@ -179,6 +182,7 @@
 127.0.0.1 lakestreetsolar.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
+127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
@@ -208,12 +212,13 @@
 127.0.0.1 ojang.pe.kr
 127.0.0.1 osecweb.ir
 127.0.0.1 ouhfuosuoosrhfzr.su
-127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 pns.org.pk
 127.0.0.1 preview-chekaer.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
+127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
+127.0.0.1 rappel-coinbase.com
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
@@ -228,6 +233,7 @@
 127.0.0.1 saveyourcinema.ca
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sizqlesaux.top
 127.0.0.1 smartservers25.com
@@ -249,6 +255,8 @@
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
 127.0.0.1 tecni-soft.com
+127.0.0.1 tecunonline.com
+127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tests.yjzj.org
@@ -276,7 +284,6 @@
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-server-api.cc
 127.0.0.1 utorrent-servers.xyz
-127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 wbml.web4mverifyer.com
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.aqianniao.com
@@ -295,6 +302,7 @@
 127.0.0.1 www.meetingroomconfigurator.com
 127.0.0.1 www.newkey.co.kr
 127.0.0.1 www.ojang.pe.kr
+127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.seventools.de
@@ -318,4 +326,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 312
+# Number of entries: 320

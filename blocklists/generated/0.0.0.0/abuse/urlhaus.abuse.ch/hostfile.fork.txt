@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 04:24:34 (UTC)                      #
+# Last updated: 2025-02-19 06:26:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 55780.netorder.online
 0.0.0.0 634009.dataupdate.online
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
@@ -25,6 +26,7 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
@@ -44,6 +46,7 @@
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
+0.0.0.0 backupdocscloud.site
 0.0.0.0 banthis.su
 0.0.0.0 bchainpro.com
 0.0.0.0 beatnikbrews.com
@@ -116,6 +119,7 @@
 0.0.0.0 deliveryday1.com
 0.0.0.0 device.redirec.com
 0.0.0.0 devmodebeta.dev
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
@@ -150,11 +154,9 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
-0.0.0.0 grupobramam.com.br
 0.0.0.0 gruposermac.net
 0.0.0.0 hila.lessons.southsidechurchofchristla.org
 0.0.0.0 historli.ru
@@ -163,6 +165,7 @@
 0.0.0.0 hseda.com
 0.0.0.0 hydrac2.net
 0.0.0.0 information-binance.com
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 iodggev.com
 0.0.0.0 jade-associates.com.br
@@ -179,6 +182,7 @@
 0.0.0.0 lakestreetsolar.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
@@ -208,12 +212,13 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
 0.0.0.0 ouhfuosuoosrhfzr.su
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 pns.org.pk
 0.0.0.0 preview-chekaer.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
@@ -228,6 +233,7 @@
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sizqlesaux.top
 0.0.0.0 smartservers25.com
@@ -249,6 +255,8 @@
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
+0.0.0.0 tecunonline.com
+0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tests.yjzj.org
@@ -276,7 +284,6 @@
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
-0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 wbml.web4mverifyer.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.aqianniao.com
@@ -295,6 +302,7 @@
 0.0.0.0 www.meetingroomconfigurator.com
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.seventools.de
@@ -318,4 +326,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 312
+# Number of entries: 320
