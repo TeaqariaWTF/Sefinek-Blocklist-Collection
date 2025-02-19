@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 20:17:05 (UTC)                      #
+# Last updated: 2025-02-19 22:11:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 127.0.0.1 0x2394world.com
 127.0.0.1 123.ywxww.net
 127.0.0.1 139520.aioc.qbgxl.com
+127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 634009.dataupdate.online
 127.0.0.1 912648.aioc.qbgxl.com
@@ -32,9 +33,7 @@
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
 127.0.0.1 applepistudios.com
-127.0.0.1 arbitrum-exciusive.info
 127.0.0.1 arbitrum-exclusive.online
-127.0.0.1 arbitrum-exclusive.site
 127.0.0.1 armanayegh.com
 127.0.0.1 aulist.com
 127.0.0.1 avastcxp.com
@@ -50,7 +49,6 @@
 127.0.0.1 banthis.su
 127.0.0.1 bchainpro.com
 127.0.0.1 beatnikbrews.com
-127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 book.rollingvideogames.com
 127.0.0.1 booking.preview-chekaer.com
 127.0.0.1 br-01.hydrac2.net
@@ -108,14 +106,12 @@
 127.0.0.1 cnc.stressamp.com
 127.0.0.1 cnl.dl4you.ir
 127.0.0.1 coach.028csc.com
-127.0.0.1 coadymarine.com
 127.0.0.1 commavast.com
 127.0.0.1 comteste.com
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 cryptopotato.net
 127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
-127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dataupdate.online
 127.0.0.1 dcwblida.dz
@@ -126,16 +122,15 @@
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
+127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
-127.0.0.1 do-dear.com
 127.0.0.1 doorwooden.online
 127.0.0.1 dopomogavidoon-ua.info
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.gmexiochappt.com
 127.0.0.1 down.pcclear.com
-127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
@@ -153,7 +148,6 @@
 127.0.0.1 fixuplink.com
 127.0.0.1 fox-news-checker.cc
 127.0.0.1 ftp.ywxww.net
-127.0.0.1 fu-asufa.top
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
 127.0.0.1 gachetroi.com
@@ -171,6 +165,7 @@
 127.0.0.1 hydrac2.net
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
+127.0.0.1 inspirepk.org
 127.0.0.1 iodggev.com
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
@@ -209,6 +204,7 @@
 127.0.0.1 namthaibinh.net
 127.0.0.1 nationwideavast.com
 127.0.0.1 nmvhf.com
+127.0.0.1 noithaticon.vn
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 osecweb.ir
@@ -218,6 +214,7 @@
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pid.fly160.com
+127.0.0.1 pns.org.pk
 127.0.0.1 preview-chekaer.com
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
@@ -239,6 +236,7 @@
 127.0.0.1 sdoolksd.com
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sizqlesaux.top
 127.0.0.1 smartservers25.com
@@ -254,13 +252,14 @@
 127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
+127.0.0.1 subit.ro
 127.0.0.1 sufikhat.com
 127.0.0.1 suomi-app.net
+127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
-127.0.0.1 symbietic.com
+127.0.0.1 symdlotic.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
-127.0.0.1 telegramcn.co
 127.0.0.1 tengfeidn.com
 127.0.0.1 tests.yjzj.org
 127.0.0.1 theherbalhub.com
@@ -289,13 +288,13 @@
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 wbml.web4mverifyer.com
 127.0.0.1 win-network-checker.cc
-127.0.0.1 www.aqianniao.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
-127.0.0.1 www.cmcmarkets.work
 127.0.0.1 www.downloadpropsdocs.com
 127.0.0.1 www.elefantenfutter.de
+127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
+127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.jaluzeleprestige.ro
 127.0.0.1 www.littlemoroccanthings.com
@@ -318,6 +317,7 @@
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
+127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xemhang.vn
 127.0.0.1 xiangshunjy.com
@@ -326,4 +326,5 @@
 127.0.0.1 xspacet.wiki
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
-# Number of entries: 320
+127.0.0.1 znrq.zifwxq.cn
+# Number of entries: 321

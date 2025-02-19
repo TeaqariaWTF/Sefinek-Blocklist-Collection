@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 20:17:05 (UTC)                      #
+# Last updated: 2025-02-19 22:11:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 0.0.0.0 0x2394world.com
 0.0.0.0 123.ywxww.net
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 634009.dataupdate.online
 0.0.0.0 912648.aioc.qbgxl.com
@@ -32,9 +33,7 @@
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 applepistudios.com
-0.0.0.0 arbitrum-exciusive.info
 0.0.0.0 arbitrum-exclusive.online
-0.0.0.0 arbitrum-exclusive.site
 0.0.0.0 armanayegh.com
 0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
@@ -50,7 +49,6 @@
 0.0.0.0 banthis.su
 0.0.0.0 bchainpro.com
 0.0.0.0 beatnikbrews.com
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 booking.preview-chekaer.com
 0.0.0.0 br-01.hydrac2.net
@@ -108,14 +106,12 @@
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 cnl.dl4you.ir
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dataupdate.online
 0.0.0.0 dcwblida.dz
@@ -126,16 +122,15 @@
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
-0.0.0.0 do-dear.com
 0.0.0.0 doorwooden.online
 0.0.0.0 dopomogavidoon-ua.info
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
@@ -153,7 +148,6 @@
 0.0.0.0 fixuplink.com
 0.0.0.0 fox-news-checker.cc
 0.0.0.0 ftp.ywxww.net
-0.0.0.0 fu-asufa.top
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 gachetroi.com
@@ -171,6 +165,7 @@
 0.0.0.0 hydrac2.net
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 iodggev.com
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
@@ -209,6 +204,7 @@
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 nmvhf.com
+0.0.0.0 noithaticon.vn
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
@@ -218,6 +214,7 @@
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pid.fly160.com
+0.0.0.0 pns.org.pk
 0.0.0.0 preview-chekaer.com
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -239,6 +236,7 @@
 0.0.0.0 sdoolksd.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sizqlesaux.top
 0.0.0.0 smartservers25.com
@@ -254,13 +252,14 @@
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
+0.0.0.0 subit.ro
 0.0.0.0 sufikhat.com
 0.0.0.0 suomi-app.net
+0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
+0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 tengfeidn.com
 0.0.0.0 tests.yjzj.org
 0.0.0.0 theherbalhub.com
@@ -289,13 +288,13 @@
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 wbml.web4mverifyer.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
-0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.downloadpropsdocs.com
 0.0.0.0 www.elefantenfutter.de
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.jaluzeleprestige.ro
 0.0.0.0 www.littlemoroccanthings.com
@@ -318,6 +317,7 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xiangshunjy.com
@@ -326,4 +326,5 @@
 0.0.0.0 xspacet.wiki
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
-# Number of entries: 320
+0.0.0.0 znrq.zifwxq.cn
+# Number of entries: 321
