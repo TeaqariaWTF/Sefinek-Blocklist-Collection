@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 10:06:04 (UTC)                      #
+# Last updated: 2025-02-19 12:27:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,8 +8,8 @@
 #
 0.0.0.0 0x2394world.com
 0.0.0.0 123.ywxww.net
-0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 634009.dataupdate.online
 0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
@@ -27,6 +27,7 @@
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
+0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
@@ -41,10 +42,8 @@
 0.0.0.0 avastng.com
 0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
-0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
-0.0.0.0 backupdocscloud.site
 0.0.0.0 banthis.su
 0.0.0.0 bchainpro.com
 0.0.0.0 beatnikbrews.com
@@ -103,6 +102,7 @@
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 cnl.dl4you.ir
 0.0.0.0 coach.028csc.com
+0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
@@ -187,6 +187,7 @@
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.automatica.mx
 0.0.0.0 mandarin.net.au
 0.0.0.0 mastera-profinsk.ru
@@ -201,16 +202,15 @@
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 na-moria.ru
-0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 nmvhf.com
+0.0.0.0 noithaticon.vn
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
 0.0.0.0 ouhfuosuoosrhfzr.su
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 pid.fly160.com
 0.0.0.0 preview-chekaer.com
@@ -234,6 +234,7 @@
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sizqlesaux.top
 0.0.0.0 smartservers25.com
@@ -254,7 +255,6 @@
 0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -277,6 +277,7 @@
 0.0.0.0 ukrulruabank.pro
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
@@ -316,6 +317,7 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
+0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xiangshunjy.com
@@ -325,4 +327,4 @@
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 319
+# Number of entries: 321

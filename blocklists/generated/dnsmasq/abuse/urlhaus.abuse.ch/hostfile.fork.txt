@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-19 10:06:04 (UTC)                      #
+# Last updated: 2025-02-19 12:27:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,8 +8,8 @@
 #
 server=/0x2394world.com/
 server=/123.ywxww.net/
-server=/139520.aioc.qbgxl.com/
 server=/1717.1000uc.com/
+server=/360down7.miiyun.cn/
 server=/634009.dataupdate.online/
 server=/912648.aioc.qbgxl.com/
 server=/abissnet.net/
@@ -27,6 +27,7 @@ server=/api.accueil-coinbase.com/
 server=/api.aide-coinbase.com/
 server=/api.co-operativefinance.com/
 server=/api.ewfiles.net/
+server=/api.hostize.com/
 server=/api.information-binance.com/
 server=/api.rappel-coinbase.com/
 server=/app-antiriciclaggio-mps.com/
@@ -41,10 +42,8 @@ server=/avastmetamask.com/
 server=/avastng.com/
 server=/avastop.com/
 server=/avastpdq.com/
-server=/avastpdr.com/
 server=/avastpx.com/
 server=/azgint.com/
-server=/backupdocscloud.site/
 server=/banthis.su/
 server=/bchainpro.com/
 server=/beatnikbrews.com/
@@ -103,6 +102,7 @@ server=/ciscovoipllc.com/
 server=/cnc.stressamp.com/
 server=/cnl.dl4you.ir/
 server=/coach.028csc.com/
+server=/coadymarine.com/
 server=/commavast.com/
 server=/comteste.com/
 server=/conn.masjesu.zip/
@@ -187,6 +187,7 @@ server=/linkvilleplayers.org/
 server=/littlemtlogistics.net/
 server=/livetrack.in/
 server=/lostheaven.com.cn/
+server=/m.gutousoft.com/
 server=/mail.automatica.mx/
 server=/mandarin.net.au/
 server=/mastera-profinsk.ru/
@@ -201,16 +202,15 @@ server=/monad-rewards.run/
 server=/moonloaderupdate.ru/
 server=/mta179.insuretn.com/
 server=/na-moria.ru/
-server=/nabawitransport.com/
 server=/namthaibinh.net/
 server=/nationwideavast.com/
 server=/nmvhf.com/
+server=/noithaticon.vn/
 server=/ny.lshdw.cc/
 server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
 server=/osecweb.ir/
 server=/ouhfuosuoosrhfzr.su/
-server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
 server=/pid.fly160.com/
 server=/preview-chekaer.com/
@@ -234,6 +234,7 @@ server=/saveyourcinema.ca/
 server=/security-service-api-link.cc/
 server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
+server=/shqdown.ggzuhao.com/
 server=/sirault.be/
 server=/sizqlesaux.top/
 server=/smartservers25.com/
@@ -254,7 +255,6 @@ server=/sufikhat.com/
 server=/suomi-app.net/
 server=/support.clz.kr/
 server=/symbiatec-fi.com/
-server=/symbietic.com/
 server=/symdlotic.com/
 server=/tecni-soft.com/
 server=/tecunonline.com/
@@ -277,6 +277,7 @@ server=/ukrbord-uacom.com/
 server=/ukrulruabank.pro/
 server=/update.cg100iii.com/
 server=/update.vlnguba.com/
+server=/update.volam2005pk.com/
 server=/updateinfo-portal.com/
 server=/utorrent-backup-server.top/
 server=/utorrent-backup-server2.top/
@@ -316,6 +317,7 @@ server=/www.viplataukraine.com/
 server=/www.xn--on3b15m2lco2u.com/
 server=/www.ysbaojia.com/
 server=/www.zhikey.com/
+server=/wynecare.com/
 server=/wz.3911.com/
 server=/xemhang.vn/
 server=/xiangshunjy.com/
@@ -325,4 +327,4 @@ server=/xspacet.wiki/
 server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/znrq.zifwxq.cn/
-# Number of entries: 319
+# Number of entries: 321
