@@ -1,8 +1,8 @@
 !
 !    File: Scam
 !    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-! Domains: 15,364
-! Updated: 2/18/2025  17:30 (5:30 PM CST)
+! Domains: 15,373
+! Updated: 2/18/2025  21:51 (9:51 PM CST)
 !
 !     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1076,6 +1076,8 @@
 ||army-shop.onshopbase.com^
 ||aromaticherbalincense.com^
 ||aronsfirearms.com^
+||arosebrden.com^
+||arousemassive.net^
 ||arowanafishaq.com^
 ||arowanafishfarm.com^
 ||arowanafishhome.com^
@@ -1315,6 +1317,7 @@
 ||backgroundchecks.com^
 ||backlinkdir.com^
 ||backpackboyzdisposable.com^
+||backroundn.com^
 ||backwoodcigars.org^
 ||baconplay.com^
 ||badaraexportcompany.com^
@@ -1465,6 +1468,7 @@
 ||beehivestatenews.com^
 ||beesforest.com^
 ||beessensations.com^
+||beforehandnotify.com^
 ||befulloflovely.com^
 ||begiercota.com^
 ||bekkerhounds.com^
@@ -2851,6 +2855,7 @@
 ||chatnlove.com^
 ||chatomagic.com^
 ||chat-sexy.fr^
+||chatterm.com^
 ||chattylocals.com^
 ||chatwithkiwi.com^
 ||cheapagain.site^
@@ -3395,6 +3400,7 @@
 ||conveniencet.com^
 ||conventionaly.com^
 ||conversionb.com^
+||conversionw.com^
 ||conveycourierservice.com^
 ||convivios.pt^
 ||cookcountyrecord.com^
@@ -3870,6 +3876,7 @@
 ||decorhome-us.com^
 ||decoryourhome.store^
 ||dedicfatend.com^
+||deditwidmil.com^
 ||deepbluehunter.com^
 ||deepsouthcateringequipment.co.za^
 ||deepwebgiants.com^
@@ -10736,6 +10743,7 @@
 ||primehousesheepadoodles.com^
 ||primekittenshome.co.za^
 ||primeonlinepharmacy.com^
+||prime-products.shop^
 ||primerfirearmsdeals.com^
 ||primersammo.com^
 ||primersonlinestore.com^
@@ -15117,6 +15125,7 @@
 ||woodtoolhub.com^
 ||woofapparel.com^
 ||woonistore.com^
+||workshlutch.com^
 ||world4ammo.com^
 ||worldautoinspection.com^
 ||worldchampionsiamesehome.com^
