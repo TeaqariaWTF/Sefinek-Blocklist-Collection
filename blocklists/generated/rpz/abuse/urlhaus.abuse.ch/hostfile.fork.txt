@@ -5,6 +5,8 @@ $TTL 300
 *.0x2394world.com CNAME .
 123.ywxww.net CNAME .
 *.123.ywxww.net CNAME .
+139520.aioc.qbgxl.com CNAME .
+*.139520.aioc.qbgxl.com CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
@@ -13,8 +15,6 @@ $TTL 300
 *.634009.dataupdate.online CNAME .
 912648.aioc.qbgxl.com CNAME .
 *.912648.aioc.qbgxl.com CNAME .
-abissnet.net CNAME .
-*.abissnet.net CNAME .
 acusense.ae CNAME .
 *.acusense.ae CNAME .
 adf6.adf6.com CNAME .
@@ -73,6 +73,8 @@ avastop.com CNAME .
 *.avastop.com CNAME .
 avastpdq.com CNAME .
 *.avastpdq.com CNAME .
+avastpdr.com CNAME .
+*.avastpdr.com CNAME .
 avastpx.com CNAME .
 *.avastpx.com CNAME .
 azgint.com CNAME .
@@ -245,6 +247,8 @@ dow.andylab.cn CNAME .
 *.dow.andylab.cn CNAME .
 down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
+down.gmexiochappt.com CNAME .
+*.down.gmexiochappt.com CNAME .
 down.pcclear.com CNAME .
 *.down.pcclear.com CNAME .
 down.qqfarmer.com.cn CNAME .
@@ -295,8 +299,6 @@ genericfixer.com CNAME .
 *.genericfixer.com CNAME .
 glennmedina.com CNAME .
 *.glennmedina.com CNAME .
-growthinsightit.com CNAME .
-*.growthinsightit.com CNAME .
 grupobramam.com.br CNAME .
 *.grupobramam.com.br CNAME .
 gruposermac.net CNAME .
@@ -411,10 +413,14 @@ osecweb.ir CNAME .
 *.osecweb.ir CNAME .
 ouhfuosuoosrhfzr.su CNAME .
 *.ouhfuosuoosrhfzr.su CNAME .
+palharesinformatica.com.br CNAME .
+*.palharesinformatica.com.br CNAME .
 park.chuitian.cn CNAME .
 *.park.chuitian.cn CNAME .
 pid.fly160.com CNAME .
 *.pid.fly160.com CNAME .
+pns.org.pk CNAME .
+*.pns.org.pk CNAME .
 preview-chekaer.com CNAME .
 *.preview-chekaer.com CNAME .
 protechasia.com CNAME .
@@ -423,16 +429,12 @@ qiniuyunxz.yxflzs.com CNAME .
 *.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
-quanly.jxmienphi.net CNAME .
-*.quanly.jxmienphi.net CNAME .
 quanlyphongnet.com CNAME .
 *.quanlyphongnet.com CNAME .
 rappel-coinbase.com CNAME .
 *.rappel-coinbase.com CNAME .
 rd.chuitian.cn CNAME .
 *.rd.chuitian.cn CNAME .
-recepchtav3.com CNAME .
-*.recepchtav3.com CNAME .
 reifenquick.de CNAME .
 *.reifenquick.de CNAME .
 resourceedge.org CNAME .
@@ -499,8 +501,8 @@ support.clz.kr CNAME .
 *.support.clz.kr CNAME .
 symbiatec-fi.com CNAME .
 *.symbiatec-fi.com CNAME .
-symdlotic.com CNAME .
-*.symdlotic.com CNAME .
+symbietic.com CNAME .
+*.symbietic.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
 tecunonline.com CNAME .
@@ -511,6 +513,8 @@ temirtau-adm.ru CNAME .
 *.temirtau-adm.ru CNAME .
 tengfeidn.com CNAME .
 *.tengfeidn.com CNAME .
+tests.yjzj.org CNAME .
+*.tests.yjzj.org CNAME .
 theherbalhub.com CNAME .
 *.theherbalhub.com CNAME .
 thrheeff.com CNAME .
@@ -591,6 +595,8 @@ medises.co.kr CNAME .
 *.medises.co.kr CNAME .
 meetingroomconfigurator.com CNAME .
 *.meetingroomconfigurator.com CNAME .
+newkey.co.kr CNAME .
+*.newkey.co.kr CNAME .
 opolis.io CNAME .
 *.opolis.io CNAME .
 rphingenieria.com CNAME .
