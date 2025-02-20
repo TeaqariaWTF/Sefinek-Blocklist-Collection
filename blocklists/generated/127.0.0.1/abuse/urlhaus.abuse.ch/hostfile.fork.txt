@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-20 02:48:20 (UTC)                      #
+# Last updated: 2025-02-20 04:18:36 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -225,6 +225,7 @@
 127.0.0.1 ronnin-v2.com
 127.0.0.1 rumble.tube
 127.0.0.1 rustbakingtable.com
+127.0.0.1 s11-wer04sg.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 saieguard.world
 127.0.0.1 sandramosquedamx.com
@@ -328,4 +329,4 @@
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 322
+# Number of entries: 323
