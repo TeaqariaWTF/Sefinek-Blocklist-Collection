@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025021901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025022001 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -7813,6 +7813,8 @@ alnewcar.co.uk CNAME .
 *.alnewcar.co.uk CNAME .
 alnyus.com CNAME .
 *.alnyus.com CNAME .
+aloaloalo123.site CNAME .
+*.aloaloalo123.site CNAME .
 alobotanics.com CNAME .
 *.alobotanics.com CNAME .
 alocekici.net CNAME .
