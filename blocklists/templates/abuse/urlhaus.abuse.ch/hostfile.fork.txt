@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-20 16:24:07 (UTC)                      #
+# Last updated: 2025-02-20 18:28:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,6 +13,7 @@
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 55780.netorder.online
 0.0.0.0 634009.dataupdate.online
+0.0.0.0 912648.aioc.qbgxl.com
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
@@ -25,11 +26,11 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
-0.0.0.0 applepistudios.com
 0.0.0.0 arbitrum-exciusive.info
 0.0.0.0 arbitrum-exclusive.online
 0.0.0.0 arbitrum-exclusive.site
@@ -48,6 +49,7 @@
 0.0.0.0 bacteriadifficult.homes
 0.0.0.0 banthis.su
 0.0.0.0 beatnikbrews.com
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 br-01.hydrac2.net
 0.0.0.0 bunnieharlanbarack.com
@@ -77,8 +79,6 @@
 0.0.0.0 check.uoeoe.online
 0.0.0.0 check.uyeio.online
 0.0.0.0 check.yyaye.online
-0.0.0.0 chinaapper.com
-0.0.0.0 chromeupd-mo.com
 0.0.0.0 cinaweine.shop
 0.0.0.0 ciscocdn.com
 0.0.0.0 ciscocovnlimited.com
@@ -93,12 +93,12 @@
 0.0.0.0 cloudfiltres.com
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 coach.028csc.com
-0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cryptopotato.net
 0.0.0.0 crystalpvp.ru
+0.0.0.0 cs-howl.shop
+0.0.0.0 cs2oops.shop
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
@@ -132,7 +132,6 @@
 0.0.0.0 electciscop.mom
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
-0.0.0.0 epanpano.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
@@ -176,14 +175,13 @@
 0.0.0.0 keyser-api.eu
 0.0.0.0 kismetguzelim.com
 0.0.0.0 lakestreetsolar.com
-0.0.0.0 library.arihantmbainstitute.ac.in
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 ly.backingatop.shop
+0.0.0.0 m.gutousoft.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 mastera-profinsk.ru
 0.0.0.0 mcpperformance.com.br
@@ -200,12 +198,10 @@
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
-0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
 0.0.0.0 otakugear.com
-0.0.0.0 otrsolutons.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
@@ -218,19 +214,19 @@
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
-0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
 0.0.0.0 reusable-flex.com
 0.0.0.0 ronnin-v2.com
+0.0.0.0 rumble.tube
 0.0.0.0 rustbakingtable.com
 0.0.0.0 safe.ywxww.net
-0.0.0.0 saieguard.world
 0.0.0.0 sandramosquedamx.com
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 sdoolksd.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 sirault.be
 0.0.0.0 sizqlesaux.top
 0.0.0.0 skynetx.com.br
 0.0.0.0 smartservers25.com
@@ -249,8 +245,8 @@
 0.0.0.0 subit.ro
 0.0.0.0 sufikhat.com
 0.0.0.0 suomi-app.net
+0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -267,6 +263,7 @@
 0.0.0.0 turkey-ivf.org
 0.0.0.0 twizt.net
 0.0.0.0 u1.rejoincartridge.shop
+0.0.0.0 u1.shredderradar.shop
 0.0.0.0 uacert-onukr.com
 0.0.0.0 uaonline-savukr.xyz
 0.0.0.0 ufasedov.ru
@@ -284,9 +281,11 @@
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
+0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 wbml.web4mverifyer.com
 0.0.0.0 weijiaxing.vip
 0.0.0.0 win-network-checker.cc
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.cmcmarkets.work
@@ -302,9 +301,8 @@
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.meetingroomconfigurator.com
 0.0.0.0 www.newkey.co.kr
-0.0.0.0 www.ojang.pe.kr
+0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
@@ -317,6 +315,7 @@
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
+0.0.0.0 wz.3911.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
@@ -324,6 +323,5 @@
 0.0.0.0 xspacet.wiki
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 320
+# Number of entries: 318

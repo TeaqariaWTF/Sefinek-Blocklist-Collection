@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-20 16:24:07 (UTC)                      !
+! Last updated: 2025-02-20 18:28:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -13,6 +13,7 @@
 ||360down7.miiyun.cn^
 ||55780.netorder.online^
 ||634009.dataupdate.online^
+||912648.aioc.qbgxl.com^
 ||abissnet.net^
 ||acusense.ae^
 ||adf6.adf6.com^
@@ -25,11 +26,11 @@
 ||aosafrica.co.za^
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
+||api.ewfiles.net^
 ||api.hostize.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
-||applepistudios.com^
 ||arbitrum-exciusive.info^
 ||arbitrum-exclusive.online^
 ||arbitrum-exclusive.site^
@@ -48,6 +49,7 @@
 ||bacteriadifficult.homes^
 ||banthis.su^
 ||beatnikbrews.com^
+||bitkiselurunsiparis.com^
 ||book.rollingvideogames.com^
 ||br-01.hydrac2.net^
 ||bunnieharlanbarack.com^
@@ -77,8 +79,6 @@
 ||check.uoeoe.online^
 ||check.uyeio.online^
 ||check.yyaye.online^
-||chinaapper.com^
-||chromeupd-mo.com^
 ||cinaweine.shop^
 ||ciscocdn.com^
 ||ciscocovnlimited.com^
@@ -93,12 +93,12 @@
 ||cloudfiltres.com^
 ||cnc.stressamp.com^
 ||coach.028csc.com^
-||coadymarine.com^
 ||commavast.com^
-||comteste.com^
 ||conn.masjesu.zip^
 ||cryptopotato.net^
 ||crystalpvp.ru^
+||cs-howl.shop^
+||cs2oops.shop^
 ||csg-app.com^
 ||dangtienluc.com^
 ||data.yhydl.com^
@@ -132,7 +132,6 @@
 ||electciscop.mom^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
-||epanpano.com^
 ||file.blackint3.com^
 ||file.edunet.ac^
 ||files5.uludagbilisim.com^
@@ -176,14 +175,13 @@
 ||keyser-api.eu^
 ||kismetguzelim.com^
 ||lakestreetsolar.com^
-||library.arihantmbainstitute.ac.in^
-||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||littlemtlogistics.net^
 ||livetrack.in^
 ||lostheaven.com.cn^
 ||lsks.volamngayxua.net^
 ||ly.backingatop.shop^
+||m.gutousoft.com^
 ||mandarin.net.au^
 ||mastera-profinsk.ru^
 ||mcpperformance.com.br^
@@ -200,12 +198,10 @@
 ||namthaibinh.net^
 ||nationwideavast.com^
 ||noithaticon.vn^
-||ny.lshdw.cc^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||osecweb.ir^
 ||otakugear.com^
-||otrsolutons.com^
 ||palharesinformatica.com.br^
 ||park.chuitian.cn^
 ||parmisbuilding.com^
@@ -218,19 +214,19 @@
 ||quanlyphongnet.com^
 ||rappel-coinbase.com^
 ||rd.chuitian.cn^
-||recepchtav3.com^
 ||reifenquick.de^
 ||reusable-flex.com^
 ||ronnin-v2.com^
+||rumble.tube^
 ||rustbakingtable.com^
 ||safe.ywxww.net^
-||saieguard.world^
 ||sandramosquedamx.com^
 ||saveyourcinema.ca^
 ||sdoolksd.com^
 ||security-service-api-link.cc^
 ||sfa.com.ar^
 ||shell.dimitrimedia.com^
+||sirault.be^
 ||sizqlesaux.top^
 ||skynetx.com.br^
 ||smartservers25.com^
@@ -249,8 +245,8 @@
 ||subit.ro^
 ||sufikhat.com^
 ||suomi-app.net^
+||support.clz.kr^
 ||symbiatec-fi.com^
-||symbietic.com^
 ||symdlotic.com^
 ||tecni-soft.com^
 ||tecunonline.com^
@@ -267,6 +263,7 @@
 ||turkey-ivf.org^
 ||twizt.net^
 ||u1.rejoincartridge.shop^
+||u1.shredderradar.shop^
 ||uacert-onukr.com^
 ||uaonline-savukr.xyz^
 ||ufasedov.ru^
@@ -284,9 +281,11 @@
 ||utorrent-backup-server5.top^
 ||utorrent-server-api.cc^
 ||utorrent-servers.xyz^
+||vbccorretoradeseguros.com.br^
 ||wbml.web4mverifyer.com^
 ||weijiaxing.vip^
 ||win-network-checker.cc^
+||www.aqianniao.com^
 ||www.beiletoys.com^
 ||www.blackhattoolz.com^
 ||www.cmcmarkets.work^
@@ -302,9 +301,8 @@
 ||www.medises.co.kr^
 ||www.meetingroomconfigurator.com^
 ||www.newkey.co.kr^
-||www.ojang.pe.kr^
+||www.opolis.io^
 ||www.reifenquick.de^
-||www.rphingenieria.com^
 ||www.seventools.de^
 ||www.sporcketngearforu.com^
 ||www.starcountry.net^
@@ -317,6 +315,7 @@
 ||www.ysbaojia.com^
 ||www.zhikey.com^
 ||wynecare.com^
+||wz.3911.com^
 ||xemhang.vn^
 ||xiangshunjy.com^
 ||ximonite.com^
@@ -324,6 +323,5 @@
 ||xspacet.wiki^
 ||yunger.ddns.cam^
 ||ywxww.net^
-||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 320
+! Number of entries: 318
