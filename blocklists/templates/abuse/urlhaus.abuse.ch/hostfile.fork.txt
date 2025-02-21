@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-21 01:40:20 (UTC)                      #
+# Last updated: 2025-02-21 02:48:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,7 +24,6 @@
 0.0.0.0 alien-training.com
 0.0.0.0 americanexpressloginus.com
 0.0.0.0 antlb0tv2.com
-0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
@@ -98,8 +97,6 @@
 0.0.0.0 detail-booking.com.br
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
@@ -127,7 +124,6 @@
 0.0.0.0 fu-asufa.top
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
-0.0.0.0 gachetroi.com
 0.0.0.0 gawx.florenda.com
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
@@ -142,7 +138,6 @@
 0.0.0.0 ialphacore.shop
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -157,7 +152,6 @@
 0.0.0.0 lakestreetsolar.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
@@ -185,7 +179,6 @@
 0.0.0.0 osecweb.ir
 0.0.0.0 otakugear.com
 0.0.0.0 otrsolutons.com
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pid.fly160.com
@@ -194,9 +187,7 @@
 0.0.0.0 qatldhu48dpktktcc37.online
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
@@ -223,6 +214,7 @@
 0.0.0.0 src1.minibai.com
 0.0.0.0 srogland.com
 0.0.0.0 staatsgewalt.jameschans.de
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 subit.ro
 0.0.0.0 sufikhat.com
@@ -251,8 +243,6 @@
 0.0.0.0 ukrbord-uacom.com
 0.0.0.0 ukrulruabank.pro
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upidero.bacteriadifficult.homes
 0.0.0.0 utorrent-backup-server.top
@@ -283,7 +273,6 @@
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
@@ -307,4 +296,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 301
+# Number of entries: 290
