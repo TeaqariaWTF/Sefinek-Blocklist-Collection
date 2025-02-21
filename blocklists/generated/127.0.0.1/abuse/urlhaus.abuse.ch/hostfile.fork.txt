@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-21 02:48:25 (UTC)                      #
+# Last updated: 2025-02-21 04:20:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,10 +24,9 @@
 127.0.0.1 alien-training.com
 127.0.0.1 americanexpressloginus.com
 127.0.0.1 antlb0tv2.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
-127.0.0.1 api.co-operativefinance.com
-127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
@@ -97,6 +96,7 @@
 127.0.0.1 detail-booking.com.br
 127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
+127.0.0.1 disk.accord1key.cn
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
@@ -106,11 +106,11 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.gmexiochappt.com
-127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
+127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
 127.0.0.1 e4l4.com
 127.0.0.1 elisans.novayonetim.com
@@ -119,7 +119,6 @@
 127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
-127.0.0.1 fox-news-checker.cc
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fu-asufa.top
 127.0.0.1 fundrescuetech.com
@@ -131,13 +130,13 @@
 127.0.0.1 grupobramam.com.br
 127.0.0.1 historli.ru
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 ialphacore.shop
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
+127.0.0.1 inspirepk.org
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
@@ -150,11 +149,11 @@
 127.0.0.1 keyser-api.eu
 127.0.0.1 kismetguzelim.com
 127.0.0.1 lakestreetsolar.com
-127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 ly.backingatop.shop
 127.0.0.1 m.gutousoft.com
 127.0.0.1 mandarin.net.au
@@ -179,6 +178,7 @@
 127.0.0.1 osecweb.ir
 127.0.0.1 otakugear.com
 127.0.0.1 otrsolutons.com
+127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pid.fly160.com
@@ -187,11 +187,12 @@
 127.0.0.1 qatldhu48dpktktcc37.online
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
+127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
+127.0.0.1 rappel-coinbase.com
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
-127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 rustbakingtable.com
@@ -226,7 +227,6 @@
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
-127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tests.yjzj.org
 127.0.0.1 theherbalhub.com
@@ -239,10 +239,10 @@
 127.0.0.1 u1.shredderradar.shop
 127.0.0.1 uacert-onukr.com
 127.0.0.1 uaonline-savukr.xyz
-127.0.0.1 ufasedov.ru
 127.0.0.1 ukrbord-uacom.com
 127.0.0.1 ukrulruabank.pro
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.vlnguba.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 upidero.bacteriadifficult.homes
 127.0.0.1 utorrent-backup-server.top
@@ -255,16 +255,13 @@
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 weijiaxing.vip
 127.0.0.1 win-network-checker.cc
-127.0.0.1 www.aqianniao.com
 127.0.0.1 www.arandelasespeciales.com
-127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.cmcmarkets.work
 127.0.0.1 www.downloadpropsdocs.com
 127.0.0.1 www.elefantenfutter.de
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
-127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.littlemoroccanthings.com
 127.0.0.1 www.maxmoney.com
@@ -273,8 +270,8 @@
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
+127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.seventools.de
-127.0.0.1 www.sporcketngearforu.com
 127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
@@ -291,9 +288,7 @@
 127.0.0.1 xhslink.cc
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
-127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
-127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 290
+# Number of entries: 285
