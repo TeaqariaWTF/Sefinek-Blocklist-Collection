@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-21 06:23:04 (UTC)                      !
+! Last updated: 2025-02-21 08:24:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -11,6 +11,7 @@
 ||123.ywxww.net^
 ||139520.aioc.qbgxl.com^
 ||1717.1000uc.com^
+||360down7.miiyun.cn^
 ||55780.netorder.online^
 ||912648.aioc.qbgxl.com^
 ||abissnet.net^
@@ -23,10 +24,12 @@
 ||alien-training.com^
 ||americanexpressloginus.com^
 ||antlb0tv2.com^
-||api.accueil-coinbase.com^
+||aosafrica.co.za^
 ||api.aide-coinbase.com^
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
+||api.hostize.com^
+||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
 ||applepistudios.com^
@@ -93,18 +96,17 @@
 ||dcwblida.dz^
 ||detail-booking.com.br^
 ||device.redirec.com^
-||dhnconstrucciones.com.ar^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.1003b.56a.com^
 ||dl.aginjector.com^
 ||dl.packetstormsecurity.net^
 ||dld.jxwan.com^
+||do-dear.com^
 ||doorwooden.online^
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.gmexiochappt.com^
-||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
@@ -114,6 +116,7 @@
 ||e4l4.com^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
+||epanpano.com^
 ||file.blackint3.com^
 ||file.edunet.ac^
 ||files5.uludagbilisim.com^
@@ -130,7 +133,6 @@
 ||grupobramam.com.br^
 ||historli.ru^
 ||hitman-pro.ru^
-||hitstation.nl^
 ||hobobot.net^
 ||hr2019.vrcom7.com^
 ||hseda.com^
@@ -138,6 +140,7 @@
 ||information-binance.com^
 ||ini.sh-pp.com^
 ||inspirepk.org^
+||jade-associates.com.br^
 ||jahez.me^
 ||javierlopez.eu^
 ||jobcity.com^
@@ -148,13 +151,12 @@
 ||kartynas.com^
 ||keyser-api.eu^
 ||kismetguzelim.com^
-||lakestreetsolar.com^
-||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||littlemtlogistics.net^
 ||livetrack.in^
 ||lostheaven.com.cn^
+||lsks.volamngayxua.net^
 ||ly.backingatop.shop^
 ||m.gutousoft.com^
 ||mandarin.net.au^
@@ -169,16 +171,17 @@
 ||mta179.insuretn.com^
 ||na-moria.ru^
 ||nabawitransport.com^
+||namthaibinh.net^
 ||nationwideavast.com^
 ||nnmmab.0u8n.com^
 ||noithaticon.vn^
+||ny.lshdw.cc^
 ||odoo.kseibitools.com^
 ||ojang.pe.kr^
 ||osecweb.ir^
 ||otakugear.com^
-||otrsolutons.com^
+||palharesinformatica.com.br^
 ||park.chuitian.cn^
-||parmisbuilding.com^
 ||pid.fly160.com^
 ||pns.org.pk^
 ||protechasia.com^
@@ -196,7 +199,6 @@
 ||rustbakingtable.com^
 ||s11-wer04sg.com^
 ||safe.ywxww.net^
-||saveyourcinema.ca^
 ||sdoolksd.com^
 ||security-service-api-link.cc^
 ||sfa.com.ar^
@@ -206,26 +208,22 @@
 ||smartservers25.com^
 ||sms-szfang.com^
 ||smsfastersend.com^
-||soft.110route.com^
-||soportegira.net^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
-||srogland.com^
+||src1.minibai.com^
 ||staatsgewalt.jameschans.de^
 ||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||subit.ro^
 ||sufikhat.com^
 ||suomi-app.net^
-||support.clz.kr^
 ||symbiatec-fi.com^
 ||symbietic.com^
+||symdlotic.com^
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
 ||temirtau-adm.ru^
 ||tengfeidn.com^
-||tests.yjzj.org^
 ||theherbalhub.com^
 ||tianyinsoft.top^
 ||traefik-dashboard.val.io.vn^
@@ -241,7 +239,6 @@
 ||ukrulruabank.pro^
 ||update.cg100iii.com^
 ||update.vlnguba.com^
-||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upidero.bacteriadifficult.homes^
 ||utorrent-backup-server.top^
@@ -254,6 +251,7 @@
 ||vbccorretoradeseguros.com.br^
 ||weijiaxing.vip^
 ||win-network-checker.cc^
+||www.aqianniao.com^
 ||www.arandelasespeciales.com^
 ||www.beiletoys.com^
 ||www.blackhattoolz.com^
@@ -266,14 +264,14 @@
 ||www.littlemoroccanthings.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
-||www.newkey.co.kr^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
-||www.sporcketngearforu.com^
+||www.seventools.de^
 ||www.starcountry.net^
 ||www.tdejb.com^
+||www.tecunonline.com^
 ||www.thrheeff.com^
 ||www.vcompdocs.com^
 ||www.vcompdocsproposal.com^
@@ -281,7 +279,6 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
-||wynecare.com^
 ||wz.3911.com^
 ||xemhang.vn^
 ||xhslink.cc^
@@ -290,6 +287,5 @@
 ||xingpai.weilay.com.cn^
 ||yunger.ddns.cam^
 ||ywxww.net^
-||yzkzixun.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 286
+! Number of entries: 282
