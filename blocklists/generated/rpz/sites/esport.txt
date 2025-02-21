@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025012901 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025022101 43200 3600 259200 300
   NS  localhost.
 geojesports.modoo.at CNAME .
 *.geojesports.modoo.at CNAME .
@@ -85349,3 +85349,11 @@ esportworld.se CNAME .
 *.esportworld.se CNAME .
 thewavesportshydration.se CNAME .
 *.thewavesportshydration.se CNAME .
+dancesport.ee CNAME .
+*.dancesport.ee CNAME .
+polesport.ee CNAME .
+*.polesport.ee CNAME .
+tervisesport.ee CNAME .
+*.tervisesport.ee CNAME .
+jobesports.ee CNAME .
+*.jobesports.ee CNAME .
