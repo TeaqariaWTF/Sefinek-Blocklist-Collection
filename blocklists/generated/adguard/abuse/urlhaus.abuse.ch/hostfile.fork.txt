@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-02-21 12:36:04 (UTC)                      !
+! Last updated: 2025-02-21 14:17:25 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -29,6 +29,7 @@
 ||api.co-operativefinance.com^
 ||api.ewfiles.net^
 ||api.hostize.com^
+||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app-antiriciclaggio-mps.com^
 ||applepistudios.com^
@@ -55,7 +56,6 @@
 ||buscascolegios.diit.cl^
 ||casalomaminca.com^
 ||catbaparadisehotel.com.vn^
-||cattozzo.it^
 ||cdaonline.com.ar^
 ||check.aoyoe.online^
 ||check.ayieo.online^
@@ -85,6 +85,7 @@
 ||commavast.com^
 ||comteste.com^
 ||conn.masjesu.zip^
+||crossilor.com^
 ||cryptopotato.net^
 ||crystalpvp.ru^
 ||cs-howl.shop^
@@ -106,17 +107,20 @@
 ||dow.andylab.cn^
 ||down.fwqlt.com^
 ||down.gmexiochappt.com^
-||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||download.caihong.com^
 ||download.emailorganizer.com^
 ||download.suxiazai.com^
 ||downsexv.com^
+||dreter-bio.com^
+||droster-reqlik.com^
+||drydoedls.com^
 ||e4l4.com^
 ||elisans.novayonetim.com^
 ||eoufaoeuhoauengi.su^
 ||epanpano.com^
+||fantazior-nazivela.com^
 ||file.blackint3.com^
 ||file.edunet.ac^
 ||files5.uludagbilisim.com^
@@ -125,11 +129,12 @@
 ||fu-asufa.top^
 ||fundrescuetech.com^
 ||funletters.net^
-||gachetroi.com^
 ||gawx.florenda.com^
 ||genericfixer.com^
 ||glennmedina.com^
+||grestoris.com^
 ||growthinsightit.com^
+||grupobramam.com.br^
 ||historli.ru^
 ||hitman-pro.ru^
 ||hitstation.nl^
@@ -138,6 +143,7 @@
 ||hseda.com^
 ||ialphacore.shop^
 ||information-binance.com^
+||ini.sh-pp.com^
 ||inspirepk.org^
 ||jade-associates.com.br^
 ||jahez.me^
@@ -151,6 +157,7 @@
 ||keyser-api.eu^
 ||kismetguzelim.com^
 ||lakestreetsolar.com^
+||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
 ||linkvilleplayers.org^
 ||littlemtlogistics.net^
@@ -189,7 +196,6 @@
 ||protechasia.com^
 ||qatldhu48dpktktcc37.online^
 ||qlqd5zqefmkcr34a.onion.sh^
-||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||rappel-coinbase.com^
 ||rd.chuitian.cn^
@@ -197,10 +203,10 @@
 ||reifenquick.de^
 ||resourceedge.org^
 ||reusable-flex.com^
-||ronnin-v2.com^
 ||rustbakingtable.com^
 ||s11-wer04sg.com^
 ||safe.ywxww.net^
+||saveyourcinema.ca^
 ||sdoolksd.com^
 ||security-service-api-link.cc^
 ||sfa.com.ar^
@@ -216,6 +222,7 @@
 ||src1.minibai.com^
 ||srogland.com^
 ||staatsgewalt.jameschans.de^
+||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||subit.ro^
 ||sufikhat.com^
@@ -227,6 +234,7 @@
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
+||temirtau-adm.ru^
 ||tengfeidn.com^
 ||tests.yjzj.org^
 ||theherbalhub.com^
@@ -242,7 +250,6 @@
 ||ukrbord-uacom.com^
 ||ukrulruabank.pro^
 ||update.cg100iii.com^
-||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||upidero.bacteriadifficult.homes^
 ||utorrent-backup-server.top^
@@ -257,9 +264,7 @@
 ||win-network-checker.cc^
 ||www.aqianniao.com^
 ||www.arandelasespeciales.com^
-||www.beiletoys.com^
 ||www.blackhattoolz.com^
-||www.cmcmarkets.work^
 ||www.downloadpropsdocs.com^
 ||www.elefantenfutter.de^
 ||www.globallaborsupply.com^
@@ -268,11 +273,13 @@
 ||www.littlemoroccanthings.com^
 ||www.maxmoney.com^
 ||www.medises.co.kr^
+||www.newkey.co.kr^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
 ||www.seventools.de^
+||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.tdejb.com^
 ||www.tecunonline.com^
@@ -283,6 +290,7 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.ysbaojia.com^
 ||www.zhikey.com^
+||wynecare.com^
 ||wz.3911.com^
 ||xemhang.vn^
 ||xhslink.cc^
@@ -291,4 +299,4 @@
 ||yunger.ddns.cam^
 ||ywxww.net^
 ||yzkzixun.com^
-! Number of entries: 285
+! Number of entries: 293
