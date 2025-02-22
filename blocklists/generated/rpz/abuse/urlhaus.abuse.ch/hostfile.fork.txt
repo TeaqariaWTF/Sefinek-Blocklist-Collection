@@ -9,10 +9,14 @@ $TTL 300
 *.12825.funian.xyz CNAME .
 139520.aioc.qbgxl.com CNAME .
 *.139520.aioc.qbgxl.com CNAME .
+360down7.miiyun.cn CNAME .
+*.360down7.miiyun.cn CNAME .
 84931.lmframing.us CNAME .
 *.84931.lmframing.us CNAME .
 912648.aioc.qbgxl.com CNAME .
 *.912648.aioc.qbgxl.com CNAME .
+abissnet.net CNAME .
+*.abissnet.net CNAME .
 acusense.ae CNAME .
 *.acusense.ae CNAME .
 adf6.adf6.com CNAME .
@@ -39,8 +43,6 @@ api.co-operativefinance.com CNAME .
 *.api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 *.api.ewfiles.net CNAME .
-api.hostize.com CNAME .
-*.api.hostize.com CNAME .
 api.information-binance.com CNAME .
 *.api.information-binance.com CNAME .
 api.rappel-coinbase.com CNAME .
@@ -171,6 +173,8 @@ dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
 dl.packetstormsecurity.net CNAME .
 *.dl.packetstormsecurity.net CNAME .
+dld.jxwan.com CNAME .
+*.dld.jxwan.com CNAME .
 do-dear.com CNAME .
 *.do-dear.com CNAME .
 dow.andylab.cn CNAME .
@@ -179,8 +183,6 @@ down.fwqlt.com CNAME .
 *.down.fwqlt.com CNAME .
 down.mvip8.ru CNAME .
 *.down.mvip8.ru CNAME .
-down.qqfarmer.com.cn CNAME .
-*.down.qqfarmer.com.cn CNAME .
 download.caihong.com CNAME .
 *.download.caihong.com CNAME .
 download.emailorganizer.com CNAME .
@@ -221,8 +223,6 @@ funletters.net CNAME .
 *.funletters.net CNAME .
 gachetroi.com CNAME .
 *.gachetroi.com CNAME .
-gawx.florenda.com CNAME .
-*.gawx.florenda.com CNAME .
 genericfixer.com CNAME .
 *.genericfixer.com CNAME .
 glennmedina.com CNAME .
@@ -347,8 +347,6 @@ protechasia.com CNAME .
 *.protechasia.com CNAME .
 qatldhu48dpktktcc37.online CNAME .
 *.qatldhu48dpktktcc37.online CNAME .
-qiniuyunxz.yxflzs.com CNAME .
-*.qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 *.qlqd5zqefmkcr34a.onion.sh CNAME .
 quanly.jxmienphi.net CNAME .
@@ -467,8 +465,6 @@ utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
 utorrent-server-api.cc CNAME .
 *.utorrent-server-api.cc CNAME .
-utorrent-servers.xyz CNAME .
-*.utorrent-servers.xyz CNAME .
 vbccorretoradeseguros.com.br CNAME .
 *.vbccorretoradeseguros.com.br CNAME .
 win-network-checker.cc CNAME .
@@ -483,6 +479,8 @@ blackhattoolz.com CNAME .
 *.blackhattoolz.com CNAME .
 cmcmarkets.work CNAME .
 *.cmcmarkets.work CNAME .
+elefantenfutter.de CNAME .
+*.elefantenfutter.de CNAME .
 flechabusretiro.com.ar CNAME .
 *.flechabusretiro.com.ar CNAME .
 globallaborsupply.com CNAME .
