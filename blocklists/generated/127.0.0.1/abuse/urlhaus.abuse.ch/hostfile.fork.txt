@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-22 16:13:05 (UTC)                      #
+# Last updated: 2025-02-22 18:19:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -38,7 +38,6 @@
 127.0.0.1 aulist.com
 127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
-127.0.0.1 avastexodus.com
 127.0.0.1 avastmetamask.com
 127.0.0.1 avastng.com
 127.0.0.1 avastop.com
@@ -90,10 +89,9 @@
 127.0.0.1 data.yhydl.com
 127.0.0.1 dcwblida.dz
 127.0.0.1 device.redirec.com
-127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dianzanla.com
 127.0.0.1 disk.accord1key.cn
-127.0.0.1 dl.1003b.56a.com
+127.0.0.1 divvanews.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
@@ -112,6 +110,8 @@
 127.0.0.1 droster-reqlik.com
 127.0.0.1 drydoedls.com
 127.0.0.1 e4l4.com
+127.0.0.1 elisans.novayonetim.com
+127.0.0.1 eoufaoeuhoauengi.su
 127.0.0.1 epanpano.com
 127.0.0.1 fantazior-nazivela.com
 127.0.0.1 file.blackint3.com
@@ -121,7 +121,6 @@
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
-127.0.0.1 gachetroi.com
 127.0.0.1 genericfixer.com
 127.0.0.1 glennmedina.com
 127.0.0.1 grestoris.com
@@ -134,7 +133,6 @@
 127.0.0.1 ialphacore.shop
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
-127.0.0.1 inspirepk.org
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
@@ -155,8 +153,6 @@
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 lsks.volamngayxua.net
-127.0.0.1 m.gutousoft.com
 127.0.0.1 mail.leo33.ru
 127.0.0.1 mandarin.net.au
 127.0.0.1 mcpperformance.com.br
@@ -168,6 +164,7 @@
 127.0.0.1 moonloaderupdate.ru
 127.0.0.1 mta179.insuretn.com
 127.0.0.1 nabawitransport.com
+127.0.0.1 namthaibinh.net
 127.0.0.1 nationwideavast.com
 127.0.0.1 nnmmab.0u8n.com
 127.0.0.1 noithaticon.vn
@@ -175,13 +172,14 @@
 127.0.0.1 odoo.kseibitools.com
 127.0.0.1 ojang.pe.kr
 127.0.0.1 osecweb.ir
+127.0.0.1 otrsolutons.com
+127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pivqmane.com
 127.0.0.1 pns.org.pk
 127.0.0.1 projectprocurements.com
-127.0.0.1 protechasia.com
 127.0.0.1 qatldhu48dpktktcc37.online
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
@@ -189,6 +187,7 @@
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rd.chuitian.cn
+127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
 127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
@@ -198,8 +197,8 @@
 127.0.0.1 s11-wer04sg.com
 127.0.0.1 safe.ywxww.net
 127.0.0.1 saveyourcinema.ca
-127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
 127.0.0.1 smsfastersend.com
@@ -218,8 +217,7 @@
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
-127.0.0.1 tecni-soft.com
-127.0.0.1 telegramcn.co
+127.0.0.1 tecunonline.com
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 tests.yjzj.org
@@ -229,33 +227,33 @@
 127.0.0.1 travelwithmanta.co.za
 127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 turkey-ivf.org
+127.0.0.1 twizt.net
 127.0.0.1 u1.shredderradar.shop
+127.0.0.1 u1.stungoverhaul.shop
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
-127.0.0.1 utorrent-backup-server.top
 127.0.0.1 utorrent-backup-server2.top
 127.0.0.1 utorrent-backup-server3.top
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-server-api.cc
 127.0.0.1 utorrent-servers.xyz
+127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.albuspsikoloji.com.tr
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.arandelasespeciales.com
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
+127.0.0.1 www.cmcmarkets.work
 127.0.0.1 www.elefantenfutter.de
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
-127.0.0.1 www.littlemoroccanthings.com
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
-127.0.0.1 www.newkey.co.kr
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
 127.0.0.1 www.reifenquick.de
@@ -268,16 +266,13 @@
 127.0.0.1 www.thrheeff.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
-127.0.0.1 www.zhikey.com
-127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xemhang.vn
 127.0.0.1 xhslink.cc
 127.0.0.1 xiangshunjy.com
-127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
 127.0.0.1 yunger.ddns.cam
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 274
+# Number of entries: 269

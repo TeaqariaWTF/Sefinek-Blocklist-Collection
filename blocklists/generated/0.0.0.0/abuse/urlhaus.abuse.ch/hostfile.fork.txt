@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-22 16:13:05 (UTC)                      #
+# Last updated: 2025-02-22 18:19:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -38,7 +38,6 @@
 0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
-0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
 0.0.0.0 avastop.com
@@ -90,10 +89,9 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 device.redirec.com
-0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dianzanla.com
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 dl.1003b.56a.com
+0.0.0.0 divvanews.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -112,6 +110,8 @@
 0.0.0.0 droster-reqlik.com
 0.0.0.0 drydoedls.com
 0.0.0.0 e4l4.com
+0.0.0.0 elisans.novayonetim.com
+0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 fantazior-nazivela.com
 0.0.0.0 file.blackint3.com
@@ -121,7 +121,6 @@
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
-0.0.0.0 gachetroi.com
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 grestoris.com
@@ -134,7 +133,6 @@
 0.0.0.0 ialphacore.shop
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -155,8 +153,6 @@
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
-0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.leo33.ru
 0.0.0.0 mandarin.net.au
 0.0.0.0 mcpperformance.com.br
@@ -168,6 +164,7 @@
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 nabawitransport.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 nnmmab.0u8n.com
 0.0.0.0 noithaticon.vn
@@ -175,13 +172,14 @@
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ojang.pe.kr
 0.0.0.0 osecweb.ir
+0.0.0.0 otrsolutons.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pivqmane.com
 0.0.0.0 pns.org.pk
 0.0.0.0 projectprocurements.com
-0.0.0.0 protechasia.com
 0.0.0.0 qatldhu48dpktktcc37.online
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -189,6 +187,7 @@
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
+0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
@@ -198,8 +197,8 @@
 0.0.0.0 s11-wer04sg.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 saveyourcinema.ca
-0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
+0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
@@ -218,8 +217,7 @@
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
-0.0.0.0 tecni-soft.com
-0.0.0.0 telegramcn.co
+0.0.0.0 tecunonline.com
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tests.yjzj.org
@@ -229,33 +227,33 @@
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
+0.0.0.0 twizt.net
 0.0.0.0 u1.shredderradar.shop
+0.0.0.0 u1.stungoverhaul.shop
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
-0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
+0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.albuspsikoloji.com.tr
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.arandelasespeciales.com
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.reifenquick.de
@@ -268,16 +266,13 @@
 0.0.0.0 www.thrheeff.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
-0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xhslink.cc
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 274
+# Number of entries: 269
