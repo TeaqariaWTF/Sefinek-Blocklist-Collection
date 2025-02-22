@@ -9,6 +9,8 @@ $TTL 300
 *.12825.funian.xyz CNAME .
 139520.aioc.qbgxl.com CNAME .
 *.139520.aioc.qbgxl.com CNAME .
+1717.1000uc.com CNAME .
+*.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
 84931.lmframing.us CNAME .
@@ -73,6 +75,8 @@ avastpdr.com CNAME .
 *.avastpdr.com CNAME .
 avastpx.com CNAME .
 *.avastpx.com CNAME .
+azgint.com CNAME .
+*.azgint.com CNAME .
 banthis.su CNAME .
 *.banthis.su CNAME .
 bitkiselurunsiparis.com CNAME .
@@ -169,6 +173,8 @@ disk.accord1key.cn CNAME .
 *.disk.accord1key.cn CNAME .
 divvanews.com CNAME .
 *.divvanews.com CNAME .
+dl.1003b.56a.com CNAME .
+*.dl.1003b.56a.com CNAME .
 dl.aginjector.com CNAME .
 *.dl.aginjector.com CNAME .
 dl.packetstormsecurity.net CNAME .
@@ -223,8 +229,6 @@ funletters.net CNAME .
 *.funletters.net CNAME .
 gachetroi.com CNAME .
 *.gachetroi.com CNAME .
-genericfixer.com CNAME .
-*.genericfixer.com CNAME .
 glennmedina.com CNAME .
 *.glennmedina.com CNAME .
 grestoris.com CNAME .
@@ -239,8 +243,6 @@ hobobot.net CNAME .
 *.hobobot.net CNAME .
 hr2019.vrcom7.com CNAME .
 *.hr2019.vrcom7.com CNAME .
-hseda.com CNAME .
-*.hseda.com CNAME .
 ialphacore.shop CNAME .
 *.ialphacore.shop CNAME .
 information-binance.com CNAME .
@@ -289,8 +291,6 @@ livetrack.in CNAME .
 *.livetrack.in CNAME .
 lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
-lsks.volamngayxua.net CNAME .
-*.lsks.volamngayxua.net CNAME .
 mail.leo33.ru CNAME .
 *.mail.leo33.ru CNAME .
 mandarin.net.au CNAME .
@@ -367,6 +367,8 @@ reusable-flex.com CNAME .
 *.reusable-flex.com CNAME .
 ronnin-v2.com CNAME .
 *.ronnin-v2.com CNAME .
+rumble.tube CNAME .
+*.rumble.tube CNAME .
 rustbakingtable.com CNAME .
 *.rustbakingtable.com CNAME .
 s11-wer04sg.com CNAME .
@@ -381,8 +383,6 @@ sfa.com.ar CNAME .
 *.sfa.com.ar CNAME .
 shell.dimitrimedia.com CNAME .
 *.shell.dimitrimedia.com CNAME .
-sirault.be CNAME .
-*.sirault.be CNAME .
 sms-szfang.com CNAME .
 *.sms-szfang.com CNAME .
 smsfastersend.com CNAME .
@@ -419,8 +419,6 @@ symdlotic.com CNAME .
 *.symdlotic.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
-tecunonline.com CNAME .
-*.tecunonline.com CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
@@ -447,8 +445,6 @@ u1.shredderradar.shop CNAME .
 *.u1.shredderradar.shop CNAME .
 update.cg100iii.com CNAME .
 *.update.cg100iii.com CNAME .
-update.vlnguba.com CNAME .
-*.update.vlnguba.com CNAME .
 update.volam2005pk.com CNAME .
 *.update.volam2005pk.com CNAME .
 updateinfo-portal.com CNAME .
@@ -465,8 +461,6 @@ utorrent-backup-server5.top CNAME .
 *.utorrent-backup-server5.top CNAME .
 utorrent-server-api.cc CNAME .
 *.utorrent-server-api.cc CNAME .
-vbccorretoradeseguros.com.br CNAME .
-*.vbccorretoradeseguros.com.br CNAME .
 win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 aqianniao.com CNAME .
@@ -481,10 +475,10 @@ cmcmarkets.work CNAME .
 *.cmcmarkets.work CNAME .
 elefantenfutter.de CNAME .
 *.elefantenfutter.de CNAME .
-flechabusretiro.com.ar CNAME .
-*.flechabusretiro.com.ar CNAME .
 globallaborsupply.com CNAME .
 *.globallaborsupply.com CNAME .
+hseda.com CNAME .
+*.hseda.com CNAME .
 ingonherbal.com CNAME .
 *.ingonherbal.com CNAME .
 littlemoroccanthings.com CNAME .
@@ -505,10 +499,10 @@ starcountry.net CNAME .
 *.starcountry.net CNAME .
 tdejb.com CNAME .
 *.tdejb.com CNAME .
+tecunonline.com CNAME .
+*.tecunonline.com CNAME .
 thrheeff.com CNAME .
 *.thrheeff.com CNAME .
-vcompdocsproposal.com CNAME .
-*.vcompdocsproposal.com CNAME .
 xn--on3b15m2lco2u.com CNAME .
 *.xn--on3b15m2lco2u.com CNAME .
 ysbaojia.com CNAME .
