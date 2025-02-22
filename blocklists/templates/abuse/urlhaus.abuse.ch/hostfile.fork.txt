@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-22 08:23:17 (UTC)                      #
+# Last updated: 2025-02-22 10:17:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -99,7 +99,6 @@
 0.0.0.0 do-dear.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
@@ -113,6 +112,7 @@
 0.0.0.0 e4l4.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
+0.0.0.0 epanpano.com
 0.0.0.0 fantazior-nazivela.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
@@ -180,6 +180,7 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 pivqmane.com
 0.0.0.0 pns.org.pk
+0.0.0.0 projectprocurements.com
 0.0.0.0 protechasia.com
 0.0.0.0 qatldhu48dpktktcc37.online
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -192,7 +193,6 @@
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 ronnin-v2.com
-0.0.0.0 rumble.tube
 0.0.0.0 rustbakingtable.com
 0.0.0.0 s11-wer04sg.com
 0.0.0.0 safe.ywxww.net
@@ -205,7 +205,6 @@
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 staatsgewalt.jameschans.de
@@ -247,10 +246,8 @@
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.arandelasespeciales.com
 0.0.0.0 www.beiletoys.com
-0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.elefantenfutter.de
-0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
@@ -272,7 +269,6 @@
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
-0.0.0.0 wz.3911.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xhslink.cc
 0.0.0.0 xiangshunjy.com
@@ -282,4 +278,4 @@
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 276
+# Number of entries: 272
