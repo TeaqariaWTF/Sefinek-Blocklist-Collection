@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-23 10:19:05 (UTC)                      #
+# Last updated: 2025-02-23 12:30:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -177,6 +177,7 @@ server=/ojang.pe.kr/
 server=/orientedworld.com/
 server=/osecweb.ir/
 server=/otrsolutons.com/
+server=/ownerbotnet.opyddos.my.id/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
@@ -228,6 +229,7 @@ server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
 server=/treinamento.convenio.to.gov.br/
 server=/turkey-ivf.org/
+server=/u1.gossipsurrender.shop/
 server=/u1.shredderradar.shop/
 server=/u1.stungoverhaul.shop/
 server=/update-checker-status.cc/
@@ -277,4 +279,4 @@ server=/yunger.ddns.cam/
 server=/ywxww.net/
 server=/yzkzixun.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 271
+# Number of entries: 273
