@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-23 18:22:14 (UTC)                      #
+# Last updated: 2025-02-23 20:14:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -47,7 +47,6 @@
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 batterymax.pk
-0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 casalomaminca.com
@@ -97,6 +96,7 @@
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
+0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dianzanla.com
 0.0.0.0 disk.accord1key.cn
@@ -124,6 +124,7 @@
 0.0.0.0 epanpano.com
 0.0.0.0 fantazior-nazivela.com
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fox-news-checker.cc
 0.0.0.0 ftp.ywxww.net
@@ -155,8 +156,6 @@
 0.0.0.0 kieuudjrie.live
 0.0.0.0 kismetguzelim.com
 0.0.0.0 library.arihantmbainstitute.ac.in
-0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 mail.leo33.ru
@@ -184,8 +183,8 @@
 0.0.0.0 pid.fly160.com
 0.0.0.0 ping.caringheadboard.buzz
 0.0.0.0 pivqmane.com
+0.0.0.0 pns.org.pk
 0.0.0.0 projectprocurements.com
-0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
@@ -213,6 +212,7 @@
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
+0.0.0.0 sroglad.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -235,6 +235,7 @@
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
+0.0.0.0 u1.gossipsurrender.shop
 0.0.0.0 u1.shredderradar.shop
 0.0.0.0 u1.stungoverhaul.shop
 0.0.0.0 update-checker-status.cc
@@ -251,18 +252,21 @@
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.albuspsikoloji.com.tr
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.batterymax.pk
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.cmcmarkets.work
+0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qfs-securityledger.com
 0.0.0.0 www.reifenquick.de
@@ -282,6 +286,7 @@
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
+0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 278
+# Number of entries: 283
