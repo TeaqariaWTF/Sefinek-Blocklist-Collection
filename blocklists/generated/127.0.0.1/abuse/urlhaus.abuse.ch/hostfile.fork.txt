@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-23 08:20:06 (UTC)                      #
+# Last updated: 2025-02-23 10:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,17 +10,15 @@
 127.0.0.1 12825.funian.xyz
 127.0.0.1 139520.aioc.qbgxl.com
 127.0.0.1 1717.1000uc.com
-127.0.0.1 360down7.miiyun.cn
 127.0.0.1 84931.lmframing.us
 127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 abissnet.net
-127.0.0.1 acusense.ae
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
 127.0.0.1 ai.fdswgw.shop
-127.0.0.1 airhobi.com
+127.0.0.1 alien-training.com
 127.0.0.1 americanexpressloginus.com
 127.0.0.1 antlb0tv2.com
 127.0.0.1 aosafrica.co.za
@@ -38,7 +36,6 @@
 127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
 127.0.0.1 avastexodus.com
-127.0.0.1 avastmetamask.com
 127.0.0.1 avastng.com
 127.0.0.1 avastop.com
 127.0.0.1 avastpdq.com
@@ -48,6 +45,7 @@
 127.0.0.1 banthis.su
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 book.rollingvideogames.com
+127.0.0.1 botnet.voct.org
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 casalomaminca.com
 127.0.0.1 catbaparadisehotel.com.vn
@@ -102,10 +100,8 @@
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
-127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
-127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.gmexiochappt.com
@@ -127,7 +123,7 @@
 127.0.0.1 file.blackint3.com
 127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
-127.0.0.1 fortfieldglb.com
+127.0.0.1 fox-news-checker.cc
 127.0.0.1 ftp.ywxww.net
 127.0.0.1 fundrescuetech.com
 127.0.0.1 funletters.net
@@ -141,7 +137,6 @@
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hseda.com
 127.0.0.1 information-binance.com
-127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
@@ -155,7 +150,6 @@
 127.0.0.1 keyser-api.eu
 127.0.0.1 kieuudjrie.live
 127.0.0.1 kismetguzelim.com
-127.0.0.1 lakestreetsolar.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
@@ -186,7 +180,6 @@
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
-127.0.0.1 pid.fly160.com
 127.0.0.1 ping.caringheadboard.buzz
 127.0.0.1 pivqmane.com
 127.0.0.1 pns.org.pk
@@ -229,7 +222,6 @@
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
-127.0.0.1 tests.yjzj.org
 127.0.0.1 theherbalhub.com
 127.0.0.1 tianyinsoft.top
 127.0.0.1 traefik-dashboard.val.io.vn
@@ -257,12 +249,12 @@
 127.0.0.1 www.beiletoys.com
 127.0.0.1 www.blackhattoolz.com
 127.0.0.1 www.cmcmarkets.work
-127.0.0.1 www.elefantenfutter.de
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
-127.0.0.1 www.globalstudycloud.com
+127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
-127.0.0.1 www.maxmoney.com
+127.0.0.1 www.littlemoroccanthings.com
+127.0.0.1 www.medises.co.kr
 127.0.0.1 www.newkey.co.kr
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
@@ -285,4 +277,4 @@
 127.0.0.1 ywxww.net
 127.0.0.1 yzkzixun.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 279
+# Number of entries: 271

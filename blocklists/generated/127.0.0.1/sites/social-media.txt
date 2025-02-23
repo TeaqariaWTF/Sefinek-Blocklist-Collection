@@ -11,14 +11,14 @@
 # Title: Blocks most social media platforms and related services (beta)
 # Description: Active, inactive, and parked domains. Blocks websites such as Facebook, Instagram, Twitter, TikTok, and other social media platforms.
 # Expires: 1 day
-# Count: 26596
+# Count: 26598
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 127.0.0.1 before each domain
-# Version: 1740133699952
-# Last update: February 21, 2025 at 10:28 AM UTC | 2025-02-21T10:28:19.952+00:00
+# Version: 1740306424213
+# Last update: February 23, 2025 at 10:27 AM UTC | 2025-02-23T10:27:04.213+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -26624,3 +26624,5 @@
 127.0.0.1 ai-tiktok.se
 127.0.0.1 instagramgrowthlab.se
 127.0.0.1 tiktokikursus.ee
+127.0.0.1 tiktokikoolitus.ee
+127.0.0.1 metainstagram.com.ee
