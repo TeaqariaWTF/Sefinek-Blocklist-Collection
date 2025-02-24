@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-24 10:16:05 (UTC)                      #
+# Last updated: 2025-02-24 12:38:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,7 +14,6 @@ server=/84.38.130.118.com/
 server=/aatox.com/
 server=/abissnet.net/
 server=/acusense.ae/
-server=/adf6.adf6.com/
 server=/admin.aishangzhua.com/
 server=/agapi.cqjjb.cn/
 server=/ai-kling.online/
@@ -109,6 +108,7 @@ server=/device.redirec.com/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
 server=/divvanews.com/
+server=/dl.1003b.56a.com/
 server=/dl.aginjector.com/
 server=/dl.packetstormsecurity.net/
 server=/dld.jxwan.com/
@@ -123,6 +123,7 @@ server=/download.caihong.com/
 server=/download.emailorganizer.com/
 server=/download.suxiazai.com/
 server=/downsexv.com/
+server=/dows.enigmacn.top/
 server=/e4l4.com/
 server=/epanpano.com/
 server=/file.blackint3.com/
@@ -166,6 +167,7 @@ server=/livetrack.in/
 server=/login.securedmicrosoft365.com/
 server=/lostheaven.com.cn/
 server=/mandarin.net.au/
+server=/mcpperformance.com.br/
 server=/mertvinc.com.tr/
 server=/microsoft-auth-network.cc/
 server=/miner-tolken.com/
@@ -183,7 +185,6 @@ server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
 server=/orientedworld.com/
 server=/osecweb.ir/
-server=/otrsolutons.com/
 server=/ownerbotnet.opyddos.my.id/
 server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
@@ -231,10 +232,12 @@ server=/tecunonline.com/
 server=/telegramcn.co/
 server=/temirtau-adm.ru/
 server=/tengfeidn.com/
-server=/theherbalhub.com/
+server=/tests.yjzj.org/
 server=/tianyinsoft.top/
+server=/tiktoklive.studio/
 server=/traefik-dashboard.val.io.vn/
 server=/travelwithmanta.co.za/
+server=/treinamento.convenio.to.gov.br/
 server=/turkey-ivf.org/
 server=/u1.gossipsurrender.shop/
 server=/u1.shalebrussels.shop/
@@ -267,7 +270,6 @@ server=/www.globalstudycloud.com/
 server=/www.ingonherbal.com/
 server=/www.littlemoroccanthings.com/
 server=/www.maxmoney.com/
-server=/www.medises.co.kr/
 server=/www.newkey.co.kr/
 server=/www.ojang.pe.kr/
 server=/www.opolis.io/
@@ -294,4 +296,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 288
+# Number of entries: 290

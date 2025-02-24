@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-24 10:16:05 (UTC)                      #
+# Last updated: 2025-02-24 12:38:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,7 +14,6 @@
 127.0.0.1 aatox.com
 127.0.0.1 abissnet.net
 127.0.0.1 acusense.ae
-127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
@@ -109,6 +108,7 @@
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
+127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
@@ -123,6 +123,7 @@
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
+127.0.0.1 dows.enigmacn.top
 127.0.0.1 e4l4.com
 127.0.0.1 epanpano.com
 127.0.0.1 file.blackint3.com
@@ -166,6 +167,7 @@
 127.0.0.1 login.securedmicrosoft365.com
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 mandarin.net.au
+127.0.0.1 mcpperformance.com.br
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 miner-tolken.com
@@ -183,7 +185,6 @@
 127.0.0.1 ojang.pe.kr
 127.0.0.1 orientedworld.com
 127.0.0.1 osecweb.ir
-127.0.0.1 otrsolutons.com
 127.0.0.1 ownerbotnet.opyddos.my.id
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
@@ -231,10 +232,12 @@
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
-127.0.0.1 theherbalhub.com
+127.0.0.1 tests.yjzj.org
 127.0.0.1 tianyinsoft.top
+127.0.0.1 tiktoklive.studio
 127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 travelwithmanta.co.za
+127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 turkey-ivf.org
 127.0.0.1 u1.gossipsurrender.shop
 127.0.0.1 u1.shalebrussels.shop
@@ -267,7 +270,6 @@
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.littlemoroccanthings.com
 127.0.0.1 www.maxmoney.com
-127.0.0.1 www.medises.co.kr
 127.0.0.1 www.newkey.co.kr
 127.0.0.1 www.ojang.pe.kr
 127.0.0.1 www.opolis.io
@@ -294,4 +296,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 288
+# Number of entries: 290

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-24 10:16:05 (UTC)                      #
+# Last updated: 2025-02-24 12:38:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,7 +14,6 @@
 0.0.0.0 aatox.com
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
-0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
@@ -109,6 +108,7 @@
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -123,6 +123,7 @@
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
+0.0.0.0 dows.enigmacn.top
 0.0.0.0 e4l4.com
 0.0.0.0 epanpano.com
 0.0.0.0 file.blackint3.com
@@ -166,6 +167,7 @@
 0.0.0.0 login.securedmicrosoft365.com
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 mandarin.net.au
+0.0.0.0 mcpperformance.com.br
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
@@ -183,7 +185,6 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 orientedworld.com
 0.0.0.0 osecweb.ir
-0.0.0.0 otrsolutons.com
 0.0.0.0 ownerbotnet.opyddos.my.id
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
@@ -231,10 +232,12 @@
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
-0.0.0.0 theherbalhub.com
+0.0.0.0 tests.yjzj.org
 0.0.0.0 tianyinsoft.top
+0.0.0.0 tiktoklive.studio
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
 0.0.0.0 u1.gossipsurrender.shop
 0.0.0.0 u1.shalebrussels.shop
@@ -267,7 +270,6 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -294,4 +296,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 288
+# Number of entries: 290
