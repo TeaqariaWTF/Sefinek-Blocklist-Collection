@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-24 08:22:05 (UTC)                      #
+# Last updated: 2025-02-24 10:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,7 +11,6 @@
 127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 84.38.130.118.com
-127.0.0.1 912648.aioc.qbgxl.com
 127.0.0.1 aatox.com
 127.0.0.1 abissnet.net
 127.0.0.1 acusense.ae
@@ -30,6 +29,7 @@
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.hostize.com
+127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-antiriciclaggio-mps.com
 127.0.0.1 applepistudios.com
@@ -109,11 +109,9 @@
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
-127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
-127.0.0.1 do-dear.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.gmexiochappt.com
@@ -125,11 +123,10 @@
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
-127.0.0.1 drydoedls.com
 127.0.0.1 e4l4.com
-127.0.0.1 elisans.novayonetim.com
 127.0.0.1 epanpano.com
 127.0.0.1 file.blackint3.com
+127.0.0.1 file.edunet.ac
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 fortfieldglb.com
 127.0.0.1 fox-news-checker.cc
@@ -143,8 +140,9 @@
 127.0.0.1 grupobramam.com.br
 127.0.0.1 heca3.getmyssafile.ru
 127.0.0.1 hitman-pro.ru
-127.0.0.1 hitstation.nl
 127.0.0.1 hobobot.net
+127.0.0.1 hr2019.vrcom7.com
+127.0.0.1 hseda.com
 127.0.0.1 imgdown.shop
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
@@ -167,14 +165,13 @@
 127.0.0.1 livetrack.in
 127.0.0.1 login.securedmicrosoft365.com
 127.0.0.1 lostheaven.com.cn
-127.0.0.1 m.gutousoft.com
 127.0.0.1 mandarin.net.au
-127.0.0.1 mcpperformance.com.br
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 miner-tolken.com
 127.0.0.1 misljen.net
 127.0.0.1 mitgpssms.com
+127.0.0.1 moonloaderupdate.ru
 127.0.0.1 mta179.insuretn.com
 127.0.0.1 mui.cdn-serveri4345-ns.shop
 127.0.0.1 nabawitransport.com
@@ -195,16 +192,16 @@
 127.0.0.1 ping.caringheadboard.buzz
 127.0.0.1 pns.org.pk
 127.0.0.1 projectprocurements.com
+127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rd.chuitian.cn
 127.0.0.1 recepchtav3.com
 127.0.0.1 reifenquick.de
+127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
-127.0.0.1 ronnin-v2.com
 127.0.0.1 rumble.tube
 127.0.0.1 rustbakingtable.com
 127.0.0.1 safe.ywxww.net
@@ -216,8 +213,8 @@
 127.0.0.1 sitedata.online
 127.0.0.1 sms-szfang.com
 127.0.0.1 smsfastersend.com
-127.0.0.1 soft.110route.com
 127.0.0.1 soportegira.net
+127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 src1.minibai.com
 127.0.0.1 sroglad.com
@@ -229,25 +226,21 @@
 127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
 127.0.0.1 symbietic.com
-127.0.0.1 symdlotic.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
 127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
-127.0.0.1 tests.yjzj.org
 127.0.0.1 theherbalhub.com
 127.0.0.1 tianyinsoft.top
 127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 travelwithmanta.co.za
-127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 turkey-ivf.org
 127.0.0.1 u1.gossipsurrender.shop
 127.0.0.1 u1.shalebrussels.shop
 127.0.0.1 u1.stungoverhaul.shop
 127.0.0.1 update-checker-status.cc
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 utorrent-backup-server.top
@@ -257,6 +250,7 @@
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-server-api.cc
 127.0.0.1 utorrent-servers.xyz
+127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 win-network-checker.cc
 127.0.0.1 www.albuspsikoloji.com.tr
 127.0.0.1 www.aqianniao.com
@@ -270,7 +264,6 @@
 127.0.0.1 www.flechabusretiro.com.ar
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.globalstudycloud.com
-127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.littlemoroccanthings.com
 127.0.0.1 www.maxmoney.com
@@ -301,4 +294,4 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 295
+# Number of entries: 288
