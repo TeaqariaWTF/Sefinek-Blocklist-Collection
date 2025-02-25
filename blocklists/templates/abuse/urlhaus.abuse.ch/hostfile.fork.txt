@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-25 04:23:12 (UTC)                      #
+# Last updated: 2025-02-25 06:27:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,24 +8,22 @@
 #
 0.0.0.0 123.ywxww.net
 0.0.0.0 12825.funian.xyz
-0.0.0.0 1717.1000uc.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 84.38.130.118.com
 0.0.0.0 aatox.com
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
+0.0.0.0 airhobi.com
 0.0.0.0 alien-training.com
 0.0.0.0 americanexpressloginus.com
 0.0.0.0 aosafrica.co.za
-0.0.0.0 api.accueil-coinbase.com
-0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
+0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 applepistudios.com
@@ -44,13 +42,13 @@
 0.0.0.0 azgint.com
 0.0.0.0 banthis.su
 0.0.0.0 batterymax.pk
+0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 booking.idewgustarens.com
 0.0.0.0 bot.freedma.xyz
 0.0.0.0 botnet.voct.org
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 captcha.zip
-0.0.0.0 casalomaminca.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cattozzo.it
 0.0.0.0 cdaonline.com.ar
@@ -82,7 +80,6 @@
 0.0.0.0 check.zahem.icu
 0.0.0.0 check.zasek.icu
 0.0.0.0 check.zoxod.icu
-0.0.0.0 chinaapper.com
 0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cnc.stressamp.com
@@ -146,7 +143,6 @@
 0.0.0.0 imgdown.shop
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 inspirepk.org
 0.0.0.0 ishadowstrike.shop
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
@@ -159,6 +155,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 kismetguzelim.com
 0.0.0.0 lakestreetsolar.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 licensing.tools
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
@@ -167,6 +164,7 @@
 0.0.0.0 load.societynetwork.xyz
 0.0.0.0 login.securedmicrosoft365.com
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 mcpperformance.com.br
@@ -176,6 +174,7 @@
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
 0.0.0.0 mizo.dorklifedubbed.shop
+0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
@@ -189,21 +188,18 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
-0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 projectprocurements.com
+0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
-0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 recepchtav3.com
 0.0.0.0 reduceless.cyou
 0.0.0.0 reifenquick.de
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
-0.0.0.0 ronnin-v2.com
 0.0.0.0 rustbakingtable.com
 0.0.0.0 safe.ywxww.net
 0.0.0.0 safecheck.mosco.cc
@@ -216,19 +212,17 @@
 0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
-0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 sroglad.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 stripchat.lat
-0.0.0.0 subit.ro
 0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
-0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
@@ -241,6 +235,7 @@
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treinamento.convenio.to.gov.br
+0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.cx
 0.0.0.0 twitss.com
 0.0.0.0 twizt.net
@@ -257,6 +252,7 @@
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-server-api.cc
+0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verifcheck.mosco.cc
 0.0.0.0 win-network-checker.cc
@@ -278,7 +274,6 @@
 0.0.0.0 www.leeholmes.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
@@ -304,4 +299,4 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 298
+# Number of entries: 293
