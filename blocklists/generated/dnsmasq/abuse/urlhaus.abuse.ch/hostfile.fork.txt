@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-25 01:43:05 (UTC)                      #
+# Last updated: 2025-02-25 02:47:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@ server=/botnet.voct.org/
 server=/buscascolegios.diit.cl/
 server=/captcha.zip/
 server=/casalomaminca.com/
+server=/catbaparadisehotel.com.vn/
 server=/cattozzo.it/
 server=/cdaonline.com.ar/
 server=/check.aiyay.icu/
@@ -100,6 +101,7 @@ server=/csg-app.com/
 server=/cszox2.getmyssafile.ru/
 server=/dangtienluc.com/
 server=/data.yhydl.com/
+server=/dcwblida.dz/
 server=/device.redirec.com/
 server=/dhnconstrucciones.com.ar/
 server=/disk.accord1key.cn/
@@ -135,6 +137,7 @@ server=/ftp.ywxww.net/
 server=/fundrescuetech.com/
 server=/funletters.net/
 server=/furqaanenergy.com/
+server=/gachetroi.com/
 server=/genericfixer.com/
 server=/glennmedina.com/
 server=/grupobramam.com.br/
@@ -161,6 +164,7 @@ server=/js.telega.cn/
 server=/karoonpc.com/
 server=/kismetguzelim.com/
 server=/lakestreetsolar.com/
+server=/library.arihantmbainstitute.ac.in/
 server=/licensing.tools/
 server=/lindnerelektroanlagen.de/
 server=/linkvilleplayers.org/
@@ -190,11 +194,14 @@ server=/odoo.kseibitools.com/
 server=/ojang.pe.kr/
 server=/osecweb.ir/
 server=/ownerbotnet.opyddos.my.id/
+server=/palharesinformatica.com.br/
 server=/park.chuitian.cn/
 server=/parmisbuilding.com/
 server=/pid.fly160.com/
 server=/pns.org.pk/
+server=/projectprocurements.com/
 server=/protechasia.com/
+server=/qiniuyunxz.yxflzs.com/
 server=/qlqd5zqefmkcr34a.onion.sh/
 server=/quanly.jxmienphi.net/
 server=/quanlyphongnet.com/
@@ -205,6 +212,7 @@ server=/reduceless.cyou/
 server=/reifenquick.de/
 server=/resourceedge.org/
 server=/reusable-flex.com/
+server=/ronnin-v2.com/
 server=/rustbakingtable.com/
 server=/safe.ywxww.net/
 server=/safecheck.mosco.cc/
@@ -213,7 +221,6 @@ server=/scare.su/
 server=/security-service-api-link.cc/
 server=/sfa.com.ar/
 server=/shell.dimitrimedia.com/
-server=/shqdown.ggzuhao.com/
 server=/sirault.be/
 server=/sms-szfang.com/
 server=/smsfastersend.com/
@@ -263,6 +270,7 @@ server=/utorrent-backup-server3.top/
 server=/utorrent-backup-server4.top/
 server=/utorrent-backup-server5.top/
 server=/utorrent-server-api.cc/
+server=/utorrent-servers.xyz/
 server=/vbccorretoradeseguros.com.br/
 server=/verifcheck.mosco.cc/
 server=/win-network-checker.cc/
@@ -309,4 +317,4 @@ server=/ywxww.net/
 server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
-# Number of entries: 303
+# Number of entries: 311
