@@ -11,7 +11,7 @@
 # Title: Blocks e-commerce websites and online shopping platforms (beta)
 # Description: Active, inactive, and parked domains. Blocks online shopping websites like Amazon, eBay, AliExpress, Etsy, Wish, and others.
 # Expires: 1 day
-# Count: 120814
+# Count: 120820
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
@@ -120842,3 +120842,9 @@
 0.0.0.0 amazoniteenus.ee
 0.0.0.0 amazonfreetime.ee
 0.0.0.0 zalandopreowned.ee
+0.0.0.0 amazonsouk.ee
+0.0.0.0 ebay.ee
+0.0.0.0 zalandodesigner.ee
+0.0.0.0 heatlikeabosch.ee
+0.0.0.0 aliexpress.ee
+0.0.0.0 jewish.ee
