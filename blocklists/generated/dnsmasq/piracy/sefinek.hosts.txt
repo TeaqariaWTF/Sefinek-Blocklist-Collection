@@ -11,14 +11,14 @@
 # Title: Blocks websites related to piracy, illegal downloads, torrents, and copyright infringement
 # Description: Active, inactive, and parked domains. Includes websites offering illegal downloads, torrent files, cracked software, serial keys, hacking tools, and other content related to copyright infringement and piracy.
 # Expires: 1 day
-# Count: 50981
+# Count: 50982
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: Dnsmasq
-# Version: 1740306427502
-# Last update: February 23, 2025 at 10:27 AM UTC | 2025-02-23T10:27:07.502+00:00
+# Version: 1740479303871
+# Last update: February 25, 2025 at 10:28 AM UTC | 2025-02-25T10:28:23.871+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -51009,3 +51009,4 @@ server=/biohackingsummit.sk/
 server=/casecrackclub.se/
 server=/flyingpiratemedia.se/
 server=/biohacking.ee/
+server=/biohackinglabs.sk/

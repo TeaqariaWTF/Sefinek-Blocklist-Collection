@@ -11,14 +11,14 @@
 # Title: Blocks news websites and media outlets (beta)
 # Description: Active, inactive, and parked domains. Blocks websites of popular news outlets such as CNN, BBC, Fox News, Al Jazeera, RT, and others.
 # Expires: 1 day
-# Count: 2339
+# Count: 2340
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 127.0.0.1 before each domain
-# Version: 1740133699909
-# Last update: February 21, 2025 at 10:28 AM UTC | 2025-02-21T10:28:19.909+00:00
+# Version: 1740479300473
+# Last update: February 25, 2025 at 10:28 AM UTC | 2025-02-25T10:28:20.473+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -2367,3 +2367,4 @@
 127.0.0.1 www.reutersshop.at
 127.0.0.1 www.thomsonreuters.at
 127.0.0.1 michaelbloomberg.ee
+127.0.0.1 foxnews.ee
