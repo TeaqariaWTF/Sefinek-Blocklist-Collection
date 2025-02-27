@@ -1,8 +1,6 @@
 $TTL 300
 @ SOA localhost. root.localhost. 2025022701 43200 3600 259200 300
   NS  localhost.
-123.ywxww.net CNAME .
-*.123.ywxww.net CNAME .
 123check.mosco.cc CNAME .
 *.123check.mosco.cc CNAME .
 1717.1000uc.com CNAME .
@@ -19,8 +17,6 @@ admin.aishangzhua.com CNAME .
 *.admin.aishangzhua.com CNAME .
 afflnlty-serlf.com CNAME .
 *.afflnlty-serlf.com CNAME .
-agapi.cqjjb.cn CNAME .
-*.agapi.cqjjb.cn CNAME .
 agpglss.com CNAME .
 *.agpglss.com CNAME .
 ai-kling.online CNAME .
@@ -259,8 +255,6 @@ funletters.net CNAME .
 *.funletters.net CNAME .
 gacdn.ru CNAME .
 *.gacdn.ru CNAME .
-gachetroi.com CNAME .
-*.gachetroi.com CNAME .
 genericfixer.com CNAME .
 *.genericfixer.com CNAME .
 glennmedina.com CNAME .
@@ -299,6 +293,8 @@ js.telega.cn CNAME .
 *.js.telega.cn CNAME .
 karoonpc.com CNAME .
 *.karoonpc.com CNAME .
+kismetguzelim.com CNAME .
+*.kismetguzelim.com CNAME .
 korvewo.top CNAME .
 *.korvewo.top CNAME .
 kristinaphillipson.com CNAME .
@@ -333,8 +329,8 @@ manageprofile.info CNAME .
 *.manageprofile.info CNAME .
 mandarin.net.au CNAME .
 *.mandarin.net.au CNAME .
-megawyd.com CNAME .
-*.megawyd.com CNAME .
+mcpperformance.com.br CNAME .
+*.mcpperformance.com.br CNAME .
 mertvinc.com.tr CNAME .
 *.mertvinc.com.tr CNAME .
 metaldetectingcompetitions.com CNAME .
@@ -435,8 +431,6 @@ sandbox.yunqof.shop CNAME .
 *.sandbox.yunqof.shop CNAME .
 saveyourcinema.ca CNAME .
 *.saveyourcinema.ca CNAME .
-sbtechus.com CNAME .
-*.sbtechus.com CNAME .
 security-service-api-link.cc CNAME .
 *.security-service-api-link.cc CNAME .
 shell.dimitrimedia.com CNAME .
@@ -459,8 +453,6 @@ spongebobcoinsol.com CNAME .
 *.spongebobcoinsol.com CNAME .
 sporcketngearforu.com CNAME .
 *.sporcketngearforu.com CNAME .
-src1.minibai.com CNAME .
-*.src1.minibai.com CNAME .
 ssfsy-homepage.larrinca.com CNAME .
 *.ssfsy-homepage.larrinca.com CNAME .
 staatsgewalt.jameschans.de CNAME .
@@ -487,8 +479,6 @@ targetshopify.com CNAME .
 *.targetshopify.com CNAME .
 tecni-soft.com CNAME .
 *.tecni-soft.com CNAME .
-tecunonline.com CNAME .
-*.tecunonline.com CNAME .
 telegramcn.co CNAME .
 *.telegramcn.co CNAME .
 temirtau-adm.ru CNAME .
@@ -509,6 +499,8 @@ traefik-dashboard.val.io.vn CNAME .
 *.traefik-dashboard.val.io.vn CNAME .
 twitch.cx CNAME .
 *.twitch.cx CNAME .
+twitch.tj CNAME .
+*.twitch.tj CNAME .
 twizt.net CNAME .
 *.twizt.net CNAME .
 u1.possibleshimmer.shop CNAME .
@@ -545,10 +537,14 @@ win-network-checker.cc CNAME .
 *.win-network-checker.cc CNAME .
 worldbuisness.us CNAME .
 *.worldbuisness.us CNAME .
+albuspsikoloji.com.tr CNAME .
+*.albuspsikoloji.com.tr CNAME .
 aqianniao.com CNAME .
 *.aqianniao.com CNAME .
 atc-secure.com CNAME .
 *.atc-secure.com CNAME .
+beiletoys.com CNAME .
+*.beiletoys.com CNAME .
 benshamcentre.co.uk CNAME .
 *.benshamcentre.co.uk CNAME .
 blackhattoolz.com CNAME .
@@ -567,8 +563,6 @@ jz3366.top CNAME .
 *.jz3366.top CNAME .
 leeholmes.com CNAME .
 *.leeholmes.com CNAME .
-littlemoroccanthings.com CNAME .
-*.littlemoroccanthings.com CNAME .
 maxmoney.com CNAME .
 *.maxmoney.com CNAME .
 newkey.co.kr CNAME .
@@ -579,12 +573,16 @@ qfs-securityledger.com CNAME .
 *.qfs-securityledger.com CNAME .
 rphingenieria.com CNAME .
 *.rphingenieria.com CNAME .
+serviciodelimpiezaperu.com CNAME .
+*.serviciodelimpiezaperu.com CNAME .
 seventools.de CNAME .
 *.seventools.de CNAME .
 starcountry.net CNAME .
 *.starcountry.net CNAME .
 tdejb.com CNAME .
 *.tdejb.com CNAME .
+tecunonline.com CNAME .
+*.tecunonline.com CNAME .
 telegarmeapp.io CNAME .
 *.telegarmeapp.io CNAME .
 xn--on3b15m2lco2u.com CNAME .
@@ -593,8 +591,6 @@ ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
 zhikey.com CNAME .
 *.zhikey.com CNAME .
-wynecare.com CNAME .
-*.wynecare.com CNAME .
 xemhang.vn CNAME .
 *.xemhang.vn CNAME .
 xiangshunjy.com CNAME .
