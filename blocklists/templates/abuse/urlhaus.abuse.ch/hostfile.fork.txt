@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-27 01:39:06 (UTC)                      #
+# Last updated: 2025-02-27 02:46:03 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -79,6 +79,7 @@
 0.0.0.0 check.wivp.shop
 0.0.0.0 check.zajp.shop
 0.0.0.0 chinaapper.com
+0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 citadel.magicm8.com
 0.0.0.0 cnc.stressamp.com
@@ -126,7 +127,6 @@
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 gacdn.ru
-0.0.0.0 gachetroi.com
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 greenstreamclothing.com
@@ -140,6 +140,7 @@
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
+0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
@@ -180,6 +181,7 @@
 0.0.0.0 onllne-acb-co-nz.nichetoolsai.com
 0.0.0.0 onllne-cltadelle-lv.agpglss.com
 0.0.0.0 ooriginalused.com
+0.0.0.0 osecweb.ir
 0.0.0.0 otrsolutons.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
@@ -214,6 +216,7 @@
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spongebobcoinsol.com
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
@@ -297,4 +300,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zzaque.com
-# Number of entries: 291
+# Number of entries: 294
