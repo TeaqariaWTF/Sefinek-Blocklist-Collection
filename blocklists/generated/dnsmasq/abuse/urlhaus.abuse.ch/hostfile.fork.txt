@@ -1,14 +1,17 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-27 20:24:34 (UTC)                      #
+# Last updated: 2025-02-27 22:10:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
+server=/01.pogoda86.online/
 server=/123check.mosco.cc/
 server=/1717.1000uc.com/
 server=/360down7.miiyun.cn/
+server=/543311.us10.cc/
+server=/553914.na3.me/
 server=/abissnet.net/
 server=/adf6.adf6.com/
 server=/admin.aishangzhua.com/
@@ -90,6 +93,7 @@ server=/comteste.com/
 server=/conn.masjesu.zip/
 server=/csg-app.com/
 server=/data.yhydl.com/
+server=/datashieldsecure.com/
 server=/dcwblida.dz/
 server=/debt41.com/
 server=/deutsclhllandtlclket-de.spongebobcoinsol.com/
@@ -117,6 +121,7 @@ server=/eoufaoeuhoauengi.su/
 server=/epanpano.com/
 server=/esgroupnet.com/
 server=/expay.ru/
+server=/expertuslugi.top/
 server=/expressbrasilpremium.com/
 server=/fenlandbaitsandleads.com/
 server=/file.blackint3.com/
@@ -301,4 +306,4 @@ server=/yzkzixun.com/
 server=/z.shavsl.com/
 server=/znrq.zifwxq.cn/
 server=/zzaque.com/
-# Number of entries: 295
+# Number of entries: 300

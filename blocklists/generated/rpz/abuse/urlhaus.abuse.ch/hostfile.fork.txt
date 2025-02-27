@@ -1,12 +1,18 @@
 $TTL 300
 @ SOA localhost. root.localhost. 2025022701 43200 3600 259200 300
   NS  localhost.
+01.pogoda86.online CNAME .
+*.01.pogoda86.online CNAME .
 123check.mosco.cc CNAME .
 *.123check.mosco.cc CNAME .
 1717.1000uc.com CNAME .
 *.1717.1000uc.com CNAME .
 360down7.miiyun.cn CNAME .
 *.360down7.miiyun.cn CNAME .
+543311.us10.cc CNAME .
+*.543311.us10.cc CNAME .
+553914.na3.me CNAME .
+*.553914.na3.me CNAME .
 abissnet.net CNAME .
 *.abissnet.net CNAME .
 adf6.adf6.com CNAME .
@@ -169,6 +175,8 @@ csg-app.com CNAME .
 *.csg-app.com CNAME .
 data.yhydl.com CNAME .
 *.data.yhydl.com CNAME .
+datashieldsecure.com CNAME .
+*.datashieldsecure.com CNAME .
 dcwblida.dz CNAME .
 *.dcwblida.dz CNAME .
 debt41.com CNAME .
@@ -223,6 +231,8 @@ esgroupnet.com CNAME .
 *.esgroupnet.com CNAME .
 expay.ru CNAME .
 *.expay.ru CNAME .
+expertuslugi.top CNAME .
+*.expertuslugi.top CNAME .
 expressbrasilpremium.com CNAME .
 *.expressbrasilpremium.com CNAME .
 fenlandbaitsandleads.com CNAME .

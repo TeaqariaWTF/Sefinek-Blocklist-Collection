@@ -1,14 +1,17 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-27 20:24:34 (UTC)                      #
+# Last updated: 2025-02-27 22:10:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
+127.0.0.1 01.pogoda86.online
 127.0.0.1 123check.mosco.cc
 127.0.0.1 1717.1000uc.com
 127.0.0.1 360down7.miiyun.cn
+127.0.0.1 543311.us10.cc
+127.0.0.1 553914.na3.me
 127.0.0.1 abissnet.net
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
@@ -90,6 +93,7 @@
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 csg-app.com
 127.0.0.1 data.yhydl.com
+127.0.0.1 datashieldsecure.com
 127.0.0.1 dcwblida.dz
 127.0.0.1 debt41.com
 127.0.0.1 deutsclhllandtlclket-de.spongebobcoinsol.com
@@ -117,6 +121,7 @@
 127.0.0.1 epanpano.com
 127.0.0.1 esgroupnet.com
 127.0.0.1 expay.ru
+127.0.0.1 expertuslugi.top
 127.0.0.1 expressbrasilpremium.com
 127.0.0.1 fenlandbaitsandleads.com
 127.0.0.1 file.blackint3.com
@@ -301,4 +306,4 @@
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zzaque.com
-# Number of entries: 295
+# Number of entries: 300
