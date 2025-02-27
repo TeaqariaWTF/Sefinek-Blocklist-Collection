@@ -11,14 +11,14 @@
 # Title: Blocks most LGBTQ+ websites, including those that promote or oppose LGBTQ+ content
 # Description: Active, inactive, and parked domains. Some of them may also share pornographic content.
 # Expires: 1 day
-# Count: 112165
+# Count: 112166
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 127.0.0.1 before each domain
-# Version: 1740306424399
-# Last update: February 23, 2025 at 10:27 AM UTC | 2025-02-23T10:27:04.399+00:00
+# Version: 1740652152936
+# Last update: February 27, 2025 at 10:29 AM UTC | 2025-02-27T10:29:12.936+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -112193,3 +112193,4 @@
 127.0.0.1 gaymed.ee
 127.0.0.1 pride.ee
 127.0.0.1 happypride.ee
+127.0.0.1 denhemligagayhistorien.se

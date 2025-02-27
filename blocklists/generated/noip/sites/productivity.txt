@@ -11,14 +11,14 @@
 # Title: Blocks productivity tools and collaboration platforms (beta)
 # Description: Active, inactive, and parked domains. Blocks websites for productivity tools such as Google Docs, Office365, Slack, Zoom, Trello, Notion, and others.
 # Expires: 1 day
-# Count: 85104
+# Count: 85106
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: No IP (only domains)
-# Version: 1740133697091
-# Last update: February 21, 2025 at 10:28 AM UTC | 2025-02-21T10:28:17.091+00:00
+# Version: 1740652150046
+# Last update: February 27, 2025 at 10:29 AM UTC | 2025-02-27T10:29:10.046+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -85132,3 +85132,5 @@ notionpasvenska.se
 office365.ee
 rizoom.ee
 dropbox.ee
+confluenceexperten.se
+jiraexperten.se
