@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-28 01:44:12 (UTC)                      #
+# Last updated: 2025-02-28 02:46:31 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 01.pogoda86.online
+127.0.0.1 123.ywxww.net
 127.0.0.1 123check.mosco.cc
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 543311.us10.cc
@@ -28,6 +29,7 @@
 127.0.0.1 antlb0tv2.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
+127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.drivercamhub.cloud
 127.0.0.1 api.ewfiles.net
@@ -38,7 +40,6 @@
 127.0.0.1 armanayegh.com
 127.0.0.1 asfllnaq-de.com
 127.0.0.1 aslb-co-nz.andrewcotton.com
-127.0.0.1 aulist.com
 127.0.0.1 avastcxp.com
 127.0.0.1 avastcxt.com
 127.0.0.1 avastexodus.com
@@ -50,6 +51,7 @@
 127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
 127.0.0.1 banthis.su
+127.0.0.1 batterymax.pk
 127.0.0.1 bisanest.com
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 bitsyncs.org
@@ -101,13 +103,13 @@
 127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 disk.accord1key.cn
+127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
-127.0.0.1 down.gmexiochappt.com
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
@@ -158,7 +160,6 @@
 127.0.0.1 larrinca.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
-127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
@@ -216,7 +217,7 @@
 127.0.0.1 saveyourcinema.ca
 127.0.0.1 sbtechus.com
 127.0.0.1 security-service-api-link.cc
-127.0.0.1 sfa.com.ar
+127.0.0.1 shell.dimitrimedia.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
 127.0.0.1 smsfastersend.com
@@ -224,6 +225,7 @@
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 spongebobcoinsol.com
 127.0.0.1 sporcketngearforu.com
+127.0.0.1 src1.minibai.com
 127.0.0.1 ssfsy-homepage.larrinca.com
 127.0.0.1 staatsgewalt.jameschans.de
 127.0.0.1 stdown.dinju.com
@@ -232,11 +234,11 @@
 127.0.0.1 sufikhat.com
 127.0.0.1 suomi-app.net
 127.0.0.1 support.clz.kr
-127.0.0.1 symbiatec-fi.com
 127.0.0.1 symdlotic.com
 127.0.0.1 targetshopify.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
+127.0.0.1 telegramcn.co
 127.0.0.1 temirtau-adm.ru
 127.0.0.1 tengfeidn.com
 127.0.0.1 test.magicm8.com
@@ -247,6 +249,7 @@
 127.0.0.1 tianyinsoft.top
 127.0.0.1 toyscenter.cl
 127.0.0.1 traefik-dashboard.val.io.vn
+127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 tumbl.design-x.xyz
 127.0.0.1 turkey-ivf.org
 127.0.0.1 twitch.cx
@@ -264,6 +267,7 @@
 127.0.0.1 utorrent-backup-server4.top
 127.0.0.1 utorrent-backup-server5.top
 127.0.0.1 utorrent-server-api.cc
+127.0.0.1 utorrent-servers.xyz
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 win-network-checker.cc
 127.0.0.1 worldbuisness.us
@@ -298,8 +302,10 @@
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.telegarmeapp.io
+127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zhikey.com
+127.0.0.1 wynecare.com
 127.0.0.1 wz.3911.com
 127.0.0.1 xemhang.vn
 127.0.0.1 xiangshunjy.com
@@ -311,4 +317,4 @@
 127.0.0.1 z.shavsl.com
 127.0.0.1 znrq.zifwxq.cn
 127.0.0.1 zzaque.com
-# Number of entries: 305
+# Number of entries: 311
