@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-02-28 10:19:04 (UTC)                      #
+# Last updated: 2025-02-28 12:38:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,6 +9,7 @@
 01.pogoda86.online
 123check.mosco.cc
 1717.1000uc.com
+360down7.miiyun.cn
 543311.us10.cc
 553914.na3.me
 562378.netdoc.online
@@ -28,8 +29,8 @@ andrewcotton.com
 angela.spklove.com
 antlb0tv2.com
 aosafrica.co.za
-api.accueil-coinbase.com
 api.aide-coinbase.com
+api.co-operativefinance.com
 api.drivercamhub.cloud
 api.ewfiles.net
 api.information-binance.com
@@ -60,13 +61,11 @@ bitsyncs.org
 book.rollingvideogames.com
 booking.clientagusta.com
 boquetecleaningservices.com
-botnet.sharkcdn.net
 buscascolegios.diit.cl
 caffechian.com
 capthumam.com
 casalomaminca.com
 cattozzo.it
-cdaonline.com.ar
 check.basyg.icu
 check.baww.shop
 check.buhah.icu
@@ -84,6 +83,7 @@ check.sukif.icu
 check.tymis.icu
 check.vokaz.icu
 check.zinus.icu
+chinaapper.com
 chromeupd-mo.com
 ciscocdn.com
 citadel.magicm8.com
@@ -102,23 +102,30 @@ data.yhydl.com
 datashieldsecure.com
 dcwblida.dz
 deutsclhllandtlclket-de.spongebobcoinsol.com
+device.redirec.com
 dhnconstrucciones.com.ar
+disk.accord1key.cn
+divvanews.com
+dl.1003b.56a.com
 dl.aginjector.com
 dl.packetstormsecurity.net
 dld.jxwan.com
 dow.andylab.cn
 down.fwqlt.com
+down.gmexiochappt.com
+down.mvip8.ru
 down.pcclear.com
 down.qqfarmer.com.cn
 download.caihong.com
 download.emailorganizer.com
 download.overengine.store
+download.suxiazai.com
 downsexv.com
 e4l4.com
 egh-finance.com
 eleven11ind.com
 elisans.novayonetim.com
-eoufaoeuhoauengi.su
+epanpano.com
 esgroupnet.com
 expay.ru
 expertuslugi.top
@@ -127,12 +134,14 @@ fenlandbaitsandleads.com
 file.blackint3.com
 file.edunet.ac
 files5.uludagbilisim.com
+fox-news-checker.cc
 foyding.cspok.cn
 fundrescuetech.com
 funletters.net
 gacdn.ru
 gachetroi.com
 genericfixer.com
+glennmedina.com
 grupobramam.com.br
 hitman-pro.ru
 hitstation.nl
@@ -155,9 +164,7 @@ korvewo.top
 kristinaphillipson.com
 lakestreetsolar.com
 larrinca.com
-library.arihantmbainstitute.ac.in
 lindnerelektroanlagen.de
-linkvilleplayers.org
 littlemtlogistics.net
 livetrack.in
 lostheaven.com.cn
@@ -171,7 +178,6 @@ megawyd.com
 mertvinc.com.tr
 metaldetectingcompetitions.com
 microsoft-auth-network.cc
-miner-tolken.com
 misljen.net
 mitgpssms.com
 mlles-and-norre.zzaque.com
@@ -181,6 +187,7 @@ nabawitransport.com
 namthaibinh.net
 nationwideavast.com
 nichetoolsai.com
+noithaticon.vn
 ny.lshdw.cc
 ojang.pe.kr
 onllne-acb-co-nz.nichetoolsai.com
@@ -201,25 +208,25 @@ private-sailing-croatia.com
 procardio-store.com
 professionalphotographyassociates.com
 protechasia.com
-qiniuyunxz.yxflzs.com
 qlqd5zqefmkcr34a.onion.sh
 quanly.jxmienphi.net
 quanlyphongnet.com
 rappel-coinbase.com
 rd.chuitian.cn
-recepchtav3.com
 reifenquick.de
 resourceedge.org
 reusable-flex.com
 rewiewe-cheksdin.com
+rgueapp.com
 rmsatendrfdverif.world
 rocketibt.com
 ronnin-v2.com
 rustbakingtable.com
-safe.ywxww.net
+saveyourcinema.ca
 sbtechus.com
 security-service-api-link.cc
 sfa.com.ar
+shell.dimitrimedia.com
 sirault.be
 sms-szfang.com
 smsfastersend.com
@@ -238,7 +245,7 @@ sufikhat.com
 suomi-app.net
 support.clz.kr
 symbiatec-fi.com
-symbietic.com
+symdlotic.com
 targetshopify.com
 tecni-soft.com
 tecunonline.com
@@ -247,16 +254,17 @@ temirtau-adm.ru
 tengfeidn.com
 test.magicm8.com
 test.vantrong.id.vn
+tests.yjzj.org
 theherbalhub.com
 thesultancashncarry.com
 tianyinsoft.top
 toyscenter.cl
 traefik-dashboard.val.io.vn
+treinamento.convenio.to.gov.br
 tumbl.design-x.xyz
 turkey-ivf.org
 twitch.cx
 twitch.tj
-twizt.net
 update-checker-status.cc
 update.cg100iii.com
 update.overengine.store
@@ -264,10 +272,10 @@ update.volam2005pk.com
 updateinfo-portal.com
 usatrustservice.info
 utorrent-backup-server.top
-utorrent-backup-server2.top
 utorrent-backup-server3.top
 utorrent-backup-server4.top
 utorrent-backup-server5.top
+utorrent-server-api.cc
 utorrent-servers.xyz
 vbccorretoradeseguros.com.br
 win-network-checker.cc
@@ -277,16 +285,18 @@ www.albuspsikoloji.com.tr
 www.aqianniao.com
 www.asfllnaq-de.com
 www.atc-secure.com
+www.batterymax.pk
 www.beiletoys.com
 www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.cmcmarkets.work
-www.elefantenfutter.de
 www.flechabusretiro.com.ar
 www.globallaborsupply.com
+www.hseda.com
 www.ingonherbal.com
 www.jz3366.top
-www.littlemoroccanthings.com
+www.leeholmes.com
+www.maxmoney.com
 www.medises.co.kr
 www.megawyd.com
 www.newkey.co.kr
@@ -294,6 +304,7 @@ www.ojang.pe.kr
 www.opolis.io
 www.qfs-securityledger.com
 www.reifenquick.de
+www.rphingenieria.com
 www.serviciodelimpiezaperu.com
 www.seventools.de
 www.sporcketngearforu.com
@@ -306,14 +317,14 @@ www.ysbaojia.com
 www.zhikey.com
 wynecare.com
 wz.3911.com
+xemhang.vn
 xiangshunjy.com
 ximonite.com
 xingpai.weilay.com.cn
 yn.noyoo.cn
 yunger.ddns.cam
-ywxww.net
 yzkzixun.com
 z.shavsl.com
 znrq.zifwxq.cn
 zzaque.com
-# Number of entries: 310
+# Number of entries: 321
