@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-01 16:20:06 (UTC)                      #
+# Last updated: 2025-03-01 18:16:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,8 +13,9 @@
 0.0.0.0 562378.netdoc.online
 0.0.0.0 612583.na8.me
 0.0.0.0 6348901.na7.me
+0.0.0.0 abissnet.net
+0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 alephmim.com
@@ -22,10 +23,8 @@
 0.0.0.0 americanexpressloginus.com
 0.0.0.0 andrewcotton.com
 0.0.0.0 angela.spklove.com
-0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
-0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.drivercamhub.cloud
 0.0.0.0 api.ewfiles.net
@@ -59,7 +58,6 @@
 0.0.0.0 capthumam.com
 0.0.0.0 casalomaminca.com
 0.0.0.0 catbaparadisehotel.com.vn
-0.0.0.0 cattozzo.it
 0.0.0.0 check.basyg.icu
 0.0.0.0 check.bipyl.icu
 0.0.0.0 check.buhah.icu
@@ -88,8 +86,6 @@
 0.0.0.0 check.woqym.icu
 0.0.0.0 check.xapus.icu
 0.0.0.0 check.zinus.icu
-0.0.0.0 chinaapper.com
-0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 citadel.magicm8.com
 0.0.0.0 clientagusta.com
@@ -98,18 +94,16 @@
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 conrolcoun.com
-0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 datashieldsecure.com
 0.0.0.0 dcwblida.dz
-0.0.0.0 device.redirec.com
-0.0.0.0 dhnconstrucciones.com.ar
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
@@ -128,7 +122,6 @@
 0.0.0.0 egh-finance.com
 0.0.0.0 eleven11ind.com
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 epanpano.com
 0.0.0.0 esgroupnet.com
 0.0.0.0 expay.ru
 0.0.0.0 expertuslugi.top
@@ -141,11 +134,11 @@
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 fxepiay.com
+0.0.0.0 gachetroi.com
 0.0.0.0 genericfixer.com
 0.0.0.0 ggepiay.com
 0.0.0.0 ggepllay.com
 0.0.0.0 glennmedina.com
-0.0.0.0 grupobramam.com.br
 0.0.0.0 highway-loads.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
@@ -156,6 +149,7 @@
 0.0.0.0 important-confirmation.com
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
+0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -170,10 +164,9 @@
 0.0.0.0 larrinca.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
+0.0.0.0 m.gutousoft.com
 0.0.0.0 magicm8.com
 0.0.0.0 mail.aestheticfina.com
 0.0.0.0 mandarin.net.au
@@ -184,14 +177,12 @@
 0.0.0.0 metaldetectingcompetitions.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
-0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
 0.0.0.0 mlles-and-norre.zzaque.com
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 myspecialdot.com
 0.0.0.0 nabawitransport.com
-0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 ny.lshdw.cc
@@ -216,11 +207,9 @@
 0.0.0.0 protechasia.com
 0.0.0.0 pumkoooog.fun
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
-0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
 0.0.0.0 reservation-confirms.com
 0.0.0.0 resourceedge.org
@@ -229,7 +218,6 @@
 0.0.0.0 rgueapp.com
 0.0.0.0 rmsatendrfdverif.world
 0.0.0.0 rocketibt.com
-0.0.0.0 ronnin-v2.com
 0.0.0.0 rustbakingtable.com
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 sbtechus.com
@@ -242,6 +230,7 @@
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 ssfsy-homepage.larrinca.com
 0.0.0.0 staatsgewalt.jameschans.de
@@ -251,19 +240,15 @@
 0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
-0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 targetshopify.com
 0.0.0.0 tecni-soft.com
-0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.magicm8.com
 0.0.0.0 test.vantrong.id.vn
 0.0.0.0 tests.yjzj.org
 0.0.0.0 theherbalhub.com
-0.0.0.0 tianyinsoft.top
 0.0.0.0 toyscenter.cl
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 treinamento.convenio.to.gov.br
@@ -281,6 +266,7 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
+0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verification-proceess.com
@@ -288,22 +274,19 @@
 0.0.0.0 www.albuspsikoloji.com.tr
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atc-secure.com
-0.0.0.0 www.batterymax.pk
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.benshamcentre.co.uk
-0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.leeholmes.com
+0.0.0.0 www.littlemoroccanthings.com
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.megawyd.com
-0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
-0.0.0.0 www.opolis.io
 0.0.0.0 www.qfs-securityledger.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
@@ -317,10 +300,10 @@
 0.0.0.0 www.telegarmeapp.io
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
-0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 yn.noyoo.cn
 0.0.0.0 yunger.ddns.cam
@@ -328,4 +311,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zzaque.com
-# Number of entries: 322
+# Number of entries: 305
