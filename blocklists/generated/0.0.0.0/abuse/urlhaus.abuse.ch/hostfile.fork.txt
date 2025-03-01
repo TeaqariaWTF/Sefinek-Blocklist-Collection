@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-01 01:49:05 (UTC)                      #
+# Last updated: 2025-03-01 02:52:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,7 +15,6 @@
 0.0.0.0 612583.na8.me
 0.0.0.0 6348901.na7.me
 0.0.0.0 abissnet.net
-0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
@@ -29,14 +28,12 @@
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
-0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.drivercamhub.cloud
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
-0.0.0.0 applepistudios.com
 0.0.0.0 apq-flnon-co.kristinaphillipson.com
 0.0.0.0 apxservices.esrv.me
 0.0.0.0 armanayegh.com
@@ -113,17 +110,18 @@
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.gmexiochappt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.overengine.store
+0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
 0.0.0.0 egh-finance.com
@@ -162,7 +160,6 @@
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
-0.0.0.0 jrqh-hk.com
 0.0.0.0 js.telega.cn
 0.0.0.0 karoonpc.com
 0.0.0.0 kismetguzelim.com
@@ -172,7 +169,6 @@
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
@@ -202,6 +198,7 @@
 0.0.0.0 ooriginalused.com
 0.0.0.0 otrsolutons.com
 0.0.0.0 pagesparthnerinform.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 partnerhumcli.world
@@ -217,7 +214,7 @@
 0.0.0.0 protechasia.com
 0.0.0.0 pumkoooog.fun
 0.0.0.0 qiniuyunxz.yxflzs.com
-0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
@@ -258,7 +255,6 @@
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
-0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.magicm8.com
 0.0.0.0 test.vantrong.id.vn
@@ -271,7 +267,6 @@
 0.0.0.0 tumbl.design-x.xyz
 0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.cx
-0.0.0.0 twitch.tj
 0.0.0.0 update-checker-status.cc
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.overengine.store
@@ -279,14 +274,14 @@
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 usatrustservice.info
 0.0.0.0 utorrent-backup-server.top
+0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-servers.xyz
+0.0.0.0 utorrent-server-api.cc
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verification-proceess.com
 0.0.0.0 win-network-checker.cc
-0.0.0.0 www.albuspsikoloji.com.tr
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atc-secure.com
 0.0.0.0 www.batterymax.pk
@@ -294,13 +289,14 @@
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.cmcmarkets.work
-0.0.0.0 www.elefantenfutter.de
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.leeholmes.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.megawyd.com
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
@@ -320,6 +316,7 @@
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
+0.0.0.0 xemhang.vn
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
@@ -329,4 +326,4 @@
 0.0.0.0 z.shavsl.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zzaque.com
-# Number of entries: 323
+# Number of entries: 320
