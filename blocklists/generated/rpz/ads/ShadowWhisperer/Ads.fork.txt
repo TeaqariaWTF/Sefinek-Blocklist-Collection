@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025022801 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025030101 43200 3600 259200 300
   NS  localhost.
 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
 *.0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com CNAME .
@@ -12917,6 +12917,8 @@ affiz.net CNAME .
 *.affiz.net CNAME .
 affle.com CNAME .
 *.affle.com CNAME .
+affliate-api.hindustantimes.com CNAME .
+*.affliate-api.hindustantimes.com CNAME .
 afflow.com CNAME .
 *.afflow.com CNAME .
 affluentco.com CNAME .
@@ -17267,6 +17269,8 @@ c.gotoxxxtube.com CNAME .
 *.c.gotoxxxtube.com CNAME .
 chachophigy.pro CNAME .
 *.chachophigy.pro CNAME .
+chademocharge.com CNAME .
+*.chademocharge.com CNAME .
 chairsdonkey.com CNAME .
 *.chairsdonkey.com CNAME .
 chameleon.ad CNAME .
