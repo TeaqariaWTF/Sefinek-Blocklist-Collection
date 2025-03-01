@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-01 10:13:04 (UTC)                      #
+# Last updated: 2025-03-01 12:33:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,6 +8,7 @@
 #
 0.0.0.0 01.pogoda86.online
 0.0.0.0 1717.1000uc.com
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 543311.us10.cc
 0.0.0.0 553914.na3.me
 0.0.0.0 562378.netdoc.online
@@ -16,6 +17,7 @@
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
+0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
 0.0.0.0 alephmim.com
@@ -43,7 +45,6 @@
 0.0.0.0 avastexodus.com
 0.0.0.0 avastmetamask.com
 0.0.0.0 avastng.com
-0.0.0.0 avastop.com
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
@@ -58,7 +59,7 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 caffechian.com
 0.0.0.0 capthumam.com
-0.0.0.0 catbaparadisehotel.com.vn
+0.0.0.0 casalomaminca.com
 0.0.0.0 cattozzo.it
 0.0.0.0 check.basyg.icu
 0.0.0.0 check.bipyl.icu
@@ -93,11 +94,11 @@
 0.0.0.0 ciscocdn.com
 0.0.0.0 citadel.magicm8.com
 0.0.0.0 clientagusta.com
+0.0.0.0 cnc-boatnet.vpnvn4g.com
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 conrolcoun.com
 0.0.0.0 crystalpvp.ru
@@ -120,7 +121,6 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.overengine.store
 0.0.0.0 download.suxiazai.com
@@ -142,20 +142,20 @@
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 fxepiay.com
-0.0.0.0 genericfixer.com
+0.0.0.0 gachetroi.com
 0.0.0.0 ggepiay.com
 0.0.0.0 ggepllay.com
 0.0.0.0 glennmedina.com
 0.0.0.0 grupobramam.com.br
-0.0.0.0 highway-loads.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hsbco-bn.com.egh-finance.com
+0.0.0.0 hseda.com
 0.0.0.0 important-confiirm.com
 0.0.0.0 important-confirmation.com
 0.0.0.0 information-binance.com
-0.0.0.0 inspirepk.org
+0.0.0.0 ini.sh-pp.com
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
@@ -188,12 +188,15 @@
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
 0.0.0.0 mlles-and-norre.zzaque.com
+0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 myspecialdot.com
+0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 norderswing.buzz
+0.0.0.0 ny.lshdw.cc
 0.0.0.0 ojang.pe.kr
 0.0.0.0 ooriginalused.com
 0.0.0.0 osecweb.ir
@@ -225,7 +228,6 @@
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 rewiewe-cheksdin.com
-0.0.0.0 rgueapp.com
 0.0.0.0 rmsatendrfdverif.world
 0.0.0.0 rocketibt.com
 0.0.0.0 ronnin-v2.com
@@ -240,7 +242,6 @@
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 ssfsy-homepage.larrinca.com
@@ -250,10 +251,11 @@
 0.0.0.0 sufikhat.com
 0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
-0.0.0.0 symbiatec-fi.com
+0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 targetshopify.com
 0.0.0.0 tecni-soft.com
+0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -271,6 +273,7 @@
 0.0.0.0 twitch.tj
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.overengine.store
+0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 usatrustservice.info
@@ -279,7 +282,6 @@
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verification-proceess.com
@@ -291,16 +293,13 @@
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.elefantenfutter.de
-0.0.0.0 www.flechabusretiro.com.ar
-0.0.0.0 www.globallaborsupply.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.leeholmes.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.megawyd.com
-0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qfs-securityledger.com
@@ -308,11 +307,12 @@
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.serviciodelimpiezaperu.com
 0.0.0.0 www.seventools.de
+0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.suarakutim.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.telegarmeapp.io
-0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
