@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-02 20:19:11 (UTC)                      #
+# Last updated: 2025-03-02 22:09:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,10 +23,12 @@
 127.0.0.1 angela.spklove.com
 127.0.0.1 antlb0tv2.com
 127.0.0.1 aosafrica.co.za
+127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.information-binance.com
+127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app-updater.app
 127.0.0.1 app.evaluanom035.com
 127.0.0.1 app.houseforma.com.br
@@ -45,10 +47,11 @@
 127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
-127.0.0.1 banappeals.net
+127.0.0.1 barefootpilateslb.com
 127.0.0.1 batterymax.pk
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 bizmir.shop
+127.0.0.1 blessdayservices.org
 127.0.0.1 bmdcompany.com
 127.0.0.1 book.rollingvideogames.com
 127.0.0.1 buscascolegios.diit.cl
@@ -102,17 +105,18 @@
 127.0.0.1 conn.masjesu.zip
 127.0.0.1 crystalpvp.ru
 127.0.0.1 csg-app.com
-127.0.0.1 dangtienluc.com
 127.0.0.1 data.yhydl.com
 127.0.0.1 dcwblida.dz
 127.0.0.1 deturistaenjapon.com
 127.0.0.1 dev.gestroom.it
+127.0.0.1 device.redirec.com
 127.0.0.1 dhnconstrucciones.com.ar
 127.0.0.1 dianzanla.com
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
 127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
+127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
@@ -120,15 +124,17 @@
 127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
+127.0.0.1 download.caihong.com
 127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.suxiazai.com
 127.0.0.1 downsexv.com
+127.0.0.1 drmarlenemd.com
 127.0.0.1 e4l4.com
 127.0.0.1 elisans.novayonetim.com
+127.0.0.1 elnas.com
 127.0.0.1 epanpano.com
 127.0.0.1 esgroupnet.com
 127.0.0.1 expay.ru
-127.0.0.1 facturacio.titoworld.com
 127.0.0.1 fastfreight-loads.com
 127.0.0.1 fastfreightloads.com
 127.0.0.1 file.blackint3.com
@@ -153,15 +159,18 @@
 127.0.0.1 hobobot.net
 127.0.0.1 horno-rafelet.es
 127.0.0.1 hseda.com
-127.0.0.1 ifuckyourpc.win
+127.0.0.1 iconichomestudios.com
 127.0.0.1 immo-etoiles.fr
 127.0.0.1 important-confiirm.com
 127.0.0.1 important-confirmation.com
+127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
+127.0.0.1 inzbdex.xyz
 127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
+127.0.0.1 jessespridecharters.com
 127.0.0.1 jobcity.com
 127.0.0.1 jointings.org
 127.0.0.1 jrqh-hk.com
@@ -170,12 +179,16 @@
 127.0.0.1 kevinzhangadmin.jintsume.net
 127.0.0.1 kismetguzelim.com
 127.0.0.1 kusal.com
-127.0.0.1 l1nxx.para.rip
 127.0.0.1 laborpartyjo.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 littlemtlogistics.net
+127.0.0.1 livemap-loads.com
+127.0.0.1 livemap-trucks.com
+127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
+127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 lucprofessional.com.br
 127.0.0.1 lucprofessional.grupomoltz.com.br
 127.0.0.1 ly71.drovealarmgoatskin.shop
@@ -192,6 +205,7 @@
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
 127.0.0.1 mine.moroccoex.com
+127.0.0.1 miner-tolken.com
 127.0.0.1 misano.gestroom.it
 127.0.0.1 misljen.net
 127.0.0.1 mitgpssms.com
@@ -205,19 +219,21 @@
 127.0.0.1 ningbocrm.jintsume.net
 127.0.0.1 noithaticon.vn
 127.0.0.1 norderswing.buzz
-127.0.0.1 ny.lshdw.cc
 127.0.0.1 ojang.pe.kr
+127.0.0.1 onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com
 127.0.0.1 ooriginalused.com
+127.0.0.1 osecweb.ir
 127.0.0.1 otrsolutons.com
+127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
+127.0.0.1 paulinatajda.com
 127.0.0.1 payment.verification-proceess.com
 127.0.0.1 pid.fly160.com
 127.0.0.1 pns.org.pk
 127.0.0.1 procedeed-verific.com
 127.0.0.1 protechasia.com
 127.0.0.1 pumkoooog.fun
-127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
 127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
@@ -229,6 +245,7 @@
 127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
 127.0.0.1 rgueapp.com
+127.0.0.1 riverview-pools.com
 127.0.0.1 rocketibt.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 rustbakingtable.com
@@ -252,6 +269,7 @@
 127.0.0.1 suomi-app.net
 127.0.0.1 support.clz.kr
 127.0.0.1 symbiatec-fi.com
+127.0.0.1 symbietic.com
 127.0.0.1 symdlotic.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 tecunonline.com
@@ -266,11 +284,12 @@
 127.0.0.1 titrans-cd.com
 127.0.0.1 toulon-united.fr
 127.0.0.1 toyscenter.cl
-127.0.0.1 traefik-dashboard.val.io.vn
 127.0.0.1 treinamento.convenio.to.gov.br
 127.0.0.1 turkey-ivf.org
+127.0.0.1 twitch.cx
 127.0.0.1 twitch.tj
 127.0.0.1 update.cg100iii.com
+127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 user.mypetapp.co.za
 127.0.0.1 utorrent-backup-server.top
@@ -282,7 +301,6 @@
 127.0.0.1 utorrent-servers.xyz
 127.0.0.1 vbccorretoradeseguros.com.br
 127.0.0.1 verification-proceess.com
-127.0.0.1 website.mypetapp.co.za
 127.0.0.1 win-network-checker.cc
 127.0.0.1 wingsaviationacademy-in.salviatech.com
 127.0.0.1 wingsaviationacademy.in
@@ -304,14 +322,17 @@
 127.0.0.1 www.finocci.com
 127.0.0.1 www.first-security-verden.de
 127.0.0.1 www.flechabusretiro.com.ar
+127.0.0.1 www.gemrazorback.com
 127.0.0.1 www.gestroom.it
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hseda.com
 127.0.0.1 www.immo-etoiles.fr
+127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.kevinzhangadmin.jintsume.net
 127.0.0.1 www.laborpartyjo.com
 127.0.0.1 www.leeholmes.com
-127.0.0.1 www.littlemoroccanthings.com
+127.0.0.1 www.livemap-loads.com
+127.0.0.1 www.livemap-trucks.com
 127.0.0.1 www.lucprofessional.grupomoltz.com.br
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
@@ -326,6 +347,7 @@
 127.0.0.1 www.seventools.de
 127.0.0.1 www.sis.houseforma.com.br
 127.0.0.1 www.sporcketngearforu.com
+127.0.0.1 www.starcountry.net
 127.0.0.1 www.suarakutim.com
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
@@ -334,7 +356,6 @@
 127.0.0.1 www.titrans-cd.com
 127.0.0.1 www.user.mypetapp.co.za
 127.0.0.1 www.website.mypetapp.co.za
-127.0.0.1 www.wingsaviationacademy-in.salviatech.com
 127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 www.zamilgroups.com
@@ -350,5 +371,6 @@
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
 127.0.0.1 zamilgroups.com
+127.0.0.1 zettagc.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 345
+# Number of entries: 367

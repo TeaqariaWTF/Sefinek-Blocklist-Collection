@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 21,079
-# Updated: 2/28/2025  23:43 (11:43 PM CST)
+# Domains: 21,082
+# Updated: 3/2/2025  14:34 (2:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5215,6 +5215,7 @@ server=/ads.sportsseoul.com/
 server=/ads.sportsvideo.org/
 server=/ads.spotic.net/
 server=/ads.spotify.com/
+server=/adssquared.com/
 server=/ads.srds.com/
 server=/ads-srv.com/
 server=/ads-srv.net/
@@ -10022,6 +10023,7 @@ server=/digitaladsystems.com/
 server=/digitaladv.despar.it/
 server=/digitaladvertisingalliance.org/
 server=/digitalbeard.co.nz/
+server=/digitalcamp.co.kr/
 server=/digitalcaramel.com/
 server=/digitaldhuria.com/
 server=/digitaleast.mobi/
@@ -17287,6 +17289,7 @@ server=/rtbiq.com/
 server=/rtb.junnya.com/
 server=/rtbmarket.com/
 server=/rtbmarkt.de/
+server=/rtb-mix.com/
 server=/rtbpanda.com/
 server=/rtbplatform.net/
 server=/rtbpop.com/

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-02 20:19:11 (UTC)                      #
+# Last updated: 2025-03-02 22:09:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,10 +23,12 @@
 0.0.0.0 angela.spklove.com
 0.0.0.0 antlb0tv2.com
 0.0.0.0 aosafrica.co.za
+0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
+0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-updater.app
 0.0.0.0 app.evaluanom035.com
 0.0.0.0 app.houseforma.com.br
@@ -45,10 +47,11 @@
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
-0.0.0.0 banappeals.net
+0.0.0.0 barefootpilateslb.com
 0.0.0.0 batterymax.pk
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bizmir.shop
+0.0.0.0 blessdayservices.org
 0.0.0.0 bmdcompany.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 buscascolegios.diit.cl
@@ -102,17 +105,18 @@
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
-0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deturistaenjapon.com
 0.0.0.0 dev.gestroom.it
+0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dianzanla.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
@@ -120,15 +124,17 @@
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
+0.0.0.0 drmarlenemd.com
 0.0.0.0 e4l4.com
 0.0.0.0 elisans.novayonetim.com
+0.0.0.0 elnas.com
 0.0.0.0 epanpano.com
 0.0.0.0 esgroupnet.com
 0.0.0.0 expay.ru
-0.0.0.0 facturacio.titoworld.com
 0.0.0.0 fastfreight-loads.com
 0.0.0.0 fastfreightloads.com
 0.0.0.0 file.blackint3.com
@@ -153,15 +159,18 @@
 0.0.0.0 hobobot.net
 0.0.0.0 horno-rafelet.es
 0.0.0.0 hseda.com
-0.0.0.0 ifuckyourpc.win
+0.0.0.0 iconichomestudios.com
 0.0.0.0 immo-etoiles.fr
 0.0.0.0 important-confiirm.com
 0.0.0.0 important-confirmation.com
+0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
+0.0.0.0 inzbdex.xyz
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
+0.0.0.0 jessespridecharters.com
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
@@ -170,12 +179,16 @@
 0.0.0.0 kevinzhangadmin.jintsume.net
 0.0.0.0 kismetguzelim.com
 0.0.0.0 kusal.com
-0.0.0.0 l1nxx.para.rip
 0.0.0.0 laborpartyjo.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
+0.0.0.0 livemap-loads.com
+0.0.0.0 livemap-trucks.com
+0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lucprofessional.com.br
 0.0.0.0 lucprofessional.grupomoltz.com.br
 0.0.0.0 ly71.drovealarmgoatskin.shop
@@ -192,6 +205,7 @@
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 mine.moroccoex.com
+0.0.0.0 miner-tolken.com
 0.0.0.0 misano.gestroom.it
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
@@ -205,19 +219,21 @@
 0.0.0.0 ningbocrm.jintsume.net
 0.0.0.0 noithaticon.vn
 0.0.0.0 norderswing.buzz
-0.0.0.0 ny.lshdw.cc
 0.0.0.0 ojang.pe.kr
+0.0.0.0 onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com
 0.0.0.0 ooriginalused.com
+0.0.0.0 osecweb.ir
 0.0.0.0 otrsolutons.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
+0.0.0.0 paulinatajda.com
 0.0.0.0 payment.verification-proceess.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 procedeed-verific.com
 0.0.0.0 protechasia.com
 0.0.0.0 pumkoooog.fun
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -229,6 +245,7 @@
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 rgueapp.com
+0.0.0.0 riverview-pools.com
 0.0.0.0 rocketibt.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 rustbakingtable.com
@@ -252,6 +269,7 @@
 0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
+0.0.0.0 symbietic.com
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
@@ -266,11 +284,12 @@
 0.0.0.0 titrans-cd.com
 0.0.0.0 toulon-united.fr
 0.0.0.0 toyscenter.cl
-0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
+0.0.0.0 twitch.cx
 0.0.0.0 twitch.tj
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 user.mypetapp.co.za
 0.0.0.0 utorrent-backup-server.top
@@ -282,7 +301,6 @@
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verification-proceess.com
-0.0.0.0 website.mypetapp.co.za
 0.0.0.0 win-network-checker.cc
 0.0.0.0 wingsaviationacademy-in.salviatech.com
 0.0.0.0 wingsaviationacademy.in
@@ -304,14 +322,17 @@
 0.0.0.0 www.finocci.com
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.flechabusretiro.com.ar
+0.0.0.0 www.gemrazorback.com
 0.0.0.0 www.gestroom.it
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.immo-etoiles.fr
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kevinzhangadmin.jintsume.net
 0.0.0.0 www.laborpartyjo.com
 0.0.0.0 www.leeholmes.com
-0.0.0.0 www.littlemoroccanthings.com
+0.0.0.0 www.livemap-loads.com
+0.0.0.0 www.livemap-trucks.com
 0.0.0.0 www.lucprofessional.grupomoltz.com.br
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
@@ -326,6 +347,7 @@
 0.0.0.0 www.seventools.de
 0.0.0.0 www.sis.houseforma.com.br
 0.0.0.0 www.sporcketngearforu.com
+0.0.0.0 www.starcountry.net
 0.0.0.0 www.suarakutim.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -334,7 +356,6 @@
 0.0.0.0 www.titrans-cd.com
 0.0.0.0 www.user.mypetapp.co.za
 0.0.0.0 www.website.mypetapp.co.za
-0.0.0.0 www.wingsaviationacademy-in.salviatech.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zamilgroups.com
@@ -350,5 +371,6 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 zamilgroups.com
+0.0.0.0 zettagc.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 345
+# Number of entries: 367
