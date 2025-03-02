@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-02 12:39:05 (UTC)                      #
+# Last updated: 2025-03-02 14:05:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,6 +12,7 @@
 0.0.0.0 6348901.na7.me
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
+0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
@@ -82,24 +83,25 @@
 0.0.0.0 check.xapus.icu
 0.0.0.0 check.zixeq.icu
 0.0.0.0 chinaapper.com
+0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cnc-boatnet.vpnvn4g.com
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
+0.0.0.0 cobolrationumelawrtewarms.com
 0.0.0.0 commavast.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
-0.0.0.0 dcwblida.dz
 0.0.0.0 device.redirec.com
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
+0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dow.andylab.cn
@@ -107,8 +109,6 @@
 0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
@@ -125,7 +125,6 @@
 0.0.0.0 funletters.net
 0.0.0.0 fxepiay.com
 0.0.0.0 gachetroi.com
-0.0.0.0 genericfixer.com
 0.0.0.0 ggepiay.com
 0.0.0.0 ggepllay.com
 0.0.0.0 glennmedina.com
@@ -133,7 +132,6 @@
 0.0.0.0 highway-loads.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
 0.0.0.0 important-confiirm.com
 0.0.0.0 important-confirmation.com
@@ -148,7 +146,6 @@
 0.0.0.0 jrqh-hk.com
 0.0.0.0 js.telega.cn
 0.0.0.0 karoonpc.com
-0.0.0.0 kismetguzelim.com
 0.0.0.0 kusal.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
@@ -156,9 +153,7 @@
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
-0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 ly71.drovealarmgoatskin.shop
-0.0.0.0 m.gutousoft.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 marubeni.cc
 0.0.0.0 mcpperformance.com.br
@@ -166,7 +161,6 @@
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
-0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
@@ -176,9 +170,9 @@
 0.0.0.0 nationwideavast.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 norderswing.buzz
+0.0.0.0 ny.lshdw.cc
 0.0.0.0 ojang.pe.kr
 0.0.0.0 ooriginalused.com
-0.0.0.0 osecweb.ir
 0.0.0.0 otrsolutons.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
@@ -189,6 +183,7 @@
 0.0.0.0 procedeed-verific.com
 0.0.0.0 protechasia.com
 0.0.0.0 pumkoooog.fun
+0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -211,7 +206,7 @@
 0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
 0.0.0.0 soportegira.net
-0.0.0.0 sporcketngearforu.com
+0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 src1.minibai.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
@@ -224,34 +219,28 @@
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 tests.yjzj.org
 0.0.0.0 theherbalhub.com
 0.0.0.0 tianyinsoft.top
-0.0.0.0 toyscenter.cl
 0.0.0.0 traefik-dashboard.val.io.vn
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.cx
 0.0.0.0 twitch.tj
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
+0.0.0.0 uploadhaven.store
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-server-api.cc
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 verification-proceess.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 www.albuspsikoloji.com.tr
-0.0.0.0 www.aqianniao.com
-0.0.0.0 www.atc-secure.com
 0.0.0.0 www.batterymax.pk
 0.0.0.0 www.beiletoys.com
 0.0.0.0 www.benshamcentre.co.uk
@@ -281,7 +270,6 @@
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xiangshunjy.com
@@ -290,5 +278,4 @@
 0.0.0.0 yn.noyoo.cn
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 yzkzixun.com
-0.0.0.0 z.shavsl.com
-# Number of entries: 285
+# Number of entries: 272
