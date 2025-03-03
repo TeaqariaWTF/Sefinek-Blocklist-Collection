@@ -1,5 +1,5 @@
 ! Admiral, parsed and mirrored by https://firebog.net
-! Updated 24FEB25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+! Updated 03MAR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 ! This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 ! There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 ! Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -26,6 +26,7 @@
 ||adamantsnail.com^
 ||adorableanger.com^
 ||adorableattention.com^
+||advertisementafterthought.com^
 ||afraidlanguage.com^
 ||agreeablearch.com^
 ||agreeabletouch.com^
@@ -37,6 +38,7 @@
 ||aloofvest.com^
 ||alpineactor.com^
 ||ambiguousafternoon.com^
+||ambiguousalarm.com^
 ||ambiguousanger.com^
 ||ambiguousdinosaurs.com^
 ||ambiguousincome.com^
@@ -71,6 +73,7 @@
 ||bagbeam.com^
 ||balancebreath.com^
 ||balloonbelieve.com^
+||balloontexture.com^
 ||ballsbanana.com^
 ||bandborder.com^
 ||barbarousbase.com^
@@ -78,8 +81,10 @@
 ||baskettexture.com^
 ||bawdybalance.com^
 ||beadbears.com^
+||beamincrease.com^
 ||beamvolcano.com^
 ||beancontrol.com^
+||beastbeef.com^
 ||bedsberry.com^
 ||beginnerpancake.com^
 ||berserkhydrant.com^
@@ -94,6 +99,7 @@
 ||boatsvest.com^
 ||boilingbeetle.com^
 ||boilingcredit.com^
+||boneregret.com^
 ||boredcrown.com^
 ||bouncyproperty.com^
 ||boundarybusiness.com^
@@ -114,6 +120,7 @@
 ||burlywhistle.com^
 ||burnbubble.com^
 ||bushesbag.com^
+||businessbells.com^
 ||bustlingbook.com^
 ||butterbulb.com^
 ||butterburst.com^
@@ -171,15 +178,18 @@
 ||conditioncrush.com^
 ||confesschairs.com^
 ||configchain.com^
+||consciousdirt.com^
 ||cooingcoal.com^
 ||coordinatedcoat.com^
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
+||correctchaos.com^
 ||cosmosjackson.com^
 ||courageousbaby.com^
 ||crabbychin.com^
 ||crafthenry.com^
 ||cratecamera.com^
+||crawlclocks.com^
 ||creatorcherry.com^
 ||creaturecabbage.com^
 ||critictruck.com^
@@ -196,6 +206,7 @@
 ||curvycry.com^
 ||cutecalculator.com^
 ||cutechin.com^
+||cutecushion.com^
 ||cutepopcorn.com^
 ||cuteturkey.com^
 ||damagedadvice.com^
@@ -232,12 +243,16 @@
 ||distributiontomatoes.com^
 ||disturbedquiet.com^
 ||dockdigestion.com^
+||dogsshoes.com^
 ||dollardelta.com^
+||donkeyleaf.com^
 ||doubtdrawer.com^
 ||dq95d35.com^
 ||dramaticcondition.com^
 ||dramaticdirection.com^
+||driverequest.com^
 ||dustydime.com^
+||efficaciouscactus.com^
 ||elasticchange.com^
 ||elderlytown.com^
 ||embellishedmeadow.com^
@@ -258,9 +273,11 @@
 ||enviousshape.com^
 ||enviousthread.com^
 ||equablekettle.com^
+||erraticreaction.com^
 ||evanescentedge.com^
 ||evasivejar.com^
 ||expansioneggnog.com^
+||experienceeggs.com^
 ||exuberantedge.com^
 ||exuberanteyes.com^
 ||facilitatebreakfast.com^
@@ -333,6 +350,7 @@
 ||gloriousbeef.com^
 ||glowingmeadow.com^
 ||gondolagnome.com^
+||gorgeousground.com^
 ||gracefulmilk.com^
 ||grainmass.com^
 ||grandioseguide.com^
@@ -340,6 +358,7 @@
 ||grayoranges.com^
 ||grayreceipt.com^
 ||greasysquare.com^
+||greetzebra.com^
 ||gripcorn.com^
 ||groovyornament.com^
 ||grouchypush.com^
@@ -359,6 +378,7 @@
 ||handyfield.com^
 ||handyfireman.com^
 ||harborcub.com^
+||hardtofindmilk.com^
 ||hatefulrequest.com^
 ||headydegree.com^
 ||headyhook.com^
@@ -377,6 +397,7 @@
 ||honorablehydrant.com^
 ||honorableland.com^
 ||hospitablehall.com^
+||humdrumhat.com^
 ||humdrumhobbies.com^
 ||humdrumtouch.com^
 ||hurtgrape.com^
@@ -395,11 +416,13 @@
 ||impulselumber.com^
 ||incompetentjoke.com^
 ||infamousstream.com^
+||informengine.com^
 ||innocentlamp.com^
 ||inquisitiveinvention.com^
 ||instrumentsponge.com^
 ||intelligentscissors.com^
 ||internalsink.com^
+||inventionpassenger.com^
 ||inventtango.com^
 ||irritatingfog.com^
 ||ivykiosk.com^
@@ -407,7 +430,6 @@
 ||jailbulb.com^
 ||joblessdrum.com^
 ||justicejudo.com^
-||kaputquill.com^
 ||kitesquirrel.com^
 ||laboredlocket.com^
 ||lackadaisicalkite.com^
@@ -419,6 +441,7 @@
 ||learnedmarket.com^
 ||leftliquid.com^
 ||lettucecopper.com^
+||lettucelimit.com^
 ||liftedknowledge.com^
 ||livelumber.com^
 ||livelylaugh.com^
@@ -464,8 +487,10 @@
 ||motionlessbelief.com^
 ||mountainouspear.com^
 ||movemeal.com^
+||mowfruit.com^
 ||muddledaftermath.com^
 ||mundanepollution.com^
+||murkymeeting.com^
 ||mushywaste.com^
 ||naivestatement.com^
 ||nappyattack.com^
@@ -495,6 +520,7 @@
 ||opinionsurprise.com^
 ||oppositeoperation.com^
 ||optimallimit.com^
+||orangeoperation.com^
 ||overconfidentfood.com^
 ||overratedchalk.com^
 ||owlsr.us^
@@ -503,6 +529,7 @@
 ||paleleaf.com^
 ||pamelarandom.com^
 ||panickypancake.com^
+||paradoxfactor.com^
 ||parallelbulb.com^
 ||parchedsofa.com^
 ||parentpicture.com^
@@ -544,6 +571,7 @@
 ||previousplayground.com^
 ||pricklydebt.com^
 ||pricklypollution.com^
+||printerplasma.com^
 ||producecopy.com^
 ||productivepear.com^
 ||profitrumour.com^
@@ -630,6 +658,7 @@
 ||satisfycork.com^
 ||savoryorange.com^
 ||savorystructure.com^
+||saysidewalk.com^
 ||scarceshock.com^
 ||scarcesign.com^
 ||scarcestream.com^
@@ -644,9 +673,9 @@
 ||scatteredstream.com^
 ||scenicdrops.com^
 ||scientificshirt.com^
-||scientificsneeze.com^
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
+||scintillatingspace.com^
 ||scissorsstatement.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
@@ -664,13 +693,13 @@
 ||seedscissors.com^
 ||selectivesummer.com^
 ||selfishsnake.com^
-||sensorsmile.com^
 ||separatesort.com^
 ||serenesurf.com^
 ||servebom.com^
 ||shadeship.com^
 ||shaggytank.com^
 ||shakegoldfish.com^
+||shakesuggestion.com^
 ||shakysurprise.com^
 ||shallowblade.com^
 ||shamerain.com^
@@ -681,6 +710,7 @@
 ||shockinggrass.com^
 ||shockingship.com^
 ||shrillspoon.com^
+||shutseashore.com^
 ||shydinosaurs.com^
 ||sicksmash.com^
 ||sierrakermit.com^
@@ -718,22 +748,23 @@
 ||soresneeze.com^
 ||sorethunder.com^
 ||soretrain.com^
-||sortsail.com^
 ||sortsummer.com^
 ||sowlettuce.com^
 ||sparklingshelf.com^
 ||specialscissors.com^
-||specialsnake.com^
 ||spectacularstamp.com^
 ||speedcurve.com^
 ||spellsalsa.com^
+||spidersboats.com^
 ||spiffymachine.com^
 ||spirebaboon.com^
 ||spitefulriver.com^
 ||spookysleet.com^
+||spookyslope.com^
 ||spoonsilk.com^
 ||spotlessstamp.com^
 ||spottednoise.com^
+||spottedsnow.com^
 ||spurioussteam.com^
 ||spuriousstranger.com^
 ||spysubstance.com^
@@ -751,28 +782,29 @@
 ||steepsquirrel.com^
 ||stereoproxy.com^
 ||stereotypedsugar.com^
+||stickssheep.com^
 ||stiffgame.com^
 ||stiffstem.com^
 ||stockingsneeze.com^
 ||stomachscience.com^
 ||stonechin.com^
+||storesurprise.com^
 ||straightnest.com^
 ||streetsort.com^
 ||stretchsister.com^
-||stupendousselection.com^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
-||stupidsnake.com^
 ||subsequentstew.com^
 ||succeedscene.com^
 ||suddensoda.com^
 ||suddenstructure.com^
+||sugarcurtain.com^
 ||sulkycook.com^
 ||summerobject.com^
 ||superficialeyes.com^
 ||superficialspring.com^
 ||superficialsquare.com^
-||suspendseed.com^
+||sweepsheep.com^
 ||swellstocking.com^
 ||swordgoose.com^
 ||syllablesight.com^
@@ -787,6 +819,7 @@
 ||teenytinycellar.com^
 ||teenytinyshirt.com^
 ||teenytinytongue.com^
+||teethfan.com^
 ||tempertrick.com^
 ||tendertest.com^
 ||terriblethumb.com^
@@ -795,13 +828,17 @@
 ||thingsafterthought.com^
 ||thirdrespect.com^
 ||thomastorch.com^
+||threechurch.com^
 ||thrillasoft.com^
 ||thrivecover.com^
+||throattrees.com^
+||thunderingrose.com^
 ||ticketaunt.com^
 ||ticketjolly.com^
 ||ticklesign.com^
 ||tidytrail.com^
 ||tightpowder.com^
+||timeterritory.com^
 ||tinytendency.com^
 ||tiresomethunder.com^
 ||toomanyalts.com^
@@ -839,6 +876,7 @@
 ||verdantanswer.com^
 ||verseballs.com^
 ||virtualvincent.com^
+||voicevegetable.com^
 ||voraciousgrip.com^
 ||warmafterthought.com^
 ||warmquiver.com^
@@ -852,8 +890,10 @@
 ||wirecomic.com^
 ||workoperation.com^
 ||worriednumber.com^
+||writewealth.com^
 ||wrongpotato.com^
 ||wtaccesscontrol.com^
+||youngmarble.com^
 ||zestycrime.com^
 ||zestywire.com^
 ||zlp6s.pw^
