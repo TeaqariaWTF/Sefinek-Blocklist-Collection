@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025030201 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025030301 43200 3600 259200 300
   NS  localhost.
 00-tv.com CNAME .
 *.00-tv.com CNAME .
@@ -32005,6 +32005,8 @@ e.xxi2.com CNAME .
 *.e.xxi2.com CNAME .
 e3.nagaseeo.com CNAME .
 *.e3.nagaseeo.com CNAME .
+e32ft2.ns02.biz CNAME .
+*.e32ft2.ns02.biz CNAME .
 e36talk.com CNAME .
 *.e36talk.com CNAME .
 e3b.org CNAME .
