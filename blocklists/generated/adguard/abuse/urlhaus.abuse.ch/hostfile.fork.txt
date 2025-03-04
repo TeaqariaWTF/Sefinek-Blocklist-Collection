@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2025-03-04 01:40:06 (UTC)                      !
+! Last updated: 2025-03-04 02:53:05 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -9,12 +9,10 @@
 ||1717.1000uc.com^
 ||360down7.miiyun.cn^
 ||abington-atppa.org^
-||abissnet.net^
 ||acusense.ae^
 ||adf6.adf6.com^
 ||admin.aishangzhua.com^
 ||admin.gestroom.it^
-||agapi.cqjjb.cn^
 ||ai-kling.online^
 ||alephmim.com^
 ||alien-training.com^
@@ -25,6 +23,7 @@
 ||api.accueil-coinbase.com^
 ||api.aide-coinbase.com^
 ||api.camdrivers.cloud^
+||api.co-operativefinance.com^
 ||api.information-binance.com^
 ||api.rappel-coinbase.com^
 ||app.evaluanom035.com^
@@ -80,6 +79,7 @@
 ||check.xupek.icu^
 ||check.zagyw.icu^
 ||chinaapper.com^
+||chromeupd-mo.com^
 ||ciscocdn.com^
 ||cnc-boatnet.vpnvn4g.com^
 ||coach.028csc.com^
@@ -136,7 +136,6 @@
 ||fox-news-checker.cc^
 ||fundrescuetech.com^
 ||funletters.net^
-||gachetroi.com^
 ||genericfixer.com^
 ||gestroom.it^
 ||glennmedina.com^
@@ -166,10 +165,11 @@
 ||js.telega.cn^
 ||karoonpc.com^
 ||kevinzhangadmin.jintsume.net^
+||kismetguzelim.com^
 ||l1nxx.para.rip^
 ||laborpartyjo.com^
+||library.arihantmbainstitute.ac.in^
 ||lindnerelektroanlagen.de^
-||linkvilleplayers.org^
 ||littlemtlogistics.net^
 ||livemap-loads.com^
 ||livemap-trucks.com^
@@ -190,13 +190,16 @@
 ||microsoft-analyse.com^
 ||microsoft-auth-network.cc^
 ||mine.moroccoex.com^
-||miner-tolken.com^
 ||misano.gestroom.it^
+||misljen.net^
 ||mitgpssms.com^
 ||monekam.shop^
 ||moonloaderupdate.ru^
+||mta179.insuretn.com^
 ||mta210.marthaaustinwhite.com^
 ||my.salviatech.com^
+||nabawitransport.com^
+||namthaibinh.net^
 ||nationwideavast.com^
 ||ningbocrm.jintsume.net^
 ||noithaticon.vn^
@@ -212,22 +215,26 @@
 ||parmisbuilding.com^
 ||paulinatajda.com^
 ||pcbuilts.com^
+||pid.fly160.com^
 ||pns.org.pk^
 ||protechasia.com^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
+||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
-||rappel-coinbase.com^
 ||rd.chuitian.cn^
 ||rdmfile.eu^
 ||recepchtav3.com^
 ||reifenquick.de^
+||reservation-confirms.com^
 ||resourceedge.org^
 ||reusable-flex.com^
 ||rgueapp.com^
 ||riverview-pools.com^
 ||rocketibt.com^
+||ronnin-v2.com^
 ||rtsfinancal.com^
+||rumble.tube^
 ||rustbakingtable.com^
 ||sales.mypetapp.co.za^
 ||saveyourcinema.ca^
@@ -236,14 +243,13 @@
 ||shell.dimitrimedia.com^
 ||shevchenkoevent.com^
 ||sirault.be^
-||sms-szfang.com^
 ||smsfastersend.com^
 ||soft.110route.com^
 ||soportegira.net^
 ||soubrow.octabracessorioscom.com^
 ||spaceframe.mobi.space-frame.co.za^
-||sporcketngearforu.com^
 ||staatsgewalt.jameschans.de^
+||stdown.dinju.com^
 ||storage.soowim.co.kr^
 ||sufikhat.com^
 ||suomi-app.net^
@@ -254,17 +260,21 @@
 ||tecni-soft.com^
 ||tecunonline.com^
 ||telegramcn.co^
+||temirtau-adm.ru^
 ||tengfeidn.com^
 ||test.peperoncinochepassione.it^
+||tests.yjzj.org^
 ||theherbalhub.com^
 ||thesignaturemag.salviatech.com^
 ||tianyinsoft.top^
 ||titrans-cd.com^
 ||toulon-united.fr^
 ||toyscenter.cl^
-||treinamento.convenio.to.gov.br^
+||turkey-ivf.org^
+||twitch.cx^
 ||twitch.tj^
 ||update.cg100iii.com^
+||update.vlnguba.com^
 ||update.volam2005pk.com^
 ||updateinfo-portal.com^
 ||uploadhaven.store^
@@ -313,24 +323,20 @@
 ||www.kevinzhangadmin.jintsume.net^
 ||www.laborpartyjo.com^
 ||www.leeholmes.com^
-||www.littlemoroccanthings.com^
 ||www.livemap-loads.com^
 ||www.livemap-trucks.com^
 ||www.lucprofessional.grupomoltz.com.br^
 ||www.maxmoney.com^
-||www.medises.co.kr^
 ||www.newkey.co.kr^
 ||www.ningbocrm.jintsume.net^
 ||www.ojang.pe.kr^
 ||www.opolis.io^
 ||www.pointtohealth.com^
-||www.qfs-securityledger.com^
 ||www.reifenquick.de^
 ||www.rphingenieria.com^
 ||www.sales.mypetapp.co.za^
 ||www.seventools.de^
 ||www.sis.houseforma.com.br^
-||www.sporcketngearforu.com^
 ||www.starcountry.net^
 ||www.tdejb.com^
 ||www.tecunonline.com^
@@ -341,18 +347,18 @@
 ||www.website.mypetapp.co.za^
 ||www.wingsaviationacademy-in.salviatech.com^
 ||www.xn--on3b15m2lco2u.com^
+||www.ysbaojia.com^
 ||www.zamilgroups.com^
+||www.zhikey.com^
 ||wynecare.com^
-||wz.3911.com^
 ||xemhang.vn^
 ||xiangshunjy.com^
 ||ximonite.com^
 ||xingpai.weilay.com.cn^
 ||yn.noyoo.cn^
 ||yzkzixun.com^
-||z.shavsl.com^
 ||zaikacakes.org^
 ||zamilgroups.com^
 ||zettagc.com^
 ||znrq.zifwxq.cn^
-! Number of entries: 349
+! Number of entries: 355
