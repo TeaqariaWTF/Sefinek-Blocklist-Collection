@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-04 04:23:05 (UTC)                      #
+# Last updated: 2025-03-04 06:29:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,6 +26,7 @@
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.camdrivers.cloud
 0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app.evaluanom035.com
 0.0.0.0 app.houseforma.com.br
@@ -79,6 +80,7 @@
 0.0.0.0 check.xajax.icu
 0.0.0.0 check.xupek.icu
 0.0.0.0 check.zagyw.icu
+0.0.0.0 chinaapper.com
 0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 cnc-boatnet.vpnvn4g.com
@@ -90,12 +92,14 @@
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
+0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 datashieldsecure.com
 0.0.0.0 dcwblida.dz
 0.0.0.0 deturistaenjapon.com
 0.0.0.0 dev.gestroom.it
 0.0.0.0 device.redirec.com
+0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dianzanla.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -158,6 +162,7 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrjonesolicitors.com
+0.0.0.0 jrqh-hk.com
 0.0.0.0 js.telega.cn
 0.0.0.0 karoonpc.com
 0.0.0.0 kevinzhangadmin.jintsume.net
@@ -166,11 +171,12 @@
 0.0.0.0 laborpartyjo.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livemap-loads.com
 0.0.0.0 livemap-trucks.com
 0.0.0.0 livetrack.in
-0.0.0.0 lostheaven.com.cn
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lucprofessional.com.br
 0.0.0.0 lucprofessional.grupomoltz.com.br
 0.0.0.0 m.gutousoft.com
@@ -185,7 +191,6 @@
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 mine.moroccoex.com
-0.0.0.0 miner-tolken.com
 0.0.0.0 misano.gestroom.it
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
@@ -203,6 +208,7 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com
 0.0.0.0 ooriginalused.com
+0.0.0.0 osecweb.ir
 0.0.0.0 page-yoda.blog
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
@@ -210,9 +216,9 @@
 0.0.0.0 paulinatajda.com
 0.0.0.0 pcbuilts.com
 0.0.0.0 pid.fly160.com
-0.0.0.0 pns.org.pk
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
@@ -228,20 +234,19 @@
 0.0.0.0 rocketibt.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 rtsfinancal.com
-0.0.0.0 rumble.tube
 0.0.0.0 rustbakingtable.com
 0.0.0.0 sales.mypetapp.co.za
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
-0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shevchenkoevent.com
 0.0.0.0 sirault.be
-0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
 0.0.0.0 soubrow.octabracessorioscom.com
+0.0.0.0 spaceframe.mobi.space-frame.co.za
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 stdown.dinju.com
@@ -254,33 +259,32 @@
 0.0.0.0 symdlotic.com
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
-0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.peperoncinochepassione.it
-0.0.0.0 tests.yjzj.org
 0.0.0.0 theherbalhub.com
 0.0.0.0 thesignaturemag.salviatech.com
 0.0.0.0 tianyinsoft.top
 0.0.0.0 titrans-cd.com
 0.0.0.0 toulon-united.fr
 0.0.0.0 toyscenter.cl
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.cx
 0.0.0.0 twitch.tj
 0.0.0.0 update.cg100iii.com
+0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 uploadhaven.store
 0.0.0.0 user.mypetapp.co.za
 0.0.0.0 utorrent-backup-server.top
-0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
 0.0.0.0 utorrent-server-api.cc
 0.0.0.0 utorrent-servers.xyz
 0.0.0.0 vaultcord.net
-0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 vx-events.com
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 win-network-checker.cc
@@ -304,6 +308,7 @@
 0.0.0.0 www.fastfreightloads.com
 0.0.0.0 www.finocci.com
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.freshtubs.com
 0.0.0.0 www.gemrazorback.com
 0.0.0.0 www.gestroom.it
@@ -324,13 +329,16 @@
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.pointtohealth.com
+0.0.0.0 www.qfs-securityledger.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sales.mypetapp.co.za
 0.0.0.0 www.seventools.de
 0.0.0.0 www.sis.houseforma.com.br
+0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
+0.0.0.0 www.tecunonline.com
 0.0.0.0 www.test.peperoncinochepassione.it
 0.0.0.0 www.thesignaturemag.salviatech.com
 0.0.0.0 www.titrans-cd.com
@@ -349,8 +357,9 @@
 0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 yn.noyoo.cn
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 zaikacakes.org
 0.0.0.0 zamilgroups.com
 0.0.0.0 zettagc.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 347
+# Number of entries: 356
