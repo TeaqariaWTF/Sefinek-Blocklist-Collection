@@ -11,14 +11,14 @@
 ! Title: Blocks productivity tools and collaboration platforms (beta)
 ! Description: Active, inactive, and parked domains. Blocks websites for productivity tools such as Google Docs, Office365, Slack, Zoom, Trello, Notion, and others.
 ! Expires: 1 day
-! Count: 85106
+! Count: 85150
 ! Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 ! Modified by: Nobody
 ! Source: N/A
 ! License: CC BY-NC-ND 4.0
 ! Release: AdGuard [adguard.com]
-! Version: 1740652154373
-! Last update: February 27, 2025 at 10:29 AM UTC | 2025-02-27T10:29:14.373+00:00
+! Version: 1741170681300
+! Last update: March 5, 2025 at 10:31 AM UTC | 2025-03-05T10:31:21.300+00:00
 !
 ! 〢 About:
 ! This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -85134,3 +85134,47 @@
 ||dropbox.ee^
 ||confluenceexperten.se^
 ||jiraexperten.se^
+||ajira.cz^
+||aleszoom.cz^
+||areazoom.cz^
+||aurazoom.cz^
+||carzoom.cz^
+||coolzoom.cz^
+||jiranmil.cz^
+||jiranova.cz^
+||jirarb.cz^
+||jirascz.cz^
+||jirastav.cz^
+||jiravova.cz^
+||jogasana.cz^
+||lobozoom.cz^
+||mamasana.cz^
+||metro-zoom.cz^
+||michaljiran.cz^
+||moneyzoom.cz^
+||mujzoomer.cz^
+||notiono.cz^
+||otajirak.cz^
+||profizoom.cz^
+||radiozoom.cz^
+||slackfix.cz^
+||slackmotion.cz^
+||slackship.cz^
+||slackshow.cz^
+||slackzone.cz^
+||ujirata.cz^
+||verazoom.cz^
+||vitekjira.cz^
+||woodslack.cz^
+||zoomauto.cz^
+||zoombait.cz^
+||zoomcast.cz^
+||zoomi.cz^
+||zoomie.cz^
+||zoomoutlet.cz^
+||zoompix.cz^
+||zoom-prima.cz^
+||zoomradio.cz^
+||zoomtrade.cz^
+||zoozoom.cz^
+||zumzoom.cz^

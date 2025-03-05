@@ -11,14 +11,14 @@
 ! Title: Blocks websites related to piracy, illegal downloads, torrents, and copyright infringement
 ! Description: Active, inactive, and parked domains. Includes websites offering illegal downloads, torrent files, cracked software, serial keys, hacking tools, and other content related to copyright infringement and piracy.
 ! Expires: 1 day
-! Count: 50983
+! Count: 51015
 ! Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 ! Modified by: Nobody
 ! Source: N/A
 ! License: CC BY-NC-ND 4.0
 ! Release: AdGuard [adguard.com]
-! Version: 1740652154259
-! Last update: February 27, 2025 at 10:29 AM UTC | 2025-02-27T10:29:14.259+00:00
+! Version: 1741170681229
+! Last update: March 5, 2025 at 10:31 AM UTC | 2025-03-05T10:31:21.229+00:00
 !
 ! 〢 About:
 ! This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -51011,3 +51011,35 @@
 ||biohacking.ee^
 ||biohackinglabs.sk^
 ||crackfix.se^
+||golfhacking.nu^
+||aiserial.cz^
+||bizwarez.cz^
+||crackczech.cz^
+||cracking-bits.cz^
+||etorrent.cz^
+||fatpirate.cz^
+||flying-pirates.cz^
+||freedomhacking.cz^
+||hackingacademy.cz^
+||hackingdays.cz^
+||hacking-happiness.cz^
+||hacking-kurzy.cz^
+||hackingsquad.cz^
+||mind-hacking.cz^
+||piratelab.cz^
+||pirateradio.cz^
+||serialbia.cz^
+||serial-exner.cz^
+||serialexner.cz^
+||serial-lajna.cz^
+||seriallajna.cz^
+||serialmost.cz^
+||serialomat.cz^
+||serialtip.cz^
+||serialytu.cz^
+||serialzoo.cz^
+||sporthacking.cz^
+||warezcaching.cz^
+||warezio.cz^
+||warezmet.cz^
+||xspirates.cz^

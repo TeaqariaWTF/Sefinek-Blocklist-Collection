@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-05 08:23:04 (UTC)                      #
+# Last updated: 2025-03-05 10:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,7 +13,6 @@
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 admin.gestroom.it
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
@@ -28,7 +27,6 @@
 0.0.0.0 api.camdrivers.cloud
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.information-binance.com
-0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app.houseforma.com.br
 0.0.0.0 applepistudios.com
 0.0.0.0 apps-actions.com
@@ -146,7 +144,6 @@
 0.0.0.0 immo-etoiles.fr
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
-0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jbstrckng.com
@@ -160,12 +157,12 @@
 0.0.0.0 kismetguzelim.com
 0.0.0.0 laborpartyjo.com
 0.0.0.0 library.arihantmbainstitute.ac.in
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 liquitydevve.online
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livemap-loads.com
 0.0.0.0 livemap-trucks.com
+0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lucprofessional.com.br
@@ -204,6 +201,7 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
+0.0.0.0 paulinatajda.com
 0.0.0.0 pcbuilts.com
 0.0.0.0 peazonyas.ink
 0.0.0.0 pid.fly160.com
@@ -211,7 +209,6 @@
 0.0.0.0 protechasia.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
-0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
@@ -235,6 +232,7 @@
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
@@ -245,6 +243,7 @@
 0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 staatsgewalt.jameschans.de
+0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
 0.0.0.0 suomi-app.net
@@ -280,7 +279,6 @@
 0.0.0.0 www.albuspsikoloji.com.tr
 0.0.0.0 www.amako.xyz
 0.0.0.0 www.amun.jintsume.net
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atc-secure.com
 0.0.0.0 www.batterymax.pk
 0.0.0.0 www.beiletoys.com
@@ -329,7 +327,7 @@
 0.0.0.0 www.user.mypetapp.co.za
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.wingsaviationacademy-in.salviatech.com
-0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
@@ -338,6 +336,7 @@
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
+0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 yn.noyoo.cn
 0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
@@ -345,4 +344,4 @@
 0.0.0.0 zamilgroups.com
 0.0.0.0 zettagc.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 339
+# Number of entries: 338

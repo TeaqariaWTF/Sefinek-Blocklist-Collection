@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-05 08:23:04 (UTC)                      #
+# Last updated: 2025-03-05 10:24:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,7 +13,6 @@
 127.0.0.1 abissnet.net
 127.0.0.1 acusense.ae
 127.0.0.1 adf6.adf6.com
-127.0.0.1 admin.aishangzhua.com
 127.0.0.1 admin.gestroom.it
 127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
@@ -28,7 +27,6 @@
 127.0.0.1 api.camdrivers.cloud
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.information-binance.com
-127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app.houseforma.com.br
 127.0.0.1 applepistudios.com
 127.0.0.1 apps-actions.com
@@ -146,7 +144,6 @@
 127.0.0.1 immo-etoiles.fr
 127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
-127.0.0.1 jade-associates.com.br
 127.0.0.1 jahez.me
 127.0.0.1 javierlopez.eu
 127.0.0.1 jbstrckng.com
@@ -160,12 +157,12 @@
 127.0.0.1 kismetguzelim.com
 127.0.0.1 laborpartyjo.com
 127.0.0.1 library.arihantmbainstitute.ac.in
-127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 liquitydevve.online
 127.0.0.1 littlemtlogistics.net
 127.0.0.1 livemap-loads.com
 127.0.0.1 livemap-trucks.com
+127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 lsks.volamngayxua.net
 127.0.0.1 lucprofessional.com.br
@@ -204,6 +201,7 @@
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 park.chuitian.cn
 127.0.0.1 parmisbuilding.com
+127.0.0.1 paulinatajda.com
 127.0.0.1 pcbuilts.com
 127.0.0.1 peazonyas.ink
 127.0.0.1 pid.fly160.com
@@ -211,7 +209,6 @@
 127.0.0.1 protechasia.com
 127.0.0.1 qiniuyunxz.yxflzs.com
 127.0.0.1 qlqd5zqefmkcr34a.onion.sh
-127.0.0.1 quanly.jxmienphi.net
 127.0.0.1 quanlyphongnet.com
 127.0.0.1 rappel-coinbase.com
 127.0.0.1 rd.chuitian.cn
@@ -235,6 +232,7 @@
 127.0.0.1 security-service-api-link.cc
 127.0.0.1 sfa.com.ar
 127.0.0.1 shell.dimitrimedia.com
+127.0.0.1 shqdown.ggzuhao.com
 127.0.0.1 sirault.be
 127.0.0.1 sms-szfang.com
 127.0.0.1 smsfastersend.com
@@ -245,6 +243,7 @@
 127.0.0.1 sporcketngearforu.com
 127.0.0.1 src1.minibai.com
 127.0.0.1 staatsgewalt.jameschans.de
+127.0.0.1 stdown.dinju.com
 127.0.0.1 storage.soowim.co.kr
 127.0.0.1 sufikhat.com
 127.0.0.1 suomi-app.net
@@ -280,7 +279,6 @@
 127.0.0.1 www.albuspsikoloji.com.tr
 127.0.0.1 www.amako.xyz
 127.0.0.1 www.amun.jintsume.net
-127.0.0.1 www.aqianniao.com
 127.0.0.1 www.atc-secure.com
 127.0.0.1 www.batterymax.pk
 127.0.0.1 www.beiletoys.com
@@ -329,7 +327,7 @@
 127.0.0.1 www.user.mypetapp.co.za
 127.0.0.1 www.website.mypetapp.co.za
 127.0.0.1 www.wingsaviationacademy-in.salviatech.com
-127.0.0.1 www.ysbaojia.com
+127.0.0.1 www.xn--on3b15m2lco2u.com
 127.0.0.1 www.zamilgroups.com
 127.0.0.1 www.zhikey.com
 127.0.0.1 wynecare.com
@@ -338,6 +336,7 @@
 127.0.0.1 xiangshunjy.com
 127.0.0.1 ximonite.com
 127.0.0.1 xingpai.weilay.com.cn
+127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 yn.noyoo.cn
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
@@ -345,4 +344,4 @@
 127.0.0.1 zamilgroups.com
 127.0.0.1 zettagc.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 339
+# Number of entries: 338

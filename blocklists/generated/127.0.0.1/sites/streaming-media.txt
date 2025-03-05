@@ -11,14 +11,14 @@
 # Title: Blocks streaming media platforms like YouTube, Netflix, Spotify, and others (beta)
 # Description: Active, inactive, and parked domains. Blocks websites for video and audio streaming services such as YouTube, Netflix, Spotify, Disney+, Hulu, and Twitch.
 # Expires: 1 day
-# Count: 100268
+# Count: 100298
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 127.0.0.1 before each domain
-# Version: 1740652152973
-# Last update: February 27, 2025 at 10:29 AM UTC | 2025-02-27T10:29:12.973+00:00
+# Version: 1741170679766
+# Last update: March 5, 2025 at 10:31 AM UTC | 2025-03-05T10:31:19.766+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -100296,3 +100296,33 @@
 127.0.0.1 beachboog.ee
 127.0.0.1 homesandneighbourhoods.ee
 127.0.0.1 sketchbook.ee
+127.0.0.1 aesthbody.cz
+127.0.0.1 anthbot.cz
+127.0.0.1 batchboyz.cz
+127.0.0.1 bunchbordello.cz
+127.0.0.1 catchboxes.cz
+127.0.0.1 chbozp.cz
+127.0.0.1 chulu.cz
+127.0.0.1 dashbook.cz
+127.0.0.1 dishboard.cz
+127.0.0.1 dphbot.cz
+127.0.0.1 dutchbone.cz
+127.0.0.1 graphbox.cz
+127.0.0.1 hboclinic.cz
+127.0.0.1 ihbox.cz
+127.0.0.1 ihbozp.cz
+127.0.0.1 it-hbo.cz
+127.0.0.1 knihbot.cz
+127.0.0.1 mechbook.cz
+127.0.0.1 neighborcook.cz
+127.0.0.1 neighborfood.cz
+127.0.0.1 oshbo.cz
+127.0.0.1 psychbot.cz
+127.0.0.1 sdhbosen.cz
+127.0.0.1 sportwitch.cz
+127.0.0.1 techboy.cz
+127.0.0.1 twitch-con.cz
+127.0.0.1 twitch-fest.cz
+127.0.0.1 twitchfest.cz
+127.0.0.1 vimeovas.cz
+127.0.0.1 watchboxing.cz

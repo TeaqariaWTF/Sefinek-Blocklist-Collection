@@ -11,14 +11,14 @@
 # Title: Blocks streaming media platforms like YouTube, Netflix, Spotify, and others (beta)
 # Description: Active, inactive, and parked domains. Blocks websites for video and audio streaming services such as YouTube, Netflix, Spotify, Disney+, Hulu, and Twitch.
 # Expires: 1 day
-# Count: 100268
+# Count: 100298
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: Dnsmasq
-# Version: 1740652156172
-# Last update: February 27, 2025 at 10:29 AM UTC | 2025-02-27T10:29:16.172+00:00
+# Version: 1741170683182
+# Last update: March 5, 2025 at 10:31 AM UTC | 2025-03-05T10:31:23.182+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -100296,3 +100296,33 @@ server=/netflix.ee/
 server=/beachboog.ee/
 server=/homesandneighbourhoods.ee/
 server=/sketchbook.ee/
+server=/aesthbody.cz/
+server=/anthbot.cz/
+server=/batchboyz.cz/
+server=/bunchbordello.cz/
+server=/catchboxes.cz/
+server=/chbozp.cz/
+server=/chulu.cz/
+server=/dashbook.cz/
+server=/dishboard.cz/
+server=/dphbot.cz/
+server=/dutchbone.cz/
+server=/graphbox.cz/
+server=/hboclinic.cz/
+server=/ihbox.cz/
+server=/ihbozp.cz/
+server=/it-hbo.cz/
+server=/knihbot.cz/
+server=/mechbook.cz/
+server=/neighborcook.cz/
+server=/neighborfood.cz/
+server=/oshbo.cz/
+server=/psychbot.cz/
+server=/sdhbosen.cz/
+server=/sportwitch.cz/
+server=/techboy.cz/
+server=/twitch-con.cz/
+server=/twitch-fest.cz/
+server=/twitchfest.cz/
+server=/vimeovas.cz/
+server=/watchboxing.cz/
