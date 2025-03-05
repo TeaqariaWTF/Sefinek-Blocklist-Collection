@@ -11,7 +11,7 @@
 # Title: Blocks most social media platforms and related services (beta)
 # Description: Active, inactive, and parked domains. Blocks websites such as Facebook, Instagram, Twitter, TikTok, and other social media platforms.
 # Expires: 1 day
-# Count: 26600
+# Count: 26606
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
@@ -26628,3 +26628,9 @@
 0.0.0.0 metainstagram.com.ee
 0.0.0.0 facebookreklaam.ee
 0.0.0.0 ditttiktok.se
+0.0.0.0 credditon.cz
+0.0.0.0 cztwitter.cz
+0.0.0.0 tiktokeri.cz
+0.0.0.0 tiktoking.cz
+0.0.0.0 tiktoky.cz
+0.0.0.0 twittercus.cz
