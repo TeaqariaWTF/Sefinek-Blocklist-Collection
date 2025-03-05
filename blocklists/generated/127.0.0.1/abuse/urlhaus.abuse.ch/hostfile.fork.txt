@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-04 16:51:34 (UTC)                      #
+# Last updated: 2025-03-05 06:28:58 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,10 +8,10 @@
 #
 127.0.0.1 1717.1000uc.com
 127.0.0.1 2.haory.cn
+127.0.0.1 625348.na2.to
 127.0.0.1 abington-atppa.org
 127.0.0.1 abissnet.net
 127.0.0.1 acusense.ae
-127.0.0.1 admin.aishangzhua.com
 127.0.0.1 admin.gestroom.it
 127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 ai-kling.online
@@ -24,7 +24,6 @@
 127.0.0.1 api.camdrivers.cloud
 127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.information-binance.com
-127.0.0.1 api.rappel-coinbase.com
 127.0.0.1 app.houseforma.com.br
 127.0.0.1 applepistudios.com
 127.0.0.1 apps-actions.com
@@ -39,6 +38,7 @@
 127.0.0.1 avastpdr.com
 127.0.0.1 avastpx.com
 127.0.0.1 azgint.com
+127.0.0.1 batterymax.pk
 127.0.0.1 bitkiselurunsiparis.com
 127.0.0.1 blessdayservices.org
 127.0.0.1 bmdcompany.com
@@ -83,7 +83,7 @@
 127.0.0.1 dcwblida.dz
 127.0.0.1 deturistaenjapon.com
 127.0.0.1 dev.gestroom.it
-127.0.0.1 dhnconstrucciones.com.ar
+127.0.0.1 device.redirec.com
 127.0.0.1 dianzanla.com
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
@@ -122,7 +122,7 @@
 127.0.0.1 g12se.com
 127.0.0.1 gachetroi.com
 127.0.0.1 genericfixer.com
-127.0.0.1 glennmedina.com
+127.0.0.1 gj32.online
 127.0.0.1 grupobramam.com.br
 127.0.0.1 highway-loads.com
 127.0.0.1 hitman-pro.ru
@@ -153,7 +153,6 @@
 127.0.0.1 livetrack.in
 127.0.0.1 lostheaven.com.cn
 127.0.0.1 lucprofessional.com.br
-127.0.0.1 lucprofessional.grupomoltz.com.br
 127.0.0.1 m.gutousoft.com
 127.0.0.1 mail.cambodiatouristservice.com
 127.0.0.1 mail.finocci.com
@@ -187,6 +186,7 @@
 127.0.0.1 parmisbuilding.com
 127.0.0.1 paulinatajda.com
 127.0.0.1 pcbuilts.com
+127.0.0.1 peazonyas.ink
 127.0.0.1 pid.fly160.com
 127.0.0.1 pns.org.pk
 127.0.0.1 qiniuyunxz.yxflzs.com
@@ -203,6 +203,7 @@
 127.0.0.1 rocketibt.com
 127.0.0.1 ronnin-v2.com
 127.0.0.1 rtsfinancal.com
+127.0.0.1 rumble.tube
 127.0.0.1 rustbakingtable.com
 127.0.0.1 s02-welcome.cfd
 127.0.0.1 sales.mypetapp.co.za
@@ -245,7 +246,6 @@
 127.0.0.1 twitch.tj
 127.0.0.1 twizt.net
 127.0.0.1 update.cg100iii.com
-127.0.0.1 update.volam2005pk.com
 127.0.0.1 updateinfo-portal.com
 127.0.0.1 user.mypetapp.co.za
 127.0.0.1 utorrent-server-api.cc
@@ -254,6 +254,7 @@
 127.0.0.1 win-network-checker.cc
 127.0.0.1 wingsaviationacademy.in
 127.0.0.1 www.albuspsikoloji.com.tr
+127.0.0.1 www.amako.xyz
 127.0.0.1 www.amun.jintsume.net
 127.0.0.1 www.aqianniao.com
 127.0.0.1 www.atc-secure.com
@@ -278,6 +279,7 @@
 127.0.0.1 www.leeholmes.com
 127.0.0.1 www.littlemoroccanthings.com
 127.0.0.1 www.livemap-loads.com
+127.0.0.1 www.lucprofessional.grupomoltz.com.br
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.medises.co.kr
 127.0.0.1 www.newkey.co.kr
@@ -315,4 +317,4 @@
 127.0.0.1 zaikacakes.org
 127.0.0.1 zettagc.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 309
+# Number of entries: 311

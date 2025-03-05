@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-04 16:51:34 (UTC)                      #
+# Last updated: 2025-03-05 06:28:58 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,10 +8,10 @@
 #
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
+0.0.0.0 625348.na2.to
 0.0.0.0 abington-atppa.org
 0.0.0.0 abissnet.net
 0.0.0.0 acusense.ae
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 admin.gestroom.it
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ai-kling.online
@@ -24,7 +24,6 @@
 0.0.0.0 api.camdrivers.cloud
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.information-binance.com
-0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app.houseforma.com.br
 0.0.0.0 applepistudios.com
 0.0.0.0 apps-actions.com
@@ -39,6 +38,7 @@
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
 0.0.0.0 azgint.com
+0.0.0.0 batterymax.pk
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blessdayservices.org
 0.0.0.0 bmdcompany.com
@@ -83,7 +83,7 @@
 0.0.0.0 dcwblida.dz
 0.0.0.0 deturistaenjapon.com
 0.0.0.0 dev.gestroom.it
-0.0.0.0 dhnconstrucciones.com.ar
+0.0.0.0 device.redirec.com
 0.0.0.0 dianzanla.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -122,7 +122,7 @@
 0.0.0.0 g12se.com
 0.0.0.0 gachetroi.com
 0.0.0.0 genericfixer.com
-0.0.0.0 glennmedina.com
+0.0.0.0 gj32.online
 0.0.0.0 grupobramam.com.br
 0.0.0.0 highway-loads.com
 0.0.0.0 hitman-pro.ru
@@ -153,7 +153,6 @@
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lucprofessional.com.br
-0.0.0.0 lucprofessional.grupomoltz.com.br
 0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.cambodiatouristservice.com
 0.0.0.0 mail.finocci.com
@@ -187,6 +186,7 @@
 0.0.0.0 parmisbuilding.com
 0.0.0.0 paulinatajda.com
 0.0.0.0 pcbuilts.com
+0.0.0.0 peazonyas.ink
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -203,6 +203,7 @@
 0.0.0.0 rocketibt.com
 0.0.0.0 ronnin-v2.com
 0.0.0.0 rtsfinancal.com
+0.0.0.0 rumble.tube
 0.0.0.0 rustbakingtable.com
 0.0.0.0 s02-welcome.cfd
 0.0.0.0 sales.mypetapp.co.za
@@ -245,7 +246,6 @@
 0.0.0.0 twitch.tj
 0.0.0.0 twizt.net
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 user.mypetapp.co.za
 0.0.0.0 utorrent-server-api.cc
@@ -254,6 +254,7 @@
 0.0.0.0 win-network-checker.cc
 0.0.0.0 wingsaviationacademy.in
 0.0.0.0 www.albuspsikoloji.com.tr
+0.0.0.0 www.amako.xyz
 0.0.0.0 www.amun.jintsume.net
 0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atc-secure.com
@@ -278,6 +279,7 @@
 0.0.0.0 www.leeholmes.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.livemap-loads.com
+0.0.0.0 www.lucprofessional.grupomoltz.com.br
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
@@ -315,4 +317,4 @@
 0.0.0.0 zaikacakes.org
 0.0.0.0 zettagc.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 309
+# Number of entries: 311
