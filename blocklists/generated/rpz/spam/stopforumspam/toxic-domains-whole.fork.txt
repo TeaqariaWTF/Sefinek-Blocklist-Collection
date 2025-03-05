@@ -86157,6 +86157,8 @@ service.festivalday.click CNAME .
 *.service.festivalday.click CNAME .
 service.fetely.click CNAME .
 *.service.fetely.click CNAME .
+service.opencaper.click CNAME .
+*.service.opencaper.click CNAME .
 service.openinvestmentapp.com CNAME .
 *.service.openinvestmentapp.com CNAME .
 service.takeatripapp.click CNAME .
@@ -104525,6 +104527,8 @@ write.festivalday.click CNAME .
 *.write.festivalday.click CNAME .
 write.lapsuslinguae.click CNAME .
 *.write.lapsuslinguae.click CNAME .
+write.meetcruise.click CNAME .
+*.write.meetcruise.click CNAME .
 write.opengambol.click CNAME .
 *.write.opengambol.click CNAME .
 write.takeatripapp.click CNAME .
