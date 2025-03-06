@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-06 08:18:07 (UTC)                      #
+# Last updated: 2025-03-06 10:24:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,7 +14,6 @@
 0.0.0.0 abyssalempress.com
 0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
-0.0.0.0 admin.aishangzhua.com
 0.0.0.0 admin.gestroom.it
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agent12ai.icu
@@ -26,10 +25,8 @@
 0.0.0.0 americanexpressloginus.com
 0.0.0.0 angela.spklove.com
 0.0.0.0 antlb0tv2.com
-0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
-0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
@@ -42,12 +39,10 @@
 0.0.0.0 autoparts-online.uk
 0.0.0.0 avaloncheats.pro
 0.0.0.0 avpatchpanel.com
-0.0.0.0 azgint.com
 0.0.0.0 bankslendingservices.com
 0.0.0.0 batterymax.pk
 0.0.0.0 bblissmassage.com
 0.0.0.0 bitkiselurunsiparis.com
-0.0.0.0 blessdayservices.org
 0.0.0.0 bmdcompany.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bruta.pl
@@ -99,7 +94,6 @@
 0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 corresponsaldenoticias.com
-0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dailyinspirationuplift.com
 0.0.0.0 dangtienluc.com
@@ -114,12 +108,15 @@
 0.0.0.0 dianzanla.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
 0.0.0.0 doubouganta.fr
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.gmexiochappt.com
+0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
@@ -152,6 +149,7 @@
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 g12se.com
+0.0.0.0 gachetroi.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gandatex.com
 0.0.0.0 genericfixer.com
@@ -172,7 +170,6 @@
 0.0.0.0 hseda.com
 0.0.0.0 iconichomestudios.com
 0.0.0.0 idyllsfrenchbulldogs.com
-0.0.0.0 immo-etoiles.fr
 0.0.0.0 indialign.com
 0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
@@ -185,7 +182,6 @@
 0.0.0.0 japantripninja.com
 0.0.0.0 javierlopez.eu
 0.0.0.0 jbstrckng.com
-0.0.0.0 jessespridecharters.com
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
@@ -199,13 +195,14 @@
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 liquitydevve.online
+0.0.0.0 littlemtlogistics.net
 0.0.0.0 livemap-loads.com
 0.0.0.0 livemap-trucks.com
 0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lucknowacrepairservices.com
+0.0.0.0 lucprofessional.com.br
 0.0.0.0 lucprofessional.grupomoltz.com.br
-0.0.0.0 m.gutousoft.com
 0.0.0.0 maggiest.com
 0.0.0.0 mail.cambodiatouristservice.com
 0.0.0.0 mail.finocci.com
@@ -252,6 +249,7 @@
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 rappel-coinbase.com
 0.0.0.0 rd.chuitian.cn
+0.0.0.0 recepchtav3.com
 0.0.0.0 reifenquick.de
 0.0.0.0 reservation-confirms.com
 0.0.0.0 reusable-flex.com
@@ -270,7 +268,6 @@
 0.0.0.0 seoxcommerce.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 smokersbest.com
 0.0.0.0 sms-szfang.com
@@ -282,7 +279,7 @@
 0.0.0.0 soypanoli.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spootapump.com
-0.0.0.0 src1.minibai.com
+0.0.0.0 sporcketngearforu.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sufikhat.com
@@ -302,6 +299,7 @@
 0.0.0.0 tigo-sa.com
 0.0.0.0 tjlatev.com
 0.0.0.0 toyscenter.cl
+0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.tj
 0.0.0.0 twizt.net
@@ -317,6 +315,7 @@
 0.0.0.0 vadkon.com
 0.0.0.0 vbccorretoradeseguros.com.br
 0.0.0.0 vedameherbals.com
+0.0.0.0 website.mypetapp.co.za
 0.0.0.0 whcms.greendreamcannabis.com
 0.0.0.0 win-network-checker.cc
 0.0.0.0 wingsaviationacademy-in.salviatech.com
@@ -335,16 +334,15 @@
 0.0.0.0 www.centralelatterieti.com
 0.0.0.0 www.chronotriggerturkiye.com
 0.0.0.0 www.cmcmarkets.work
-0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.fastfreight-loads.com
 0.0.0.0 www.fastfreightloads.com
 0.0.0.0 www.finocci.com
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.immo-etoiles.fr
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.kevinzhangadmin.jintsume.net
 0.0.0.0 www.laborpartyjo.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.livemap-loads.com
@@ -372,6 +370,7 @@
 0.0.0.0 www.wingsaviationacademy-in.salviatech.com
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.ysbaojia.com
+0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
@@ -388,4 +387,4 @@
 0.0.0.0 zettagc.com
 0.0.0.0 zndwu.studio.lacrenshawcrossing.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 382
+# Number of entries: 381
