@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-06 04:24:26 (UTC)                      #
+# Last updated: 2025-03-06 06:20:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,6 +15,7 @@
 127.0.0.1 adf6.adf6.com
 127.0.0.1 admin.aishangzhua.com
 127.0.0.1 admin.gestroom.it
+127.0.0.1 agapi.cqjjb.cn
 127.0.0.1 agent12ai.icu
 127.0.0.1 ai-kling.online
 127.0.0.1 alephmim.com
@@ -24,9 +25,9 @@
 127.0.0.1 americanexpressloginus.com
 127.0.0.1 angela.spklove.com
 127.0.0.1 antlb0tv2.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api.accueil-coinbase.com
 127.0.0.1 api.aide-coinbase.com
-127.0.0.1 api.co-operativefinance.com
 127.0.0.1 api.ewfiles.net
 127.0.0.1 api.information-binance.com
 127.0.0.1 api.rappel-coinbase.com
@@ -111,7 +112,6 @@
 127.0.0.1 dianzanla.com
 127.0.0.1 disk.accord1key.cn
 127.0.0.1 divvanews.com
-127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.packetstormsecurity.net
 127.0.0.1 dld.jxwan.com
@@ -119,7 +119,6 @@
 127.0.0.1 dow.andylab.cn
 127.0.0.1 down.fwqlt.com
 127.0.0.1 down.gmexiochappt.com
-127.0.0.1 down.mvip8.ru
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.qqfarmer.com.cn
 127.0.0.1 download.caihong.com
@@ -175,7 +174,6 @@
 127.0.0.1 idyllsfrenchbulldogs.com
 127.0.0.1 immo-etoiles.fr
 127.0.0.1 indialign.com
-127.0.0.1 information-binance.com
 127.0.0.1 ini.sh-pp.com
 127.0.0.1 inspirepk.org
 127.0.0.1 iplogger.cn
@@ -196,6 +194,7 @@
 127.0.0.1 konceptinterior007.com
 127.0.0.1 kwuit-moci-goov-kw.com
 127.0.0.1 laborpartyjo.com
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkvilleplayers.org
 127.0.0.1 liquitydevve.online
@@ -218,7 +217,6 @@
 127.0.0.1 mertvinc.com.tr
 127.0.0.1 microsoft-analyse.com
 127.0.0.1 microsoft-auth-network.cc
-127.0.0.1 miner-tolken.com
 127.0.0.1 misano.gestroom.it
 127.0.0.1 misljen.net
 127.0.0.1 mitgpssms.com
@@ -262,7 +260,6 @@
 127.0.0.1 riverview-pools.com
 127.0.0.1 rocketibt.com
 127.0.0.1 ronnin-v2.com
-127.0.0.1 rtsfinancal.com
 127.0.0.1 rustbakingtable.com
 127.0.0.1 s02-welcome.cfd
 127.0.0.1 sales.mypetapp.co.za
@@ -362,10 +359,11 @@
 127.0.0.1 www.opolis.io
 127.0.0.1 www.qfs-securityledger.com
 127.0.0.1 www.reifenquick.de
+127.0.0.1 www.rphingenieria.com
 127.0.0.1 www.sales.mypetapp.co.za
+127.0.0.1 www.seventools.de
 127.0.0.1 www.sis.houseforma.com.br
 127.0.0.1 www.sporcketngearforu.com
-127.0.0.1 www.starcountry.net
 127.0.0.1 www.tdejb.com
 127.0.0.1 www.tecunonline.com
 127.0.0.1 www.test.peperoncinochepassione.it
@@ -389,9 +387,8 @@
 127.0.0.1 yokobd.com
 127.0.0.1 yzkzixun.com
 127.0.0.1 z.shavsl.com
-127.0.0.1 zaikacakes.org
 127.0.0.1 zamilgroups.com
 127.0.0.1 zettagc.com
 127.0.0.1 zndwu.studio.lacrenshawcrossing.com
 127.0.0.1 znrq.zifwxq.cn
-# Number of entries: 388
+# Number of entries: 385
