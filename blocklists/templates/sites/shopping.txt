@@ -11,7 +11,7 @@
 # Title: Blocks e-commerce websites and online shopping platforms (beta)
 # Description: Active, inactive, and parked domains. Blocks online shopping websites like Amazon, eBay, AliExpress, Etsy, Wish, and others.
 # Expires: 1 day
-# Count: 120887
+# Count: 120890
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
@@ -120915,3 +120915,6 @@
 0.0.0.0 ebaylive.se
 0.0.0.0 shopifyflow.se
 0.0.0.0 shopifyflows.se
+0.0.0.0 secretsynap.se
+0.0.0.0 swishevenemang.se
+0.0.0.0 shopify-flows.se
