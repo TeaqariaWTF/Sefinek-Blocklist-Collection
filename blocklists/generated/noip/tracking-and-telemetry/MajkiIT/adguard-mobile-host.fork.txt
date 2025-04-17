@@ -1,4 +1,4 @@
-#202503050303
+#202504160303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -263,6 +263,7 @@ api.sve.cc
 api.usebutton.com
 api.youngle.tech
 apis.appnxt.net
+apishow.babybus.com
 app.adjust.net.in
 app.adjust.world
 app.ssp.yahoo.com
@@ -277,6 +278,7 @@ appnext-a.akamaihd.net
 appnext.hs.llnwd.net
 appodeal.com
 appodealx.com
+apppromoteapi.babybus.com
 appsdt.com
 appserver-ap.com
 appserver-cp.com
@@ -374,6 +376,7 @@ cpmstar.com
 crispadvertising.com
 criteo.com
 criteo.net
+crossadsapi.ecomobileapp.com
 crossboardmobile.com
 crosspromo.voodoo.io
 crosspromotion-us.avosapps.us
@@ -475,7 +478,6 @@ hw-ot-ad.a.yximgs.com
 hybird.rayjump.com
 hybrid.ai
 hyperadx.com
-i-mobile.co.jp
 i-vengo.com
 i.isnssdk.com
 i.singular.net
@@ -529,6 +531,8 @@ lb.usemaxserver.de
 leadboltads.net
 leadc6.icu
 leanplum.com
+lf-static.tiktokpangle-cdn-us.com
+lgvlbd.icu
 liftoff-creatives.io
 liftoff.io
 live.hyprmx.com
@@ -594,7 +598,6 @@ mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 mydas.mobi
 n152adserv.com
-n4403ad.doubleclick.net
 nanigans.com
 nasimobi.com
 native.cli.bz
@@ -712,6 +715,7 @@ sensors.larkplayerapp.com
 servebom.com
 servedby.o2.co.uk
 serveraddr.service.kugou.com
+service-ad-image-ga.prd.pluto.tv
 sessionm.com
 setting.rayjump.com
 shareasale.com
@@ -760,7 +764,6 @@ t7z.cupid.iqiyi.com
 tap-nexus.appspot.com
 tapad.com
 tapdaq-adverts.global.ssl.fastly.net
-tapi.pureapk.com
 tapit.com
 tapjoy.com
 tapjoy.net
@@ -776,6 +779,7 @@ telemetryverification.net
 thecatmachine.com
 thetrafficstat.net
 thind-gke-euw.prd.data.corp.unity3d.com
+tiktokpangle.us
 tivan.naver.com
 tizerclik.com
 tk0x1.com
@@ -822,6 +826,7 @@ upsight.com
 usekahuna.com
 usp1.baidu.com
 v16-ad.byteoversea.com
+v8b9c0x1z2.sai7348.xyz
 velti.com
 veta.naver.com
 videoads-cloud.rovio.com
@@ -830,7 +835,6 @@ vm5apis.com
 vmap.v.ad-generation.jp
 vod-mplayer.sooplive.co.kr
 vrizead.com
-vs-api.voodoo-tech.io
 vserv.mobi
 vungle.com
 waiads.com

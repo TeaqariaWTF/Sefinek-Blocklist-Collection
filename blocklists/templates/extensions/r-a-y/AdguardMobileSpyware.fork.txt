@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 03 Mar 2025 22:00:10 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:26 +0000
 #
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 do-not-tracker.org
@@ -48,6 +48,7 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 register.appsflyersdk.com
 0.0.0.0 conversions.appsflyersdk.com
@@ -107,6 +108,25 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 apishowstats.babybus.com
+0.0.0.0 tjinit-event.babybus.com
+0.0.0.0 tjinit-global-register.babybus.com
+0.0.0.0 metrics-us.cometchat.io
+0.0.0.0 clog.weverse.io
+0.0.0.0 collection.weverse.io
+0.0.0.0 report-edge.agora.io
+0.0.0.0 pangolin-sdk-toutiao-b.com
+0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 logapi-and.zhipin.com
+0.0.0.0 hilton.data.adobedc.net
+0.0.0.0 asanalytics.booking.com
+0.0.0.0 counters.booking.com
+0.0.0.0 nr.bidderstack.com
+0.0.0.0 stbid.ru
+0.0.0.0 stat.nsc-lab.io
+0.0.0.0 cnlogs.umengcloud.com
+0.0.0.0 logservice.dbankcloud.cn
+0.0.0.0 logs.nebulahoroscope.com
 0.0.0.0 braveglobal.tv
 0.0.0.0 insights.alibaba.com
 0.0.0.0 mssdk-boot.cpacutapi.com
@@ -155,7 +175,6 @@
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 analytics.google.com
 0.0.0.0 log.pdfviewerscannerstore.live
-0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 metrics-prod.suno.com
 0.0.0.0 logs-ingress.svc.vinted.com
@@ -172,7 +191,6 @@
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 fraudmetrix.cn
-0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
 0.0.0.0 mssdk-va.byteoversea.com
@@ -436,7 +454,6 @@
 0.0.0.0 psi.lbesecapi.com
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 msg.umengcloud.com
-0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 analytics.liveact-vault.com
 0.0.0.0 dex50.deteql.net
@@ -445,7 +462,6 @@
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 t.castle.io
 0.0.0.0 bs.nakanohito.jp
-0.0.0.0 alogsus.umeng.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 crs-event.line.me
@@ -518,8 +534,6 @@
 0.0.0.0 tracking-service.glority.com
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 pingtas.qq.com
-0.0.0.0 alogus.umeng.com
-0.0.0.0 errlogos.umeng.com
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 api-analytics.prod.birdapp.com
@@ -701,7 +715,6 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 geoip.ifunny.co
-0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 4seeresults.com
 0.0.0.0 adash.m.taobao.com
@@ -709,7 +722,6 @@
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adsunflower.com
 0.0.0.0 advmob.cn
-0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 analytics.ad.daum.net
@@ -729,7 +741,6 @@
 0.0.0.0 api.gimbal.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appmetrica.yandex.com
-0.0.0.0 ar.umeng.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
@@ -770,7 +781,6 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nrc.tapas.net
-0.0.0.0 oc.umeng.com
 0.0.0.0 online-metrix.net
 0.0.0.0 openstat.net
 0.0.0.0 pingma.qq.com

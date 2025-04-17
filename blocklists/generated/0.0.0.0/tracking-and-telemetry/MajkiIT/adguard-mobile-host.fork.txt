@@ -1,4 +1,4 @@
-#202503050303
+#202504160303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -263,6 +263,7 @@
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.youngle.tech
 0.0.0.0 apis.appnxt.net
+0.0.0.0 apishow.babybus.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.ssp.yahoo.com
@@ -277,6 +278,7 @@
 0.0.0.0 appnext.hs.llnwd.net
 0.0.0.0 appodeal.com
 0.0.0.0 appodealx.com
+0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
@@ -374,6 +376,7 @@
 0.0.0.0 crispadvertising.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
+0.0.0.0 crossadsapi.ecomobileapp.com
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromotion-us.avosapps.us
@@ -475,7 +478,6 @@
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hyperadx.com
-0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-vengo.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 i.singular.net
@@ -529,6 +531,8 @@
 0.0.0.0 leadboltads.net
 0.0.0.0 leadc6.icu
 0.0.0.0 leanplum.com
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
+0.0.0.0 lgvlbd.icu
 0.0.0.0 liftoff-creatives.io
 0.0.0.0 liftoff.io
 0.0.0.0 live.hyprmx.com
@@ -594,7 +598,6 @@
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 mydas.mobi
 0.0.0.0 n152adserv.com
-0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 nanigans.com
 0.0.0.0 nasimobi.com
 0.0.0.0 native.cli.bz
@@ -712,6 +715,7 @@
 0.0.0.0 servebom.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 serveraddr.service.kugou.com
+0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 sessionm.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 shareasale.com
@@ -760,7 +764,6 @@
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
-0.0.0.0 tapi.pureapk.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
@@ -776,6 +779,7 @@
 0.0.0.0 thecatmachine.com
 0.0.0.0 thetrafficstat.net
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
+0.0.0.0 tiktokpangle.us
 0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tk0x1.com
@@ -822,6 +826,7 @@
 0.0.0.0 usekahuna.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 v8b9c0x1z2.sai7348.xyz
 0.0.0.0 velti.com
 0.0.0.0 veta.naver.com
 0.0.0.0 videoads-cloud.rovio.com
@@ -830,7 +835,6 @@
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vod-mplayer.sooplive.co.kr
 0.0.0.0 vrizead.com
-0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi
 0.0.0.0 vungle.com
 0.0.0.0 waiads.com

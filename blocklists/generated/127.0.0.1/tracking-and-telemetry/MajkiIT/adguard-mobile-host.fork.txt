@@ -1,4 +1,4 @@
-#202503050303
+#202504160303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -263,6 +263,7 @@
 127.0.0.1 api.usebutton.com
 127.0.0.1 api.youngle.tech
 127.0.0.1 apis.appnxt.net
+127.0.0.1 apishow.babybus.com
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
 127.0.0.1 app.ssp.yahoo.com
@@ -277,6 +278,7 @@
 127.0.0.1 appnext.hs.llnwd.net
 127.0.0.1 appodeal.com
 127.0.0.1 appodealx.com
+127.0.0.1 apppromoteapi.babybus.com
 127.0.0.1 appsdt.com
 127.0.0.1 appserver-ap.com
 127.0.0.1 appserver-cp.com
@@ -374,6 +376,7 @@
 127.0.0.1 crispadvertising.com
 127.0.0.1 criteo.com
 127.0.0.1 criteo.net
+127.0.0.1 crossadsapi.ecomobileapp.com
 127.0.0.1 crossboardmobile.com
 127.0.0.1 crosspromo.voodoo.io
 127.0.0.1 crosspromotion-us.avosapps.us
@@ -475,7 +478,6 @@
 127.0.0.1 hybird.rayjump.com
 127.0.0.1 hybrid.ai
 127.0.0.1 hyperadx.com
-127.0.0.1 i-mobile.co.jp
 127.0.0.1 i-vengo.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 i.singular.net
@@ -529,6 +531,8 @@
 127.0.0.1 leadboltads.net
 127.0.0.1 leadc6.icu
 127.0.0.1 leanplum.com
+127.0.0.1 lf-static.tiktokpangle-cdn-us.com
+127.0.0.1 lgvlbd.icu
 127.0.0.1 liftoff-creatives.io
 127.0.0.1 liftoff.io
 127.0.0.1 live.hyprmx.com
@@ -594,7 +598,6 @@
 127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
 127.0.0.1 mydas.mobi
 127.0.0.1 n152adserv.com
-127.0.0.1 n4403ad.doubleclick.net
 127.0.0.1 nanigans.com
 127.0.0.1 nasimobi.com
 127.0.0.1 native.cli.bz
@@ -712,6 +715,7 @@
 127.0.0.1 servebom.com
 127.0.0.1 servedby.o2.co.uk
 127.0.0.1 serveraddr.service.kugou.com
+127.0.0.1 service-ad-image-ga.prd.pluto.tv
 127.0.0.1 sessionm.com
 127.0.0.1 setting.rayjump.com
 127.0.0.1 shareasale.com
@@ -760,7 +764,6 @@
 127.0.0.1 tap-nexus.appspot.com
 127.0.0.1 tapad.com
 127.0.0.1 tapdaq-adverts.global.ssl.fastly.net
-127.0.0.1 tapi.pureapk.com
 127.0.0.1 tapit.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tapjoy.net
@@ -776,6 +779,7 @@
 127.0.0.1 thecatmachine.com
 127.0.0.1 thetrafficstat.net
 127.0.0.1 thind-gke-euw.prd.data.corp.unity3d.com
+127.0.0.1 tiktokpangle.us
 127.0.0.1 tivan.naver.com
 127.0.0.1 tizerclik.com
 127.0.0.1 tk0x1.com
@@ -822,6 +826,7 @@
 127.0.0.1 usekahuna.com
 127.0.0.1 usp1.baidu.com
 127.0.0.1 v16-ad.byteoversea.com
+127.0.0.1 v8b9c0x1z2.sai7348.xyz
 127.0.0.1 velti.com
 127.0.0.1 veta.naver.com
 127.0.0.1 videoads-cloud.rovio.com
@@ -830,7 +835,6 @@
 127.0.0.1 vmap.v.ad-generation.jp
 127.0.0.1 vod-mplayer.sooplive.co.kr
 127.0.0.1 vrizead.com
-127.0.0.1 vs-api.voodoo-tech.io
 127.0.0.1 vserv.mobi
 127.0.0.1 vungle.com
 127.0.0.1 waiads.com

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 05 Mar 2025 01:57:56 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:25 +0000
 #
 adx-open-service.youku.com
 ad.youku.com
@@ -85,10 +85,17 @@ deapi.sooplive.co.kr
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+apishow.babybus.com
+apppromoteapi.babybus.com
+tiktokpangle.us
+lf-static.tiktokpangle-cdn-us.com
+v8b9c0x1z2.sai7348.xyz
+lgvlbd.icu
+crossadsapi.ecomobileapp.com
+service-ad-image-ga.prd.pluto.tv
 pavoshare.com
 global-staticplat.cdn.bcebos.com
 datk.bridgeoos.com
-tapi.pureapk.com
 ads.appbundledownload.com
 san.myadssupport.com
 api.youngle.tech
@@ -145,7 +152,6 @@ ad.line-scdn.net
 splash-ad.classting.com
 ad-files.classting.com
 v16-ad.byteoversea.com
-vs-api.voodoo-tech.io
 psvpromo.psvgamestudio.com
 static.timetreeads.com
 kfvjdvjzhddhc.com
@@ -698,7 +704,6 @@ houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
 httpool.com
 huntmad.com
-i-mobile.co.jp
 i-vengo.com
 i.skimresources.com
 iad.appboy.com
@@ -753,7 +758,6 @@ mtburn.com
 mtburn.jp
 mtrcss.com
 mydas.mobi
-n4403ad.doubleclick.net
 nanigans.com
 nativex.com
 nearbyad.com

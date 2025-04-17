@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 05 Mar 2025 01:57:56 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:25 +0000
 #
 127.0.0.1 adx-open-service.youku.com
 127.0.0.1 ad.youku.com
@@ -85,10 +85,17 @@
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup-mobile.ap.yandex-net.ru
+127.0.0.1 apishow.babybus.com
+127.0.0.1 apppromoteapi.babybus.com
+127.0.0.1 tiktokpangle.us
+127.0.0.1 lf-static.tiktokpangle-cdn-us.com
+127.0.0.1 v8b9c0x1z2.sai7348.xyz
+127.0.0.1 lgvlbd.icu
+127.0.0.1 crossadsapi.ecomobileapp.com
+127.0.0.1 service-ad-image-ga.prd.pluto.tv
 127.0.0.1 pavoshare.com
 127.0.0.1 global-staticplat.cdn.bcebos.com
 127.0.0.1 datk.bridgeoos.com
-127.0.0.1 tapi.pureapk.com
 127.0.0.1 ads.appbundledownload.com
 127.0.0.1 san.myadssupport.com
 127.0.0.1 api.youngle.tech
@@ -145,7 +152,6 @@
 127.0.0.1 splash-ad.classting.com
 127.0.0.1 ad-files.classting.com
 127.0.0.1 v16-ad.byteoversea.com
-127.0.0.1 vs-api.voodoo-tech.io
 127.0.0.1 psvpromo.psvgamestudio.com
 127.0.0.1 static.timetreeads.com
 127.0.0.1 kfvjdvjzhddhc.com
@@ -698,7 +704,6 @@
 127.0.0.1 houseads.ttpsdk.info
 127.0.0.1 httpool.com
 127.0.0.1 huntmad.com
-127.0.0.1 i-mobile.co.jp
 127.0.0.1 i-vengo.com
 127.0.0.1 i.skimresources.com
 127.0.0.1 iad.appboy.com
@@ -753,7 +758,6 @@
 127.0.0.1 mtburn.jp
 127.0.0.1 mtrcss.com
 127.0.0.1 mydas.mobi
-127.0.0.1 n4403ad.doubleclick.net
 127.0.0.1 nanigans.com
 127.0.0.1 nativex.com
 127.0.0.1 nearbyad.com

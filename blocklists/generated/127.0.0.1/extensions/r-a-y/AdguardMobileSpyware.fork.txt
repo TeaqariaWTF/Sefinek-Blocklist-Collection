@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 03 Mar 2025 22:00:10 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:26 +0000
 #
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 do-not-tracker.org
@@ -48,6 +48,7 @@
 127.0.0.1 analytics-sprint.qoqa.com
 127.0.0.1 analytics.qoqa.ch
 127.0.0.1 analytics.qoqa.com
+127.0.0.1 dynamic-report-api.appsflyersdk.com
 127.0.0.1 privacy-sandbox.appsflyersdk.com
 127.0.0.1 register.appsflyersdk.com
 127.0.0.1 conversions.appsflyersdk.com
@@ -107,6 +108,25 @@
 127.0.0.1 int.vlancaa.site
 127.0.0.1 int.vlancaa.fun
 127.0.0.1 tok.vaicore.xyz
+127.0.0.1 apishowstats.babybus.com
+127.0.0.1 tjinit-event.babybus.com
+127.0.0.1 tjinit-global-register.babybus.com
+127.0.0.1 metrics-us.cometchat.io
+127.0.0.1 clog.weverse.io
+127.0.0.1 collection.weverse.io
+127.0.0.1 report-edge.agora.io
+127.0.0.1 pangolin-sdk-toutiao-b.com
+127.0.0.1 ulog-sdk.gifshow.com
+127.0.0.1 logapi-and.zhipin.com
+127.0.0.1 hilton.data.adobedc.net
+127.0.0.1 asanalytics.booking.com
+127.0.0.1 counters.booking.com
+127.0.0.1 nr.bidderstack.com
+127.0.0.1 stbid.ru
+127.0.0.1 stat.nsc-lab.io
+127.0.0.1 cnlogs.umengcloud.com
+127.0.0.1 logservice.dbankcloud.cn
+127.0.0.1 logs.nebulahoroscope.com
 127.0.0.1 braveglobal.tv
 127.0.0.1 insights.alibaba.com
 127.0.0.1 mssdk-boot.cpacutapi.com
@@ -155,7 +175,6 @@
 127.0.0.1 stats.samsungpass.com
 127.0.0.1 analytics.google.com
 127.0.0.1 log.pdfviewerscannerstore.live
-127.0.0.1 mon-boot.capcutapi.com
 127.0.0.1 mon-va-us-looki.capcutapi.com
 127.0.0.1 metrics-prod.suno.com
 127.0.0.1 logs-ingress.svc.vinted.com
@@ -172,7 +191,6 @@
 127.0.0.1 tracking.ws.eurosport.com
 127.0.0.1 analysis.polarisoffice.com
 127.0.0.1 fraudmetrix.cn
-127.0.0.1 plbslog.umeng.com
 127.0.0.1 analysys.cn
 127.0.0.1 logs.supersonic.com
 127.0.0.1 mssdk-va.byteoversea.com
@@ -436,7 +454,6 @@
 127.0.0.1 psi.lbesecapi.com
 127.0.0.1 report-ps.meettech.net
 127.0.0.1 msg.umengcloud.com
-127.0.0.1 ulogs.umeng.com
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 analytics.liveact-vault.com
 127.0.0.1 dex50.deteql.net
@@ -445,7 +462,6 @@
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 t.castle.io
 127.0.0.1 bs.nakanohito.jp
-127.0.0.1 alogsus.umeng.com
 127.0.0.1 log1.happymod.com
 127.0.0.1 log.pvpgang.com
 127.0.0.1 crs-event.line.me
@@ -518,8 +534,6 @@
 127.0.0.1 tracking-service.glority.com
 127.0.0.1 analytics-ingestion.production-public.tubi.io
 127.0.0.1 pingtas.qq.com
-127.0.0.1 alogus.umeng.com
-127.0.0.1 errlogos.umeng.com
 127.0.0.1 tenant-content.apm.appfolio-analytics.com
 127.0.0.1 log.avlyun.com
 127.0.0.1 api-analytics.prod.birdapp.com
@@ -701,7 +715,6 @@
 127.0.0.1 api.uca.cloud.unity3d.com
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 geoip.ifunny.co
-127.0.0.1 alogs.umeng.com
 127.0.0.1 alogs.umengcloud.com
 127.0.0.1 4seeresults.com
 127.0.0.1 adash.m.taobao.com
@@ -709,7 +722,6 @@
 127.0.0.1 adserver.snapads.com
 127.0.0.1 adsunflower.com
 127.0.0.1 advmob.cn
-127.0.0.1 alog.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 amp-error-reporting.appspot.com
 127.0.0.1 analytics.ad.daum.net
@@ -729,7 +741,6 @@
 127.0.0.1 api.gimbal.com
 127.0.0.1 appmetrica.yandex.net
 127.0.0.1 appmetrica.yandex.com
-127.0.0.1 ar.umeng.com
 127.0.0.1 beacon.carfax.com
 127.0.0.1 beacon.qq.com
 127.0.0.1 beacon.shazam.com
@@ -770,7 +781,6 @@
 127.0.0.1 nativesdks.mparticle.com
 127.0.0.1 nlog.droid4x.cn
 127.0.0.1 nrc.tapas.net
-127.0.0.1 oc.umeng.com
 127.0.0.1 online-metrix.net
 127.0.0.1 openstat.net
 127.0.0.1 pingma.qq.com

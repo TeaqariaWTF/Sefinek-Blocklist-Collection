@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 05 Mar 2025 01:57:56 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:25 +0000
 #
 server=/adx-open-service.youku.com/
 server=/ad.youku.com/
@@ -85,10 +85,17 @@ server=/deapi.sooplive.co.kr/
 server=/startup.mobile.yandex.net/
 server=/startup.mobile.webvisor.com/
 server=/startup-mobile.ap.yandex-net.ru/
+server=/apishow.babybus.com/
+server=/apppromoteapi.babybus.com/
+server=/tiktokpangle.us/
+server=/lf-static.tiktokpangle-cdn-us.com/
+server=/v8b9c0x1z2.sai7348.xyz/
+server=/lgvlbd.icu/
+server=/crossadsapi.ecomobileapp.com/
+server=/service-ad-image-ga.prd.pluto.tv/
 server=/pavoshare.com/
 server=/global-staticplat.cdn.bcebos.com/
 server=/datk.bridgeoos.com/
-server=/tapi.pureapk.com/
 server=/ads.appbundledownload.com/
 server=/san.myadssupport.com/
 server=/api.youngle.tech/
@@ -145,7 +152,6 @@ server=/ad.line-scdn.net/
 server=/splash-ad.classting.com/
 server=/ad-files.classting.com/
 server=/v16-ad.byteoversea.com/
-server=/vs-api.voodoo-tech.io/
 server=/psvpromo.psvgamestudio.com/
 server=/static.timetreeads.com/
 server=/kfvjdvjzhddhc.com/
@@ -698,7 +704,6 @@ server=/houseads-prod.elasticbeanstalk.com/
 server=/houseads.ttpsdk.info/
 server=/httpool.com/
 server=/huntmad.com/
-server=/i-mobile.co.jp/
 server=/i-vengo.com/
 server=/i.skimresources.com/
 server=/iad.appboy.com/
@@ -753,7 +758,6 @@ server=/mtburn.com/
 server=/mtburn.jp/
 server=/mtrcss.com/
 server=/mydas.mobi/
-server=/n4403ad.doubleclick.net/
 server=/nanigans.com/
 server=/nativex.com/
 server=/nearbyad.com/

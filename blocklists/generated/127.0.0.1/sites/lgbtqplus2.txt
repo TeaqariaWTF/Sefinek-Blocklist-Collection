@@ -11,14 +11,14 @@
 # Title: Blocks most LGBTQ+ websites, including those that promote or oppose LGBTQ+ content
 # Description: Active, inactive, and parked domains. Some of them may also share pornographic content.
 # Expires: 1 day
-# Count: 112198
+# Count: 112202
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
 # License: CC BY-NC-ND 4.0
 # Release: 127.0.0.1 before each domain
-# Version: 1741170679738
-# Last update: March 5, 2025 at 10:31 AM UTC | 2025-03-05T10:31:19.738+00:00
+# Version: 1744885802084
+# Last update: April 17, 2025 at 10:30 AM UTC | 2025-04-17T10:30:02.084+00:00
 #
 # 〢 About:
 # This file is part of the Sefinek Blocklist Collection, maintained by github.com/sefinek24.
@@ -112226,3 +112226,7 @@
 127.0.0.1 queerky.cz
 127.0.0.1 stargays.cz
 127.0.0.1 wagaya.cz
+127.0.0.1 zgayu.ee
+127.0.0.1 gejernet.se
+127.0.0.1 gaykontaktx.se
+127.0.0.1 gavlepride.se

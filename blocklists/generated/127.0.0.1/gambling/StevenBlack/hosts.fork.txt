@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 March 2025 00:23:11 (UTC)
+# Date: 12 April 2025 15:55:03 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 6,436
+# Number of unique domains: 6,490
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -16,9 +16,9 @@
 # Custom host records are listed here.
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 24 Feb 2025 14:12 UTC+7
-# Version: 2502241412
-# Blocked: 3.797 domains
+# Last modified: 09 Apr 2025 22:36 UTC+7
+# Version: 2504092236
+# Blocked: 3.851 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -28,6 +28,10 @@
 # =====================================================
 127.0.0.1 0000130.com
 127.0.0.1 0066130.com
+127.0.0.1 007win.com
+127.0.0.1 007win.org
+127.0.0.1 007win.shop
+127.0.0.1 007winand.taive.app
 127.0.0.1 009.casino
 127.0.0.1 009.com
 127.0.0.1 009songbai.com
@@ -153,6 +157,7 @@
 127.0.0.1 550004.com
 127.0.0.1 5516688.com
 127.0.0.1 5533789.com
+127.0.0.1 555win.mobi
 127.0.0.1 5566688.com
 127.0.0.1 5566688.net
 127.0.0.1 558kbet.com
@@ -322,6 +327,7 @@
 127.0.0.1 92lottery.com
 127.0.0.1 92lottery.mobi
 127.0.0.1 989bet.com
+127.0.0.1 98win.com
 127.0.0.1 9911789.com
 127.0.0.1 9966789.com
 127.0.0.1 99994y.com
@@ -349,6 +355,7 @@
 127.0.0.1 ad.giaitriwin79.club
 127.0.0.1 ad.hitgame.in
 127.0.0.1 ad.mibet.com
+127.0.0.1 ad.pagedebet.org
 127.0.0.1 ad.playhit.biz
 127.0.0.1 ad.qc789.vip
 127.0.0.1 ad.taigamengay.digital
@@ -433,6 +440,7 @@
 127.0.0.1 alo88.bet
 127.0.0.1 alo888.com
 127.0.0.1 aoays.xyz
+127.0.0.1 api-v2.zbet.tv
 127.0.0.1 api.118kbet.com
 127.0.0.1 api.11zalo.com
 127.0.0.1 api.123bhh.com
@@ -476,11 +484,13 @@
 127.0.0.1 api.nbet.vin
 127.0.0.1 api.oppa888.com
 127.0.0.1 api.oppa88888888.com
+127.0.0.1 api.red88.com
 127.0.0.1 api.red88.us
 127.0.0.1 api.red88.vin
 127.0.0.1 api.red88.vip
 127.0.0.1 api.shbet3.com
 127.0.0.1 api.shbetvv.com
+127.0.0.1 api.sky88.com
 127.0.0.1 api.sky88.fun
 127.0.0.1 api.st666.win
 127.0.0.1 api.v79top.com
@@ -493,6 +503,8 @@
 127.0.0.1 api.vnq8.com
 127.0.0.1 api.vnq8.net
 127.0.0.1 api2-gateway.go88.com
+127.0.0.1 api2.debet.uk
+127.0.0.1 api2.sin88.com
 127.0.0.1 api4.taitx1.club
 127.0.0.1 api6.taitx1.club
 127.0.0.1 apicmsdl.loc89.fun
@@ -572,6 +584,7 @@
 127.0.0.1 betlv.com
 127.0.0.1 bettingroup.net
 127.0.0.1 betvisa.com
+127.0.0.1 betvisa.dog
 127.0.0.1 betvnd.cc
 127.0.0.1 betvnd.vip
 127.0.0.1 betwinner.ng
@@ -719,6 +732,7 @@
 127.0.0.1 choi.gameb52a.me
 127.0.0.1 choi789.link
 127.0.0.1 choi99.com
+127.0.0.1 choib52.club
 127.0.0.1 choibaionlinevn.com
 127.0.0.1 choibancadoithuong.com
 127.0.0.1 choidabanh.com
@@ -756,6 +770,7 @@
 127.0.0.1 cmgw.2024xemwc.com
 127.0.0.1 cms.v79top.com
 127.0.0.1 cms.vh79.com
+127.0.0.1 cnmgb.007win.org
 127.0.0.1 comebet.xyz
 127.0.0.1 congdongmiosoioso.com
 127.0.0.1 conggiaitri.com
@@ -788,6 +803,7 @@
 127.0.0.1 cwin999.com
 127.0.0.1 d1.dabet.club
 127.0.0.1 d1.debet.info
+127.0.0.1 d1.debet.so
 127.0.0.1 d1.debet.top
 127.0.0.1 d1.debet.win
 127.0.0.1 d2.dabet.me
@@ -841,6 +857,7 @@
 127.0.0.1 dangky.go88.com
 127.0.0.1 dangky.iwin.bio
 127.0.0.1 dangky.thethaofb88.com
+127.0.0.1 dangky.thethaovb88.biz
 127.0.0.1 dangky.tysoeuro.online
 127.0.0.1 dangky388bet.xyz
 127.0.0.1 dangky789.vin
@@ -867,6 +884,7 @@
 127.0.0.1 debet.mn
 127.0.0.1 debet.moi
 127.0.0.1 debet.net
+127.0.0.1 debet.so
 127.0.0.1 debet.top
 127.0.0.1 debet.uk
 127.0.0.1 debet.us
@@ -886,6 +904,7 @@
 127.0.0.1 dk.playgem.me
 127.0.0.1 dk.sieutaixiu79.club
 127.0.0.1 dk.thethaouk88.org
+127.0.0.1 dk.thethaovin88.info
 127.0.0.1 dk.thethaovua.co
 127.0.0.1 dk.zoplay.top
 127.0.0.1 dk801.com
@@ -1247,9 +1266,11 @@
 127.0.0.1 hotlive8.vip
 127.0.0.1 hplay.fabet.me
 127.0.0.1 i.b52.club
+127.0.0.1 i.go88.com
 127.0.0.1 i.go88.org
 127.0.0.1 i.go88.top
 127.0.0.1 i.rik.vip
+127.0.0.1 i.vip79.com
 127.0.0.1 i.win79.com
 127.0.0.1 i.win79.fun
 127.0.0.1 i8bet.org
@@ -1750,10 +1771,14 @@
 127.0.0.1 kuwinvip.com
 127.0.0.1 lamgiau99.club
 127.0.0.1 ldp-sum.com
+127.0.0.1 leo88.com
+127.0.0.1 leo88.fun
+127.0.0.1 leo88.top
 127.0.0.1 lienhe22.com
 127.0.0.1 lienhe44.com
 127.0.0.1 link.vuabai9.com
 127.0.0.1 link123b.com
+127.0.0.1 link789club.click
 127.0.0.1 linkbk8.com
 127.0.0.1 linkbong88moinhat.com
 127.0.0.1 linkchuanon.com
@@ -1800,6 +1825,7 @@
 127.0.0.1 lp.sun6.win
 127.0.0.1 lp.sunwinvn.club
 127.0.0.1 lp.taiv8.top
+127.0.0.1 lp.tip88vn.me
 127.0.0.1 lp.vip79.com
 127.0.0.1 lp.vip79.vip
 127.0.0.1 lp.vip79gamebai.vip
@@ -1994,6 +2020,7 @@
 127.0.0.1 mibet.cc
 127.0.0.1 mibet.com
 127.0.0.1 mibet.mobi
+127.0.0.1 mibet.net
 127.0.0.1 mibet.win
 127.0.0.1 mibet88.com
 127.0.0.1 mibet88.win
@@ -2035,6 +2062,7 @@
 127.0.0.1 mkt.11bet.us
 127.0.0.1 mkt.debet.com
 127.0.0.1 mkt.lucky88.net
+127.0.0.1 mm99.vip
 127.0.0.1 mmwin.nearom.com
 127.0.0.1 mobi.dibongda777.com
 127.0.0.1 mobi.oleviet777.com
@@ -2131,7 +2159,9 @@
 127.0.0.1 nhatvip.us
 127.0.0.1 nnwud.com
 127.0.0.1 nohu.band
+127.0.0.1 nohu.win
 127.0.0.1 nohu35.com
+127.0.0.1 nohudoithuong.win
 127.0.0.1 nohuk8.info
 127.0.0.1 nosap.win
 127.0.0.1 nowbetvn.com
@@ -2187,6 +2217,7 @@
 127.0.0.1 p350000.com
 127.0.0.1 p38000.com
 127.0.0.1 p3vn.co
+127.0.0.1 pagedebet.org
 127.0.0.1 payment.w88bkk.com
 127.0.0.1 payment.w88club.com
 127.0.0.1 payment.w88hn.com
@@ -2282,6 +2313,7 @@
 127.0.0.1 qc.choidabanh.com
 127.0.0.1 qc.choigametip.org
 127.0.0.1 qc.conggiaitri.com
+127.0.0.1 qc.fa88.tv
 127.0.0.1 qc.gem.win
 127.0.0.1 qc.hitpro.run
 127.0.0.1 qc.mibet.com
@@ -2378,6 +2410,7 @@
 127.0.0.1 s2.sin88.biz
 127.0.0.1 s2.sin88.cc
 127.0.0.1 s2.sin88.club
+127.0.0.1 s2.sin88.com
 127.0.0.1 s26.lol
 127.0.0.1 s26bet.bet
 127.0.0.1 s26bet.ltd
@@ -2459,6 +2492,8 @@
 127.0.0.1 smart.8live.com
 127.0.0.1 smart.8live.net
 127.0.0.1 smartpay.lode88.vip
+127.0.0.1 sn1.sin88.me
+127.0.0.1 soc.sieutaixiu79.club
 127.0.0.1 soc88.com
 127.0.0.1 soc99.com
 127.0.0.1 sock.dabet.club
@@ -2469,8 +2504,10 @@
 127.0.0.1 sock.red88.us
 127.0.0.1 sock.red88.vin
 127.0.0.1 sock.red88.vip
+127.0.0.1 sock.sky88.com
 127.0.0.1 sock.sky88.fun
 127.0.0.1 sock.sky88.in
+127.0.0.1 socket.debet.so
 127.0.0.1 socket.debet.uk
 127.0.0.1 socket.debet.win
 127.0.0.1 soco88.com
@@ -2617,6 +2654,7 @@
 127.0.0.1 tai.son.club
 127.0.0.1 tai.taisum2.com
 127.0.0.1 tai.vf88.win
+127.0.0.1 tai.win79.com
 127.0.0.1 tai.win79.pro
 127.0.0.1 tai.win79.vip
 127.0.0.1 tai567live.vip
@@ -2683,6 +2721,7 @@
 127.0.0.1 taiv8.com
 127.0.0.1 taiv8.info
 127.0.0.1 taiv8.top
+127.0.0.1 taive.app
 127.0.0.1 taiwin79.win
 127.0.0.1 taixiu.taisum2.com
 127.0.0.1 taixiu.xinloiduocchua.co
@@ -2726,6 +2765,9 @@
 127.0.0.1 thethaofb88.com
 127.0.0.1 thethaofi88.com
 127.0.0.1 thethaouk88.org
+127.0.0.1 thethaova88.club
+127.0.0.1 thethaovb88.biz
+127.0.0.1 thethaovin88.info
 127.0.0.1 thethaovip.vip
 127.0.0.1 thethaovua.co
 127.0.0.1 thethaowin.net
@@ -2743,11 +2785,13 @@
 127.0.0.1 tienve.thethaofb88.com
 127.0.0.1 tin.11bet.net
 127.0.0.1 tin010.com
+127.0.0.1 tin88.top
 127.0.0.1 tin888.club
 127.0.0.1 tinbongdaw88.com
 127.0.0.1 tintuc.vlott88.com
 127.0.0.1 tip.club
 127.0.0.1 tip88.com
+127.0.0.1 tip88vn.me
 127.0.0.1 tipkeo.thethaofb88.com
 127.0.0.1 tipkeomoingay.club
 127.0.0.1 tiptoday.com
@@ -2846,6 +2890,7 @@
 127.0.0.1 v.nhat9.vip
 127.0.0.1 v111w.com
 127.0.0.1 v121w.com
+127.0.0.1 v4.vivu88.com
 127.0.0.1 v79top.com
 127.0.0.1 v7king.com
 127.0.0.1 v8.club
@@ -2864,6 +2909,7 @@
 127.0.0.1 v9jbo.com
 127.0.0.1 v9jvn.com
 127.0.0.1 v9win.com
+127.0.0.1 va88.com
 127.0.0.1 vao.luky88.me
 127.0.0.1 vao789club.win
 127.0.0.1 vaob52.click
@@ -2928,6 +2974,7 @@
 127.0.0.1 vipsodo.top
 127.0.0.1 viva88.com
 127.0.0.1 viva88.net
+127.0.0.1 vivu88.com
 127.0.0.1 vk88.com
 127.0.0.1 vlott88.com
 127.0.0.1 vn-lm.jbovietnam.com
@@ -3015,6 +3062,8 @@
 127.0.0.1 vsports88.com
 127.0.0.1 vstar79.com
 127.0.0.1 vua2.club
+127.0.0.1 vua88.app
+127.0.0.1 vua88.biz
 127.0.0.1 vua88.club
 127.0.0.1 vuabai9.com
 127.0.0.1 vuabai9vn.com
@@ -3181,11 +3230,14 @@
 127.0.0.1 wo88.ac
 127.0.0.1 wp.choigiaitri.net
 127.0.0.1 wp.debet79.info
+127.0.0.1 wp.mibet.net
 127.0.0.1 wp.nbet.vin
+127.0.0.1 wp.red88.com
 127.0.0.1 wp.red88.us
 127.0.0.1 wp.red88.vin
 127.0.0.1 wp.red88.vip
 127.0.0.1 wp.rikvip.tv
+127.0.0.1 wp.sky88.com
 127.0.0.1 wp.sky88.fun
 127.0.0.1 ww88.club
 127.0.0.1 ww88club.com
@@ -3795,6 +3847,7 @@
 127.0.0.1 xvipwin.info
 127.0.0.1 ybbbet.com
 127.0.0.1 yd88c.com
+127.0.0.1 yo88.cool
 127.0.0.1 yo88.net
 127.0.0.1 yo88.tv
 127.0.0.1 yo88.win
@@ -3806,6 +3859,7 @@
 127.0.0.1 yylive.vip
 127.0.0.1 yylive.xyz
 127.0.0.1 z1.zbet.com
+127.0.0.1 z1.zbet.tv
 127.0.0.1 z2.zbet.com
 127.0.0.1 z3.zbet.com
 127.0.0.1 z3.zbetvn.com

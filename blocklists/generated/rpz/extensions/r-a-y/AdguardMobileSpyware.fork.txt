@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025030301 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025041701 43200 3600 259200 300
   NS  localhost.
 adeventtracker.spotify.com CNAME .
 *.adeventtracker.spotify.com CNAME .
@@ -91,6 +91,8 @@ analytics.qoqa.ch CNAME .
 *.analytics.qoqa.ch CNAME .
 analytics.qoqa.com CNAME .
 *.analytics.qoqa.com CNAME .
+dynamic-report-api.appsflyersdk.com CNAME .
+*.dynamic-report-api.appsflyersdk.com CNAME .
 privacy-sandbox.appsflyersdk.com CNAME .
 *.privacy-sandbox.appsflyersdk.com CNAME .
 register.appsflyersdk.com CNAME .
@@ -209,6 +211,44 @@ int.vlancaa.fun CNAME .
 *.int.vlancaa.fun CNAME .
 tok.vaicore.xyz CNAME .
 *.tok.vaicore.xyz CNAME .
+apishowstats.babybus.com CNAME .
+*.apishowstats.babybus.com CNAME .
+tjinit-event.babybus.com CNAME .
+*.tjinit-event.babybus.com CNAME .
+tjinit-global-register.babybus.com CNAME .
+*.tjinit-global-register.babybus.com CNAME .
+metrics-us.cometchat.io CNAME .
+*.metrics-us.cometchat.io CNAME .
+clog.weverse.io CNAME .
+*.clog.weverse.io CNAME .
+collection.weverse.io CNAME .
+*.collection.weverse.io CNAME .
+report-edge.agora.io CNAME .
+*.report-edge.agora.io CNAME .
+pangolin-sdk-toutiao-b.com CNAME .
+*.pangolin-sdk-toutiao-b.com CNAME .
+ulog-sdk.gifshow.com CNAME .
+*.ulog-sdk.gifshow.com CNAME .
+logapi-and.zhipin.com CNAME .
+*.logapi-and.zhipin.com CNAME .
+hilton.data.adobedc.net CNAME .
+*.hilton.data.adobedc.net CNAME .
+asanalytics.booking.com CNAME .
+*.asanalytics.booking.com CNAME .
+counters.booking.com CNAME .
+*.counters.booking.com CNAME .
+nr.bidderstack.com CNAME .
+*.nr.bidderstack.com CNAME .
+stbid.ru CNAME .
+*.stbid.ru CNAME .
+stat.nsc-lab.io CNAME .
+*.stat.nsc-lab.io CNAME .
+cnlogs.umengcloud.com CNAME .
+*.cnlogs.umengcloud.com CNAME .
+logservice.dbankcloud.cn CNAME .
+*.logservice.dbankcloud.cn CNAME .
+logs.nebulahoroscope.com CNAME .
+*.logs.nebulahoroscope.com CNAME .
 braveglobal.tv CNAME .
 *.braveglobal.tv CNAME .
 insights.alibaba.com CNAME .
@@ -305,8 +345,6 @@ analytics.google.com CNAME .
 *.analytics.google.com CNAME .
 log.pdfviewerscannerstore.live CNAME .
 *.log.pdfviewerscannerstore.live CNAME .
-mon-boot.capcutapi.com CNAME .
-*.mon-boot.capcutapi.com CNAME .
 mon-va-us-looki.capcutapi.com CNAME .
 *.mon-va-us-looki.capcutapi.com CNAME .
 metrics-prod.suno.com CNAME .
@@ -339,8 +377,6 @@ analysis.polarisoffice.com CNAME .
 *.analysis.polarisoffice.com CNAME .
 fraudmetrix.cn CNAME .
 *.fraudmetrix.cn CNAME .
-plbslog.umeng.com CNAME .
-*.plbslog.umeng.com CNAME .
 analysys.cn CNAME .
 *.analysys.cn CNAME .
 logs.supersonic.com CNAME .
@@ -867,8 +903,6 @@ report-ps.meettech.net CNAME .
 *.report-ps.meettech.net CNAME .
 msg.umengcloud.com CNAME .
 *.msg.umengcloud.com CNAME .
-ulogs.umeng.com CNAME .
-*.ulogs.umeng.com CNAME .
 ulogs.umengcloud.com CNAME .
 *.ulogs.umengcloud.com CNAME .
 analytics.liveact-vault.com CNAME .
@@ -885,8 +919,6 @@ t.castle.io CNAME .
 *.t.castle.io CNAME .
 bs.nakanohito.jp CNAME .
 *.bs.nakanohito.jp CNAME .
-alogsus.umeng.com CNAME .
-*.alogsus.umeng.com CNAME .
 log1.happymod.com CNAME .
 *.log1.happymod.com CNAME .
 log.pvpgang.com CNAME .
@@ -1031,10 +1063,6 @@ analytics-ingestion.production-public.tubi.io CNAME .
 *.analytics-ingestion.production-public.tubi.io CNAME .
 pingtas.qq.com CNAME .
 *.pingtas.qq.com CNAME .
-alogus.umeng.com CNAME .
-*.alogus.umeng.com CNAME .
-errlogos.umeng.com CNAME .
-*.errlogos.umeng.com CNAME .
 tenant-content.apm.appfolio-analytics.com CNAME .
 *.tenant-content.apm.appfolio-analytics.com CNAME .
 log.avlyun.com CNAME .
@@ -1397,8 +1425,6 @@ resolver.gslb.mi-idc.com CNAME .
 *.resolver.gslb.mi-idc.com CNAME .
 geoip.ifunny.co CNAME .
 *.geoip.ifunny.co CNAME .
-alogs.umeng.com CNAME .
-*.alogs.umeng.com CNAME .
 alogs.umengcloud.com CNAME .
 *.alogs.umengcloud.com CNAME .
 4seeresults.com CNAME .
@@ -1413,8 +1439,6 @@ adsunflower.com CNAME .
 *.adsunflower.com CNAME .
 advmob.cn CNAME .
 *.advmob.cn CNAME .
-alog.umeng.com CNAME .
-*.alog.umeng.com CNAME .
 alog.umengcloud.com CNAME .
 *.alog.umengcloud.com CNAME .
 amp-error-reporting.appspot.com CNAME .
@@ -1453,8 +1477,6 @@ appmetrica.yandex.net CNAME .
 *.appmetrica.yandex.net CNAME .
 appmetrica.yandex.com CNAME .
 *.appmetrica.yandex.com CNAME .
-ar.umeng.com CNAME .
-*.ar.umeng.com CNAME .
 beacon.carfax.com CNAME .
 *.beacon.carfax.com CNAME .
 beacon.qq.com CNAME .
@@ -1535,8 +1557,6 @@ nlog.droid4x.cn CNAME .
 *.nlog.droid4x.cn CNAME .
 nrc.tapas.net CNAME .
 *.nrc.tapas.net CNAME .
-oc.umeng.com CNAME .
-*.oc.umeng.com CNAME .
 online-metrix.net CNAME .
 *.online-metrix.net CNAME .
 openstat.net CNAME .

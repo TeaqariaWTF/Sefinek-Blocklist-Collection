@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025030501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025041701 43200 3600 259200 300
   NS  localhost.
 animewave.se CNAME .
 *.animewave.se CNAME .
@@ -111599,3 +111599,23 @@ xhentai.cz CNAME .
 *.xhentai.cz CNAME .
 yuristy.cz CNAME .
 *.yuristy.cz CNAME .
+hentaishop.sk CNAME .
+*.hentaishop.sk CNAME .
+hentai-shop.sk CNAME .
+*.hentai-shop.sk CNAME .
+mangala.se CNAME .
+*.mangala.se CNAME .
+gyotaku.se CNAME .
+*.gyotaku.se CNAME .
+myvasochranime.sk CNAME .
+*.myvasochranime.sk CNAME .
+cosplay.ee CNAME .
+*.cosplay.ee CNAME .
+waifu.sk CNAME .
+*.waifu.sk CNAME .
+scanime.se CNAME .
+*.scanime.se CNAME .
+chibidaskennel.se CNAME .
+*.chibidaskennel.se CNAME .
+animenord.se CNAME .
+*.animenord.se CNAME .

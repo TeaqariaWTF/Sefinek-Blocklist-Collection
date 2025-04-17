@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 05 Mar 2025 01:57:56 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:25 +0000
 #
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 ad.youku.com
@@ -85,10 +85,17 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 apishow.babybus.com
+0.0.0.0 apppromoteapi.babybus.com
+0.0.0.0 tiktokpangle.us
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
+0.0.0.0 v8b9c0x1z2.sai7348.xyz
+0.0.0.0 lgvlbd.icu
+0.0.0.0 crossadsapi.ecomobileapp.com
+0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 pavoshare.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 datk.bridgeoos.com
-0.0.0.0 tapi.pureapk.com
 0.0.0.0 ads.appbundledownload.com
 0.0.0.0 san.myadssupport.com
 0.0.0.0 api.youngle.tech
@@ -145,7 +152,6 @@
 0.0.0.0 splash-ad.classting.com
 0.0.0.0 ad-files.classting.com
 0.0.0.0 v16-ad.byteoversea.com
-0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 static.timetreeads.com
 0.0.0.0 kfvjdvjzhddhc.com
@@ -698,7 +704,6 @@
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 httpool.com
 0.0.0.0 huntmad.com
-0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-vengo.com
 0.0.0.0 i.skimresources.com
 0.0.0.0 iad.appboy.com
@@ -753,7 +758,6 @@
 0.0.0.0 mtburn.jp
 0.0.0.0 mtrcss.com
 0.0.0.0 mydas.mobi
-0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 nanigans.com
 0.0.0.0 nativex.com
 0.0.0.0 nearbyad.com

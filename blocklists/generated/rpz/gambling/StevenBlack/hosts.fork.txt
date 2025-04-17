@@ -1,10 +1,18 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025030201 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025041701 43200 3600 259200 300
   NS  localhost.
 0000130.com CNAME .
 *.0000130.com CNAME .
 0066130.com CNAME .
 *.0066130.com CNAME .
+007win.com CNAME .
+*.007win.com CNAME .
+007win.org CNAME .
+*.007win.org CNAME .
+007win.shop CNAME .
+*.007win.shop CNAME .
+007winand.taive.app CNAME .
+*.007winand.taive.app CNAME .
 009.casino CNAME .
 *.009.casino CNAME .
 009.com CNAME .
@@ -255,6 +263,8 @@ $TTL 300
 *.5516688.com CNAME .
 5533789.com CNAME .
 *.5533789.com CNAME .
+555win.mobi CNAME .
+*.555win.mobi CNAME .
 5566688.com CNAME .
 *.5566688.com CNAME .
 5566688.net CNAME .
@@ -593,6 +603,8 @@ $TTL 300
 *.92lottery.mobi CNAME .
 989bet.com CNAME .
 *.989bet.com CNAME .
+98win.com CNAME .
+*.98win.com CNAME .
 9911789.com CNAME .
 *.9911789.com CNAME .
 9966789.com CNAME .
@@ -647,6 +659,8 @@ ad.hitgame.in CNAME .
 *.ad.hitgame.in CNAME .
 ad.mibet.com CNAME .
 *.ad.mibet.com CNAME .
+ad.pagedebet.org CNAME .
+*.ad.pagedebet.org CNAME .
 ad.playhit.biz CNAME .
 *.ad.playhit.biz CNAME .
 ad.qc789.vip CNAME .
@@ -815,6 +829,8 @@ alo888.com CNAME .
 *.alo888.com CNAME .
 aoays.xyz CNAME .
 *.aoays.xyz CNAME .
+api-v2.zbet.tv CNAME .
+*.api-v2.zbet.tv CNAME .
 api.118kbet.com CNAME .
 *.api.118kbet.com CNAME .
 api.11zalo.com CNAME .
@@ -901,6 +917,8 @@ api.oppa888.com CNAME .
 *.api.oppa888.com CNAME .
 api.oppa88888888.com CNAME .
 *.api.oppa88888888.com CNAME .
+api.red88.com CNAME .
+*.api.red88.com CNAME .
 api.red88.us CNAME .
 *.api.red88.us CNAME .
 api.red88.vin CNAME .
@@ -911,6 +929,8 @@ api.shbet3.com CNAME .
 *.api.shbet3.com CNAME .
 api.shbetvv.com CNAME .
 *.api.shbetvv.com CNAME .
+api.sky88.com CNAME .
+*.api.sky88.com CNAME .
 api.sky88.fun CNAME .
 *.api.sky88.fun CNAME .
 api.st666.win CNAME .
@@ -935,6 +955,10 @@ api.vnq8.net CNAME .
 *.api.vnq8.net CNAME .
 api2-gateway.go88.com CNAME .
 *.api2-gateway.go88.com CNAME .
+api2.debet.uk CNAME .
+*.api2.debet.uk CNAME .
+api2.sin88.com CNAME .
+*.api2.sin88.com CNAME .
 api4.taitx1.club CNAME .
 *.api4.taitx1.club CNAME .
 api6.taitx1.club CNAME .
@@ -1093,6 +1117,8 @@ bettingroup.net CNAME .
 *.bettingroup.net CNAME .
 betvisa.com CNAME .
 *.betvisa.com CNAME .
+betvisa.dog CNAME .
+*.betvisa.dog CNAME .
 betvnd.cc CNAME .
 *.betvnd.cc CNAME .
 betvnd.vip CNAME .
@@ -1387,6 +1413,8 @@ choi789.link CNAME .
 *.choi789.link CNAME .
 choi99.com CNAME .
 *.choi99.com CNAME .
+choib52.club CNAME .
+*.choib52.club CNAME .
 choibaionlinevn.com CNAME .
 *.choibaionlinevn.com CNAME .
 choibancadoithuong.com CNAME .
@@ -1461,6 +1489,8 @@ cms.v79top.com CNAME .
 *.cms.v79top.com CNAME .
 cms.vh79.com CNAME .
 *.cms.vh79.com CNAME .
+cnmgb.007win.org CNAME .
+*.cnmgb.007win.org CNAME .
 comebet.xyz CNAME .
 *.comebet.xyz CNAME .
 congdongmiosoioso.com CNAME .
@@ -1525,6 +1555,8 @@ d1.dabet.club CNAME .
 *.d1.dabet.club CNAME .
 d1.debet.info CNAME .
 *.d1.debet.info CNAME .
+d1.debet.so CNAME .
+*.d1.debet.so CNAME .
 d1.debet.top CNAME .
 *.d1.debet.top CNAME .
 d1.debet.win CNAME .
@@ -1631,6 +1663,8 @@ dangky.iwin.bio CNAME .
 *.dangky.iwin.bio CNAME .
 dangky.thethaofb88.com CNAME .
 *.dangky.thethaofb88.com CNAME .
+dangky.thethaovb88.biz CNAME .
+*.dangky.thethaovb88.biz CNAME .
 dangky.tysoeuro.online CNAME .
 *.dangky.tysoeuro.online CNAME .
 dangky388bet.xyz CNAME .
@@ -1683,6 +1717,8 @@ debet.moi CNAME .
 *.debet.moi CNAME .
 debet.net CNAME .
 *.debet.net CNAME .
+debet.so CNAME .
+*.debet.so CNAME .
 debet.top CNAME .
 *.debet.top CNAME .
 debet.uk CNAME .
@@ -1721,6 +1757,8 @@ dk.sieutaixiu79.club CNAME .
 *.dk.sieutaixiu79.club CNAME .
 dk.thethaouk88.org CNAME .
 *.dk.thethaouk88.org CNAME .
+dk.thethaovin88.info CNAME .
+*.dk.thethaovin88.info CNAME .
 dk.thethaovua.co CNAME .
 *.dk.thethaovua.co CNAME .
 dk.zoplay.top CNAME .
@@ -2443,12 +2481,16 @@ hplay.fabet.me CNAME .
 *.hplay.fabet.me CNAME .
 i.b52.club CNAME .
 *.i.b52.club CNAME .
+i.go88.com CNAME .
+*.i.go88.com CNAME .
 i.go88.org CNAME .
 *.i.go88.org CNAME .
 i.go88.top CNAME .
 *.i.go88.top CNAME .
 i.rik.vip CNAME .
 *.i.rik.vip CNAME .
+i.vip79.com CNAME .
+*.i.vip79.com CNAME .
 i.win79.com CNAME .
 *.i.win79.com CNAME .
 i.win79.fun CNAME .
@@ -3449,6 +3491,12 @@ lamgiau99.club CNAME .
 *.lamgiau99.club CNAME .
 ldp-sum.com CNAME .
 *.ldp-sum.com CNAME .
+leo88.com CNAME .
+*.leo88.com CNAME .
+leo88.fun CNAME .
+*.leo88.fun CNAME .
+leo88.top CNAME .
+*.leo88.top CNAME .
 lienhe22.com CNAME .
 *.lienhe22.com CNAME .
 lienhe44.com CNAME .
@@ -3457,6 +3505,8 @@ link.vuabai9.com CNAME .
 *.link.vuabai9.com CNAME .
 link123b.com CNAME .
 *.link123b.com CNAME .
+link789club.click CNAME .
+*.link789club.click CNAME .
 linkbk8.com CNAME .
 *.linkbk8.com CNAME .
 linkbong88moinhat.com CNAME .
@@ -3549,6 +3599,8 @@ lp.sunwinvn.club CNAME .
 *.lp.sunwinvn.club CNAME .
 lp.taiv8.top CNAME .
 *.lp.taiv8.top CNAME .
+lp.tip88vn.me CNAME .
+*.lp.tip88vn.me CNAME .
 lp.vip79.com CNAME .
 *.lp.vip79.com CNAME .
 lp.vip79.vip CNAME .
@@ -3937,6 +3989,8 @@ mibet.com CNAME .
 *.mibet.com CNAME .
 mibet.mobi CNAME .
 *.mibet.mobi CNAME .
+mibet.net CNAME .
+*.mibet.net CNAME .
 mibet.win CNAME .
 *.mibet.win CNAME .
 mibet88.com CNAME .
@@ -4019,6 +4073,8 @@ mkt.debet.com CNAME .
 *.mkt.debet.com CNAME .
 mkt.lucky88.net CNAME .
 *.mkt.lucky88.net CNAME .
+mm99.vip CNAME .
+*.mm99.vip CNAME .
 mmwin.nearom.com CNAME .
 *.mmwin.nearom.com CNAME .
 mobi.dibongda777.com CNAME .
@@ -4211,8 +4267,12 @@ nnwud.com CNAME .
 *.nnwud.com CNAME .
 nohu.band CNAME .
 *.nohu.band CNAME .
+nohu.win CNAME .
+*.nohu.win CNAME .
 nohu35.com CNAME .
 *.nohu35.com CNAME .
+nohudoithuong.win CNAME .
+*.nohudoithuong.win CNAME .
 nohuk8.info CNAME .
 *.nohuk8.info CNAME .
 nosap.win CNAME .
@@ -4323,6 +4383,8 @@ p38000.com CNAME .
 *.p38000.com CNAME .
 p3vn.co CNAME .
 *.p3vn.co CNAME .
+pagedebet.org CNAME .
+*.pagedebet.org CNAME .
 payment.w88bkk.com CNAME .
 *.payment.w88bkk.com CNAME .
 payment.w88club.com CNAME .
@@ -4513,6 +4575,8 @@ qc.choigametip.org CNAME .
 *.qc.choigametip.org CNAME .
 qc.conggiaitri.com CNAME .
 *.qc.conggiaitri.com CNAME .
+qc.fa88.tv CNAME .
+*.qc.fa88.tv CNAME .
 qc.gem.win CNAME .
 *.qc.gem.win CNAME .
 qc.hitpro.run CNAME .
@@ -4705,6 +4769,8 @@ s2.sin88.cc CNAME .
 *.s2.sin88.cc CNAME .
 s2.sin88.club CNAME .
 *.s2.sin88.club CNAME .
+s2.sin88.com CNAME .
+*.s2.sin88.com CNAME .
 s26.lol CNAME .
 *.s26.lol CNAME .
 s26bet.bet CNAME .
@@ -4867,6 +4933,10 @@ smart.8live.net CNAME .
 *.smart.8live.net CNAME .
 smartpay.lode88.vip CNAME .
 *.smartpay.lode88.vip CNAME .
+sn1.sin88.me CNAME .
+*.sn1.sin88.me CNAME .
+soc.sieutaixiu79.club CNAME .
+*.soc.sieutaixiu79.club CNAME .
 soc88.com CNAME .
 *.soc88.com CNAME .
 soc99.com CNAME .
@@ -4887,10 +4957,14 @@ sock.red88.vin CNAME .
 *.sock.red88.vin CNAME .
 sock.red88.vip CNAME .
 *.sock.red88.vip CNAME .
+sock.sky88.com CNAME .
+*.sock.sky88.com CNAME .
 sock.sky88.fun CNAME .
 *.sock.sky88.fun CNAME .
 sock.sky88.in CNAME .
 *.sock.sky88.in CNAME .
+socket.debet.so CNAME .
+*.socket.debet.so CNAME .
 socket.debet.uk CNAME .
 *.socket.debet.uk CNAME .
 socket.debet.win CNAME .
@@ -5183,6 +5257,8 @@ tai.taisum2.com CNAME .
 *.tai.taisum2.com CNAME .
 tai.vf88.win CNAME .
 *.tai.vf88.win CNAME .
+tai.win79.com CNAME .
+*.tai.win79.com CNAME .
 tai.win79.pro CNAME .
 *.tai.win79.pro CNAME .
 tai.win79.vip CNAME .
@@ -5315,6 +5391,8 @@ taiv8.info CNAME .
 *.taiv8.info CNAME .
 taiv8.top CNAME .
 *.taiv8.top CNAME .
+taive.app CNAME .
+*.taive.app CNAME .
 taiwin79.win CNAME .
 *.taiwin79.win CNAME .
 taixiu.taisum2.com CNAME .
@@ -5401,6 +5479,12 @@ thethaofi88.com CNAME .
 *.thethaofi88.com CNAME .
 thethaouk88.org CNAME .
 *.thethaouk88.org CNAME .
+thethaova88.club CNAME .
+*.thethaova88.club CNAME .
+thethaovb88.biz CNAME .
+*.thethaovb88.biz CNAME .
+thethaovin88.info CNAME .
+*.thethaovin88.info CNAME .
 thethaovip.vip CNAME .
 *.thethaovip.vip CNAME .
 thethaovua.co CNAME .
@@ -5435,6 +5519,8 @@ tin.11bet.net CNAME .
 *.tin.11bet.net CNAME .
 tin010.com CNAME .
 *.tin010.com CNAME .
+tin88.top CNAME .
+*.tin88.top CNAME .
 tin888.club CNAME .
 *.tin888.club CNAME .
 tinbongdaw88.com CNAME .
@@ -5445,6 +5531,8 @@ tip.club CNAME .
 *.tip.club CNAME .
 tip88.com CNAME .
 *.tip88.com CNAME .
+tip88vn.me CNAME .
+*.tip88vn.me CNAME .
 tipkeo.thethaofb88.com CNAME .
 *.tipkeo.thethaofb88.com CNAME .
 tipkeomoingay.club CNAME .
@@ -5641,6 +5729,8 @@ v111w.com CNAME .
 *.v111w.com CNAME .
 v121w.com CNAME .
 *.v121w.com CNAME .
+v4.vivu88.com CNAME .
+*.v4.vivu88.com CNAME .
 v79top.com CNAME .
 *.v79top.com CNAME .
 v7king.com CNAME .
@@ -5677,6 +5767,8 @@ v9jvn.com CNAME .
 *.v9jvn.com CNAME .
 v9win.com CNAME .
 *.v9win.com CNAME .
+va88.com CNAME .
+*.va88.com CNAME .
 vao.luky88.me CNAME .
 *.vao.luky88.me CNAME .
 vao789club.win CNAME .
@@ -5805,6 +5897,8 @@ viva88.com CNAME .
 *.viva88.com CNAME .
 viva88.net CNAME .
 *.viva88.net CNAME .
+vivu88.com CNAME .
+*.vivu88.com CNAME .
 vk88.com CNAME .
 *.vk88.com CNAME .
 vlott88.com CNAME .
@@ -5979,6 +6073,10 @@ vstar79.com CNAME .
 *.vstar79.com CNAME .
 vua2.club CNAME .
 *.vua2.club CNAME .
+vua88.app CNAME .
+*.vua88.app CNAME .
+vua88.biz CNAME .
+*.vua88.biz CNAME .
 vua88.club CNAME .
 *.vua88.club CNAME .
 vuabai9.com CNAME .
@@ -6311,8 +6409,12 @@ wp.choigiaitri.net CNAME .
 *.wp.choigiaitri.net CNAME .
 wp.debet79.info CNAME .
 *.wp.debet79.info CNAME .
+wp.mibet.net CNAME .
+*.wp.mibet.net CNAME .
 wp.nbet.vin CNAME .
 *.wp.nbet.vin CNAME .
+wp.red88.com CNAME .
+*.wp.red88.com CNAME .
 wp.red88.us CNAME .
 *.wp.red88.us CNAME .
 wp.red88.vin CNAME .
@@ -6321,6 +6423,8 @@ wp.red88.vip CNAME .
 *.wp.red88.vip CNAME .
 wp.rikvip.tv CNAME .
 *.wp.rikvip.tv CNAME .
+wp.sky88.com CNAME .
+*.wp.sky88.com CNAME .
 wp.sky88.fun CNAME .
 *.wp.sky88.fun CNAME .
 ww88.club CNAME .
@@ -6497,6 +6601,8 @@ ybbbet.com CNAME .
 *.ybbbet.com CNAME .
 yd88c.com CNAME .
 *.yd88c.com CNAME .
+yo88.cool CNAME .
+*.yo88.cool CNAME .
 yo88.tv CNAME .
 *.yo88.tv CNAME .
 yo88.win CNAME .
@@ -6515,6 +6621,8 @@ yylive.xyz CNAME .
 *.yylive.xyz CNAME .
 z1.zbet.com CNAME .
 *.z1.zbet.com CNAME .
+z1.zbet.tv CNAME .
+*.z1.zbet.tv CNAME .
 z2.zbet.com CNAME .
 *.z2.zbet.com CNAME .
 z3.zbet.com CNAME .

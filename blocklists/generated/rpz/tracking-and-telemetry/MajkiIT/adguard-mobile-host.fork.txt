@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2025030501 43200 3600 259200 300
+@ SOA localhost. root.localhost. 2025041701 43200 3600 259200 300
   NS  localhost.
 023hysj.com CNAME .
 *.023hysj.com CNAME .
@@ -513,6 +513,8 @@ api.youngle.tech CNAME .
 *.api.youngle.tech CNAME .
 apis.appnxt.net CNAME .
 *.apis.appnxt.net CNAME .
+apishow.babybus.com CNAME .
+*.apishow.babybus.com CNAME .
 app.adjust.net.in CNAME .
 *.app.adjust.net.in CNAME .
 app.adjust.world CNAME .
@@ -541,6 +543,8 @@ appodeal.com CNAME .
 *.appodeal.com CNAME .
 appodealx.com CNAME .
 *.appodealx.com CNAME .
+apppromoteapi.babybus.com CNAME .
+*.apppromoteapi.babybus.com CNAME .
 appsdt.com CNAME .
 *.appsdt.com CNAME .
 appserver-ap.com CNAME .
@@ -735,6 +739,8 @@ criteo.com CNAME .
 *.criteo.com CNAME .
 criteo.net CNAME .
 *.criteo.net CNAME .
+crossadsapi.ecomobileapp.com CNAME .
+*.crossadsapi.ecomobileapp.com CNAME .
 crossboardmobile.com CNAME .
 *.crossboardmobile.com CNAME .
 crosspromo.voodoo.io CNAME .
@@ -937,8 +943,6 @@ hybrid.ai CNAME .
 *.hybrid.ai CNAME .
 hyperadx.com CNAME .
 *.hyperadx.com CNAME .
-i-mobile.co.jp CNAME .
-*.i-mobile.co.jp CNAME .
 i-vengo.com CNAME .
 *.i-vengo.com CNAME .
 i.isnssdk.com CNAME .
@@ -1045,6 +1049,10 @@ leadc6.icu CNAME .
 *.leadc6.icu CNAME .
 leanplum.com CNAME .
 *.leanplum.com CNAME .
+lf-static.tiktokpangle-cdn-us.com CNAME .
+*.lf-static.tiktokpangle-cdn-us.com CNAME .
+lgvlbd.icu CNAME .
+*.lgvlbd.icu CNAME .
 liftoff-creatives.io CNAME .
 *.liftoff-creatives.io CNAME .
 liftoff.io CNAME .
@@ -1175,8 +1183,6 @@ mydas.mobi CNAME .
 *.mydas.mobi CNAME .
 n152adserv.com CNAME .
 *.n152adserv.com CNAME .
-n4403ad.doubleclick.net CNAME .
-*.n4403ad.doubleclick.net CNAME .
 nanigans.com CNAME .
 *.nanigans.com CNAME .
 nasimobi.com CNAME .
@@ -1411,6 +1417,8 @@ servedby.o2.co.uk CNAME .
 *.servedby.o2.co.uk CNAME .
 serveraddr.service.kugou.com CNAME .
 *.serveraddr.service.kugou.com CNAME .
+service-ad-image-ga.prd.pluto.tv CNAME .
+*.service-ad-image-ga.prd.pluto.tv CNAME .
 sessionm.com CNAME .
 *.sessionm.com CNAME .
 setting.rayjump.com CNAME .
@@ -1507,8 +1515,6 @@ tapad.com CNAME .
 *.tapad.com CNAME .
 tapdaq-adverts.global.ssl.fastly.net CNAME .
 *.tapdaq-adverts.global.ssl.fastly.net CNAME .
-tapi.pureapk.com CNAME .
-*.tapi.pureapk.com CNAME .
 tapit.com CNAME .
 *.tapit.com CNAME .
 tapjoy.com CNAME .
@@ -1539,6 +1545,8 @@ thetrafficstat.net CNAME .
 *.thetrafficstat.net CNAME .
 thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 *.thind-gke-euw.prd.data.corp.unity3d.com CNAME .
+tiktokpangle.us CNAME .
+*.tiktokpangle.us CNAME .
 tivan.naver.com CNAME .
 *.tivan.naver.com CNAME .
 tizerclik.com CNAME .
@@ -1631,6 +1639,8 @@ usp1.baidu.com CNAME .
 *.usp1.baidu.com CNAME .
 v16-ad.byteoversea.com CNAME .
 *.v16-ad.byteoversea.com CNAME .
+v8b9c0x1z2.sai7348.xyz CNAME .
+*.v8b9c0x1z2.sai7348.xyz CNAME .
 velti.com CNAME .
 *.velti.com CNAME .
 veta.naver.com CNAME .
@@ -1647,8 +1657,6 @@ vod-mplayer.sooplive.co.kr CNAME .
 *.vod-mplayer.sooplive.co.kr CNAME .
 vrizead.com CNAME .
 *.vrizead.com CNAME .
-vs-api.voodoo-tech.io CNAME .
-*.vs-api.voodoo-tech.io CNAME .
 vserv.mobi CNAME .
 *.vserv.mobi CNAME .
 vungle.com CNAME .
