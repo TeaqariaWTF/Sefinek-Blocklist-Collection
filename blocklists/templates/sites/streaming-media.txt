@@ -11,7 +11,7 @@
 # Title: Blocks streaming media platforms like YouTube, Netflix, Spotify, and others (beta)
 # Description: Active, inactive, and parked domains. Blocks websites for video and audio streaming services such as YouTube, Netflix, Spotify, Disney+, Hulu, and Twitch.
 # Expires: 1 day
-# Count: 100309
+# Count: 100313
 # Author: Sefinek (https://sefinek.net) <contact@sefinek.net>
 # Modified by: Nobody
 # Source: N/A
@@ -100337,3 +100337,7 @@
 0.0.0.0 rydestrandsforlagochbokhandel.se
 0.0.0.0 watchboks.se
 0.0.0.0 branschbolaget.se
+0.0.0.0 coachbodlund.se
+0.0.0.0 swedishboardgames.se
+0.0.0.0 voshbon.sk
+0.0.0.0 anthbot.sk
